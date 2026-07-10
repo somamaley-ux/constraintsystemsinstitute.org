@@ -643,6 +643,14 @@ h3 {
   grid-template-columns: repeat(3, minmax(0, 1fr));
 }
 
+.five-list {
+  grid-template-columns: repeat(5, minmax(0, 1fr));
+}
+
+.pair-list {
+  grid-template-columns: repeat(2, minmax(0, 1fr));
+}
+
 .nested-arc {
   margin-top: 18px;
   border-top: 1px solid rgba(216, 210, 204, 0.2);
@@ -1079,6 +1087,8 @@ h3 {
   .paper-chip-list,
   .seven-list,
   .yang-mills-list,
+  .five-list,
+  .pair-list,
   .triptych-list {
     grid-template-columns: 1fr;
   }
