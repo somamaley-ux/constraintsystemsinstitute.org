@@ -1,0 +1,69 @@
+[
+  {
+    "theme": "AASC Foundations",
+    "layman_summary": "What has to be true before a system can be coherently described, evaluated, continued, or used as a stable reference.",
+    "technical_summary": "AASC kernel, admissibility, standing, fixed-domain exhaustion, boundary-trace fixation, non-degenerate construction, and claim-standing constraints.",
+    "papers": [
+      { "title": "The Structure of Admissibility", "concept_doi": "10.5281/zenodo.19198249" },
+      { "title": "Non-Degenerate Construction and the Kernel of Admissibility", "concept_doi": "10.5281/zenodo.19324199" },
+      { "title": "A Fixed-Domain Exhaustion Theorem", "concept_doi": "10.5281/zenodo.18682423" },
+      { "title": "Claim Standing and Legitimacy", "concept_doi": "10.5281/zenodo.20312075" }
+    ]
+  },
+  {
+    "theme": "Standard Model ARC",
+    "layman_summary": "Why the Standard Model has its structural roles instead of treating the particle inventory as an arbitrary list.",
+    "technical_summary": "Carrier exhaustion, matter and gauge carriers, charge-lattice rigidity, generation cardinality, Higgs carrier standing, and cross-sector extraction.",
+    "papers": [
+      { "title": "The Standalone Standard Model Structure from First Principles", "concept_doi": "10.5281/zenodo.20305720" },
+      { "title": "The Standard Model Carrier Exhaustion Closure", "concept_doi": "10.5281/zenodo.21214336" },
+      { "title": "Generation Cardinality as a Forced Role-Occupancy Endpoint", "concept_doi": "10.5281/zenodo.21215285" },
+      { "title": "AASC Standard Model Lean Audit Release", "concept_doi": "10.5281/zenodo.21219417" }
+    ]
+  },
+  {
+    "theme": "Gravity / Quantum Unification",
+    "layman_summary": "A single constraint-language for gravity and quantum behavior, without pretending one equation does every job.",
+    "technical_summary": "Einstein and Schrodinger dynamics as minimal first-response projections of AASC standing, tied to measurement and entanglement boundary results.",
+    "papers": [
+      { "title": "Structural Unification of Gravity and Quantum Dynamics under AASC", "concept_doi": "10.5281/zenodo.21255943" },
+      { "title": "Einstein Dynamics as the Unique Minimal First-Response Metric Projection", "concept_doi": "10.5281/zenodo.20538579" },
+      { "title": "Schrodinger Dynamics as the Unique Minimal First-Response Hamiltonian Projection", "concept_doi": "10.5281/zenodo.21254589" },
+      { "title": "Admissible Record Construction in Physically Non-Selective Quantum Regimes", "concept_doi": "10.5281/zenodo.18514647" },
+      { "title": "Quantum Entanglement as Boundary-Level Compatibility", "concept_doi": "10.5281/zenodo.19401432" }
+    ]
+  },
+  {
+    "theme": "Cosmology / Constants",
+    "layman_summary": "Which parts of physics are invariant and which parts are created by coordinates, units, transport choices, or descriptive bookkeeping.",
+    "technical_summary": "Metricity as licensed description, null causal structure as invariant, Hubble transport closure, dark-sector classification, and vacuum-energy non-predictivity.",
+    "papers": [
+      { "title": "Metricity as Licensed Description", "concept_doi": "10.5281/zenodo.20338474" },
+      { "title": "Null Propagation as the Causal-Limit Invariant", "concept_doi": "10.5281/zenodo.18582766" },
+      { "title": "Transport Closure in Cosmological Inference and the Hubble Tension", "concept_doi": "10.5281/zenodo.19929268" },
+      { "title": "The Dark Sector as a Classification Error", "concept_doi": "10.5281/zenodo.18522019" }
+    ]
+  },
+  {
+    "theme": "Millennium / Mathematics",
+    "layman_summary": "The most theorem-facing part of the archive, pairing mathematical proof programs with explicit formal audit surfaces.",
+    "technical_summary": "Yang-Mills mass-gap packages, endpoint well-definedness, local-net and certificate surfaces, Sunflower transfer, and closure-by-exhaustion.",
+    "papers": [
+      { "title": "Vacuum-Sector Mass Gap for the Sharp-Local Yang-Mills Net", "concept_doi": "10.5281/zenodo.19492854" },
+      { "title": "Admissibility and the Well-Definedness of Yang-Mills Endpoint Constructions", "concept_doi": "10.5281/zenodo.19646301" },
+      { "title": "Sunflower Endpoint Rigidity and Kernel-Forced AASC Transfer", "concept_doi": "10.5281/zenodo.21242672" },
+      { "title": "Closure by Exhaustion for Same-Scope Operators under Admissibility", "concept_doi": "10.5281/zenodo.19183407" }
+    ]
+  },
+  {
+    "theme": "Governance / Mind / AI",
+    "layman_summary": "When claims, agents, institutions, and descriptions have enough standing to be evaluated without hidden authority.",
+    "technical_summary": "Artificial epistemic agents, governance-first architectures, legal claim-status warrants, and coherent evaluability under admissibility constraints.",
+    "papers": [
+      { "title": "Claim Standing and Legitimacy", "concept_doi": "10.5281/zenodo.20312075" },
+      { "title": "Governance-First Architecture for Artificial Intelligence", "concept_doi": "10.5281/zenodo.18522263" },
+      { "title": "Standing Preserving Admissibility Conditions for Artificial Epistemic Agents", "concept_doi": "10.5281/zenodo.18521955" },
+      { "title": "Constraint Architectures for Coherent Evaluability", "concept_doi": "10.5281/zenodo.18628354" }
+    ]
+  }
+]

@@ -1,0 +1,762 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>Constraint Systems Institute</title>
+    <meta
+      name="description"
+      content="Constraint Systems Institute is a repository for theoretical research, manuscripts, Lean 4 formalisation projects, and audit-ready release archives."
+    />
+    <link rel="stylesheet" href="styles.css" />
+  </head>
+  <body>
+    <header class="site-header">
+      <a class="brand" href="#top" aria-label="Constraint Systems Institute home">
+        <span class="brand-mark" aria-hidden="true"></span>
+        <span>Constraint Systems<br />Institute</span>
+      </a>
+      <nav class="nav" aria-label="Primary navigation">
+        <a href="#manuscripts">Manuscripts</a>
+        <a href="#lean">Lean 4</a>
+        <a href="#archive">Archive</a>
+        <a href="#contact">Contact</a>
+      </nav>
+    </header>
+
+    <main id="top">
+      <section class="hero" aria-labelledby="hero-title">
+        <div class="banner-ornament" aria-hidden="true">
+          <img src="assets/banner.jpg" alt="" />
+        </div>
+        <div class="hero-copy">
+          <p class="eyebrow">constraintsystemsinstitute.org</p>
+          <h1 id="hero-title">A research archive for constraint systems, manuscripts, and Lean 4 formalisation.</h1>
+          <p class="hero-text">
+            Constraint Systems Institute collects theoretical work on constraint systems,
+            governance layers, admissibility, and formal verification: readable manuscripts
+            alongside Lean 4 projects that make selected structures audit-ready.
+          </p>
+          <div class="hero-actions">
+            <a class="button primary" href="#manuscripts">Browse manuscripts</a>
+            <a class="button secondary" href="#lean">View Lean 4 projects</a>
+          </div>
+        </div>
+        <div class="hero-panel" aria-label="Constraint Systems Institute seal and highlights">
+          <img class="seal-image" src="assets/constraint-seal.png" alt="" />
+          <div class="signal-card large">
+            <p>Repository focus</p>
+            <strong>Manuscript claims paired with explicit formal boundaries.</strong>
+          </div>
+          <div class="mini-grid">
+            <div class="signal-card">
+              <p>Primary media</p>
+              <strong>Papers</strong>
+            </div>
+            <div class="signal-card">
+              <p>Formal layer</p>
+              <strong>Lean 4</strong>
+            </div>
+          </div>
+        </div>
+      </section>
+
+      <section class="section" id="manuscripts" aria-labelledby="manuscripts-title">
+        <div class="section-heading">
+          <p class="eyebrow">Manuscript Repository</p>
+          <h2 id="manuscripts-title">Theoretical research organized as readable papers with clear proof surfaces.</h2>
+        </div>
+        <div class="cards">
+          <article class="card">
+            <span class="card-number">01</span>
+            <h3>Theory manuscripts</h3>
+            <p>Primary papers presenting constraint-system arguments, endpoint principles, governance layers, and domain applications.</p>
+          </article>
+          <article class="card">
+            <span class="card-number">02</span>
+            <h3>Source bundles</h3>
+            <p>Publication snapshots may include PDFs, TeX sources, notes, manifests, status files, and supporting audit material.</p>
+          </article>
+          <article class="card">
+            <span class="card-number">03</span>
+            <h3>Claim boundaries</h3>
+            <p>Each research line should distinguish the manuscript argument, formalized surface, assumed bridge, and open burden.</p>
+          </article>
+        </div>
+        <div class="research-arcs" aria-labelledby="arcs-title">
+          <div class="section-heading">
+            <p class="eyebrow">Major Research Arcs</p>
+            <h2 id="arcs-title">The archive is organized by research families, not only by upload date.</h2>
+          </div>
+          <div class="arc-grid">
+            <article class="arc-card featured-arc">
+              <p class="repo-type">AASC Foundations</p>
+              <h3>Admissibility, standing, and non-degenerate construction</h3>
+              <p class="plain">
+                Plainly: this arc asks what must already be true for any coherent system to count as a stable
+                object of reasoning, measurement, continuation, or reference.
+              </p>
+              <p class="technical">
+                Technically: it develops the AASC kernel, standing/admissibility identity, fixed-domain exhaustion,
+                boundary-trace fixation, non-degenerate construction, and claim-standing constraints.
+              </p>
+              <div class="arc-links">
+                <a href="https://doi.org/10.5281/zenodo.19198249">The Structure of Admissibility</a>
+                <a href="https://doi.org/10.5281/zenodo.19324199">Non-Degenerate Construction</a>
+                <a href="https://doi.org/10.5281/zenodo.18682423">Fixed-Domain Exhaustion</a>
+                <a href="https://doi.org/10.5281/zenodo.20312075">Claim Standing</a>
+              </div>
+            </article>
+
+            <article class="arc-card">
+              <p class="repo-type">Standard Model ARC</p>
+              <h3>Carrier exhaustion, generations, gauge roles, and residual parameters</h3>
+              <p class="plain">
+                Plainly: this family tries to explain why the Standard Model has the structural roles it has,
+                instead of treating its carrier inventory as an arbitrary list.
+              </p>
+              <p class="technical">
+                Technically: it treats particles, fields, gauge carriers, matter carriers, charge-lattice rigidity,
+                generation cardinality, Higgs carrier standing, and cross-sector extraction as constrained endpoints.
+              </p>
+              <div class="arc-links">
+                <a href="https://doi.org/10.5281/zenodo.20305720">Standalone Standard Model</a>
+                <a href="https://doi.org/10.5281/zenodo.21214336">Carrier Exhaustion Closure</a>
+                <a href="https://doi.org/10.5281/zenodo.21215285">Generation Cardinality Endpoint</a>
+                <a href="https://doi.org/10.5281/zenodo.21219417">Lean Audit Release</a>
+              </div>
+            </article>
+
+            <article class="arc-card">
+              <p class="repo-type">Gravity / Quantum Unification</p>
+              <h3>Einstein response, Schrodinger response, measurement, and entanglement</h3>
+              <p class="plain">
+                Plainly: this arc tries to place gravity and quantum behavior under one constraint-language,
+                without pretending the same equation is doing every job.
+              </p>
+              <p class="technical">
+                Technically: it treats Einstein dynamics and Schrodinger dynamics as minimal first-response
+                projections of AASC standing, then connects those projections to measurement and entanglement boundaries.
+              </p>
+              <div class="arc-links">
+                <a href="https://doi.org/10.5281/zenodo.21255943">Structural Unification</a>
+                <a href="https://doi.org/10.5281/zenodo.20538579">Einstein Dynamics</a>
+                <a href="https://doi.org/10.5281/zenodo.21254589">Schrodinger Dynamics</a>
+                <a href="https://doi.org/10.5281/zenodo.18514647">Measurement Problem</a>
+                <a href="https://doi.org/10.5281/zenodo.19401432">Entanglement Compatibility</a>
+              </div>
+            </article>
+
+            <article class="arc-card">
+              <p class="repo-type">Cosmology / Constants</p>
+              <h3>Metricity, null propagation, Hubble transport, vacuum energy, and dark-sector classification</h3>
+              <p class="plain">
+                Plainly: this family separates what is physically invariant from what is introduced by coordinates,
+                units, transport choices, or descriptive bookkeeping.
+              </p>
+              <p class="technical">
+                Technically: it treats metric structure as licensed description, null causal structure as invariant,
+                and cosmological parameter comparison as transport-dependent rather than automatically same-scope.
+              </p>
+              <div class="arc-links">
+                <a href="https://doi.org/10.5281/zenodo.20338474">Metricity as Licensed Description</a>
+                <a href="https://doi.org/10.5281/zenodo.18582766">Null Propagation</a>
+                <a href="https://doi.org/10.5281/zenodo.19929268">Hubble Transport</a>
+                <a href="https://doi.org/10.5281/zenodo.18522019">Dark Sector Classification</a>
+              </div>
+            </article>
+
+            <article class="arc-card">
+              <p class="repo-type">Millennium / Mathematics</p>
+              <h3>Yang-Mills, endpoint audits, operator closure, and theorem-routing surfaces</h3>
+              <p class="plain">
+                Plainly: these papers and Lean projects are the most theorem-facing part of the archive,
+                pairing mathematical proof programs with explicit formal audit surfaces.
+              </p>
+              <p class="technical">
+                Technically: this arc includes Yang-Mills mass-gap packages, endpoint well-definedness,
+                local-net/certificate surfaces, closure-by-exhaustion, Sunflower endpoint transfer, and other audit archives.
+              </p>
+              <div class="arc-links">
+                <a href="https://doi.org/10.5281/zenodo.19492854">Yang-Mills Mass Gap</a>
+                <a href="https://doi.org/10.5281/zenodo.19646301">Yang-Mills Endpoint Constructions</a>
+                <a href="https://doi.org/10.5281/zenodo.21242672">Sunflower Endpoint</a>
+                <a href="https://doi.org/10.5281/zenodo.19183407">Closure by Exhaustion</a>
+              </div>
+            </article>
+
+            <article class="arc-card">
+              <p class="repo-type">Governance / Mind / AI</p>
+              <h3>Artificial agents, legal standing, institutional stability, and coherent evaluability</h3>
+              <p class="plain">
+                Plainly: this arc asks when claims, agents, institutions, and descriptions have enough standing
+                to be evaluated without smuggling in a hidden authority.
+              </p>
+              <p class="technical">
+                Technically: it applies admissibility and standing constraints to artificial epistemic agents,
+                governance-first architectures, legal claim-status warrants, and coherent evaluability.
+              </p>
+              <div class="arc-links">
+                <a href="https://doi.org/10.5281/zenodo.20312075">Claim Standing and Legitimacy</a>
+                <a href="https://doi.org/10.5281/zenodo.18522263">Governance-First AI</a>
+                <a href="https://doi.org/10.5281/zenodo.18521955">Artificial Epistemic Agents</a>
+                <a href="https://doi.org/10.5281/zenodo.18628354">Coherent Evaluability</a>
+              </div>
+            </article>
+          </div>
+        </div>
+        <div class="themed-shelves" aria-labelledby="shelves-title">
+          <div class="section-heading">
+            <p class="eyebrow">Themed Manuscript Shelves</p>
+            <h2 id="shelves-title">Major anchors first, supporting papers kept with their arc.</h2>
+          </div>
+
+          <details class="shelf" open>
+            <summary>AASC Foundations</summary>
+            <div class="shelf-body">
+              <article class="anchor-paper">
+                <p class="repo-type">Major Anchor</p>
+                <h3>The Structure of Admissibility</h3>
+                <p class="plain">Plainly: this is the entry point for the whole framework, setting out why admissibility and standing come before downstream theory choice.</p>
+                <p class="technical">Technically: it establishes the formalism-building layer for AASC, including the conditions under which a construction can be non-degenerate, stable, and evaluable.</p>
+                <a href="https://doi.org/10.5281/zenodo.19198249">10.5281/zenodo.19198249</a>
+              </article>
+              <div class="shelf-links">
+                <a href="https://doi.org/10.5281/zenodo.19324199">Non-Degenerate Construction and the Kernel of Admissibility</a>
+                <a href="https://doi.org/10.5281/zenodo.18682423">A Fixed-Domain Exhaustion Theorem</a>
+                <a href="https://doi.org/10.5281/zenodo.18678041">Anchor, Tensor, and Skin</a>
+                <a href="https://doi.org/10.5281/zenodo.19988044">Boundary-Trace Fixation under Admissibility</a>
+                <a href="https://doi.org/10.5281/zenodo.20085938">Constraint-Bundle Forcing</a>
+              </div>
+            </div>
+          </details>
+
+          <details class="shelf" open>
+            <summary>Standard Model ARC</summary>
+            <div class="shelf-body">
+              <article class="anchor-paper">
+                <p class="repo-type">Major Anchor</p>
+                <h3>The Standalone Standard Model Structure from First Principles</h3>
+                <p class="plain">Plainly: this arc tries to explain why the Standard Model's structural roles appear as forced positions rather than a hand-entered catalogue.</p>
+                <p class="technical">Technically: it treats carrier roles, gauge and matter sectors, generation count, Higgs standing, charge lattice rigidity, and residual parameters through AASC endpoint constraints.</p>
+                <a href="https://doi.org/10.5281/zenodo.20305720">10.5281/zenodo.20305720</a>
+              </article>
+              <div class="shelf-links">
+                <a href="https://doi.org/10.5281/zenodo.21214336">The Standard Model Carrier Exhaustion Closure</a>
+                <a href="https://doi.org/10.5281/zenodo.21213753">Matter Carriers</a>
+                <a href="https://doi.org/10.5281/zenodo.21213644">Gauge Carriers</a>
+                <a href="https://doi.org/10.5281/zenodo.21215285">Generation Cardinality Endpoint</a>
+                <a href="https://doi.org/10.5281/zenodo.20363180">Cross-Sector Extraction</a>
+                <a href="https://doi.org/10.5281/zenodo.20996439">The Higgs Bridge Carrier</a>
+              </div>
+            </div>
+          </details>
+
+          <details class="shelf" open>
+            <summary>Gravity / Quantum Unification</summary>
+            <div class="shelf-body">
+              <article class="anchor-paper">
+                <p class="repo-type">Major Anchor</p>
+                <h3>Structural Unification of Gravity and Quantum Dynamics under AASC</h3>
+                <p class="plain">Plainly: this is the synthesis layer, showing how gravity-like and quantum-like descriptions can be placed under a shared constraint discipline.</p>
+                <p class="technical">Technically: it coordinates Einstein first-response metric projection, Schrodinger first-response Hamiltonian projection, measurement/reference construction, and entanglement compatibility under AASC standing.</p>
+                <a href="https://doi.org/10.5281/zenodo.21255943">10.5281/zenodo.21255943</a>
+              </article>
+              <div class="shelf-links">
+                <a href="https://doi.org/10.5281/zenodo.20538579">Einstein Dynamics</a>
+                <a href="https://doi.org/10.5281/zenodo.21254589">Schrodinger Dynamics</a>
+                <a href="https://doi.org/10.5281/zenodo.18514647">Measurement Problem</a>
+                <a href="https://doi.org/10.5281/zenodo.19401432">Quantum Entanglement</a>
+                <a href="https://doi.org/10.5281/zenodo.18620373">Hilbert Geometry and Schrodinger-Form Dynamics</a>
+              </div>
+            </div>
+          </details>
+
+          <details class="shelf">
+            <summary>Cosmology / Constants</summary>
+            <div class="shelf-body">
+              <article class="anchor-paper">
+                <p class="repo-type">Major Anchor</p>
+                <h3>Metricity as Licensed Description</h3>
+                <p class="plain">Plainly: this shelf separates the underlying invariant structure from the measurements, units, and coordinates used to describe it.</p>
+                <p class="technical">Technically: it treats metricity, null causal structure, vacuum-energy non-predictivity, Hubble transport, dark-sector classification, and parameter fixity as standing-sensitive descriptions.</p>
+                <a href="https://doi.org/10.5281/zenodo.20338474">10.5281/zenodo.20338474</a>
+              </article>
+              <div class="shelf-links">
+                <a href="https://doi.org/10.5281/zenodo.18582766">Null Propagation</a>
+                <a href="https://doi.org/10.5281/zenodo.19929268">Hubble Transport Closure</a>
+                <a href="https://doi.org/10.5281/zenodo.18522019">The Dark Sector as a Classification Error</a>
+                <a href="https://doi.org/10.5281/zenodo.20042236">Zero-Point Vacuum Energy</a>
+                <a href="https://doi.org/10.5281/zenodo.20118354">Classification Theorem for Physical Constants</a>
+              </div>
+            </div>
+          </details>
+
+          <details class="shelf">
+            <summary>Millennium / Mathematics</summary>
+            <div class="shelf-body">
+              <article class="anchor-paper">
+                <p class="repo-type">Major Anchor</p>
+                <h3>Vacuum-sector mass gap for the local gauge-invariant sharp-local Yang-Mills net</h3>
+                <p class="plain">Plainly: this shelf contains the theorem-facing and formal-audit work, where manuscript claims are paired with explicit proof surfaces and Lean releases.</p>
+                <p class="technical">Technically: it covers Yang-Mills mass-gap packages, endpoint well-definedness, proof-routing and certificate layers, Sunflower endpoint transfer, and same-scope closure by exhaustion.</p>
+                <a href="https://doi.org/10.5281/zenodo.19492854">10.5281/zenodo.19492854</a>
+              </article>
+              <div class="shelf-links">
+                <a href="https://doi.org/10.5281/zenodo.19646301">Yang-Mills Endpoint Constructions</a>
+                <a href="https://doi.org/10.5281/zenodo.20523055">Yang-Mills Lean Audit</a>
+                <a href="https://doi.org/10.5281/zenodo.21242672">Sunflower Endpoint</a>
+                <a href="https://doi.org/10.5281/zenodo.19183407">Closure by Exhaustion</a>
+                <a href="https://doi.org/10.5281/zenodo.20545179">Poincare Endpoint</a>
+              </div>
+            </div>
+          </details>
+
+          <details class="shelf">
+            <summary>Governance / Mind / AI</summary>
+            <div class="shelf-body">
+              <article class="anchor-paper">
+                <p class="repo-type">Major Anchor</p>
+                <h3>Claim Standing and Legitimacy</h3>
+                <p class="plain">Plainly: this shelf asks when a claim, agent, institution, or model has the standing needed to be evaluated honestly.</p>
+                <p class="technical">Technically: it applies admissibility and standing to artificial epistemic agents, governance-first architectures, legal claim-status warrant, and coherent evaluability.</p>
+                <a href="https://doi.org/10.5281/zenodo.20312075">10.5281/zenodo.20312075</a>
+              </article>
+              <div class="shelf-links">
+                <a href="https://doi.org/10.5281/zenodo.18522263">Governance-First AI</a>
+                <a href="https://doi.org/10.5281/zenodo.18521955">Artificial Epistemic Agents</a>
+                <a href="https://doi.org/10.5281/zenodo.18628354">Coherent Evaluability</a>
+                <a href="https://doi.org/10.5281/zenodo.20449059">No Legal Claim Beyond Its Carrier</a>
+              </div>
+            </div>
+          </details>
+        </div>
+        <div class="zenodo-panel" aria-labelledby="zenodo-title">
+          <div class="section-heading">
+            <p class="eyebrow">Zenodo DOI Index</p>
+            <h2 id="zenodo-title">Recent manuscripts and archive records, linked by all-version DOI.</h2>
+          </div>
+          <div class="doi-list">
+            <article class="doi-card highlight-doi">
+              <div>
+                <p class="repo-type">Unification Arc</p>
+                <h3>Structural Unification of Gravity and Quantum Dynamics under AASC</h3>
+                <p>
+                  Culminating AASC unification manuscript connecting kernel, gravity, Einstein dynamics,
+                  Schrodinger dynamics, measurement/reference, and structural integration layers.
+                </p>
+              </div>
+              <dl>
+                <div>
+                  <dt>All-version DOI</dt>
+                  <dd><a href="https://doi.org/10.5281/zenodo.21255943">10.5281/zenodo.21255943</a></dd>
+                </div>
+                <div>
+                  <dt>Latest fetched version</dt>
+                  <dd><a href="https://zenodo.org/records/21255944">10.5281/zenodo.21255944</a></dd>
+                </div>
+              </dl>
+            </article>
+
+            <article class="doi-card">
+              <div>
+                <p class="repo-type">Measurement</p>
+                <h3>Measurement Problem Reference v0.9.0</h3>
+                <p>Completed finite measurement boundary stack with Lean modules, theorem surface, and audit manifest.</p>
+              </div>
+              <dl>
+                <div>
+                  <dt>All-version DOI</dt>
+                  <dd><a href="https://doi.org/10.5281/zenodo.19542014">10.5281/zenodo.19542014</a></dd>
+                </div>
+                <div>
+                  <dt>Latest fetched version</dt>
+                  <dd><a href="https://zenodo.org/records/21289427">10.5281/zenodo.21289427</a></dd>
+                </div>
+              </dl>
+            </article>
+
+            <article class="doi-card">
+              <div>
+                <p class="repo-type">Quantum</p>
+                <h3>Quantum Entanglement Boundary Compatibility v0.8.2</h3>
+                <p>Manuscript and repository synchronization after the derived-dynamics Lean deepening.</p>
+              </div>
+              <dl>
+                <div>
+                  <dt>All-version DOI</dt>
+                  <dd><a href="https://doi.org/10.5281/zenodo.21287887">10.5281/zenodo.21287887</a></dd>
+                </div>
+                <div>
+                  <dt>Latest fetched version</dt>
+                  <dd><a href="https://zenodo.org/records/21288422">10.5281/zenodo.21288422</a></dd>
+                </div>
+              </dl>
+            </article>
+
+            <article class="doi-card">
+              <div>
+                <p class="repo-type">Dynamics</p>
+                <h3>Schrodinger Dynamics as the Unique Minimal First-Response Hamiltonian Projection</h3>
+                <p>Derives closed autonomous scalar nonrelativistic Schrodinger dynamics as a minimal same-scope projection.</p>
+              </div>
+              <dl>
+                <div>
+                  <dt>All-version DOI</dt>
+                  <dd><a href="https://doi.org/10.5281/zenodo.21254589">10.5281/zenodo.21254589</a></dd>
+                </div>
+                <div>
+                  <dt>Latest fetched version</dt>
+                  <dd><a href="https://zenodo.org/records/21254590">10.5281/zenodo.21254590</a></dd>
+                </div>
+              </dl>
+            </article>
+
+            <article class="doi-card">
+              <div>
+                <p class="repo-type">Gravity</p>
+                <h3>Einstein Dynamics as the Unique Minimal First-Response Metric Projection</h3>
+                <p>Same-scope curvature-response exhaustion theorem from admissibility, standing, and source continuation.</p>
+              </div>
+              <dl>
+                <div>
+                  <dt>All-version DOI</dt>
+                  <dd><a href="https://doi.org/10.5281/zenodo.20538579">10.5281/zenodo.20538579</a></dd>
+                </div>
+                <div>
+                  <dt>Latest fetched version</dt>
+                  <dd><a href="https://zenodo.org/records/21252204">10.5281/zenodo.21252204</a></dd>
+                </div>
+              </dl>
+            </article>
+
+            <article class="doi-card">
+              <div>
+                <p class="repo-type">Combinatorics</p>
+                <h3>Sunflower Endpoint Rigidity and Kernel-Forced AASC Transfer</h3>
+                <p>Manuscript developing an AASC endpoint-transfer treatment of the Erdos-Rado sunflower endpoint.</p>
+              </div>
+              <dl>
+                <div>
+                  <dt>All-version DOI</dt>
+                  <dd><a href="https://doi.org/10.5281/zenodo.21242672">10.5281/zenodo.21242672</a></dd>
+                </div>
+                <div>
+                  <dt>Latest fetched version</dt>
+                  <dd><a href="https://zenodo.org/records/21242673">10.5281/zenodo.21242673</a></dd>
+                </div>
+              </dl>
+            </article>
+          </div>
+          <p class="doi-note">
+            DOI data was fetched from the authenticated Zenodo API. The all-version DOI is the preferred citation
+            target because it resolves to the latest version of each record.
+            The recent API export is available as <a href="data/zenodo-recent-records.json">JSON</a>
+            and <a href="data/zenodo-recent-records.csv">CSV</a>.
+          </p>
+        </div>
+        <div class="major-papers" aria-labelledby="major-papers-title">
+          <div class="section-heading">
+            <p class="eyebrow">Major Paper Catalogue</p>
+            <h2 id="major-papers-title">A broader spine of major manuscripts across the archive.</h2>
+          </div>
+          <div class="paper-table" role="list">
+            <a role="listitem" href="https://doi.org/10.5281/zenodo.21255943">
+              <span>Structural Unification of Gravity and Quantum Dynamics under AASC</span>
+              <strong>10.5281/zenodo.21255943</strong>
+            </a>
+            <a role="listitem" href="https://doi.org/10.5281/zenodo.20305720">
+              <span>The Standalone Standard Model Structure from First Principles</span>
+              <strong>10.5281/zenodo.20305720</strong>
+            </a>
+            <a role="listitem" href="https://doi.org/10.5281/zenodo.20363180">
+              <span>Cross-Sector Extraction after the Standalone Standard Model Derivation</span>
+              <strong>10.5281/zenodo.20363180</strong>
+            </a>
+            <a role="listitem" href="https://doi.org/10.5281/zenodo.19324199">
+              <span>Non-Degenerate Construction and the Kernel of Admissibility</span>
+              <strong>10.5281/zenodo.19324199</strong>
+            </a>
+            <a role="listitem" href="https://doi.org/10.5281/zenodo.19198249">
+              <span>The Structure of Admissibility</span>
+              <strong>10.5281/zenodo.19198249</strong>
+            </a>
+            <a role="listitem" href="https://doi.org/10.5281/zenodo.18682423">
+              <span>A Fixed-Domain Exhaustion Theorem</span>
+              <strong>10.5281/zenodo.18682423</strong>
+            </a>
+            <a role="listitem" href="https://doi.org/10.5281/zenodo.18582766">
+              <span>Null Propagation as the Causal-Limit Invariant</span>
+              <strong>10.5281/zenodo.18582766</strong>
+            </a>
+            <a role="listitem" href="https://doi.org/10.5281/zenodo.20312075">
+              <span>Claim Standing and Legitimacy</span>
+              <strong>10.5281/zenodo.20312075</strong>
+            </a>
+            <a role="listitem" href="https://doi.org/10.5281/zenodo.20277902">
+              <span>Non-Instantiability of Godel Incompleteness in the Unique Admissible Interior</span>
+              <strong>10.5281/zenodo.20277902</strong>
+            </a>
+            <a role="listitem" href="https://doi.org/10.5281/zenodo.20129729">
+              <span>The Realized Physical Interior under AASC</span>
+              <strong>10.5281/zenodo.20129729</strong>
+            </a>
+            <a role="listitem" href="https://doi.org/10.5281/zenodo.20129710">
+              <span>Time and Causality from Irreversible Continuation Ordering</span>
+              <strong>10.5281/zenodo.20129710</strong>
+            </a>
+            <a role="listitem" href="https://doi.org/10.5281/zenodo.20129656">
+              <span>Vacuum as Minimal Concrete Persistence Regime</span>
+              <strong>10.5281/zenodo.20129656</strong>
+            </a>
+            <a role="listitem" href="https://doi.org/10.5281/zenodo.20129616">
+              <span>Mass, Inertia, and Persistence Compression</span>
+              <strong>10.5281/zenodo.20129616</strong>
+            </a>
+            <a role="listitem" href="https://doi.org/10.5281/zenodo.20129593">
+              <span>Gauge Structure from Boundary-Trace Fixation</span>
+              <strong>10.5281/zenodo.20129593</strong>
+            </a>
+            <a role="listitem" href="https://doi.org/10.5281/zenodo.20129538">
+              <span>Particles as Localized Persistence Classes</span>
+              <strong>10.5281/zenodo.20129538</strong>
+            </a>
+            <a role="listitem" href="https://doi.org/10.5281/zenodo.20129504">
+              <span>Fields as Persistence Carriers</span>
+              <strong>10.5281/zenodo.20129504</strong>
+            </a>
+            <a role="listitem" href="https://doi.org/10.5281/zenodo.20129423">
+              <span>The Metric Role from Continuation Comparison</span>
+              <strong>10.5281/zenodo.20129423</strong>
+            </a>
+            <a role="listitem" href="https://doi.org/10.5281/zenodo.19401432">
+              <span>Quantum Entanglement as Boundary-Level Compatibility</span>
+              <strong>10.5281/zenodo.19401432</strong>
+            </a>
+            <a role="listitem" href="https://doi.org/10.5281/zenodo.18514647">
+              <span>Admissible Record Construction in Physically Non-Selective Quantum Regimes</span>
+              <strong>10.5281/zenodo.18514647</strong>
+            </a>
+            <a role="listitem" href="https://doi.org/10.5281/zenodo.18515560">
+              <span>Generation Count and Residual Parameters in the Standard Model Representation Regime</span>
+              <strong>10.5281/zenodo.18515560</strong>
+            </a>
+            <a role="listitem" href="https://doi.org/10.5281/zenodo.18492703">
+              <span>Rigidity of the Standard-Model Charge Lattice</span>
+              <strong>10.5281/zenodo.18492703</strong>
+            </a>
+            <a role="listitem" href="https://doi.org/10.5281/zenodo.18515505">
+              <span>Matter-Antimatter Asymmetry as Persistent Cosmological Identity</span>
+              <strong>10.5281/zenodo.18515505</strong>
+            </a>
+            <a role="listitem" href="https://doi.org/10.5281/zenodo.20065053">
+              <span>Neutrino Oscillation as Flavor under Noncommuting Propagation</span>
+              <strong>10.5281/zenodo.20065053</strong>
+            </a>
+            <a role="listitem" href="https://doi.org/10.5281/zenodo.18522019">
+              <span>The Dark Sector as a Classification Error</span>
+              <strong>10.5281/zenodo.18522019</strong>
+            </a>
+            <a role="listitem" href="https://doi.org/10.5281/zenodo.20039309">
+              <span>A Classification Theorem for Admissible Standard-Model Structures</span>
+              <strong>10.5281/zenodo.20039309</strong>
+            </a>
+            <a role="listitem" href="https://doi.org/10.5281/zenodo.19945401">
+              <span>Gravity as Structural Necessity</span>
+              <strong>10.5281/zenodo.19945401</strong>
+            </a>
+            <a role="listitem" href="https://doi.org/10.5281/zenodo.19905222">
+              <span>On the Non-Quantizability of Gravity</span>
+              <strong>10.5281/zenodo.19905222</strong>
+            </a>
+            <a role="listitem" href="https://doi.org/10.5281/zenodo.19907827">
+              <span>Structural Origin of Cosmological Parameter Tensions</span>
+              <strong>10.5281/zenodo.19907827</strong>
+            </a>
+            <a role="listitem" href="https://doi.org/10.5281/zenodo.19646301">
+              <span>Well-Definedness of Yang-Mills Endpoint Constructions</span>
+              <strong>10.5281/zenodo.19646301</strong>
+            </a>
+            <a role="listitem" href="https://doi.org/10.5281/zenodo.19492854">
+              <span>Vacuum-Sector Mass Gap for the Sharp-Local Yang-Mills Net</span>
+              <strong>10.5281/zenodo.19492854</strong>
+            </a>
+            <a role="listitem" href="https://doi.org/10.5281/zenodo.19183407">
+              <span>Closure by Exhaustion for Same-Scope Operators under Admissibility</span>
+              <strong>10.5281/zenodo.19183407</strong>
+            </a>
+          </div>
+          <p class="doi-note">
+            The authenticated Zenodo crawl found 542 submitted records and is available as
+            <a href="data/zenodo-authenticated-full.json">JSON</a> and
+            <a href="data/zenodo-authenticated-full.csv">CSV</a>. The earlier GitHub DOI registry is also available as
+            <a href="data/zenodo-doi-registry.json">JSON</a> and
+            <a href="data/zenodo-doi-registry.csv">CSV</a>.
+          </p>
+        </div>
+      </section>
+
+      <section class="feature" id="lean" aria-labelledby="lean-title">
+        <div class="feature-seal" aria-hidden="true">
+          <img src="assets/constraint-seal.png" alt="" />
+        </div>
+        <div>
+          <p class="eyebrow">Lean 4 Formalisation</p>
+          <h2 id="lean-title">Machine-checked projects that make selected structures inspectable.</h2>
+        </div>
+        <div class="feature-list">
+          <div>
+            <h3>Formalisation repositories</h3>
+            <p>Lean 4 projects house theorem spines, certificate objects, proof-routing surfaces, and local audit scripts.</p>
+          </div>
+          <div>
+            <h3>Build and audit status</h3>
+            <p>Repository pages should show what builds, what scans cleanly, what axioms are expected, and what remains outside Lean.</p>
+          </div>
+          <div>
+            <h3>Strong but bounded claims</h3>
+            <p>The formal layer can be substantive without claiming a first-principles reconstruction of every downstream domain proof.</p>
+          </div>
+        </div>
+      </section>
+
+      <section class="section github-projects" aria-labelledby="github-title">
+        <div class="section-heading">
+          <p class="eyebrow">GitHub Project Index</p>
+          <h2 id="github-title">Current public Lean and manuscript-linked repositories.</h2>
+        </div>
+        <div class="project-list">
+          <article class="project-card featured-project">
+            <div>
+              <p class="repo-type">Recent</p>
+              <h3>Measurement Problem Reference</h3>
+              <p>
+                Lean 4 formalization of “The Measurement Problem as a Problem of Reference,”
+                with axiom audits and manuscript theorem surface.
+              </p>
+            </div>
+            <a href="https://github.com/somamaley-ux/measurement-problem-reference">Open repository</a>
+            <span>Updated July 10, 2026</span>
+          </article>
+
+          <article class="project-card">
+            <div>
+              <p class="repo-type">Recent</p>
+              <h3>Quantum Entanglement Boundary Compatibility</h3>
+              <p>Standalone Lean audit surface and manuscript bundle for boundary-level compatibility.</p>
+            </div>
+            <a href="https://github.com/somamaley-ux/quantum-entanglement-boundary-compatibility">Open repository</a>
+            <span>Updated July 10, 2026</span>
+          </article>
+
+          <article class="project-card">
+            <div>
+              <p class="repo-type">Lean Audit</p>
+              <h3>AASC Sunflower Endpoint</h3>
+              <p>Manuscript-faithful Lean A+ audit for the AASC Sunflower endpoint-transfer proof class.</p>
+            </div>
+            <a href="https://github.com/somamaley-ux/AASC-Sunflower-Endpoint-Lean-Audit">Open repository</a>
+            <span>Updated July 7, 2026</span>
+          </article>
+
+          <article class="project-card">
+            <div>
+              <p class="repo-type">Lean</p>
+              <h3>Standard Model Carrier Exhaustion / Generation Cardinality</h3>
+              <p>AASC ARC extension Lean audit for carrier exhaustion and generation-cardinality layers.</p>
+            </div>
+            <a href="https://github.com/somamaley-ux/AASC-Standard-Model-Carrier-Exhaustion-Generation-Cardinality">Open repository</a>
+            <span>Updated July 6, 2026</span>
+          </article>
+
+          <article class="project-card">
+            <div>
+              <p class="repo-type">Lean</p>
+              <h3>AASC Hubble Transport</h3>
+              <p>Lean audit archive for downstream Hubble transport closure and endpoint-recognition work.</p>
+            </div>
+            <a href="https://github.com/somamaley-ux/AASC-Hubble-Transport-Lean-Audit">Open repository</a>
+            <span>Updated June 23, 2026</span>
+          </article>
+
+          <article class="project-card">
+            <div>
+              <p class="repo-type">Lean</p>
+              <h3>AASC Yang-Mills Lean Audit</h3>
+              <p>Dedicated Lean 4 audit archive for the AASC Yang-Mills local-net and Clay-extension endpoint.</p>
+            </div>
+            <a href="https://github.com/somamaley-ux/AASC-YangMills-Lean-Audit">Open repository</a>
+            <span>Updated June 12, 2026</span>
+          </article>
+        </div>
+        <details class="more-projects">
+          <summary>More public Lean repositories</summary>
+          <div class="compact-projects">
+            <a href="https://github.com/somamaley-ux/AASC-BSD-Endpoint-Lean-Audit">AASC BSD Endpoint Lean Audit</a>
+            <a href="https://github.com/somamaley-ux/AASC-Hodge-Endpoint-Lean-Audit">AASC Hodge Endpoint Lean Audit</a>
+            <a href="https://github.com/somamaley-ux/AASC-NavierStokes-Lean-Audit">AASC Navier-Stokes Lean Audit</a>
+            <a href="https://github.com/somamaley-ux/AASC-Poincare-Endpoint-Lean-Audit">AASC Poincare Endpoint Lean Audit</a>
+            <a href="https://github.com/somamaley-ux/AASC-PvsNP-SAT-Endpoint-Lean-Audit">AASC P vs NP SAT Endpoint Lean Audit</a>
+            <a href="https://github.com/somamaley-ux/AASC-RH-Endpoint-Lean-Audit">AASC RH Endpoint Lean Audit</a>
+            <a href="https://github.com/somamaley-ux/non-degenerate-construction-kernel-admissibility">Non-Degenerate Construction and Kernel of Admissibility</a>
+            <a href="https://github.com/somamaley-ux/Foundational-Closure-of-Admissibility-and-Standing">Foundational Closure of Admissibility and Standing</a>
+            <a href="https://github.com/somamaley-ux/D-lean-MaleyLean-godel-non-instantiability">Godel Non-Instantiability Lean Encoding</a>
+            <a href="https://github.com/somamaley-ux/LeanMillenniumPrizeProblems">Lean Millennium Prize Problems</a>
+          </div>
+        </details>
+      </section>
+
+      <section class="section notes" id="archive" aria-labelledby="archive-title">
+        <div class="section-heading">
+          <p class="eyebrow">Research Archive</p>
+          <h2 id="archive-title">A public surface for papers, code, releases, and verification notes.</h2>
+        </div>
+        <div class="repository-grid">
+          <article>
+            <p class="repo-type">Manuscripts</p>
+            <h3>Papers and preprints</h3>
+            <p>Downloadable manuscripts, abstracts, source packages, and revision notes for each research thread.</p>
+            <a href="#contact">Submit a paper listing</a>
+          </article>
+          <article>
+            <p class="repo-type">Lean 4</p>
+            <h3>Formalisation projects</h3>
+            <p>Repository links, build targets, theorem inventories, audit scripts, and status summaries.</p>
+            <a href="#contact">Add a Lean project</a>
+          </article>
+          <article>
+            <p class="repo-type">Releases</p>
+            <h3>Evidence bundles</h3>
+            <p>Versioned releases pairing manuscripts with formal artifacts, claim-boundary notes, and reproducibility checks.</p>
+            <a href="#contact">Prepare a release</a>
+          </article>
+        </div>
+        <div class="status-panel" aria-label="Repository status model">
+          <div>
+            <span>Recommended entry fields</span>
+            <strong>Title, abstract, manuscript, repository, build status, audit status, claim boundary.</strong>
+          </div>
+          <div>
+            <span>Review posture</span>
+            <strong>Readable for visitors, exact enough for technical inspection.</strong>
+          </div>
+        </div>
+      </section>
+
+      <section class="contact" id="contact" aria-labelledby="contact-title">
+        <p class="eyebrow">Next step</p>
+        <h2 id="contact-title">Send manuscripts, Lean repositories, or release material for inclusion.</h2>
+        <p>
+          Include the paper title, a short abstract, the current manuscript status, any Lean 4 repository link,
+          and the exact claim boundary you want the archive to preserve.
+        </p>
+        <a class="button primary" href="mailto:contact@constraintsystemsinstitute.org">contact@constraintsystemsinstitute.org</a>
+      </section>
+    </main>
+
+    <footer class="footer">
+      <p>Constraint Systems Institute</p>
+      <p>constraintsystemsinstitute.org</p>
+    </footer>
+  </body>
+</html>
