@@ -532,6 +532,117 @@ h3 {
   text-transform: uppercase;
 }
 
+.arc-focus-grid {
+  display: grid;
+  grid-template-columns: minmax(0, 1fr);
+  gap: 18px;
+}
+
+.arc-focus-card {
+  display: grid;
+  grid-template-columns: minmax(260px, 0.44fr) minmax(0, 0.74fr);
+  gap: clamp(20px, 4vw, 38px);
+  min-height: 440px;
+  padding: clamp(24px, 4vw, 34px);
+  border: 1px solid rgba(216, 210, 204, 0.28);
+  border-radius: 8px;
+  background:
+    linear-gradient(145deg, rgba(255, 255, 255, 0.11), rgba(255, 255, 255, 0.028)),
+    rgba(16, 16, 18, 0.72);
+  box-shadow: 0 18px 60px rgba(0, 0, 0, 0.22);
+}
+
+.standard-model-card {
+  border-color: rgba(244, 240, 236, 0.44);
+  background:
+    linear-gradient(rgba(18, 18, 20, 0.5), rgba(18, 18, 20, 0.82)),
+    url("assets/banner.jpg") center / cover;
+}
+
+.millennium-card,
+.unification-card {
+  background:
+    radial-gradient(circle at 8% 8%, rgba(216, 210, 204, 0.14), transparent 30%),
+    linear-gradient(145deg, rgba(255, 255, 255, 0.11), rgba(255, 255, 255, 0.028)),
+    rgba(16, 16, 18, 0.74);
+}
+
+.arc-focus-copy h3 {
+  font-family: Georgia, "Times New Roman", serif;
+  font-size: clamp(2rem, 4vw, 4rem);
+  line-height: 1;
+}
+
+.arc-focus-copy .plain,
+.arc-focus-copy .technical {
+  color: var(--muted);
+}
+
+.arc-focus-copy .plain {
+  margin-top: 24px;
+  font-size: 1.06rem;
+}
+
+.arc-focus-copy .technical {
+  margin-top: 12px;
+}
+
+.arc-paper-groups,
+.paper-chip-list {
+  display: grid;
+  gap: 12px;
+  align-content: start;
+}
+
+.arc-paper-groups {
+  gap: 18px;
+}
+
+.arc-paper-groups h4 {
+  margin: 0 0 10px;
+  color: var(--silver);
+  font-size: 0.78rem;
+  text-transform: uppercase;
+}
+
+.paper-chip-list {
+  grid-template-columns: repeat(2, minmax(0, 1fr));
+}
+
+.paper-chip-list a {
+  display: flex;
+  min-height: 64px;
+  align-items: center;
+  border: 1px solid rgba(216, 210, 204, 0.26);
+  border-radius: 8px;
+  padding: 12px 14px;
+  color: var(--silver);
+  font-size: 0.86rem;
+  font-weight: 900;
+}
+
+.paper-chip-list.prominent a {
+  background:
+    linear-gradient(145deg, rgba(244, 240, 236, 0.15), rgba(255, 255, 255, 0.035)),
+    rgba(15, 15, 17, 0.6);
+  border-color: rgba(216, 210, 204, 0.4);
+}
+
+.paper-chip-list.quiet a {
+  min-height: 48px;
+  background: rgba(16, 16, 18, 0.42);
+  color: rgba(216, 210, 204, 0.76);
+  font-size: 0.78rem;
+}
+
+.seven-list {
+  grid-template-columns: repeat(7, minmax(0, 1fr));
+}
+
+.triptych-list {
+  grid-template-columns: repeat(3, minmax(0, 1fr));
+}
+
 .themed-shelves {
   margin-top: 74px;
 }
@@ -944,6 +1055,7 @@ h3 {
   .project-list,
   .compact-projects,
   .pillar-grid,
+  .arc-focus-card,
   .arc-grid,
   .shelf-body,
   .doi-list {
@@ -951,6 +1063,12 @@ h3 {
   }
 
   .dependency-strip {
+    grid-template-columns: 1fr;
+  }
+
+  .paper-chip-list,
+  .seven-list,
+  .triptych-list {
     grid-template-columns: 1fr;
   }
 
