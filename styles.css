@@ -224,6 +224,9 @@ h3 {
   font-weight: 800;
   text-transform: uppercase;
   font-size: 0.78rem;
+  line-height: 1.15;
+  text-align: center;
+  white-space: normal;
 }
 
 .button.primary {
@@ -606,19 +609,22 @@ h3 {
 }
 
 .paper-chip-list {
-  grid-template-columns: repeat(2, minmax(0, 1fr));
+  grid-template-columns: repeat(auto-fit, minmax(220px, 1fr));
 }
 
 .paper-chip-list a {
   display: flex;
-  min-height: 64px;
-  align-items: center;
+  min-height: 72px;
+  align-items: flex-start;
   border: 1px solid rgba(216, 210, 204, 0.26);
   border-radius: 8px;
   padding: 12px 14px;
   color: var(--silver);
   font-size: 0.86rem;
   font-weight: 900;
+  line-height: 1.18;
+  overflow-wrap: break-word;
+  word-break: normal;
 }
 
 .paper-chip-list.prominent a {
@@ -636,19 +642,19 @@ h3 {
 }
 
 .seven-list {
-  grid-template-columns: repeat(7, minmax(0, 1fr));
+  grid-template-columns: repeat(auto-fit, minmax(150px, 1fr));
 }
 
 .triptych-list {
-  grid-template-columns: repeat(3, minmax(0, 1fr));
+  grid-template-columns: repeat(auto-fit, minmax(180px, 1fr));
 }
 
 .five-list {
-  grid-template-columns: repeat(5, minmax(0, 1fr));
+  grid-template-columns: repeat(auto-fit, minmax(150px, 1fr));
 }
 
 .pair-list {
-  grid-template-columns: repeat(2, minmax(0, 1fr));
+  grid-template-columns: repeat(auto-fit, minmax(220px, 1fr));
 }
 
 .nested-arc {
@@ -658,7 +664,7 @@ h3 {
 }
 
 .yang-mills-list {
-  grid-template-columns: repeat(5, minmax(0, 1fr));
+  grid-template-columns: repeat(auto-fit, minmax(150px, 1fr));
 }
 
 .themed-shelves {
