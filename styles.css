@@ -348,6 +348,123 @@ h3 {
   margin-top: 74px;
 }
 
+.foundation-order {
+  margin-top: 74px;
+  padding: clamp(24px, 4vw, 34px);
+  border: 1px solid rgba(216, 210, 204, 0.28);
+  border-radius: 8px;
+  background:
+    linear-gradient(rgba(15, 15, 17, 0.7), rgba(15, 15, 17, 0.84)),
+    url("assets/banner.jpg") center / cover;
+  box-shadow: var(--shadow);
+}
+
+.compact-heading {
+  margin-bottom: 22px;
+}
+
+.pillar-grid {
+  display: grid;
+  grid-template-columns: minmax(0, 1.05fr) minmax(0, 0.95fr);
+  gap: 16px;
+}
+
+.pillar-card {
+  display: flex;
+  min-height: 430px;
+  flex-direction: column;
+  padding: 24px;
+  border: 1px solid rgba(216, 210, 204, 0.24);
+  border-radius: 8px;
+  background:
+    linear-gradient(145deg, rgba(255, 255, 255, 0.12), rgba(255, 255, 255, 0.03)),
+    rgba(16, 16, 18, 0.74);
+  backdrop-filter: blur(10px);
+}
+
+.primary-pillar {
+  border-color: rgba(244, 240, 236, 0.44);
+  background:
+    radial-gradient(circle at 20% 0%, rgba(216, 210, 204, 0.2), transparent 42%),
+    linear-gradient(145deg, rgba(255, 255, 255, 0.16), rgba(255, 255, 255, 0.04)),
+    rgba(16, 16, 18, 0.78);
+}
+
+.pillar-card h3 {
+  font-family: Georgia, "Times New Roman", serif;
+  font-size: clamp(1.65rem, 3vw, 3rem);
+  line-height: 1.02;
+}
+
+.pillar-card .plain,
+.pillar-card .technical {
+  color: var(--muted);
+}
+
+.pillar-card .plain {
+  margin-top: 22px;
+  font-size: 1.05rem;
+}
+
+.pillar-card .technical {
+  margin-top: 12px;
+}
+
+.pillar-card > a,
+.pillar-links a {
+  color: var(--silver);
+  font-size: 0.78rem;
+  font-weight: 900;
+  text-transform: uppercase;
+}
+
+.pillar-card > a {
+  width: fit-content;
+  margin-top: auto;
+  border-bottom: 1px solid rgba(216, 210, 204, 0.58);
+  padding-top: 22px;
+}
+
+.pillar-links {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 10px;
+  margin-top: auto;
+  padding-top: 22px;
+}
+
+.pillar-links a {
+  min-height: 38px;
+  border: 1px solid rgba(216, 210, 204, 0.32);
+  border-radius: 999px;
+  padding: 9px 12px;
+}
+
+.dependency-strip {
+  display: grid;
+  grid-template-columns: repeat(5, minmax(0, 1fr));
+  gap: 1px;
+  margin-top: 16px;
+  overflow: hidden;
+  border: 1px solid rgba(216, 210, 204, 0.2);
+  border-radius: 8px;
+  background: rgba(216, 210, 204, 0.16);
+}
+
+.dependency-strip span {
+  display: flex;
+  min-height: 58px;
+  align-items: center;
+  justify-content: center;
+  padding: 12px;
+  background: rgba(16, 16, 18, 0.82);
+  color: var(--silver);
+  font-size: 0.74rem;
+  font-weight: 900;
+  text-align: center;
+  text-transform: uppercase;
+}
+
 .arc-grid {
   display: grid;
   grid-template-columns: repeat(2, minmax(0, 1fr));
@@ -826,9 +943,14 @@ h3 {
   .status-panel,
   .project-list,
   .compact-projects,
+  .pillar-grid,
   .arc-grid,
   .shelf-body,
   .doi-list {
+    grid-template-columns: 1fr;
+  }
+
+  .dependency-strip {
     grid-template-columns: 1fr;
   }
 

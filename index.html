@@ -31,11 +31,13 @@
         </div>
         <div class="hero-copy">
           <p class="eyebrow">constraintsystemsinstitute.org</p>
-          <h1 id="hero-title">A research archive for constraint systems, manuscripts, and Lean 4 formalisation.</h1>
+          <h1 id="hero-title">The Kernel first. The AMetric boundary second. The research archive downstream.</h1>
           <p class="hero-text">
             Constraint Systems Institute collects theoretical work on constraint systems,
-            governance layers, admissibility, and formal verification: readable manuscripts
-            alongside Lean 4 projects that make selected structures audit-ready.
+            admissibility, standing, AMetric boundary structure, and formal verification.
+            The archive is organized around the dependency order of the formalism:
+            the Kernel of Admissibility, the AMetric boundary invariant, and the
+            downstream manuscripts and Lean 4 projects that depend on them.
           </p>
           <div class="hero-actions">
             <a class="button primary" href="#manuscripts">Browse manuscripts</a>
@@ -46,16 +48,16 @@
           <img class="seal-image" src="assets/constraint-seal.png" alt="" />
           <div class="signal-card large">
             <p>Repository focus</p>
-            <strong>Manuscript claims paired with explicit formal boundaries.</strong>
+            <strong>Foundational papers first, downstream claims kept in dependency order.</strong>
           </div>
           <div class="mini-grid">
             <div class="signal-card">
-              <p>Primary media</p>
-              <strong>Papers</strong>
+              <p>First pillar</p>
+              <strong>Kernel</strong>
             </div>
             <div class="signal-card">
-              <p>Formal layer</p>
-              <strong>Lean 4</strong>
+              <p>Second pillar</p>
+              <strong>AMetric</strong>
             </div>
           </div>
         </div>
@@ -64,24 +66,71 @@
       <section class="section" id="manuscripts" aria-labelledby="manuscripts-title">
         <div class="section-heading">
           <p class="eyebrow">Manuscript Repository</p>
-          <h2 id="manuscripts-title">Theoretical research organized as readable papers with clear proof surfaces.</h2>
+          <h2 id="manuscripts-title">Theoretical research organized by dependency, not upload date.</h2>
         </div>
         <div class="cards">
           <article class="card">
             <span class="card-number">01</span>
-            <h3>Theory manuscripts</h3>
-            <p>Primary papers presenting constraint-system arguments, endpoint principles, governance layers, and domain applications.</p>
+            <h3>The Kernel</h3>
+            <p>The formalism rests first on the Kernel of Admissibility: admissibility, standing, reference, and irreversibility as the governance roles required for non-degenerate construction.</p>
           </article>
           <article class="card">
             <span class="card-number">02</span>
-            <h3>Source bundles</h3>
-            <p>Publication snapshots may include PDFs, TeX sources, notes, manifests, status files, and supporting audit material.</p>
+            <h3>AMetric boundary invariant</h3>
+            <p>The second pillar is the AMetric boundary: the interface that prevents illicit metric reanchoring, scope transport, and hidden crossing beneath admissibility.</p>
           </article>
           <article class="card">
             <span class="card-number">03</span>
-            <h3>Claim boundaries</h3>
-            <p>Each research line should distinguish the manuscript argument, formalized surface, assumed bridge, and open burden.</p>
+            <h3>Downstream arcs</h3>
+            <p>Physics, mathematics, governance, and Lean releases are presented as consequence layers. Each keeps its manuscript claim, formal surface, and non-claim boundary explicit.</p>
           </article>
+        </div>
+        <div class="foundation-order" aria-labelledby="foundation-order-title">
+          <div class="section-heading compact-heading">
+            <p class="eyebrow">Formal Dependency Order</p>
+            <h2 id="foundation-order-title">The reading path starts with two load-bearing papers.</h2>
+          </div>
+          <div class="pillar-grid">
+            <article class="pillar-card primary-pillar">
+              <p class="repo-type">01 / First Foundation</p>
+              <h3>Non-Degenerate Construction and the Kernel of Admissibility</h3>
+              <p class="plain">
+                Plainly: this paper asks what has to be in place before a sequence of steps can count as
+                constructing a determinate object rather than merely changing descriptions.
+              </p>
+              <p class="technical">
+                Technically: it isolates the fixed-domain kernel
+                K = {Adm, St, Ref, Irr}: admissibility, standing, reference, and irreversibility.
+                The later archive inherits this as the governance layer for identity-bearing construction.
+              </p>
+              <a href="https://doi.org/10.5281/zenodo.19324199">Read the all-version DOI</a>
+            </article>
+            <article class="pillar-card">
+              <p class="repo-type">02 / Second Foundation</p>
+              <h3>The AMetric boundary invariant</h3>
+              <p class="plain">
+                Plainly: this is the rule that prevents a theory from smuggling in distances, measures,
+                probabilities, gradients, or hidden crossings before those structures have standing.
+              </p>
+              <p class="technical">
+                Technically: the AMetric boundary fixes a non-transmissive interface for admissibility.
+                It blocks re-metricization, illicit scope transport, and claims of deeper pre-metric invariants
+                beneath the admissibility boundary.
+              </p>
+              <div class="pillar-links">
+                <a href="https://doi.org/10.5281/zenodo.19198249">Structure of Admissibility</a>
+                <a href="https://doi.org/10.5281/zenodo.18522654">AMetric Boundary Interface</a>
+                <a href="https://doi.org/10.5281/zenodo.18518587">Constraint Map</a>
+              </div>
+            </article>
+          </div>
+          <div class="dependency-strip" aria-label="Dependency chain">
+            <span>Kernel</span>
+            <span>AMetric boundary</span>
+            <span>Admissible interior</span>
+            <span>Metric and quantum projections</span>
+            <span>ARC papers and Lean audits</span>
+          </div>
         </div>
         <div class="research-arcs" aria-labelledby="arcs-title">
           <div class="section-heading">
@@ -91,18 +140,20 @@
           <div class="arc-grid">
             <article class="arc-card featured-arc">
               <p class="repo-type">AASC Foundations</p>
-              <h3>Admissibility, standing, and non-degenerate construction</h3>
+              <h3>The Kernel and the AMetric boundary</h3>
               <p class="plain">
-                Plainly: this arc asks what must already be true for any coherent system to count as a stable
-                object of reasoning, measurement, continuation, or reference.
+                Plainly: this is the foundation shelf. Everything else in the archive should be read as
+                downstream of the Kernel and the AMetric boundary invariant.
               </p>
               <p class="technical">
-                Technically: it develops the AASC kernel, standing/admissibility identity, fixed-domain exhaustion,
-                boundary-trace fixation, non-degenerate construction, and claim-standing constraints.
+                Technically: the Kernel supplies the fixed governance roles for determinate construction;
+                the AMetric boundary supplies the invariant interface that blocks metric reanchoring and
+                illicit scope transport before downstream projection layers begin.
               </p>
               <div class="arc-links">
-                <a href="https://doi.org/10.5281/zenodo.19198249">The Structure of Admissibility</a>
-                <a href="https://doi.org/10.5281/zenodo.19324199">Non-Degenerate Construction</a>
+                <a href="https://doi.org/10.5281/zenodo.19324199">Kernel of Admissibility</a>
+                <a href="https://doi.org/10.5281/zenodo.19198249">AMetric / Admissibility Structure</a>
+                <a href="https://doi.org/10.5281/zenodo.18522654">Non-Transmissive Interface</a>
                 <a href="https://doi.org/10.5281/zenodo.18682423">Fixed-Domain Exhaustion</a>
                 <a href="https://doi.org/10.5281/zenodo.20312075">Claim Standing</a>
               </div>
@@ -212,19 +263,22 @@
           </div>
 
           <details class="shelf" open>
-            <summary>AASC Foundations</summary>
+            <summary>Foundation: Kernel and AMetric Boundary</summary>
             <div class="shelf-body">
               <article class="anchor-paper">
-                <p class="repo-type">Major Anchor</p>
-                <h3>The Structure of Admissibility</h3>
-                <p class="plain">Plainly: this is the entry point for the whole framework, setting out why admissibility and standing come before downstream theory choice.</p>
-                <p class="technical">Technically: it establishes the formalism-building layer for AASC, including the conditions under which a construction can be non-degenerate, stable, and evaluable.</p>
-                <a href="https://doi.org/10.5281/zenodo.19198249">10.5281/zenodo.19198249</a>
+                <p class="repo-type">Primary Anchor</p>
+                <h3>Non-Degenerate Construction and the Kernel of Admissibility</h3>
+                <p class="plain">Plainly: this is the base paper for the formalism. It explains what must be fixed before construction, reasoning, measurement, or continuation can have determinate standing.</p>
+                <p class="technical">Technically: it identifies the fixed-domain governance kernel K = {Adm, St, Ref, Irr}; downstream papers use this kernel as the admissibility, standing, reference, and irreversibility layer for identity-preserving construction.</p>
+                <a href="https://doi.org/10.5281/zenodo.19324199">10.5281/zenodo.19324199</a>
               </article>
               <div class="shelf-links">
-                <a href="https://doi.org/10.5281/zenodo.19324199">Non-Degenerate Construction and the Kernel of Admissibility</a>
-                <a href="https://doi.org/10.5281/zenodo.18682423">A Fixed-Domain Exhaustion Theorem</a>
+                <a href="https://doi.org/10.5281/zenodo.19198249">The Structure of Admissibility: AMetric Boundary, Bivalence, and the Unique Admissible Interior</a>
+                <a href="https://doi.org/10.5281/zenodo.18522654">The AMetric Boundary as Non-Transmissive Interface</a>
+                <a href="https://doi.org/10.5281/zenodo.18518587">The AMetric Boundary Admissibility Constraint Map</a>
+                <a href="https://doi.org/10.5281/zenodo.18518348">The Impossibility of Deeper Invariants Under the AMetric Boundary</a>
                 <a href="https://doi.org/10.5281/zenodo.18678041">Anchor, Tensor, and Skin</a>
+                <a href="https://doi.org/10.5281/zenodo.18682423">A Fixed-Domain Exhaustion Theorem</a>
                 <a href="https://doi.org/10.5281/zenodo.19988044">Boundary-Trace Fixation under Admissibility</a>
                 <a href="https://doi.org/10.5281/zenodo.20085938">Constraint-Bundle Forcing</a>
               </div>
@@ -339,12 +393,48 @@
           <div class="doi-list">
             <article class="doi-card highlight-doi">
               <div>
-                <p class="repo-type">Unification Arc</p>
-                <h3>Structural Unification of Gravity and Quantum Dynamics under AASC</h3>
+                <p class="repo-type">Foundation</p>
+                <h3>Non-Degenerate Construction and the Kernel of Admissibility</h3>
                 <p>
-                  Culminating AASC unification manuscript connecting kernel, gravity, Einstein dynamics,
-                  Schrodinger dynamics, measurement/reference, and structural integration layers.
+                  The base manuscript for the formalism: the fixed-domain kernel of admissibility,
+                  standing, reference, and irreversibility required for determinate construction.
                 </p>
+              </div>
+              <dl>
+                <div>
+                  <dt>All-version DOI</dt>
+                  <dd><a href="https://doi.org/10.5281/zenodo.19324199">10.5281/zenodo.19324199</a></dd>
+                </div>
+                <div>
+                  <dt>Latest fetched version</dt>
+                  <dd><a href="https://zenodo.org/records/20727360">10.5281/zenodo.20727360</a></dd>
+                </div>
+              </dl>
+            </article>
+
+            <article class="doi-card">
+              <div>
+                <p class="repo-type">Foundation</p>
+                <h3>The Structure of Admissibility</h3>
+                <p>Primitive sequel to the Kernel paper: AMetric boundary, bivalence, and unique admissible interior structure.</p>
+              </div>
+              <dl>
+                <div>
+                  <dt>All-version DOI</dt>
+                  <dd><a href="https://doi.org/10.5281/zenodo.19198249">10.5281/zenodo.19198249</a></dd>
+                </div>
+                <div>
+                  <dt>Latest fetched version</dt>
+                  <dd><a href="https://zenodo.org/records/20762258">10.5281/zenodo.20762258</a></dd>
+                </div>
+              </dl>
+            </article>
+
+            <article class="doi-card">
+              <div>
+                <p class="repo-type">Quantum</p>
+                <h3>Structural Unification of Gravity and Quantum Dynamics under AASC</h3>
+                <p>Culminating downstream synthesis connecting the Kernel, AMetric standing discipline, gravity, quantum dynamics, measurement, and entanglement.</p>
               </div>
               <dl>
                 <div>
@@ -354,42 +444,6 @@
                 <div>
                   <dt>Latest fetched version</dt>
                   <dd><a href="https://zenodo.org/records/21255944">10.5281/zenodo.21255944</a></dd>
-                </div>
-              </dl>
-            </article>
-
-            <article class="doi-card">
-              <div>
-                <p class="repo-type">Measurement</p>
-                <h3>Measurement Problem Reference v0.9.0</h3>
-                <p>Completed finite measurement boundary stack with Lean modules, theorem surface, and audit manifest.</p>
-              </div>
-              <dl>
-                <div>
-                  <dt>All-version DOI</dt>
-                  <dd><a href="https://doi.org/10.5281/zenodo.19542014">10.5281/zenodo.19542014</a></dd>
-                </div>
-                <div>
-                  <dt>Latest fetched version</dt>
-                  <dd><a href="https://zenodo.org/records/21289427">10.5281/zenodo.21289427</a></dd>
-                </div>
-              </dl>
-            </article>
-
-            <article class="doi-card">
-              <div>
-                <p class="repo-type">Quantum</p>
-                <h3>Quantum Entanglement Boundary Compatibility v0.8.2</h3>
-                <p>Manuscript and repository synchronization after the derived-dynamics Lean deepening.</p>
-              </div>
-              <dl>
-                <div>
-                  <dt>All-version DOI</dt>
-                  <dd><a href="https://doi.org/10.5281/zenodo.21287887">10.5281/zenodo.21287887</a></dd>
-                </div>
-                <div>
-                  <dt>Latest fetched version</dt>
-                  <dd><a href="https://zenodo.org/records/21288422">10.5281/zenodo.21288422</a></dd>
                 </div>
               </dl>
             </article>
@@ -461,6 +515,18 @@
             <h2 id="major-papers-title">A broader spine of major manuscripts across the archive.</h2>
           </div>
           <div class="paper-table" role="list">
+            <a role="listitem" href="https://doi.org/10.5281/zenodo.19324199">
+              <span>Non-Degenerate Construction and the Kernel of Admissibility</span>
+              <strong>10.5281/zenodo.19324199</strong>
+            </a>
+            <a role="listitem" href="https://doi.org/10.5281/zenodo.19198249">
+              <span>The Structure of Admissibility: AMetric Boundary, Bivalence, and the Unique Admissible Interior</span>
+              <strong>10.5281/zenodo.19198249</strong>
+            </a>
+            <a role="listitem" href="https://doi.org/10.5281/zenodo.18522654">
+              <span>The AMetric Boundary as Non-Transmissive Interface</span>
+              <strong>10.5281/zenodo.18522654</strong>
+            </a>
             <a role="listitem" href="https://doi.org/10.5281/zenodo.21255943">
               <span>Structural Unification of Gravity and Quantum Dynamics under AASC</span>
               <strong>10.5281/zenodo.21255943</strong>
@@ -472,14 +538,6 @@
             <a role="listitem" href="https://doi.org/10.5281/zenodo.20363180">
               <span>Cross-Sector Extraction after the Standalone Standard Model Derivation</span>
               <strong>10.5281/zenodo.20363180</strong>
-            </a>
-            <a role="listitem" href="https://doi.org/10.5281/zenodo.19324199">
-              <span>Non-Degenerate Construction and the Kernel of Admissibility</span>
-              <strong>10.5281/zenodo.19324199</strong>
-            </a>
-            <a role="listitem" href="https://doi.org/10.5281/zenodo.19198249">
-              <span>The Structure of Admissibility</span>
-              <strong>10.5281/zenodo.19198249</strong>
             </a>
             <a role="listitem" href="https://doi.org/10.5281/zenodo.18682423">
               <span>A Fixed-Domain Exhaustion Theorem</span>
@@ -628,25 +686,25 @@
         <div class="project-list">
           <article class="project-card featured-project">
             <div>
-              <p class="repo-type">Recent</p>
-              <h3>Measurement Problem Reference</h3>
+              <p class="repo-type">Foundation</p>
+              <h3>Non-Degenerate Construction and Kernel of Admissibility</h3>
               <p>
-                Lean 4 formalization of “The Measurement Problem as a Problem of Reference,”
-                with axiom audits and manuscript theorem surface.
+                Lean 4 formalization and audit surface for the Kernel paper: the foundational
+                admissibility, standing, reference, and irreversibility layer used by downstream arcs.
               </p>
             </div>
-            <a href="https://github.com/somamaley-ux/measurement-problem-reference">Open repository</a>
-            <span>Updated July 10, 2026</span>
+            <a href="https://github.com/somamaley-ux/non-degenerate-construction-kernel-admissibility">Open repository</a>
+            <span>Foundational Lean project</span>
           </article>
 
           <article class="project-card">
             <div>
-              <p class="repo-type">Recent</p>
-              <h3>Quantum Entanglement Boundary Compatibility</h3>
-              <p>Standalone Lean audit surface and manuscript bundle for boundary-level compatibility.</p>
+              <p class="repo-type">Foundation</p>
+              <h3>Necessity of Admissibility / AMetric Boundary</h3>
+              <p>Lean 4 theorem surface for the AMetric boundary, bivalence, no-repair, no-generator, and unique admissible interior consequence layer.</p>
             </div>
-            <a href="https://github.com/somamaley-ux/quantum-entanglement-boundary-compatibility">Open repository</a>
-            <span>Updated July 10, 2026</span>
+            <a href="https://github.com/somamaley-ux/Foundational-Closure-of-Admissibility-and-Standing">Open repository</a>
+            <span>AMetric boundary formal surface</span>
           </article>
 
           <article class="project-card">
@@ -698,8 +756,6 @@
             <a href="https://github.com/somamaley-ux/AASC-Poincare-Endpoint-Lean-Audit">AASC Poincare Endpoint Lean Audit</a>
             <a href="https://github.com/somamaley-ux/AASC-PvsNP-SAT-Endpoint-Lean-Audit">AASC P vs NP SAT Endpoint Lean Audit</a>
             <a href="https://github.com/somamaley-ux/AASC-RH-Endpoint-Lean-Audit">AASC RH Endpoint Lean Audit</a>
-            <a href="https://github.com/somamaley-ux/non-degenerate-construction-kernel-admissibility">Non-Degenerate Construction and Kernel of Admissibility</a>
-            <a href="https://github.com/somamaley-ux/Foundational-Closure-of-Admissibility-and-Standing">Foundational Closure of Admissibility and Standing</a>
             <a href="https://github.com/somamaley-ux/D-lean-MaleyLean-godel-non-instantiability">Godel Non-Instantiability Lean Encoding</a>
             <a href="https://github.com/somamaley-ux/LeanMillenniumPrizeProblems">Lean Millennium Prize Problems</a>
           </div>
