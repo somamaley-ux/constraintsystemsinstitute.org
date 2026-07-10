@@ -118,21 +118,19 @@ main {
 
 .hero {
   position: relative;
-  display: grid;
-  grid-template-columns: minmax(0, 1.05fr) minmax(320px, 0.72fr);
-  gap: clamp(34px, 7vw, 90px);
+  display: flex;
   align-items: center;
-  min-height: calc(100vh - 73px);
-  padding: clamp(84px, 10vw, 142px) clamp(20px, 5vw, 64px) 68px;
+  min-height: min(820px, calc(100vh - 73px));
+  padding: clamp(92px, 12vw, 150px) clamp(20px, 5vw, 64px) clamp(58px, 8vw, 86px);
 }
 
 .banner-ornament {
   position: absolute;
-  top: 4%;
+  top: 2%;
   left: 50%;
-  width: min(94vw, 1320px);
+  width: min(96vw, 1380px);
   transform: translateX(-50%);
-  opacity: 0.5;
+  opacity: 0.28;
   pointer-events: none;
 }
 
@@ -156,6 +154,11 @@ main {
 .contact,
 .footer {
   max-width: 1180px;
+}
+
+.hero-copy {
+  width: min(100%, 980px);
+  isolation: isolate;
 }
 
 .eyebrow {
@@ -184,8 +187,8 @@ h2 {
 }
 
 h1 {
-  max-width: 860px;
-  font-size: clamp(3.3rem, 9vw, 7.1rem);
+  max-width: 980px;
+  font-size: clamp(3.3rem, 8vw, 6.2rem);
 }
 
 h2 {
@@ -200,7 +203,7 @@ h3 {
 
 .hero-text,
 .contact p {
-  max-width: 680px;
+  max-width: 720px;
   margin: 24px 0 0;
   color: var(--muted);
   font-size: clamp(1.05rem, 2vw, 1.28rem);
@@ -237,6 +240,40 @@ h3 {
 .button.secondary {
   background: rgba(255, 255, 255, 0.045);
   color: var(--silver);
+}
+
+.hero-structure {
+  display: grid;
+  grid-template-columns: repeat(3, minmax(0, 1fr));
+  gap: 1px;
+  width: min(100%, 860px);
+  margin-top: 44px;
+  overflow: hidden;
+  border: 1px solid rgba(216, 210, 204, 0.22);
+  border-radius: 8px;
+  background: rgba(216, 210, 204, 0.14);
+}
+
+.hero-structure a {
+  display: grid;
+  min-height: 96px;
+  align-content: center;
+  gap: 6px;
+  padding: 18px;
+  background: rgba(18, 18, 20, 0.68);
+}
+
+.hero-structure span {
+  color: rgba(216, 210, 204, 0.68);
+  font-size: 0.72rem;
+  font-weight: 900;
+}
+
+.hero-structure strong {
+  color: var(--silver);
+  font-family: Georgia, "Times New Roman", serif;
+  font-size: clamp(1.15rem, 2.2vw, 1.75rem);
+  line-height: 1;
 }
 
 .hero-panel {
@@ -1105,6 +1142,10 @@ h3 {
   }
 
   .dependency-strip {
+    grid-template-columns: 1fr;
+  }
+
+  .hero-structure {
     grid-template-columns: 1fr;
   }
 
