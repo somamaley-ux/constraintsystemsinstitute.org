@@ -641,6 +641,30 @@ h3 {
   font-size: 0.78rem;
 }
 
+.millennium-series-panel {
+  display: grid;
+  gap: 18px;
+  align-content: start;
+  border: 1px solid rgba(216, 210, 204, 0.2);
+  border-radius: 8px;
+  padding: 18px;
+  background:
+    linear-gradient(145deg, rgba(255, 255, 255, 0.07), rgba(255, 255, 255, 0.018)),
+    rgba(10, 10, 12, 0.36);
+}
+
+.millennium-series-panel h4 {
+  margin: 0 0 10px;
+  color: var(--silver);
+  font-size: 0.78rem;
+  text-transform: uppercase;
+}
+
+.yang-mills-subseries {
+  border-top: 1px solid rgba(216, 210, 204, 0.22);
+  padding-top: 16px;
+}
+
 .seven-list {
   grid-template-columns: repeat(auto-fit, minmax(150px, 1fr));
 }
@@ -655,12 +679,6 @@ h3 {
 
 .pair-list {
   grid-template-columns: repeat(auto-fit, minmax(220px, 1fr));
-}
-
-.nested-arc {
-  margin-top: 18px;
-  border-top: 1px solid rgba(216, 210, 204, 0.2);
-  padding-top: 18px;
 }
 
 .yang-mills-list {
