@@ -174,7 +174,8 @@ h1,
 h2,
 h3,
 p {
-  overflow-wrap: anywhere;
+  overflow-wrap: normal;
+  word-break: normal;
 }
 
 h1,
@@ -436,6 +437,17 @@ h3 {
   line-height: 1.02;
 }
 
+.card h3,
+.pillar-card h3,
+.arc-focus-copy h3,
+.anchor-paper h3,
+.doi-card h3,
+.project-card h3 {
+  overflow-wrap: normal;
+  word-break: normal;
+  hyphens: none;
+}
+
 .pillar-card .plain,
 .pillar-card .technical {
   color: var(--muted);
@@ -660,8 +672,9 @@ h3 {
   font-size: 0.86rem;
   font-weight: 900;
   line-height: 1.18;
-  overflow-wrap: break-word;
+  overflow-wrap: normal;
   word-break: normal;
+  hyphens: none;
 }
 
 .paper-chip-list.prominent a {
@@ -911,6 +924,9 @@ h3 {
   font-family: Georgia, "Times New Roman", serif;
   font-size: clamp(1.02rem, 1.7vw, 1.42rem);
   line-height: 1.1;
+  overflow-wrap: normal;
+  word-break: normal;
+  hyphens: none;
 }
 
 .paper-table strong {
