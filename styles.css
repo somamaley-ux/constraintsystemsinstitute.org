@@ -465,15 +465,15 @@ h3 {
 .search-results {
   grid-column: 1 / -1;
   display: grid;
-  grid-template-columns: repeat(auto-fit, minmax(220px, 1fr));
-  gap: 10px;
+  gap: 8px;
 }
 
 .search-result {
   display: grid;
-  gap: 6px;
-  min-height: 78px;
-  align-content: start;
+  grid-template-columns: minmax(140px, 0.26fr) minmax(0, 1fr) minmax(160px, 0.22fr);
+  gap: 14px;
+  min-height: 58px;
+  align-items: center;
   border: 1px solid rgba(216, 210, 204, 0.24);
   border-radius: 8px;
   padding: 12px 14px;
@@ -493,8 +493,17 @@ h3 {
 
 .search-result strong {
   color: var(--silver);
-  font-size: 0.86rem;
-  line-height: 1.16;
+  font-size: 0.95rem;
+  line-height: 1.18;
+}
+
+.search-result em {
+  color: rgba(216, 210, 204, 0.72);
+  font-size: 0.78rem;
+  font-style: normal;
+  font-weight: 800;
+  overflow-wrap: anywhere;
+  text-align: right;
 }
 
 .pillar-grid {
@@ -1295,6 +1304,14 @@ h3 {
   .pair-list,
   .triptych-list {
     grid-template-columns: 1fr;
+  }
+
+  .search-result {
+    grid-template-columns: 1fr;
+  }
+
+  .search-result em {
+    text-align: left;
   }
 
   .featured-project,

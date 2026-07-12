@@ -229,7 +229,7 @@
 
             <article class="arc-focus-card unification-card">
               <div class="arc-focus-copy">
-                <p class="repo-type">Recent Unification Triptych</p>
+                <p class="repo-type">Recent Unification Sequence</p>
                 <h3>Schrodinger, Einstein, and structural unification</h3>
                 <p class="plain">
                   Plainly: this card collects the recent three-paper unification sequence: the quantum response,
@@ -995,8 +995,9 @@
         if (!input || !results || !meta) return;
 
         const titleFrom = (link) => {
-          const rowTitle = link.querySelector("span");
-          const text = rowTitle ? rowTitle.textContent : link.textContent;
+          const articleTitle = link.closest("article")?.querySelector("h3")?.textContent;
+          const rowTitle = link.querySelector("span")?.textContent;
+          const text = articleTitle || rowTitle || link.textContent;
           return text.replace(/\s+/g, " ").trim();
         };
 
@@ -1027,13 +1028,13 @@
           const title = titleFrom(link);
           const context = contextFrom(link);
           const surrounding = link.closest("article, details, .topic-card, .paper-table")?.textContent || "";
-          const key = `${title}|${href}`;
-          if (seen.has(key) || title.length < 3) return null;
-          seen.add(key);
+          if (seen.has(href) || title.length < 3) return null;
+          seen.add(href);
           return {
             title,
             href,
             context,
+            label: href.includes("doi.org") ? href.replace("https://doi.org/", "") : new URL(href).hostname,
             haystack: `${title} ${href} ${context} ${surrounding}`.toLowerCase()
           };
         }).filter(Boolean);
@@ -1062,7 +1063,7 @@
             const item = document.createElement("a");
             item.href = match.href;
             item.className = "search-result";
-            item.innerHTML = `<span>${match.context}</span><strong>${match.title}</strong>`;
+            item.innerHTML = `<span>${match.context}</span><strong>${match.title}</strong><em>${match.label}</em>`;
             results.appendChild(item);
           }
         };
