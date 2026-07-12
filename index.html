@@ -79,6 +79,22 @@
             <p>Physics, mathematics, governance, and Lean releases are presented as consequence layers. Each keeps its manuscript claim, formal surface, and non-claim boundary explicit.</p>
           </article>
         </div>
+        <div class="corpus-search" aria-labelledby="corpus-search-title">
+          <div>
+            <p class="eyebrow">Corpus Search</p>
+            <h3 id="corpus-search-title">Find papers by concept, title, DOI, or repository.</h3>
+            <p>
+              Search the visible archive surface for terms such as kernel, mass, charge,
+              covariant, sunflower, consciousness, or Lean.
+            </p>
+          </div>
+          <div class="search-control">
+            <label for="corpus-search-input">Search corpus papers</label>
+            <input id="corpus-search-input" type="search" autocomplete="off" placeholder="Search the corpus..." />
+            <div class="search-meta" id="corpus-search-meta">Start typing to surface matching papers.</div>
+          </div>
+          <div class="search-results" id="corpus-search-results" aria-live="polite"></div>
+        </div>
         <div class="foundation-order" aria-labelledby="foundation-order-title">
           <div class="section-heading compact-heading">
             <p class="eyebrow">Formal Dependency Order</p>
@@ -971,5 +987,88 @@
       <p>Constraint Systems Institute</p>
       <p>constraintsystemsinstitute.org</p>
     </footer>
+    <script>
+      (() => {
+        const input = document.querySelector("#corpus-search-input");
+        const results = document.querySelector("#corpus-search-results");
+        const meta = document.querySelector("#corpus-search-meta");
+        if (!input || !results || !meta) return;
+
+        const titleFrom = (link) => {
+          const rowTitle = link.querySelector("span");
+          const text = rowTitle ? rowTitle.textContent : link.textContent;
+          return text.replace(/\s+/g, " ").trim();
+        };
+
+        const contextFrom = (link) => {
+          const shelf = link.closest(".shelf");
+          if (shelf) return shelf.querySelector("summary")?.textContent.trim() || "Manuscript shelf";
+          const topic = link.closest(".topic-card");
+          if (topic) return topic.querySelector(".repo-type")?.textContent.trim() || "Topic route";
+          const doiCard = link.closest(".doi-card");
+          if (doiCard) return doiCard.querySelector(".repo-type")?.textContent.trim() || "DOI index";
+          const project = link.closest(".project-card");
+          if (project) return project.querySelector(".repo-type")?.textContent.trim() || "Lean project";
+          const arc = link.closest(".arc-focus-card");
+          if (arc) return arc.querySelector(".repo-type")?.textContent.trim() || "Research arc";
+          const table = link.closest(".paper-table");
+          if (table) return "Major Paper Catalogue";
+          return "Archive";
+        };
+
+        const links = [...document.querySelectorAll("main a[href]")].filter((link) => {
+          const href = link.getAttribute("href") || "";
+          return href.includes("doi.org") || href.includes("zenodo.org") || href.includes("github.com");
+        });
+
+        const seen = new Set();
+        const entries = links.map((link) => {
+          const href = link.href;
+          const title = titleFrom(link);
+          const context = contextFrom(link);
+          const surrounding = link.closest("article, details, .topic-card, .paper-table")?.textContent || "";
+          const key = `${title}|${href}`;
+          if (seen.has(key) || title.length < 3) return null;
+          seen.add(key);
+          return {
+            title,
+            href,
+            context,
+            haystack: `${title} ${href} ${context} ${surrounding}`.toLowerCase()
+          };
+        }).filter(Boolean);
+
+        const render = (query) => {
+          const terms = query.toLowerCase().split(/\s+/).filter(Boolean);
+          results.innerHTML = "";
+          if (!terms.length) {
+            meta.textContent = "Start typing to surface matching papers.";
+            return;
+          }
+
+          const matches = entries
+            .map((entry) => ({
+              ...entry,
+              score: terms.reduce((score, term) => score + (entry.haystack.includes(term) ? 1 : 0), 0)
+            }))
+            .filter((entry) => entry.score === terms.length)
+            .slice(0, 12);
+
+          meta.textContent = matches.length
+            ? `${matches.length} match${matches.length === 1 ? "" : "es"} shown.`
+            : "No visible archive matches yet.";
+
+          for (const match of matches) {
+            const item = document.createElement("a");
+            item.href = match.href;
+            item.className = "search-result";
+            item.innerHTML = `<span>${match.context}</span><strong>${match.title}</strong>`;
+            results.appendChild(item);
+          }
+        };
+
+        input.addEventListener("input", () => render(input.value));
+      })();
+    </script>
   </body>
 </html>
