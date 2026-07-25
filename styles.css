@@ -121,17 +121,19 @@ main {
   position: relative;
   display: flex;
   align-items: center;
-  min-height: min(820px, calc(100vh - 73px));
-  padding: clamp(92px, 12vw, 150px) clamp(20px, 5vw, 64px) clamp(58px, 8vw, 86px);
+  min-height: min(760px, calc(100vh - 73px));
+  padding: clamp(64px, 8vw, 108px) clamp(20px, 5vw, 64px) clamp(40px, 6vw, 64px);
 }
 
 .banner-ornament {
   position: absolute;
-  top: 2%;
+  top: 0;
   left: 50%;
   width: min(96vw, 1380px);
+  height: min(620px, calc(100% - 28px));
   transform: translateX(-50%);
   opacity: 0.28;
+  overflow: hidden;
   pointer-events: none;
 }
 
@@ -145,8 +147,11 @@ main {
 .banner-ornament img {
   display: block;
   width: 100%;
+  height: 100%;
   filter: grayscale(0.45) contrast(1.04) brightness(0.92);
   mix-blend-mode: screen;
+  object-fit: cover;
+  object-position: center top;
 }
 
 .hero-copy,
@@ -190,7 +195,7 @@ h2 {
 
 h1 {
   max-width: 980px;
-  font-size: clamp(3.3rem, 8vw, 6.2rem);
+  font-size: clamp(2.9rem, 6.7vw, 5.5rem);
 }
 
 h2 {
@@ -212,17 +217,17 @@ h3 {
 }
 
 .hero-text {
-  max-width: 780px;
-  margin-top: 18px;
-  font-size: clamp(0.94rem, 1.45vw, 1.08rem);
-  line-height: 1.55;
+  max-width: 760px;
+  margin-top: 14px;
+  font-size: clamp(0.86rem, 1.15vw, 0.98rem);
+  line-height: 1.48;
 }
 
 .hero-actions {
   display: flex;
   flex-wrap: wrap;
   gap: 12px;
-  margin-top: 34px;
+  margin-top: 22px;
 }
 
 .button {
@@ -256,7 +261,7 @@ h3 {
   grid-template-columns: repeat(3, minmax(0, 1fr));
   gap: 1px;
   width: min(100%, 860px);
-  margin-top: 44px;
+  margin-top: 26px;
   overflow: hidden;
   border: 1px solid rgba(216, 210, 204, 0.22);
   border-radius: 8px;
@@ -265,10 +270,10 @@ h3 {
 
 .hero-structure a {
   display: grid;
-  min-height: 96px;
+  min-height: 78px;
   align-content: center;
   gap: 6px;
-  padding: 18px;
+  padding: 14px 16px;
   background: rgba(18, 18, 20, 0.68);
 }
 
