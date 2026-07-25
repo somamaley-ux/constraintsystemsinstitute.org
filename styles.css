@@ -741,10 +741,23 @@ h3 {
     rgba(16, 16, 18, 0.74);
 }
 
+.mind-agency-card {
+  grid-template-columns: minmax(320px, 0.54fr) minmax(0, 0.72fr);
+}
+
 .arc-focus-copy h3 {
   font-family: Georgia, "Times New Roman", serif;
   font-size: clamp(2rem, 4vw, 4rem);
   line-height: 1;
+}
+
+.mind-agency-card .arc-focus-copy h3 {
+  font-size: clamp(1.75rem, 3.1vw, 3.15rem);
+  line-height: 1.05;
+}
+
+.mind-agency-card .arc-paper-groups {
+  gap: 24px;
 }
 
 .arc-focus-copy .plain,
