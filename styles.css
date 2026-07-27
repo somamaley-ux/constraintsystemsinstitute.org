@@ -400,7 +400,16 @@ h3 {
 }
 
 .research-arcs {
-  margin-top: 74px;
+  margin-top: 26px;
+}
+
+.research-arcs > .section-heading {
+  margin-bottom: 26px;
+}
+
+.research-arcs > .section-heading h2 {
+  max-width: 760px;
+  font-size: clamp(2rem, 4.4vw, 4rem);
 }
 
 .foundation-order {
@@ -741,6 +750,15 @@ h3 {
     rgba(16, 16, 18, 0.74);
 }
 
+.certificate-closure-card {
+  grid-template-columns: minmax(330px, 0.5fr) minmax(0, 0.82fr);
+  border-color: rgba(244, 240, 236, 0.42);
+  background:
+    radial-gradient(circle at 18% 8%, rgba(216, 210, 204, 0.18), transparent 34%),
+    linear-gradient(rgba(18, 18, 20, 0.56), rgba(18, 18, 20, 0.84)),
+    url("assets/banner.jpg") center / cover;
+}
+
 .mind-agency-card {
   grid-template-columns: minmax(320px, 0.54fr) minmax(0, 0.72fr);
 }
@@ -758,6 +776,15 @@ h3 {
 
 .mind-agency-card .arc-paper-groups {
   gap: 24px;
+}
+
+.certificate-closure-card .arc-focus-copy h3 {
+  font-size: clamp(1.9rem, 3.4vw, 3.55rem);
+  line-height: 1.03;
+}
+
+.certificate-groups {
+  gap: 20px;
 }
 
 .arc-focus-copy .plain,
@@ -868,6 +895,22 @@ h3 {
 
 .yang-mills-list {
   grid-template-columns: repeat(auto-fit, minmax(150px, 1fr));
+}
+
+.foundation-list {
+  grid-template-columns: repeat(auto-fit, minmax(210px, 1fr));
+}
+
+.certificate-spine-list {
+  grid-template-columns: repeat(auto-fit, minmax(160px, 1fr));
+}
+
+.realization-module-list {
+  grid-template-columns: repeat(auto-fit, minmax(190px, 1fr));
+}
+
+.realization-module-list a {
+  min-height: 86px;
 }
 
 .themed-shelves {
