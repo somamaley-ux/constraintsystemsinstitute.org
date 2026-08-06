@@ -876,6 +876,16 @@ h3 {
     rgba(18, 18, 20, 0.78);
 }
 
+.wdw-list {
+  grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
+}
+
+.wdw-list a {
+  min-height: 58px;
+  font-size: 0.74rem;
+  line-height: 1.22;
+}
+
 .arc-focus-copy .plain,
 .arc-focus-copy .technical {
   color: var(--muted);
@@ -1471,6 +1481,7 @@ h3 {
   .foundation-list,
   .certificate-spine-list,
   .realization-module-list,
+  .wdw-list,
   .branch-grid {
     grid-template-columns: 1fr;
   }
