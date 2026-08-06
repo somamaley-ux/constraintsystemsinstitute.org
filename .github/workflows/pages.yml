@@ -31,6 +31,7 @@ jobs:
       - name: Prepare static files
         run: |
           mkdir _site
+          # Keep the deployed artifact to public website files only.
           rsync -av \
             --exclude '.git' \
             --exclude '.github' \
