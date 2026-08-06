@@ -787,6 +787,95 @@ h3 {
   gap: 20px;
 }
 
+.closure-dependency-map {
+  display: grid;
+  gap: 14px;
+  border: 1px solid rgba(216, 210, 204, 0.22);
+  border-radius: 8px;
+  padding: 16px;
+  background:
+    linear-gradient(145deg, rgba(255, 255, 255, 0.07), rgba(255, 255, 255, 0.018)),
+    rgba(10, 10, 12, 0.42);
+}
+
+.chart-node {
+  position: relative;
+  display: grid;
+  min-height: 54px;
+  place-items: center;
+  border: 1px solid rgba(216, 210, 204, 0.34);
+  border-radius: 6px;
+  padding: 10px 12px;
+  background: rgba(17, 17, 19, 0.76);
+  color: var(--silver);
+  font-size: 0.82rem;
+  font-weight: 900;
+  line-height: 1.16;
+  text-align: center;
+}
+
+.chart-node span {
+  display: block;
+  margin-top: 4px;
+  color: rgba(216, 210, 204, 0.64);
+  font-size: 0.66rem;
+  text-transform: uppercase;
+}
+
+.source-node,
+.convergence-node,
+.realization-node {
+  width: min(100%, 360px);
+  margin-inline: auto;
+}
+
+.source-node {
+  background: rgba(216, 210, 204, 0.1);
+}
+
+.branch-grid {
+  position: relative;
+  display: grid;
+  grid-template-columns: repeat(2, minmax(0, 1fr));
+  gap: 18px;
+}
+
+.dependency-lane {
+  display: grid;
+  gap: 22px;
+  align-content: start;
+}
+
+.dependency-lane .chart-node + .chart-node::before,
+.convergence-node::before,
+.realization-node::before {
+  position: absolute;
+  top: -23px;
+  left: 50%;
+  width: 1px;
+  height: 22px;
+  background: rgba(216, 210, 204, 0.44);
+  content: "";
+}
+
+.convergence-node::after {
+  position: absolute;
+  top: -23px;
+  left: 50%;
+  width: min(280px, 58vw);
+  height: 1px;
+  transform: translateX(-50%);
+  background: rgba(216, 210, 204, 0.3);
+  content: "";
+}
+
+.wdw-node {
+  border-color: rgba(244, 240, 236, 0.52);
+  background:
+    linear-gradient(145deg, rgba(244, 240, 236, 0.13), rgba(255, 255, 255, 0.032)),
+    rgba(18, 18, 20, 0.78);
+}
+
 .arc-focus-copy .plain,
 .arc-focus-copy .technical {
   color: var(--muted);
@@ -1378,8 +1467,20 @@ h3 {
   .yang-mills-list,
   .five-list,
   .pair-list,
-  .triptych-list {
+  .triptych-list,
+  .foundation-list,
+  .certificate-spine-list,
+  .realization-module-list,
+  .branch-grid {
     grid-template-columns: 1fr;
+  }
+
+  .closure-dependency-map {
+    gap: 18px;
+  }
+
+  .convergence-node::after {
+    display: none;
   }
 
   .search-result {
