@@ -394,6 +394,102 @@ h3 {
   text-transform: uppercase;
 }
 
+.paper-page {
+  min-height: 100vh;
+  background:
+    linear-gradient(rgba(17, 17, 18, 0.72), rgba(17, 17, 18, 0.92)),
+    url("assets/banner.jpg") top center / cover fixed,
+    var(--ink);
+}
+
+.paper-shell {
+  width: min(980px, calc(100% - 40px));
+  margin: 0 auto;
+  padding: 48px 0 72px;
+}
+
+.paper-back {
+  display: inline-flex;
+  margin-bottom: 18px;
+  border-bottom: 1px solid rgba(216, 210, 204, 0.58);
+  color: var(--silver);
+  font-size: 0.8rem;
+  font-weight: 900;
+  text-transform: uppercase;
+}
+
+.paper-record {
+  padding: clamp(24px, 5vw, 48px);
+  border: 1px solid var(--line);
+  border-radius: 8px;
+  background:
+    linear-gradient(145deg, rgba(255, 255, 255, 0.12), rgba(255, 255, 255, 0.03)),
+    rgba(20, 20, 22, 0.78);
+  box-shadow: var(--shadow);
+  backdrop-filter: blur(14px);
+}
+
+.paper-record h1 {
+  max-width: 900px;
+  margin-bottom: 14px;
+  font-size: clamp(2.3rem, 5vw, 4.8rem);
+  line-height: 0.96;
+}
+
+.paper-author {
+  color: var(--silver);
+  font-weight: 800;
+}
+
+.paper-meta-list {
+  display: grid;
+  gap: 12px;
+  margin-top: 28px;
+}
+
+.paper-meta-list div,
+.paper-index-row {
+  display: grid;
+  grid-template-columns: minmax(150px, 0.32fr) minmax(0, 1fr);
+  gap: 14px;
+  padding: 14px 0;
+  border-top: 1px solid rgba(216, 210, 204, 0.16);
+}
+
+.paper-meta-list dt,
+.paper-index-row span {
+  color: var(--muted);
+  font-size: 0.77rem;
+  font-weight: 900;
+  text-transform: uppercase;
+}
+
+.paper-meta-list dd {
+  min-width: 0;
+  margin: 0;
+  overflow-wrap: anywhere;
+}
+
+.paper-index-list {
+  display: grid;
+  gap: 0;
+  margin-top: 28px;
+}
+
+.paper-index-row {
+  color: var(--white);
+}
+
+.paper-index-row strong,
+.paper-index-row em {
+  overflow-wrap: anywhere;
+}
+
+.paper-index-row em {
+  color: var(--silver);
+  font-style: normal;
+}
+
 .zenodo-panel {
   margin-top: 74px;
   scroll-margin-top: 112px;
@@ -1493,6 +1589,11 @@ h3 {
   }
 
   .search-result {
+    grid-template-columns: 1fr;
+  }
+
+  .paper-meta-list div,
+  .paper-index-row {
     grid-template-columns: 1fr;
   }
 

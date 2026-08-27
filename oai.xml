@@ -1,0 +1,1543 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+  <responseDate>2026-08-27T11:47:17Z</responseDate>
+  <request verb="ListRecords" metadataPrefix="oai_dc">https://constraintsystemsinstitute.org/oai.xml</request>
+  <ListRecords>
+      <record>
+        <header><identifier>oai:constraintsystemsinstitute.org:a-classification-theorem-for-admissible-standard-model-structures-10-5281-zenodo-20039</identifier><datestamp>2026-05-05</datestamp></header>
+        <metadata>
+          <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+            <dc:title>A Classification Theorem for Admissible Standard-Model Structures</dc:title>
+            <dc:creator>Amos Jay Maley</dc:creator>
+            <dc:subject>AASC, Constraint Systems Institute, theoretical physics, mathematical foundations, A broader spine of major manuscripts across the archive., admissibility; standing equivalence; quotient invariance; classification theorem; Standard Model structure; gauge theory foundations; transport completeness; identity-preserving transformations; compositional systems; constraint-based physics; theoretical physics foundations; quantum field theory structure; symmetry and invariance; categorical physics; structural uniqueness; anomaly constraints; impossibility theorems; AASC framework</dc:subject>
+            <dc:description>Overview This paper establishes a classification theorem for admissible particle-physics bookkeeping structures at the Standard-Model level. The result is not a new dynamical model, parameter prediction, or phenomenological extension. Instead, it is a constraint-theoretic exhaustion result : Under admissibility, standing preservation, transport completeness, and reuse consistency, the admissible bookkeeping space contains a single occupant up to identity-preserving equivalence . Core Result The main theorem prov...</dc:description>
+            <dc:date>2026-05-05</dc:date>
+            <dc:type>Text</dc:type>
+            <dc:identifier>https://doi.org/10.5281/zenodo.20039309</dc:identifier>
+            <dc:identifier>https://constraintsystemsinstitute.org/papers/a-classification-theorem-for-admissible-standard-model-structures-10-5281-zenodo-20039/</dc:identifier>
+            <dc:language>en</dc:language>
+          </oai_dc:dc>
+        </metadata>
+      </record>
+      <record>
+        <header><identifier>oai:constraintsystemsinstitute.org:fields-as-persistence-carriers-10-5281-zenodo-20129504</identifier><datestamp>2026-05-12</datestamp></header>
+        <metadata>
+          <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+            <dc:title>Fields as Persistence Carriers</dc:title>
+            <dc:creator>Amos Jay Maley</dc:creator>
+            <dc:subject>AASC, Constraint Systems Institute, theoretical physics, mathematical foundations, A broader spine of major manuscripts across the archive., Standard Model, mass, charge, fields, AASC; field theory; persistence carriers; bounded perturbation transport; standing localization; continuation domains; quotient comparison; field-role assignment; carrier mediation; structural realism; foundational physics; gauge theory; quantum field theory; persistence theory; transport theory; philosophy of physics; continuation theory; local field structure; physical ontology</dc:subject>
+            <dc:description>Realized Physics Arc - Paper VI Fields as Persistence Carriers The Minimal Carrier Role of Physical Field Structure under Bounded Perturbation Transport By Amos Jay Maley This manuscript is the sixth paper in the Realized Physics Arc , deriving the minimal carrier role underlying physical field structure from the previously established framework of realized persistence, standing-localization, continuation-neighborhood domains, quotient comparison carriers, and bounded perturbation transport. The paper proves tha...</dc:description>
+            <dc:date>2026-05-12</dc:date>
+            <dc:type>Text</dc:type>
+            <dc:identifier>https://doi.org/10.5281/zenodo.20129504</dc:identifier>
+            <dc:identifier>https://constraintsystemsinstitute.org/papers/fields-as-persistence-carriers-10-5281-zenodo-20129504/</dc:identifier>
+            <dc:language>en</dc:language>
+          </oai_dc:dc>
+        </metadata>
+      </record>
+      <record>
+        <header><identifier>oai:constraintsystemsinstitute.org:gauge-structure-from-boundary-trace-fixation-10-5281-zenodo-20129593</identifier><datestamp>2026-05-12</datestamp></header>
+        <metadata>
+          <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+            <dc:title>Gauge Structure from Boundary-Trace Fixation</dc:title>
+            <dc:creator>Amos Jay Maley</dc:creator>
+            <dc:subject>AASC, Constraint Systems Institute, theoretical physics, mathematical foundations, A broader spine of major manuscripts across the archive., AASC; gauge theory; gauge structure; presentation equivalence; field-carrier mediation; particle persistence classes; boundary-trace fixation; quotient comparison; Yang–Mills theory; continuation domains; structural realism; foundational physics; gauge symmetry; gauge invariance; quantum field theory; Standard Model; continuation theory; philosophy of physics; local gauge structure</dc:subject>
+            <dc:description>Realized Physics Arc - Paper VIII Gauge Structure from Boundary-Trace Fixation Presentation Equivalence and the Minimal Gauge Role of Physical Carrier Structure By Amos Jay Maley This manuscript is the eighth paper in the Realized Physics Arc , deriving the minimal gauge role from the previously established framework of field-carrier mediation, particle persistence classes, bounded perturbation transport, quotient comparison structure, and boundary-trace fixation. The paper proves that once the same carrier-medi...</dc:description>
+            <dc:date>2026-05-12</dc:date>
+            <dc:type>Text</dc:type>
+            <dc:identifier>https://doi.org/10.5281/zenodo.20129593</dc:identifier>
+            <dc:identifier>https://constraintsystemsinstitute.org/papers/gauge-structure-from-boundary-trace-fixation-10-5281-zenodo-20129593/</dc:identifier>
+            <dc:language>en</dc:language>
+          </oai_dc:dc>
+        </metadata>
+      </record>
+      <record>
+        <header><identifier>oai:constraintsystemsinstitute.org:mass-inertia-and-persistence-compression-10-5281-zenodo-20129616</identifier><datestamp>2026-05-12</datestamp></header>
+        <metadata>
+          <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+            <dc:title>Mass, Inertia, and Persistence Compression</dc:title>
+            <dc:creator>Amos Jay Maley</dc:creator>
+            <dc:subject>AASC, Constraint Systems Institute, theoretical physics, mathematical foundations, A broader spine of major manuscripts across the archive., Standard Model, mass, charge, fields, AASC; mass; inertia; persistence compression; particle persistence classes; field-carrier mediation; deformation response; quotient comparison; gauge compatibility; bounded perturbation transport; Standard Model; Higgs mechanism; structural realism; foundational physics; transport theory; persistence theory; quantum field theory; continuation theory; philosophy of physics</dc:subject>
+            <dc:description>Realized Physics Arc - Paper IX Mass, Inertia, and Persistence Compression The Deformation-Resistance Role of Particle Identity under Field-Carrier Mediation By Amos Jay Maley This manuscript is the ninth paper in the Realized Physics Arc , deriving the minimal mass/inertia role from the previously established framework of field-carrier mediation, particle persistence classes, gauge-role structure, bounded perturbation transport, and quotient comparison structure. The paper proves that mass and inertia first ent...</dc:description>
+            <dc:date>2026-05-12</dc:date>
+            <dc:type>Text</dc:type>
+            <dc:identifier>https://doi.org/10.5281/zenodo.20129616</dc:identifier>
+            <dc:identifier>https://constraintsystemsinstitute.org/papers/mass-inertia-and-persistence-compression-10-5281-zenodo-20129616/</dc:identifier>
+            <dc:language>en</dc:language>
+          </oai_dc:dc>
+        </metadata>
+      </record>
+      <record>
+        <header><identifier>oai:constraintsystemsinstitute.org:matter-antimatter-asymmetry-as-the-unique-admissible-reconstruction-of-persistent-cosm</identifier><datestamp>2026-06-16</datestamp></header>
+        <metadata>
+          <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+            <dc:title>Matter–Antimatter Asymmetry as the Unique Admissible Reconstruction of Persistent Cosmological Identity</dc:title>
+            <dc:creator>Amos Jay Maley</dc:creator>
+            <dc:subject>AASC, Constraint Systems Institute, theoretical physics, mathematical foundations, A broader spine of major manuscripts across the archive., admissible construction; standing; admissibility; matter–antimatter asymmetry; baryogenesis; irreversibility; identity persistence; structural constraint; closure theorem; formal epistemology; cosmology foundations; quantum foundations (structural); constraint-based physics; CP violation; CPT symmetry; structural cosmology; Sakharov conditions; leptogenesis; electroweak baryogenesis</dc:subject>
+            <dc:description>Overview This paper develops an AASC account of matter-antimatter asymmetry as a structural reconstruction theorem rather than a new baryogenesis mechanism. It does not alter Standard Model dynamics, derive the baryon-to-photon ratio, compute CP-sector numerical values, or select a specific physical mechanism such as leptogenesis or electroweak baryogenesis. The central question is prior to mechanism-building: under what conditions can a cosmological history support persistent material reference after irreversib...</dc:description>
+            <dc:date>2026-06-16</dc:date>
+            <dc:type>Text</dc:type>
+            <dc:identifier>https://doi.org/10.5281/zenodo.18515505</dc:identifier>
+            <dc:identifier>https://constraintsystemsinstitute.org/papers/matter-antimatter-asymmetry-as-the-unique-admissible-reconstruction-of-persistent-cosm/</dc:identifier>
+            <dc:language>en</dc:language>
+          </oai_dc:dc>
+        </metadata>
+      </record>
+      <record>
+        <header><identifier>oai:constraintsystemsinstitute.org:neutrino-oscillation-as-the-unique-admissible-reconstruction-of-flavor-under-noncommut</identifier><datestamp>2026-05-07</datestamp></header>
+        <metadata>
+          <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+            <dc:title>Neutrino Oscillation as the Unique Admissible Reconstruction of Flavor Under Noncommuting Propagation</dc:title>
+            <dc:creator>Amos Jay Maley</dc:creator>
+            <dc:subject>AASC, Constraint Systems Institute, theoretical physics, mathematical foundations, A broader spine of major manuscripts across the archive., neutrino oscillation; PMNS matrix; weak flavor; admissible reconstruction; boundary witnesses; partial operators; Standard Model; beyond Standard Model physics; sterile neutrinos; neutrino phenomenology; mathematical physics; foundations of physics; witness algebra; structural necessity; AASC</dc:subject>
+            <dc:description>This paper develops a reconstruction-theoretic account of neutrino oscillation as a structural consequence of admissible boundary-to-boundary witness preservation under coherent PMNS propagation. Rather than proposing new neutrino dynamics or modifying the Standard Model, the paper analyzes the status of weak-flavor identity within a constrained reconstruction framework. Weak flavor is treated as a boundary-defined witness fixed by charged-current interaction events, not as a globally transported propagation-inv...</dc:description>
+            <dc:date>2026-05-07</dc:date>
+            <dc:type>Text</dc:type>
+            <dc:identifier>https://doi.org/10.5281/zenodo.20065053</dc:identifier>
+            <dc:identifier>https://constraintsystemsinstitute.org/papers/neutrino-oscillation-as-the-unique-admissible-reconstruction-of-flavor-under-noncommut/</dc:identifier>
+            <dc:language>en</dc:language>
+          </oai_dc:dc>
+        </metadata>
+      </record>
+      <record>
+        <header><identifier>oai:constraintsystemsinstitute.org:non-instantiability-of-g-del-incompleteness-in-the-unique-admissible-interior-stand-al</identifier><datestamp>2026-04-08</datestamp></header>
+        <metadata>
+          <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+            <dc:title>Non-Instantiability of Gödel Incompleteness in the Unique Admissible Interior (Stand alone version)</dc:title>
+            <dc:creator>Amos Jay Maley</dc:creator>
+            <dc:subject>AASC, Constraint Systems Institute, theoretical physics, mathematical foundations, A broader spine of major manuscripts across the archive., Gödel incompleteness; non-instantiability; admissible interior; standing; inferential governance; trajectory closure; AMetric boundary; Lean 4 formalization; philosophy of logic</dc:subject>
+            <dc:description>Non-Instantiability of Godel Incompleteness in the Unique Admissible Interior Self-contained Audit Edition Amos Jay Maley April 8, 2026 • 62 pages This paper presents a fully self-contained audit edition of a domain-of-instantiability result concerning Godel-style incompleteness objections to governance-level closure. It does not challenge the classical incompleteness theorems in their standard arithmetized setting. Instead, with all load-bearing dependencies reproduced in a single document, it proves that the s...</dc:description>
+            <dc:date>2026-04-08</dc:date>
+            <dc:type>Text</dc:type>
+            <dc:identifier>https://doi.org/10.5281/zenodo.20277902</dc:identifier>
+            <dc:identifier>https://constraintsystemsinstitute.org/papers/non-instantiability-of-g-del-incompleteness-in-the-unique-admissible-interior-stand-al/</dc:identifier>
+            <dc:language>en</dc:language>
+          </oai_dc:dc>
+        </metadata>
+      </record>
+      <record>
+        <header><identifier>oai:constraintsystemsinstitute.org:on-the-non-quantizability-of-gravity-and-constraint-induced-rigidity-of-physical-struc</identifier><datestamp>2026-04-30</datestamp></header>
+        <metadata>
+          <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+            <dc:title>On the Non-Quantizability of Gravity and Constraint-Induced Rigidity of Physical Structure</dc:title>
+            <dc:creator>Amos Jay Maley</dc:creator>
+            <dc:subject>AASC, Constraint Systems Institute, theoretical physics, mathematical foundations, A broader spine of major manuscripts across the archive., gravity, quantum theory, Einstein dynamics, Schrodinger dynamics, quantum gravity; quantization obstruction; admissibility; constraint-induced rigidity; mathematical physics; constrained Hamiltonian systems; symplectic geometry; Hilbert space reconstruction; Schrödinger dynamics; structural physics; theoretical physics foundations; no-go theorem</dc:subject>
+            <dc:description>Description This work proves a closure theorem for primitive attempts to quantize gravity . It shows that, when quantization is formulated in standard mathematical-physics terms, any same-domain construction mapping classical gravitational structure to quantum structure must diverge in a finite set of technical loci. These loci include representation choice, observable assignment, constraint closure, state-space definition, measure or inner-product selection, boundary extraction, and admissible continuation. Usi...</dc:description>
+            <dc:date>2026-04-30</dc:date>
+            <dc:type>Text</dc:type>
+            <dc:identifier>https://doi.org/10.5281/zenodo.19905222</dc:identifier>
+            <dc:identifier>https://constraintsystemsinstitute.org/papers/on-the-non-quantizability-of-gravity-and-constraint-induced-rigidity-of-physical-struc/</dc:identifier>
+            <dc:language>en</dc:language>
+          </oai_dc:dc>
+        </metadata>
+      </record>
+      <record>
+        <header><identifier>oai:constraintsystemsinstitute.org:on-the-structural-origin-of-cosmological-parameter-tensions-and-transport-induced-dive</identifier><datestamp>2026-04-30</datestamp></header>
+        <metadata>
+          <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+            <dc:title>On the Structural Origin of Cosmological Parameter Tensions and Transport-Induced Divergence (Hubble Tension)</dc:title>
+            <dc:creator>Amos Jay Maley</dc:creator>
+            <dc:subject>AASC, Constraint Systems Institute, theoretical physics, mathematical foundations, A broader spine of major manuscripts across the archive., cosmology; Hubble tension; cosmological parameter tensions; ΛCDM; dark energy; cosmic expansion; mathematical physics; theoretical cosmology; cosmological inference; parameter estimation; constraint-induced rigidity; AASC</dc:subject>
+            <dc:description>Overview Cosmological parameter tensions-especially the mismatch in the Hubble constant between early- and late-universe measurements-are usually treated as signs of new physics. This paper proves that such tensions arise as a structurally necessary consequence of transport-induced divergence in cosmological inference . Core Idea Cosmological inference is modeled as a data-model-parameter-projection tuple . A valid theory must admit a single admissibility-preserving transport between early- and late-universe reg...</dc:description>
+            <dc:date>2026-04-30</dc:date>
+            <dc:type>Text</dc:type>
+            <dc:identifier>https://doi.org/10.5281/zenodo.19907827</dc:identifier>
+            <dc:identifier>https://constraintsystemsinstitute.org/papers/on-the-structural-origin-of-cosmological-parameter-tensions-and-transport-induced-dive/</dc:identifier>
+            <dc:language>en</dc:language>
+          </oai_dc:dc>
+        </metadata>
+      </record>
+      <record>
+        <header><identifier>oai:constraintsystemsinstitute.org:particles-as-localized-persistence-classes-10-5281-zenodo-20129538</identifier><datestamp>2026-05-12</datestamp></header>
+        <metadata>
+          <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+            <dc:title>Particles as Localized Persistence Classes</dc:title>
+            <dc:creator>Amos Jay Maley</dc:creator>
+            <dc:subject>AASC, Constraint Systems Institute, theoretical physics, mathematical foundations, A broader spine of major manuscripts across the archive., AASC; particle identity; persistence classes; field-carrier mediation; bounded perturbation transport; continuation domains; standing localization; quotient comparison; quantum field theory; Standard Model; particle ontology; persistence theory; structural realism; foundational physics; gauge theory; localized persistence; continuation theory; philosophy of physics; quantum foundations</dc:subject>
+            <dc:description>Realized Physics Arc - Paper VII Particles as Localized Persistence Classes The Minimal Object Role of Particle Identity under Field-Carrier Mediation By Amos Jay Maley This manuscript is the seventh paper in the Realized Physics Arc , deriving the minimal persistence-class role underlying particle identity from the previously established framework of realized persistence, standing-localization, continuation-neighborhood domains, quotient comparison carriers, bounded perturbation transport, and field-carrier med...</dc:description>
+            <dc:date>2026-05-12</dc:date>
+            <dc:type>Text</dc:type>
+            <dc:identifier>https://doi.org/10.5281/zenodo.20129538</dc:identifier>
+            <dc:identifier>https://constraintsystemsinstitute.org/papers/particles-as-localized-persistence-classes-10-5281-zenodo-20129538/</dc:identifier>
+            <dc:language>en</dc:language>
+          </oai_dc:dc>
+        </metadata>
+      </record>
+      <record>
+        <header><identifier>oai:constraintsystemsinstitute.org:the-metric-role-from-continuation-comparison-10-5281-zenodo-20129423</identifier><datestamp>2026-05-12</datestamp></header>
+        <metadata>
+          <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+            <dc:title>The Metric Role from Continuation Comparison</dc:title>
+            <dc:creator>Amos Jay Maley</dc:creator>
+            <dc:subject>AASC, Constraint Systems Institute, theoretical physics, mathematical foundations, A broader spine of major manuscripts across the archive., AASC; metricity; proto-metric structure; comparative representation; continuation comparison; standing localization; continuation-neighborhoods; quotient comparison carrier; overlap stability; transport coherence; structural realism; foundational physics; spacetime reconstruction; metric geometry; Lorentzian geometry; quantum foundations; philosophy of physics; continuation theory; geometry reconstruction</dc:subject>
+            <dc:description>Realized Physics Arc - Paper IV The Metric Role from Continuation Comparison Proto-Metric Representation as a Secondary Stability Structure By Amos Jay Maley This manuscript is the fourth paper in the Realized Physics Arc , deriving the first admissible metric-facing structure from the previously established non-vacuous persistence, standing-localization, and continuation-neighborhood framework. The paper proves that stable comparison among local continuation domains cannot arise from primitive metrics, coordina...</dc:description>
+            <dc:date>2026-05-12</dc:date>
+            <dc:type>Text</dc:type>
+            <dc:identifier>https://doi.org/10.5281/zenodo.20129423</dc:identifier>
+            <dc:identifier>https://constraintsystemsinstitute.org/papers/the-metric-role-from-continuation-comparison-10-5281-zenodo-20129423/</dc:identifier>
+            <dc:language>en</dc:language>
+          </oai_dc:dc>
+        </metadata>
+      </record>
+      <record>
+        <header><identifier>oai:constraintsystemsinstitute.org:the-realized-physical-interior-10-5281-zenodo-20129729</identifier><datestamp>2026-06-13</datestamp></header>
+        <metadata>
+          <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+            <dc:title>The Realized Physical Interior</dc:title>
+            <dc:creator>Amos Jay Maley</dc:creator>
+            <dc:subject>AASC, Constraint Systems Institute, theoretical physics, mathematical foundations, A broader spine of major manuscripts across the archive., AASC; realized physical interior; realized physics; physical persistence; locality; metric role; field-carrier mediation; particle identity; gauge structure; mass and inertia; vacuum structure; time and causality; bounded perturbation transport; quotient comparison; structural realism; foundational physics; quantum field theory; general relativity; philosophy of physics</dc:subject>
+            <dc:description>Overview This paper presents a flagship synthesis of the realized physical interior under the Admissibility And Standing Constraint (AASC) mathematical necessity-constraint formalism. Its central claim is that physical theories become about a realized physical regime only when their formal structures occupy a standing-bearing role architecture: one in which physical content can persist, be referenced, survive lawful redescription, and undergo irreversible continuation without same-act repair. The paper does not...</dc:description>
+            <dc:date>2026-06-13</dc:date>
+            <dc:type>Text</dc:type>
+            <dc:identifier>https://doi.org/10.5281/zenodo.20129729</dc:identifier>
+            <dc:identifier>https://constraintsystemsinstitute.org/papers/the-realized-physical-interior-10-5281-zenodo-20129729/</dc:identifier>
+            <dc:language>en</dc:language>
+          </oai_dc:dc>
+        </metadata>
+      </record>
+      <record>
+        <header><identifier>oai:constraintsystemsinstitute.org:time-and-causality-from-irreversible-continuation-ordering-10-5281-zenodo-20129710</identifier><datestamp>2026-05-12</datestamp></header>
+        <metadata>
+          <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+            <dc:title>Time and Causality from Irreversible Continuation Ordering</dc:title>
+            <dc:creator>Amos Jay Maley</dc:creator>
+            <dc:subject>AASC, Constraint Systems Institute, theoretical physics, mathematical foundations, A broader spine of major manuscripts across the archive., AASC; time; causality; irreversible continuation; persistence ordering; witness dependence; bounded perturbation transport; field-carrier mediation; particle persistence classes; temporal order; causal structure; structural realism; foundational physics; thermodynamic arrow; relativistic causality; continuation theory; persistence theory; philosophy of physics; quantum foundations</dc:subject>
+            <dc:description>Realized Physics Arc - Paper XI Time and Causality from Irreversible Continuation Ordering The Temporal and Causal Roles of Standing-Preserving Physical Persistence By Amos Jay Maley This manuscript is the eleventh paper in the Realized Physics Arc , deriving the minimal temporal and causal roles from the previously established framework of realized persistence, field-carrier mediation, particle persistence classes, gauge structure, mass/inertia response, bounded perturbation transport, and vacuum baseline struc...</dc:description>
+            <dc:date>2026-05-12</dc:date>
+            <dc:type>Text</dc:type>
+            <dc:identifier>https://doi.org/10.5281/zenodo.20129710</dc:identifier>
+            <dc:identifier>https://constraintsystemsinstitute.org/papers/time-and-causality-from-irreversible-continuation-ordering-10-5281-zenodo-20129710/</dc:identifier>
+            <dc:language>en</dc:language>
+          </oai_dc:dc>
+        </metadata>
+      </record>
+      <record>
+        <header><identifier>oai:constraintsystemsinstitute.org:vacuum-as-minimal-concrete-persistence-regime-10-5281-zenodo-20129656</identifier><datestamp>2026-05-12</datestamp></header>
+        <metadata>
+          <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+            <dc:title>Vacuum as Minimal Concrete Persistence Regime</dc:title>
+            <dc:creator>Amos Jay Maley</dc:creator>
+            <dc:subject>AASC, Constraint Systems Institute, theoretical physics, mathematical foundations, A broader spine of major manuscripts across the archive., AASC; vacuum structure; field-carrier mediation; particle persistence classes; non-null persistence; vacuum baseline; quantum vacuum; zero-point structure; bounded perturbation transport; quotient comparison; gauge structure; structural realism; foundational physics; cosmological constant; dark energy; continuation theory; persistence theory; philosophy of physics; quantum field theory</dc:subject>
+            <dc:description>Realized Physics Arc - Paper X Vacuum as Minimal Concrete Persistence Regime The Non-Null Baseline Role of Field-Carrier Structure By Amos Jay Maley This manuscript is the tenth paper in the Realized Physics Arc , deriving the minimal vacuum role from the previously established framework of field-carrier mediation, particle persistence classes, gauge structure, mass/inertia response, bounded perturbation transport, and quotient comparison structure. The paper proves that removing localized particle-class excitat...</dc:description>
+            <dc:date>2026-05-12</dc:date>
+            <dc:type>Text</dc:type>
+            <dc:identifier>https://doi.org/10.5281/zenodo.20129656</dc:identifier>
+            <dc:identifier>https://constraintsystemsinstitute.org/papers/vacuum-as-minimal-concrete-persistence-regime-10-5281-zenodo-20129656/</dc:identifier>
+            <dc:language>en</dc:language>
+          </oai_dc:dc>
+        </metadata>
+      </record>
+      <record>
+        <header><identifier>oai:constraintsystemsinstitute.org:a-fixed-domain-exhaustion-theorem-10-5281-zenodo-18682423</identifier><datestamp>2026-04-21</datestamp></header>
+        <metadata>
+          <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+            <dc:title>A Fixed-Domain Exhaustion Theorem</dc:title>
+            <dc:creator>Amos Jay Maley</dc:creator>
+            <dc:subject>AASC, Constraint Systems Institute, theoretical physics, mathematical foundations, AASC Foundations, admissibility; standing equivalence; structural exhaustion; formal systems; invariance; auditability; exhaustion theorem; irreversibility; fixed-domain analysis; logical structure; identity-preserving; non-derivability</dc:subject>
+            <dc:description>A Fixed-Domain Exhaustion Theorem for Admissibility-Governed Construction 🔷 Overview This paper establishes a closure result by exhaustion for admissibility-bearing structure within a precisely defined comparison class. Rather than enumerating possibilities, the result is derived by showing that: all admissibility-bearing variation must enter through a finite set of structural loci , and each such locus is individually closed under admissibility constraints. The conclusion is a theoremic exhaustion : no additio...</dc:description>
+            <dc:date>2026-04-21</dc:date>
+            <dc:type>Text</dc:type>
+            <dc:identifier>https://doi.org/10.5281/zenodo.18682423</dc:identifier>
+            <dc:identifier>https://constraintsystemsinstitute.org/papers/a-fixed-domain-exhaustion-theorem-10-5281-zenodo-18682423/</dc:identifier>
+            <dc:language>en</dc:language>
+          </oai_dc:dc>
+        </metadata>
+      </record>
+      <record>
+        <header><identifier>oai:constraintsystemsinstitute.org:non-degenerate-construction-and-the-kernel-of-admissibility-10-5281-zenodo-19324199</identifier><datestamp>2026-06-17</datestamp></header>
+        <metadata>
+          <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+            <dc:title>Non-Degenerate Construction and the Kernel of Admissibility</dc:title>
+            <dc:creator>Amos Jay Maley</dc:creator>
+            <dc:subject>AASC, Constraint Systems Institute, theoretical physics, mathematical foundations, AASC Foundations, admissibility; standing; foundational closure; non-derivability; kernel of non-degenerate reasoning; mutual closure; minimality; transport closure; quotient identity; scope-preserving invariance; Lean 4; formal proof systems; irreducible kernel</dc:subject>
+            <dc:description>Overview This paper establishes the minimal structural conditions under which a sequence of steps qualifies as the construction of a determinate object on a fixed domain. It is not a theory of psychological reasoning, informal inference, or a new proof calculus. It is a fixed-domain constraint theorem about admissible construction under identity-preserving conditions. The central object is the fixed-domain kernel structure [ \mathcal K_D=(K,\simeq_{\mathrm{gov}},\mathcal I_D), \qquad K={\mathrm{Adm},\mathrm{St},...</dc:description>
+            <dc:date>2026-06-17</dc:date>
+            <dc:type>Text</dc:type>
+            <dc:identifier>https://doi.org/10.5281/zenodo.19324199</dc:identifier>
+            <dc:identifier>https://constraintsystemsinstitute.org/papers/non-degenerate-construction-and-the-kernel-of-admissibility-10-5281-zenodo-19324199/</dc:identifier>
+            <dc:language>en</dc:language>
+          </oai_dc:dc>
+        </metadata>
+      </record>
+      <record>
+        <header><identifier>oai:constraintsystemsinstitute.org:the-structure-of-admissibility-10-5281-zenodo-19198249</identifier><datestamp>2026-06-19</datestamp></header>
+        <metadata>
+          <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+            <dc:title>The Structure of Admissibility</dc:title>
+            <dc:creator>Amos Jay Maley</dc:creator>
+            <dc:subject>AASC, Constraint Systems Institute, theoretical physics, mathematical foundations, AASC Foundations, admissibility; AMetric boundary; bivalence; standing; conservation of standing; lawful redescription; reference-stable invariants; compositional systems; non-degenerate transformations; irreversible commitment; fail-closed necessity</dc:subject>
+            <dc:description>Primitive Paper 2 of 2 Overview This paper is the second paper in the primitive AASC series. The preceding kernel paper establishes the fixed-domain governance roles required for non-degenerate construction: admissibility, standing, reference, and irreversibility. The present paper assumes that kernel result and studies the next question: once the AASC interface is operative, what structure must admissibility itself have? The paper does not attempt to rederive admissibility, standing, reference, or irreversibili...</dc:description>
+            <dc:date>2026-06-19</dc:date>
+            <dc:type>Text</dc:type>
+            <dc:identifier>https://doi.org/10.5281/zenodo.19198249</dc:identifier>
+            <dc:identifier>https://constraintsystemsinstitute.org/papers/the-structure-of-admissibility-10-5281-zenodo-19198249/</dc:identifier>
+            <dc:language>en</dc:language>
+          </oai_dc:dc>
+        </metadata>
+      </record>
+      <record>
+        <header><identifier>oai:constraintsystemsinstitute.org:ametric-normal-form-homology-black-hole-arc-3-10-5281-zenodo-20835451</identifier><datestamp>2026-06-30</datestamp></header>
+        <metadata>
+          <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+            <dc:title>AMetric Normal-Form Homology (Black Hole ARC 3)</dc:title>
+            <dc:creator>Amos Jay Maley</dc:creator>
+            <dc:subject>AASC, Constraint Systems Institute, theoretical physics, mathematical foundations, Black Hole endpoint sequence, Papers 0-4, AASC; AMetric boundary; normal-form homology; black holes; horizon-isolated residue; residual coherence; governance-depth; null-regime closure; bivalence; metricity; Einstein projection; foundations of physics; philosophy of physics; constraint formalism; structural theorem; metric-support exhaustion; black-hole endpoint; origin-side licensing; endpoint-side exhaustion</dc:subject>
+            <dc:description>Overview This manuscript is Paper III of the AASC Black-Hole Endpoint Arc . It proves the AMetric normal-form homology theorem connecting origin-side licensing and endpoint-side exhaustion. The paper preserves the dependency order: kernel→AMetric invariant→licensed physical interior→metric projection→black-hole endpoint exposure\text{kernel} \rightarrow \text{AMetric invariant} \rightarrow \text{licensed physical interior} \rightarrow \text{metric projection} \rightarrow \text{black-hole endpoint exposure} kerne...</dc:description>
+            <dc:date>2026-06-30</dc:date>
+            <dc:type>Text</dc:type>
+            <dc:identifier>https://doi.org/10.5281/zenodo.20835451</dc:identifier>
+            <dc:identifier>https://constraintsystemsinstitute.org/papers/ametric-normal-form-homology-black-hole-arc-3-10-5281-zenodo-20835451/</dc:identifier>
+            <dc:language>en</dc:language>
+          </oai_dc:dc>
+        </metadata>
+      </record>
+      <record>
+        <header><identifier>oai:constraintsystemsinstitute.org:black-holes-as-constraint-forced-origins-black-hole-arc-4-10-5281-zenodo-21053982</identifier><datestamp>2026-06-30</datestamp></header>
+        <metadata>
+          <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+            <dc:title>Black Holes as Constraint-Forced Origins (Black Hole ARC 4)</dc:title>
+            <dc:creator>Amos Jay Maley</dc:creator>
+            <dc:subject>AASC, Constraint Systems Institute, theoretical physics, mathematical foundations, Black Hole endpoint sequence, Papers 0-4, AASC; black holes; constraint-forced origins; Counter-Boundary Universe Theorem; fresh internal governed domain; AMetric boundary; no crossing; no inheritance; origin of universes; multiple universes; philosophy of cosmology; quantum gravity; general relativity; black-hole endpoints; boundary-pair classification; null-route closure; route exhaustion; kernel minimality; constraint recurrence; spacetime ontology</dc:subject>
+            <dc:description>Overview This manuscript is Paper IV of the AASC Black-Hole Endpoint Arc . It proves the Counter-Boundary Universe Theorem. The paper begins where AMetric Normal-Form Homology stops. Paper III establishes: token-distinct AMetric boundary-profile equality; no crossing; no inheritance; no cyclicity; no causal production; no energy transfer; no information transfer; no law transfer; no populated successor domain. Paper IV asks what counter-boundary status remains once those restrictions are preserved. Central Resul...</dc:description>
+            <dc:date>2026-06-30</dc:date>
+            <dc:type>Text</dc:type>
+            <dc:identifier>https://doi.org/10.5281/zenodo.21053982</dc:identifier>
+            <dc:identifier>https://constraintsystemsinstitute.org/papers/black-holes-as-constraint-forced-origins-black-hole-arc-4-10-5281-zenodo-21053982/</dc:identifier>
+            <dc:language>en</dc:language>
+          </oai_dc:dc>
+        </metadata>
+      </record>
+      <record>
+        <header><identifier>oai:constraintsystemsinstitute.org:black-holes-as-licensed-limit-regimes-black-hole-arc-0-10-5281-zenodo-20727174</identifier><datestamp>2026-06-30</datestamp></header>
+        <metadata>
+          <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+            <dc:title>Black Holes as Licensed Limit Regimes (Black Hole ARC 0)</dc:title>
+            <dc:creator>Amos Jay Maley</dc:creator>
+            <dc:subject>AASC, Constraint Systems Institute, theoretical physics, mathematical foundations, Black Hole endpoint sequence, Papers 0-4, AASC; black holes; event horizons; horizon reconstruction; information paradox; exterior standing; witness algebra; no-totalization theorem; Horizon Isolation Lemma; singularities; black-hole thermodynamics; entropy; Hawking radiation; Page curve; holography; fuzzballs; quantum gravity; foundations of physics</dc:subject>
+            <dc:description>Overview This manuscript is Paper 0 of the AASC Black-Hole Endpoint Arc . It serves as the orientation and role-classification paper for the series. The paper treats black holes as licensed limit regimes under AASC, not as primitive ontological containers. Its purpose is to separate: classical metric representatives; exterior black-hole quotient structure; admissible horizon reconstruction objects; parameter ledgers; thermodynamic ledgers; information and reconstruction claims; downstream quantum-gravity proposa...</dc:description>
+            <dc:date>2026-06-30</dc:date>
+            <dc:type>Text</dc:type>
+            <dc:identifier>https://doi.org/10.5281/zenodo.20727174</dc:identifier>
+            <dc:identifier>https://constraintsystemsinstitute.org/papers/black-holes-as-licensed-limit-regimes-black-hole-arc-0-10-5281-zenodo-20727174/</dc:identifier>
+            <dc:language>en</dc:language>
+          </oai_dc:dc>
+        </metadata>
+      </record>
+      <record>
+        <header><identifier>oai:constraintsystemsinstitute.org:horizon-instability-as-an-admissible-reconstruction-obstruction-black-hole-arc-1-10-52</identifier><datestamp>2026-06-30</datestamp></header>
+        <metadata>
+          <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+            <dc:title>Horizon Instability as an Admissible Reconstruction Obstruction (Black Hole ARC 1)</dc:title>
+            <dc:creator>Amos Jay Maley</dc:creator>
+            <dc:subject>AASC, Constraint Systems Institute, theoretical physics, mathematical foundations, Black Hole endpoint sequence, Papers 0-4, black holes; event horizons; horizon instability; black hole information paradox; admissibility; standing; reconstruction theory; partial operator obstruction; AQFT; holography; exterior reconstruction; quantum gravity foundations; structural physics; AASC; mathematical physics foundations</dc:subject>
+            <dc:description>Overview This manuscript is Paper I of the AASC Black-Hole Endpoint Arc . It proves the exterior no-totalization theorem for uncertified horizon reconstruction. The paper asks a narrow question: Can an uncertified permanent horizon remain a continuing same-scope standing-preserving exterior reconstruction object? The answer is no. Central Result In a fixed exterior black-hole reconstruction scope, a threatened reference class must be preserved by an admissible exterior route. Acceptable routes include: leakage;...</dc:description>
+            <dc:date>2026-06-30</dc:date>
+            <dc:type>Text</dc:type>
+            <dc:identifier>https://doi.org/10.5281/zenodo.20073764</dc:identifier>
+            <dc:identifier>https://constraintsystemsinstitute.org/papers/horizon-instability-as-an-admissible-reconstruction-obstruction-black-hole-arc-1-10-52/</dc:identifier>
+            <dc:language>en</dc:language>
+          </oai_dc:dc>
+        </metadata>
+      </record>
+      <record>
+        <header><identifier>oai:constraintsystemsinstitute.org:standingless-interiors-and-residual-coherence-black-hole-arc-2-10-5281-zenodo-20727246</identifier><datestamp>2026-06-30</datestamp></header>
+        <metadata>
+          <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+            <dc:title>Standingless Interiors and Residual Coherence (Black Hole ARC 2)</dc:title>
+            <dc:creator>Amos Jay Maley</dc:creator>
+            <dc:subject>AASC, Constraint Systems Institute, theoretical physics, mathematical foundations, Black Hole endpoint sequence, Papers 0-4, AASC; black holes; black-hole interiors; residual coherence; standing transport; horizon-isolated carriers; AMetric boundary; metric projection; AASC-GR; governance-depth; measurement standing; matter-energy residualization; time; causality; information paradox; quantum gravity; foundations of physic</dc:subject>
+            <dc:description>Overview This manuscript is Paper II of the AASC Black-Hole Endpoint Arc . It develops the interior consequence of the exterior horizon obstruction. The paper begins after Paper I&apos;s result: crossed standing is broken; old-scope standing transport is undefined; no leakage, certificate, non-sink quotient, or declared new governance is supplied. It asks: What is the status of the horizon-isolated carrier after standing transport fails? Central Result The horizon-isolated carrier is not an ordinary same-scope standi...</dc:description>
+            <dc:date>2026-06-30</dc:date>
+            <dc:type>Text</dc:type>
+            <dc:identifier>https://doi.org/10.5281/zenodo.20727246</dc:identifier>
+            <dc:identifier>https://constraintsystemsinstitute.org/papers/standingless-interiors-and-residual-coherence-black-hole-arc-2-10-5281-zenodo-20727246/</dc:identifier>
+            <dc:language>en</dc:language>
+          </oai_dc:dc>
+        </metadata>
+      </record>
+      <record>
+        <header><identifier>oai:constraintsystemsinstitute.org:gauge-coupling-parameters-and-forced-uniqueness-under-admissible-redescription-constan</identifier><datestamp>2026-05-02</datestamp></header>
+        <metadata>
+          <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+            <dc:title>Gauge-Coupling Parameters and Forced Uniqueness under Admissible Redescription (Constants)</dc:title>
+            <dc:creator>Amos Jay Maley</dc:creator>
+            <dc:subject>AASC, Constraint Systems Institute, theoretical physics, mathematical foundations, Charge lattice, couplings, and redescription rigidity, Gauge coupling; admissible redescription; forced uniqueness; forced coincidence; renormalization group; tensor invariants; admissibility; representation invariance; physical invariance; operator exhaustion; quantum field theory; philosophy of physics; foundations of physics</dc:subject>
+            <dc:description>Overview This paper examines whether gauge-coupling parameters can carry forced uniqueness under admissible redescription. It argues that raw numeric gauge-coupling values are chart-level quantities whose values vary under admissible reparameterization, and therefore cannot function as standing-bearing invariants. Negative Result Admissibility constraints do not collapse continuous gauge-coupling freedom to a unique numeric value. Standard routes to numeric uniqueness fail to generate a unique raw coupling value...</dc:description>
+            <dc:date>2026-05-02</dc:date>
+            <dc:type>Text</dc:type>
+            <dc:identifier>https://doi.org/10.5281/zenodo.19977506</dc:identifier>
+            <dc:identifier>https://constraintsystemsinstitute.org/papers/gauge-coupling-parameters-and-forced-uniqueness-under-admissible-redescription-constan/</dc:identifier>
+            <dc:language>en</dc:language>
+          </oai_dc:dc>
+        </metadata>
+      </record>
+      <record>
+        <header><identifier>oai:constraintsystemsinstitute.org:no-legal-claim-beyond-its-carrier-claim-status-warrant-under-aasc-10-5281-zenodo-20449</identifier><datestamp>2026-05-29</datestamp></header>
+        <metadata>
+          <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+            <dc:title>No Legal Claim Beyond Its Carrier: Claim-Status Warrant under AASC</dc:title>
+            <dc:creator>Amos Jay Maley</dc:creator>
+            <dc:subject>AASC, Constraint Systems Institute, theoretical physics, mathematical foundations, Claim Standing and Legitimacy, AASC; claim-status warrant; evidence law; expert testimony; forensic science; probative value; chain of custody; machine-generated evidence; AI evidence; laundering exclusion; legal inference; legal epistemology; causation; legal reasoning; evidence networks; witness convergence; legal proof theory; legal methodology; jurisprudence; philosophy of law</dc:subject>
+            <dc:description>No Legal Claim Beyond Its Carrier: Claim-Status Warrant under AASC This paper develops a legal-domain application of the Admissibility And Standing Constraint (AASC) and Universal Exactness Audit Protocol (UEAP), introducing a formal framework for evaluating when a legal or evidentiary claim may be reported at a given status without exceeding the warrant supplied by its supporting carrier. The central thesis is that many evidentiary and legal failures arise not from false evidence, but from illicit claim-status...</dc:description>
+            <dc:date>2026-05-29</dc:date>
+            <dc:type>Text</dc:type>
+            <dc:identifier>https://doi.org/10.5281/zenodo.20449059</dc:identifier>
+            <dc:identifier>https://constraintsystemsinstitute.org/papers/no-legal-claim-beyond-its-carrier-claim-status-warrant-under-aasc-10-5281-zenodo-20449/</dc:identifier>
+            <dc:language>en</dc:language>
+          </oai_dc:dc>
+        </metadata>
+      </record>
+      <record>
+        <header><identifier>oai:constraintsystemsinstitute.org:complete-certificate-closure-10-5281-zenodo-21616613</identifier><datestamp>2026-08-27</datestamp></header>
+        <metadata>
+          <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+            <dc:title>Complete Certificate Closure</dc:title>
+            <dc:creator>Amos Jay Maley</dc:creator>
+            <dc:subject>AASC, Constraint Systems Institute, theoretical physics, mathematical foundations, Constructive physical realization</dc:subject>
+            <dc:description>Part of the Constructive physical realization research arc in the Constraint Systems Institute archive.</dc:description>
+            <dc:date>2026-08-27</dc:date>
+            <dc:type>Text</dc:type>
+            <dc:identifier>https://doi.org/10.5281/zenodo.21616613</dc:identifier>
+            <dc:identifier>https://constraintsystemsinstitute.org/papers/complete-certificate-closure-10-5281-zenodo-21616613/</dc:identifier>
+            <dc:language>en</dc:language>
+          </oai_dc:dc>
+        </metadata>
+      </record>
+      <record>
+        <header><identifier>oai:constraintsystemsinstitute.org:module-a-operational-metric-source-attachment-10-5281-zenodo-21616142</identifier><datestamp>2026-08-27</datestamp></header>
+        <metadata>
+          <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+            <dc:title>Module A: operational metric-source attachment</dc:title>
+            <dc:creator>Amos Jay Maley</dc:creator>
+            <dc:subject>AASC, Constraint Systems Institute, theoretical physics, mathematical foundations, Constructive physical realization</dc:subject>
+            <dc:description>Part of the Constructive physical realization research arc in the Constraint Systems Institute archive.</dc:description>
+            <dc:date>2026-08-27</dc:date>
+            <dc:type>Text</dc:type>
+            <dc:identifier>https://doi.org/10.5281/zenodo.21616142</dc:identifier>
+            <dc:identifier>https://constraintsystemsinstitute.org/papers/module-a-operational-metric-source-attachment-10-5281-zenodo-21616142/</dc:identifier>
+            <dc:language>en</dc:language>
+          </oai_dc:dc>
+        </metadata>
+      </record>
+      <record>
+        <header><identifier>oai:constraintsystemsinstitute.org:module-b-common-mass-charge-matching-10-5281-zenodo-21616179</identifier><datestamp>2026-08-27</datestamp></header>
+        <metadata>
+          <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+            <dc:title>Module B: common mass-charge matching</dc:title>
+            <dc:creator>Amos Jay Maley</dc:creator>
+            <dc:subject>AASC, Constraint Systems Institute, theoretical physics, mathematical foundations, Constructive physical realization, Standard Model, mass, charge, fields</dc:subject>
+            <dc:description>Part of the Constructive physical realization research arc in the Constraint Systems Institute archive.</dc:description>
+            <dc:date>2026-08-27</dc:date>
+            <dc:type>Text</dc:type>
+            <dc:identifier>https://doi.org/10.5281/zenodo.21616179</dc:identifier>
+            <dc:identifier>https://constraintsystemsinstitute.org/papers/module-b-common-mass-charge-matching-10-5281-zenodo-21616179/</dc:identifier>
+            <dc:language>en</dc:language>
+          </oai_dc:dc>
+        </metadata>
+      </record>
+      <record>
+        <header><identifier>oai:constraintsystemsinstitute.org:module-c-upstream-continuation-and-projection-intertwining-10-5281-zenodo-21616213</identifier><datestamp>2026-08-27</datestamp></header>
+        <metadata>
+          <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+            <dc:title>Module C: upstream continuation and projection intertwining</dc:title>
+            <dc:creator>Amos Jay Maley</dc:creator>
+            <dc:subject>AASC, Constraint Systems Institute, theoretical physics, mathematical foundations, Constructive physical realization</dc:subject>
+            <dc:description>Part of the Constructive physical realization research arc in the Constraint Systems Institute archive.</dc:description>
+            <dc:date>2026-08-27</dc:date>
+            <dc:type>Text</dc:type>
+            <dc:identifier>https://doi.org/10.5281/zenodo.21616213</dc:identifier>
+            <dc:identifier>https://constraintsystemsinstitute.org/papers/module-c-upstream-continuation-and-projection-intertwining-10-5281-zenodo-21616213/</dc:identifier>
+            <dc:language>en</dc:language>
+          </oai_dc:dc>
+        </metadata>
+      </record>
+      <record>
+        <header><identifier>oai:constraintsystemsinstitute.org:module-d-certificate-fibre-exhaustion-and-unique-lawful-role-occupancy-10-5281-zenodo</identifier><datestamp>2026-08-27</datestamp></header>
+        <metadata>
+          <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+            <dc:title>Module D: certificate-fibre exhaustion and unique lawful role occupancy</dc:title>
+            <dc:creator>Amos Jay Maley</dc:creator>
+            <dc:subject>AASC, Constraint Systems Institute, theoretical physics, mathematical foundations, Constructive physical realization</dc:subject>
+            <dc:description>Part of the Constructive physical realization research arc in the Constraint Systems Institute archive.</dc:description>
+            <dc:date>2026-08-27</dc:date>
+            <dc:type>Text</dc:type>
+            <dc:identifier>https://doi.org/10.5281/zenodo.21616427</dc:identifier>
+            <dc:identifier>https://constraintsystemsinstitute.org/papers/module-d-certificate-fibre-exhaustion-and-unique-lawful-role-occupancy-10-5281-zenodo/</dc:identifier>
+            <dc:language>en</dc:language>
+          </oai_dc:dc>
+        </metadata>
+      </record>
+      <record>
+        <header><identifier>oai:constraintsystemsinstitute.org:metricity-as-licensed-description-10-5281-zenodo-20338474</identifier><datestamp>2026-05-22</datestamp></header>
+        <metadata>
+          <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+            <dc:title>Metricity as Licensed Description</dc:title>
+            <dc:creator>Amos Jay Maley</dc:creator>
+            <dc:subject>AASC, Constraint Systems Institute, theoretical physics, mathematical foundations, Cosmology / Constants, Admissibility And Standing Constraint; AASC; L-metric boundary; boundary authority; physical ontology; exhaustion classifier; physics foundations; non-degenerate construction; fixed-domain exhaustion; constraint formalism; licensed description; metric description; metricity</dc:subject>
+            <dc:description>Metricity as Licensed Description: The L-Metric Boundary and the Realized Physical Interior This manuscript develops the L-metric boundary as the admissibility-to-metric-description interface within the Admissibility And Standing Constraint (AASC) framework. The central result is that metric structure is not primitive boundary authority: distance, duration, locality, propagation, curvature, scale, and metric-dependent parameters become lawful only as licensed interior descriptors within a non-degenerate target r...</dc:description>
+            <dc:date>2026-05-22</dc:date>
+            <dc:type>Text</dc:type>
+            <dc:identifier>https://doi.org/10.5281/zenodo.20338474</dc:identifier>
+            <dc:identifier>https://constraintsystemsinstitute.org/papers/metricity-as-licensed-description-10-5281-zenodo-20338474/</dc:identifier>
+            <dc:language>en</dc:language>
+          </oai_dc:dc>
+        </metadata>
+      </record>
+      <record>
+        <header><identifier>oai:constraintsystemsinstitute.org:null-propagation-as-the-causal-limit-invariant-why-the-speed-of-light-is-a-metric-repr</identifier><datestamp>2026-05-21</datestamp></header>
+        <metadata>
+          <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+            <dc:title>Null Propagation as the Causal-Limit Invariant: Why the Speed of Light Is a Metric Representative</dc:title>
+            <dc:creator>Amos Jay Maley</dc:creator>
+            <dc:subject>AASC, Constraint Systems Institute, theoretical physics, mathematical foundations, Cosmology / Constants, physics</dc:subject>
+            <dc:description>This paper argues that the speed of light is not a fundamental physical quantity, despite its central role in modern physics and its exact numerical fixation in contemporary unit systems. The core claim is structural rather than empirical: the notion of speed presupposes metric structure and unit conventions, whereas the invariant physical content of relativity is carried by null causal structure , not by a numerical constant. The analysis introduces a clear criterion for fundamentality based on invariance under...</dc:description>
+            <dc:date>2026-05-21</dc:date>
+            <dc:type>Text</dc:type>
+            <dc:identifier>https://doi.org/10.5281/zenodo.18582766</dc:identifier>
+            <dc:identifier>https://constraintsystemsinstitute.org/papers/null-propagation-as-the-causal-limit-invariant-why-the-speed-of-light-is-a-metric-repr/</dc:identifier>
+            <dc:language>en</dc:language>
+          </oai_dc:dc>
+        </metadata>
+      </record>
+      <record>
+        <header><identifier>oai:constraintsystemsinstitute.org:the-dark-sector-as-a-classification-error-10-5281-zenodo-18522019</identifier><datestamp>2026-05-04</datestamp></header>
+        <metadata>
+          <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+            <dc:title>The Dark Sector as a Classification Error</dc:title>
+            <dc:creator>Amos Jay Maley</dc:creator>
+            <dc:subject>AASC, Constraint Systems Institute, theoretical physics, mathematical foundations, Cosmology / Constants, dark matter; dark energy; cosmology; ontology; structural realism; philosophy of physics; foundations of cosmology; representational equivalence; ΛCDM; observational invariance; reconstruction theory; cosmological foundations; ontology extraction</dc:subject>
+            <dc:description>The Dark Sector as a Classification Error A Boundary Analysis of Dark Matter and Dark Energy This paper develops a structural analysis of ontological extraction in contemporary cosmology. Rather than proposing a new cosmological model or disputing the empirical success of Λ\Lambda Λ CDM, the manuscript examines whether presently inferred dark-sector structure admits invariant primitive ontological extraction under representational redistribution preserving observational witness constraints. The central result is...</dc:description>
+            <dc:date>2026-05-04</dc:date>
+            <dc:type>Text</dc:type>
+            <dc:identifier>https://doi.org/10.5281/zenodo.18522019</dc:identifier>
+            <dc:identifier>https://constraintsystemsinstitute.org/papers/the-dark-sector-as-a-classification-error-10-5281-zenodo-18522019/</dc:identifier>
+            <dc:language>en</dc:language>
+          </oai_dc:dc>
+        </metadata>
+      </record>
+      <record>
+        <header><identifier>oai:constraintsystemsinstitute.org:transport-closure-in-cosmological-inference-and-the-hubble-tension-parameters-10-5281</identifier><datestamp>2026-06-23</datestamp></header>
+        <metadata>
+          <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+            <dc:title>Transport Closure in Cosmological Inference and the Hubble Tension (Parameters)</dc:title>
+            <dc:creator>Amos Jay Maley</dc:creator>
+            <dc:subject>AASC, Constraint Systems Institute, theoretical physics, mathematical foundations, Cosmology / Constants, cosmology; Hubble tension; cosmological inference; distance ladder; baryon acoustic oscillations; cosmic microwave background; supernova cosmology; admissible transport; constraint closure; cross-regime consistency; Planck 2018; DESI DR1; Pantheon+; SH0ES; Type Ia supernovae; Cobaya; CAMB; Jacobian/SVD audit</dc:subject>
+            <dc:description>Overview This record contains the manuscript and supporting archive for Transport Closure in Cosmological Inference and the Hubble Tension: A Certified Redshift-Active Analysis of Planck, DESI, Pantheon+, and SH0ES . The paper develops a constraint-based analysis of cosmological parameter inference under the AASC framework, where AASC stands for Admissibility And Standing Constraint . The central question is not whether a numerical value of (H_0) can be shifted by adding phenomenological freedom, but whether the...</dc:description>
+            <dc:date>2026-06-23</dc:date>
+            <dc:type>Text</dc:type>
+            <dc:identifier>https://doi.org/10.5281/zenodo.19929268</dc:identifier>
+            <dc:identifier>https://constraintsystemsinstitute.org/papers/transport-closure-in-cosmological-inference-and-the-hubble-tension-parameters-10-5281/</dc:identifier>
+            <dc:language>en</dc:language>
+          </oai_dc:dc>
+        </metadata>
+      </record>
+      <record>
+        <header><identifier>oai:constraintsystemsinstitute.org:cross-sector-extraction-after-the-standalone-standard-model-derivation-10-5281-zenodo</identifier><datestamp>2026-05-24</datestamp></header>
+        <metadata>
+          <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+            <dc:title>Cross-Sector Extraction after the Standalone Standard Model Derivation</dc:title>
+            <dc:creator>Amos Jay Maley</dc:creator>
+            <dc:subject>AASC, Constraint Systems Institute, theoretical physics, mathematical foundations, Earlier support in the same arc, Standard Model, mass, charge, fields, Admissibility And Standing Constraint; AASC; Standard Model; first-principles derivation; cross-sector extraction; charged-lepton mass ratios; charge lattice; hypercharge ratios; quotient-level extraction; structural derivation; parameter-status discipline; Yukawa neutrality; Higgs bridge; mass-response structure; Standard Model structure; numerical parameter derivation; obstruction certificates; deferred numerical frontiers</dc:subject>
+            <dc:description>Overview Cross-Sector Extraction after the Standalone Standard Model Derivation presents a ten-paper research-arc synthesis developed downstream of The Standalone Standard Model Structure from First Principles . The earlier paper establishes the recovered Standard Model structural envelope. This extension asks what becomes extractable, obstructed, certified, or deferred once that structural envelope is fixed. The central result is not a second derivation of the entire Standard Model. It is a reportability-contro...</dc:description>
+            <dc:date>2026-05-24</dc:date>
+            <dc:type>Text</dc:type>
+            <dc:identifier>https://doi.org/10.5281/zenodo.20363180</dc:identifier>
+            <dc:identifier>https://constraintsystemsinstitute.org/papers/cross-sector-extraction-after-the-standalone-standard-model-derivation-10-5281-zenodo/</dc:identifier>
+            <dc:language>en</dc:language>
+          </oai_dc:dc>
+        </metadata>
+      </record>
+      <record>
+        <header><identifier>oai:constraintsystemsinstitute.org:generation-count-and-residual-parameters-in-the-standard-model-representation-regime-1</identifier><datestamp>2026-05-07</datestamp></header>
+        <metadata>
+          <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+            <dc:title>Generation Count and Residual Parameters in the Standard Model Representation Regime</dc:title>
+            <dc:creator>Amos Jay Maley</dc:creator>
+            <dc:subject>AASC, Constraint Systems Institute, theoretical physics, mathematical foundations, Earlier support in the same arc, Standard Model, mass, charge, fields, Standard Model; generation count; residual parameters; fixed-boundary data; admissibility; residual exhaustion; representation regime; charge lattice; quotient factorization; structural rigidity; same-scope closure; ultraviolet completion; theoretical physics; mathematical physics; foundations of physics; AASC</dc:subject>
+            <dc:description>Generation Count and Residual Parameters in the Standard Model Representation Regime develops a residual-exhaustion theorem for the fixed Standard Model representation regime. The paper studies what remains after prior representation-family, charge-lattice, and fixed-load closure results have already constrained the admissible Standard Model structure. Its central question is not whether every numerical feature of the Standard Model can be derived internally, but whether any further same-scope admissible tighten...</dc:description>
+            <dc:date>2026-05-07</dc:date>
+            <dc:type>Text</dc:type>
+            <dc:identifier>https://doi.org/10.5281/zenodo.18515560</dc:identifier>
+            <dc:identifier>https://constraintsystemsinstitute.org/papers/generation-count-and-residual-parameters-in-the-standard-model-representation-regime-1/</dc:identifier>
+            <dc:language>en</dc:language>
+          </oai_dc:dc>
+        </metadata>
+      </record>
+      <record>
+        <header><identifier>oai:constraintsystemsinstitute.org:rigidity-of-the-standard-model-charge-lattice-10-5281-zenodo-18492703</identifier><datestamp>2026-05-07</datestamp></header>
+        <metadata>
+          <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+            <dc:title>Rigidity of the Standard-Model Charge Lattice</dc:title>
+            <dc:creator>Amos Jay Maley</dc:creator>
+            <dc:subject>AASC, Constraint Systems Institute, theoretical physics, mathematical foundations, Earlier support in the same arc, Standard Model, mass, charge, fields, charge quantization; Standard Model; mathematical physics; Standard-Model uniqueness; charge transport; AASC; foundations of physics; particle physics foundations; hypercharge rigidity; mathematical physics; gauge theory foundations; Yukawa compatibility</dc:subject>
+            <dc:description>Overview Rigidity of the Standard-Model Charge Lattice develops a fixed-scope reconstruction theorem for charge quantization inside a declared Standard-Model bookkeeping skeleton. The paper asks a narrow structural question: Once the Standard-Model chiral skeleton, charged Yukawa operators, anomaly/tensor witnesses, conjugation structure, and admissible redescription rules are fixed, what kinds of charge assignments can function as standing-preserving bookkeeping data? Main Result The central result is that admi...</dc:description>
+            <dc:date>2026-05-07</dc:date>
+            <dc:type>Text</dc:type>
+            <dc:identifier>https://doi.org/10.5281/zenodo.18492703</dc:identifier>
+            <dc:identifier>https://constraintsystemsinstitute.org/papers/rigidity-of-the-standard-model-charge-lattice-10-5281-zenodo-18492703/</dc:identifier>
+            <dc:language>en</dc:language>
+          </oai_dc:dc>
+        </metadata>
+      </record>
+      <record>
+        <header><identifier>oai:constraintsystemsinstitute.org:the-higgs-bridge-carrier-kernel-consequences-for-electroweak-mass-response-10-5281-zen</identifier><datestamp>2026-06-28</datestamp></header>
+        <metadata>
+          <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+            <dc:title>The Higgs Bridge Carrier: Kernel Consequences for Electroweak Mass-Response</dc:title>
+            <dc:creator>Amos Jay Maley</dc:creator>
+            <dc:subject>AASC, Constraint Systems Institute, theoretical physics, mathematical foundations, Earlier support in the same arc, Standard Model, mass, charge, fields, AASC; Higgs Structural Endpoint Arc; Higgs bridge; electroweak mass-response; Standard Model; gauge inheritance; vacuum-supported response; deformation mediation; representative collapse; fixed-domain exhaustion; standing-preserving redescription; same-scope counterexample</dc:subject>
+            <dc:description>Overview This record contains Paper 1 of the Higgs Structural Endpoint Arc , The Higgs Bridge Carrier: Kernel Consequences for Electroweak Mass-Response . The paper does not attempt a numerical Higgs prediction, a new electroweak model, or a phenomenological fit. Its target is the local standing problem: what must be in force for same-scope electroweak Higgs-domain claims to count as determinate, admissibility-bearing construction rather than representative notation, empirical input, or downstream route success....</dc:description>
+            <dc:date>2026-06-28</dc:date>
+            <dc:type>Text</dc:type>
+            <dc:identifier>https://doi.org/10.5281/zenodo.20996439</dc:identifier>
+            <dc:identifier>https://constraintsystemsinstitute.org/papers/the-higgs-bridge-carrier-kernel-consequences-for-electroweak-mass-response-10-5281-zen/</dc:identifier>
+            <dc:language>en</dc:language>
+          </oai_dc:dc>
+        </metadata>
+      </record>
+      <record>
+        <header><identifier>oai:constraintsystemsinstitute.org:unus-solus-possibilis-est-uniqueness-10-5281-zenodo-18518484</identifier><datestamp>2026-04-20</datestamp></header>
+        <metadata>
+          <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+            <dc:title>Unus Solus Possibilis Est (Uniqueness)</dc:title>
+            <dc:creator>Amos Jay Maley</dc:creator>
+            <dc:subject>AASC, Constraint Systems Institute, theoretical physics, mathematical foundations, Foundational entry, admissibility; standing; uniqueness of the admissible interior; epistemic constraints; invariance; mechanized mathematics; epistemic foundations; structural constraints; standing conservation; bivalence; AMetric boundary</dc:subject>
+            <dc:description>This work establishes closure and uniqueness results for admissible construction on fixed domains within a standing-admissibility framework. It is part of a layered necessity derivation in which the admissibility boundary is not assumed but derived as a structural consequence of pre-fixational non-reference, relabeling invariance, and the prohibition of admissibility-relevant asymmetry without witness (see companion work on the AMetric boundary). Working within a standing-instantiated regime, the paper proves th...</dc:description>
+            <dc:date>2026-04-20</dc:date>
+            <dc:type>Text</dc:type>
+            <dc:identifier>https://doi.org/10.5281/zenodo.18518484</dc:identifier>
+            <dc:identifier>https://constraintsystemsinstitute.org/papers/unus-solus-possibilis-est-uniqueness-10-5281-zenodo-18518484/</dc:identifier>
+            <dc:language>en</dc:language>
+          </oai_dc:dc>
+        </metadata>
+      </record>
+      <record>
+        <header><identifier>oai:constraintsystemsinstitute.org:claim-standing-and-legitimacy-10-5281-zenodo-20312075</identifier><datestamp>2026-05-27</datestamp></header>
+        <metadata>
+          <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+            <dc:title>Claim Standing and Legitimacy</dc:title>
+            <dc:creator>Amos Jay Maley</dc:creator>
+            <dc:subject>AASC, Constraint Systems Institute, theoretical physics, mathematical foundations, Governance / Mind / AI, claim standing; legitimacy; laundering exclusion; audit protocol; claim evaluation; exactness; target fixation; domain dependence; validator protocol; philosophy of science; model validation; formal verification; scientific inference; medical evidence; forensic evidence; engineering safety; forecasting; economics; AASC</dc:subject>
+            <dc:description>Claim Standing and Legitimacy: A Universal Audit Protocol for Laundering Exclusion and Reportable Output Description This record contains the publication-ready manuscript and source project for Claim Standing and Legitimacy: A Universal Audit Protocol for Laundering Exclusion and Reportable Output . The manuscript develops the Universal Exactness Audit Protocol (UEAP) as a domain-general framework for evaluating the standing, legitimacy, blocker status, and reportability of claims. UEAP treats exact numerical pr...</dc:description>
+            <dc:date>2026-05-27</dc:date>
+            <dc:type>Text</dc:type>
+            <dc:identifier>https://doi.org/10.5281/zenodo.20312075</dc:identifier>
+            <dc:identifier>https://constraintsystemsinstitute.org/papers/claim-standing-and-legitimacy-10-5281-zenodo-20312075/</dc:identifier>
+            <dc:language>en</dc:language>
+          </oai_dc:dc>
+        </metadata>
+      </record>
+      <record>
+        <header><identifier>oai:constraintsystemsinstitute.org:constraint-architectures-for-coherent-evaluability-mind-paper-10-5281-zenodo-18628354</identifier><datestamp>2026-05-04</datestamp></header>
+        <metadata>
+          <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+            <dc:title>Constraint Architectures for Coherent Evaluability (Mind Paper)</dc:title>
+            <dc:creator>Amos Jay Maley</dc:creator>
+            <dc:subject>AASC, Constraint Systems Institute, theoretical physics, mathematical foundations, Governance / Mind / AI, identity persistence; self-location; standing conservation; structural invariance; admissibility; Philosophy of mind; Metaphysics of identity; Formal epistemology; Philosophical logic; fission and identity; Structural constraints on branching; decoherence; branch selection; structural cognition; self-model constraints; evaluation theory</dc:subject>
+            <dc:description>Overview This paper develops a formal constraint architecture for coherent evaluability in fixed-domain admissible evaluation systems. Rather than presenting a permissive taxonomy of evaluative regimes, the framework treats coherent evaluability as a structurally constrained phenomenon. The central claim is that non-degenerate coherent evaluability imposes preservation requirements whose surviving kernel forces admissibility structure, quotient-interface formation, transport covariance, and structural persistenc...</dc:description>
+            <dc:date>2026-05-04</dc:date>
+            <dc:type>Text</dc:type>
+            <dc:identifier>https://doi.org/10.5281/zenodo.18628354</dc:identifier>
+            <dc:identifier>https://constraintsystemsinstitute.org/papers/constraint-architectures-for-coherent-evaluability-mind-paper-10-5281-zenodo-18628354/</dc:identifier>
+            <dc:language>en</dc:language>
+          </oai_dc:dc>
+        </metadata>
+      </record>
+      <record>
+        <header><identifier>oai:constraintsystemsinstitute.org:governance-first-architecture-for-artificial-intelligence-quantum-10-5281-zenodo-18522</identifier><datestamp>2026-02-08</datestamp></header>
+        <metadata>
+          <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+            <dc:title>Governance-First Architecture for Artificial Intelligence (Quantum)</dc:title>
+            <dc:creator>Amos Jay Maley</dc:creator>
+            <dc:subject>AASC, Constraint Systems Institute, theoretical physics, mathematical foundations, Governance / Mind / AI, gravity, quantum theory, Einstein dynamics, Schrodinger dynamics</dc:subject>
+            <dc:description>This paper presents a governance-first framing for artificial intelligence in which legitimacy, admissibility, and standing are treated as prior constraints rather than emergent properties of performance or learning. The analysis is structural and non-procedural: it characterizes how quantum and classical representations fit within an admissible interior governed by fail-closed evaluation, without proposing algorithms, training methods, or execution pipelines. By exhaustion, approaches that defer governance to p...</dc:description>
+            <dc:date>2026-02-08</dc:date>
+            <dc:type>Text</dc:type>
+            <dc:identifier>https://doi.org/10.5281/zenodo.18522263</dc:identifier>
+            <dc:identifier>https://constraintsystemsinstitute.org/papers/governance-first-architecture-for-artificial-intelligence-quantum-10-5281-zenodo-18522/</dc:identifier>
+            <dc:language>en</dc:language>
+          </oai_dc:dc>
+        </metadata>
+      </record>
+      <record>
+        <header><identifier>oai:constraintsystemsinstitute.org:standing-preserving-admissibility-conditions-for-artificial-epistemic-agents-10-5281-z</identifier><datestamp>2026-02-08</datestamp></header>
+        <metadata>
+          <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+            <dc:title>Standing Preserving Admissibility Conditions for Artificial Epistemic Agents</dc:title>
+            <dc:creator>Amos Jay Maley</dc:creator>
+            <dc:subject>AASC, Constraint Systems Institute, theoretical physics, mathematical foundations, Governance / Mind / AI</dc:subject>
+            <dc:description>This paper specifies the necessary conditions for admissibility that preserve standing in artificial epistemic agents . It shows that admissibility is not achieved by performance, learning, optimization, or internal coherence, but only by satisfying standing-preserving constraints on reference, scope, and commitment. By exhaustion, all alternative criteria-probabilistic validation, success metrics, governance certification, or architectural sophistication-are eliminated as insufficient. The result fixes admissib...</dc:description>
+            <dc:date>2026-02-08</dc:date>
+            <dc:type>Text</dc:type>
+            <dc:identifier>https://doi.org/10.5281/zenodo.18521955</dc:identifier>
+            <dc:identifier>https://constraintsystemsinstitute.org/papers/standing-preserving-admissibility-conditions-for-artificial-epistemic-agents-10-5281-z/</dc:identifier>
+            <dc:language>en</dc:language>
+          </oai_dc:dc>
+        </metadata>
+      </record>
+      <record>
+        <header><identifier>oai:constraintsystemsinstitute.org:admissible-record-construction-in-physically-non-selective-quantum-regimes-measurement</identifier><datestamp>2026-07-04</datestamp></header>
+        <metadata>
+          <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+            <dc:title>Admissible Record Construction in Physically Non-Selective Quantum Regimes (Measurement Problem)</dc:title>
+            <dc:creator>Amos Jay Maley</dc:creator>
+            <dc:subject>AASC, Constraint Systems Institute, theoretical physics, mathematical foundations, Gravity / Quantum Unification, gravity, quantum theory, Einstein dynamics, Schrodinger dynamics, quantum measurement; Everett interpretation; reference fixing; admissibility; standing equivalence; quotient structure; philosophy of quantum mechanics; foundations of physics; mathematical logic; diachronic identity</dc:subject>
+            <dc:description>Admissible Record Construction in Physically Non-Selective Quantum Regimes Fixed-Domain Quotients, Record-Fixation, and Constructional Determinacy This paper develops a fixed-domain analysis of the quantum measurement problem centered on admissible record-fixation rather than outcome production alone. The manuscript studies physically non-selective quantum regimes - especially Everettian branching structures - in which multiple stable post-measurement records are physically realized without a privileged selector...</dc:description>
+            <dc:date>2026-07-04</dc:date>
+            <dc:type>Text</dc:type>
+            <dc:identifier>https://doi.org/10.5281/zenodo.18514647</dc:identifier>
+            <dc:identifier>https://constraintsystemsinstitute.org/papers/admissible-record-construction-in-physically-non-selective-quantum-regimes-measurement/</dc:identifier>
+            <dc:language>en</dc:language>
+          </oai_dc:dc>
+        </metadata>
+      </record>
+      <record>
+        <header><identifier>oai:constraintsystemsinstitute.org:einstein-dynamics-as-the-unique-minimal-first-response-metric-projection-of-aasc-gravi</identifier><datestamp>2026-07-08</datestamp></header>
+        <metadata>
+          <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+            <dc:title>Einstein Dynamics as the Unique Minimal First-Response Metric Projection of AASC Gravity</dc:title>
+            <dc:creator>Amos Jay Maley</dc:creator>
+            <dc:subject>AASC, Constraint Systems Institute, theoretical physics, mathematical foundations, Gravity / Quantum Unification, gravity, quantum theory, Einstein dynamics, Schrodinger dynamics, AASC; Einstein field equations; general relativity; metric projection; Lorentzian geometry; curvature-response exhaustion; Ricci tensor; Einstein tensor; stress-energy tensor; cosmological constant; vacuum quotienting; zero-point energy; high-curvature regimes; first-response dynamics; nonmetric compatibility; constraint architecture</dc:subject>
+            <dc:description>Description This record contains the manuscript &quot;Einstein Dynamics as the Unique Minimal First-Response Metric Projection of AASC Gravity: A Same-Scope Curvature-Response Exhaustion Theorem from Admissibility, Standing, and Source Continuation.&quot; Overview The paper develops a downstream AASC derivation of the Einstein field-equation form. Prior AASC work derives gravity as the admissibility-forced constraint role of the physical interior: standing surface, observable quotient, admissible redescription, first-clas...</dc:description>
+            <dc:date>2026-07-08</dc:date>
+            <dc:type>Text</dc:type>
+            <dc:identifier>https://doi.org/10.5281/zenodo.20538579</dc:identifier>
+            <dc:identifier>https://constraintsystemsinstitute.org/papers/einstein-dynamics-as-the-unique-minimal-first-response-metric-projection-of-aasc-gravi/</dc:identifier>
+            <dc:language>en</dc:language>
+          </oai_dc:dc>
+        </metadata>
+      </record>
+      <record>
+        <header><identifier>oai:constraintsystemsinstitute.org:quantum-entanglement-as-boundary-level-compatibility-10-5281-zenodo-19401432</identifier><datestamp>2026-05-09</datestamp></header>
+        <metadata>
+          <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+            <dc:title>Quantum Entanglement as Boundary-Level Compatibility</dc:title>
+            <dc:creator>Amos Jay Maley</dc:creator>
+            <dc:subject>AASC, Constraint Systems Institute, theoretical physics, mathematical foundations, Gravity / Quantum Unification, gravity, quantum theory, Einstein dynamics, Schrodinger dynamics, quantum entanglement; Bell nonlocality; quantum foundations; standing conservation; admissibility; Bell correlations</dc:subject>
+            <dc:description>Quantum Entanglement as Boundary-Level Compatibility Unique Same-Domain Admissible Classification on the Bell Scope This paper develops a fixed-domain structural classification of quantum entanglement within the AASC admissibility-and-standing framework. The manuscript does not introduce hidden variables, modify quantum mechanics, derive the Hilbert formalism from below, or propose a new signaling mechanism. Instead, it asks a narrower and more structural question: once Bell-type operational data are treated as...</dc:description>
+            <dc:date>2026-05-09</dc:date>
+            <dc:type>Text</dc:type>
+            <dc:identifier>https://doi.org/10.5281/zenodo.19401432</dc:identifier>
+            <dc:identifier>https://constraintsystemsinstitute.org/papers/quantum-entanglement-as-boundary-level-compatibility-10-5281-zenodo-19401432/</dc:identifier>
+            <dc:language>en</dc:language>
+          </oai_dc:dc>
+        </metadata>
+      </record>
+      <record>
+        <header><identifier>oai:constraintsystemsinstitute.org:schr-dinger-dynamics-as-the-unique-minimal-first-response-hamiltonian-projection-of-aa</identifier><datestamp>2026-07-08</datestamp></header>
+        <metadata>
+          <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+            <dc:title>Schrödinger Dynamics as the Unique Minimal First-Response Hamiltonian Projection of AASC Quantum Standing</dc:title>
+            <dc:creator>Amos Jay Maley</dc:creator>
+            <dc:subject>AASC, Constraint Systems Institute, theoretical physics, mathematical foundations, Gravity / Quantum Unification, gravity, quantum theory, Einstein dynamics, Schrodinger dynamics, AASC; Schrödinger equation; quantum foundations; projective Hilbert space; same-scope exhaustion; Hamiltonian normal form; self-adjoint generator; unitary continuation; Laplacian; quantum dynamics; measurement update</dc:subject>
+            <dc:description>Overview This manuscript derives closed autonomous scalar nonrelativistic Schrodinger dynamics as the unique minimal first-response same-scope Hamiltonian projection of AASC quantum standing. The proof does not begin by treating the wavefunction, Hilbert vector, Hamiltonian operator, probability amplitude, mass parameter, or spatial Laplacian as primitive. Instead, it begins from the AASC kernel roles required for any determinate same-domain theorem object: admissibility, standing, reference, and irreversibility...</dc:description>
+            <dc:date>2026-07-08</dc:date>
+            <dc:type>Text</dc:type>
+            <dc:identifier>https://doi.org/10.5281/zenodo.21254589</dc:identifier>
+            <dc:identifier>https://constraintsystemsinstitute.org/papers/schr-dinger-dynamics-as-the-unique-minimal-first-response-hamiltonian-projection-of-aa/</dc:identifier>
+            <dc:language>en</dc:language>
+          </oai_dc:dc>
+        </metadata>
+      </record>
+      <record>
+        <header><identifier>oai:constraintsystemsinstitute.org:structural-unification-of-gravity-and-quantum-dynamics-under-aasc-10-5281-zenodo-21255</identifier><datestamp>2026-07-08</datestamp></header>
+        <metadata>
+          <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+            <dc:title>Structural Unification of Gravity and Quantum Dynamics under AASC</dc:title>
+            <dc:creator>Amos Jay Maley</dc:creator>
+            <dc:subject>AASC, Constraint Systems Institute, theoretical physics, mathematical foundations, Gravity / Quantum Unification, gravity, quantum theory, Einstein dynamics, Schrodinger dynamics, AASC; structural unification; gravity; quantum dynamics; Einstein dynamics; Schrödinger dynamics; admissible physical interior; singleton admissible interior; paired projections; joint ledger; metric projection; projective-Hilbert projection; quantum gravity; general relativity; measurement problem; entanglement; Bell correlations; boundary-level compatibility; record fixation; source closure; ATS; UEAP; AMetric boundary</dc:subject>
+            <dc:description>Overview Structural Unification of Gravity and Quantum Dynamics under AASC is the culminating manuscript of the AASC unification arc. It brings together the prior kernel, gravity, Einstein-dynamics, Schrodinger-dynamics, measurement-record, entanglement, singleton-interior, and claim-standing results into a single structural theorem: gravity and first-response quantum dynamics are not primitive rivals requiring external reconciliation, but forced paired projections of one singleton admissible physical interior....</dc:description>
+            <dc:date>2026-07-08</dc:date>
+            <dc:type>Text</dc:type>
+            <dc:identifier>https://doi.org/10.5281/zenodo.21255943</dc:identifier>
+            <dc:identifier>https://constraintsystemsinstitute.org/papers/structural-unification-of-gravity-and-quantum-dynamics-under-aasc-10-5281-zenodo-21255/</dc:identifier>
+            <dc:language>en</dc:language>
+          </oai_dc:dc>
+        </metadata>
+      </record>
+      <record>
+        <header><identifier>oai:constraintsystemsinstitute.org:admissibility-forces-hilbert-geometry-and-schrodinger-form-dynamics-10-5281-zenodo-186</identifier><datestamp>2026-02-12</datestamp></header>
+        <metadata>
+          <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+            <dc:title>Admissibility Forces Hilbert Geometry and Schrodinger-Form Dynamics</dc:title>
+            <dc:creator>Amos Jay Maley</dc:creator>
+            <dc:subject>AASC, Constraint Systems Institute, theoretical physics, mathematical foundations, Gravity-quantum closure arc, gravity, quantum theory, Einstein dynamics, Schrodinger dynamics, Hilbert space reconstruction; quadratic norm necessity; structural quantum foundations; structural derivation</dc:subject>
+            <dc:description>Title: Admissibility Forces Hilbert Geometry This paper proves that Hilbert space geometry is a structural consequence of admissibility constraints applied to compositional predictive systems. Starting from minimal assumptions - continuity, ray-invariance, independent composition, Standing Conservation, and the exclusion of hidden carriers and free tunings - we show that any admissible standing-weight functional must be quadratic. This forces the parallelogram identity and, by the Jordan-von Neumann theorem, uni...</dc:description>
+            <dc:date>2026-02-12</dc:date>
+            <dc:type>Text</dc:type>
+            <dc:identifier>https://doi.org/10.5281/zenodo.18620373</dc:identifier>
+            <dc:identifier>https://constraintsystemsinstitute.org/papers/admissibility-forces-hilbert-geometry-and-schrodinger-form-dynamics-10-5281-zenodo-186/</dc:identifier>
+            <dc:language>en</dc:language>
+          </oai_dc:dc>
+        </metadata>
+      </record>
+      <record>
+        <header><identifier>oai:constraintsystemsinstitute.org:a-classification-theorem-for-physical-constants-10-5281-zenodo-20118354</identifier><datestamp>2026-05-11</datestamp></header>
+        <metadata>
+          <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+            <dc:title>A Classification Theorem for Physical Constants</dc:title>
+            <dc:creator>Amos Jay Maley</dc:creator>
+            <dc:subject>AASC, Constraint Systems Institute, theoretical physics, mathematical foundations, Metricity as Licensed Description, AASC; physical constants; role-classification theorem; fine-tuning; anthropic principle; effective field theory; gauge theory; Yukawa couplings; CKM matrix; PMNS matrix; transport structure; quotient invariants; Standard Model foundations; parameter spaces; quantum foundations</dc:subject>
+            <dc:description>Static and Dynamic Uniqueness Arc - Paper II A Classification Theorem for Physical Constants Admissibility-Fixed, Quotient-Dependent, Effective, Transport-Defined, and Presentation-Dependent Roles By Amos Jay Maley This manuscript is the second paper in the Static and Dynamic Uniqueness Arc , a sequence of works analyzing admissibility-preserving uniqueness, invariant transport, standing-bearing continuation structure, and fixed-domain constraint architecture in physical theory construction. Building on the fixe...</dc:description>
+            <dc:date>2026-05-11</dc:date>
+            <dc:type>Text</dc:type>
+            <dc:identifier>https://doi.org/10.5281/zenodo.20118354</dc:identifier>
+            <dc:identifier>https://constraintsystemsinstitute.org/papers/a-classification-theorem-for-physical-constants-10-5281-zenodo-20118354/</dc:identifier>
+            <dc:language>en</dc:language>
+          </oai_dc:dc>
+        </metadata>
+      </record>
+      <record>
+        <header><identifier>oai:constraintsystemsinstitute.org:why-zero-point-vacuum-energy-is-not-a-cosmological-prediction-in-quantum-field-theory</identifier><datestamp>2026-05-05</datestamp></header>
+        <metadata>
+          <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+            <dc:title>Why Zero-Point Vacuum Energy Is Not a Cosmological Prediction in Quantum Field Theory</dc:title>
+            <dc:creator>Amos Jay Maley</dc:creator>
+            <dc:subject>AASC, Constraint Systems Institute, theoretical physics, mathematical foundations, Metricity as Licensed Description, gravity, quantum theory, Einstein dynamics, Schrodinger dynamics, Standard Model, mass, charge, fields, cosmological constant; zero-point vacuum energy; vacuum energy; quantum field theory; stress-energy tensor renormalization; finite renormalization; semiclassical gravity; naturalness problem; renormalization ambiguity; invariance classification; foundations of quantum field theory; Casimir effect; phase transitions</dc:subject>
+            <dc:description>Paper 1 - Orthodox QFT paper Title Why Zero-Point Vacuum Energy Is Not a Cosmological Prediction in Quantum Field Theory An Invariance-Based Analysis of the Cosmological Constant Problem Overview This paper analyzes the common claim that quantum field theory makes a catastrophically wrong prediction for the cosmological constant by summing zero-point vacuum modes. The central claim is that the zero-point estimate does not constitute a standalone cosmological prediction. The regulated vacuum-energy expression dep...</dc:description>
+            <dc:date>2026-05-05</dc:date>
+            <dc:type>Text</dc:type>
+            <dc:identifier>https://doi.org/10.5281/zenodo.20042236</dc:identifier>
+            <dc:identifier>https://constraintsystemsinstitute.org/papers/why-zero-point-vacuum-energy-is-not-a-cosmological-prediction-in-quantum-field-theory/</dc:identifier>
+            <dc:language>en</dc:language>
+          </oai_dc:dc>
+        </metadata>
+      </record>
+      <record>
+        <header><identifier>oai:constraintsystemsinstitute.org:admissibility-and-the-well-definedness-of-yang-mills-endpoint-constructions-10-5281-ze</identifier><datestamp>2026-06-13</datestamp></header>
+        <metadata>
+          <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+            <dc:title>Admissibility and the Well-Definedness of Yang–Mills Endpoint Constructions</dc:title>
+            <dc:creator>Amos Jay Maley</dc:creator>
+            <dc:subject>AASC, Constraint Systems Institute, theoretical physics, mathematical foundations, Millennium / Mathematics, Yang–Mills theory; mass gap; quantum field theory; Haag–Kastler net; algebraic QFT; constrained Hamiltonian systems; gauge theory; coisotropic constraints; admissibility; structural constraints; closure by exhaustion; spectral gap; mathematical physics</dc:subject>
+            <dc:description>This record deposits the referee-hardened manuscript package for Admissibility and the Well-Definedness of Yang-Mills Endpoint Constructions , a completion-control and endpoint-well-definedness manuscript for the Yang-Mills Clay Millennium Prize Problem. The manuscript works in the language of algebraic quantum field theory. Conditional on the predecessor local-net construction - the bounded-region local gauge-invariant Haag-Kastler net, its OS/Wightman vacuum representation, and its vacuum-sector mass gap - the...</dc:description>
+            <dc:date>2026-06-13</dc:date>
+            <dc:type>Text</dc:type>
+            <dc:identifier>https://doi.org/10.5281/zenodo.19646301</dc:identifier>
+            <dc:identifier>https://constraintsystemsinstitute.org/papers/admissibility-and-the-well-definedness-of-yang-mills-endpoint-constructions-10-5281-ze/</dc:identifier>
+            <dc:language>en</dc:language>
+          </oai_dc:dc>
+        </metadata>
+      </record>
+      <record>
+        <header><identifier>oai:constraintsystemsinstitute.org:closure-by-exhaustion-for-same-scope-operators-under-admissibility-mathematics-10-5281</identifier><datestamp>2026-04-14</datestamp></header>
+        <metadata>
+          <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+            <dc:title>Closure by Exhaustion for Same-Scope Operators under Admissibility (Mathematics)</dc:title>
+            <dc:creator>Amos Jay Maley</dc:creator>
+            <dc:subject>AASC, Constraint Systems Institute, theoretical physics, mathematical foundations, Millennium / Mathematics, foundations of mathematics; admissibility; partial algebras; closure by exhaustion; model theory; set theory foundations; meta-foundations; graph rigidity; same-scope operators; model theory</dc:subject>
+            <dc:description>Closure by Exhaustion for Same-Scope Operators under Admissibility A Definitive Boundary Theorem in the Foundations of Mathematics We prove a, uncompromising closure theorem: Once a standing-bearing carrier is fixed inside a standing-relative admissibility regime, no same-scope operator can ever generate genuinely new admissible standing on that carrier . Treating the carrier as a partial algebra whose primitive domains encode admissibility, the paper delivers three interlocking results: Ironclad graph rigidity...</dc:description>
+            <dc:date>2026-04-14</dc:date>
+            <dc:type>Text</dc:type>
+            <dc:identifier>https://doi.org/10.5281/zenodo.19183407</dc:identifier>
+            <dc:identifier>https://constraintsystemsinstitute.org/papers/closure-by-exhaustion-for-same-scope-operators-under-admissibility-mathematics-10-5281/</dc:identifier>
+            <dc:language>en</dc:language>
+          </oai_dc:dc>
+        </metadata>
+      </record>
+      <record>
+        <header><identifier>oai:constraintsystemsinstitute.org:sunflower-endpoint-rigidity-and-kernel-forced-aasc-transfer-10-5281-zenodo-21242672</identifier><datestamp>2026-07-07</datestamp></header>
+        <metadata>
+          <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+            <dc:title>Sunflower Endpoint Rigidity and Kernel-Forced AASC Transfer</dc:title>
+            <dc:creator>Amos Jay Maley</dc:creator>
+            <dc:subject>AASC, Constraint Systems Institute, theoretical physics, mathematical foundations, Millennium / Mathematics, P vs NP, sunflower lemma, AASC; sunflower conjecture; Erdős–Rado; sunflower lemma; core–petal residual matching; bounded motif factorization; certificate language; endpoint transfer; kernel-forced proof; no-independent-discriminator closure; Lean4; extremal combinatorics; set systems; Δ-systems; formal verification</dc:subject>
+            <dc:description>Overview This record contains Sunflower Endpoint Rigidity and Kernel-Forced AASC Transfer , a manuscript developing an AASC endpoint-transfer treatment of the Erdős-Rado sunflower endpoint. The paper works on the fixed core-petal carrier for (n)-uniform families. For a family [ \mathcal F\subseteq \binom{U}{n}, ] and each candidate core (C\subseteq U), the residual petal family is defined by [ \mathcal F_C={S\setminus C:S\in\mathcal F,\ C\subseteq S}. ] The sunflower endpoint is then expressed as the role-cardin...</dc:description>
+            <dc:date>2026-07-07</dc:date>
+            <dc:type>Text</dc:type>
+            <dc:identifier>https://doi.org/10.5281/zenodo.21242672</dc:identifier>
+            <dc:identifier>https://constraintsystemsinstitute.org/papers/sunflower-endpoint-rigidity-and-kernel-forced-aasc-transfer-10-5281-zenodo-21242672/</dc:identifier>
+            <dc:language>en</dc:language>
+          </oai_dc:dc>
+        </metadata>
+      </record>
+      <record>
+        <header><identifier>oai:constraintsystemsinstitute.org:vacuum-sector-mass-gap-for-the-local-gauge-invariant-sharp-local-yang-mills-net-10-528</identifier><datestamp>2026-04-18</datestamp></header>
+        <metadata>
+          <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+            <dc:title>Vacuum-sector mass gap for the local gauge-invariant sharp-local Yang–Mills net</dc:title>
+            <dc:creator>Amos Jay Maley</dc:creator>
+            <dc:subject>AASC, Constraint Systems Institute, theoretical physics, mathematical foundations, Millennium / Mathematics, Standard Model, mass, charge, fields, Yang-Mills theory; mass gap; quantum field theory; constructive field theory; lattice gauge theory; mathematical physics; Wilson action; Osterwalder-Schrader reconstruction; Wightman axioms</dc:subject>
+            <dc:description>Description This work presents a theorem establishing a vacuum-sector mass gap for the bounded-region local gauge-invariant sharp-local Yang-Mills net associated to any compact connected simple gauge group GG G . The proof is organized through a finite packet reduction architecture consisting of: a compact-simple ultraviolet gate, a Route 1 lattice-to-continuum vacuum-gap chain, a Lane A sharp-local constructive chain, and a theorem-level endpoint packet (OS/Wightman reconstruction and local-net identification)....</dc:description>
+            <dc:date>2026-04-18</dc:date>
+            <dc:type>Text</dc:type>
+            <dc:identifier>https://doi.org/10.5281/zenodo.19492854</dc:identifier>
+            <dc:identifier>https://constraintsystemsinstitute.org/papers/vacuum-sector-mass-gap-for-the-local-gauge-invariant-sharp-local-yang-mills-net-10-528/</dc:identifier>
+            <dc:language>en</dc:language>
+          </oai_dc:dc>
+        </metadata>
+      </record>
+      <record>
+        <header><identifier>oai:constraintsystemsinstitute.org:somamaley-ux-aasc-yangmills-lean-audit-yang-mills-local-net-and-clay-extension-lean4-a</identifier><datestamp>2026-06-12</datestamp></header>
+        <metadata>
+          <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+            <dc:title>somamaley-ux/AASC-YangMills-Lean-Audit: Yang-Mills local-net and Clay-extension Lean4 Audit Endpoint 1.0.2</dc:title>
+            <dc:creator>Amos Jay Maley</dc:creator>
+            <dc:subject>AASC, Constraint Systems Institute, theoretical physics, mathematical foundations, Millennium mathematics endpoint family, Yang-Mills Mass Gap, Clay Millennium Prize Problems</dc:subject>
+            <dc:description>Hardened Clay endpoint sync This release synchronizes the public repository surface with the hardened Clay endpoint package supplied on 2026-06-12/2026-06-13. Replaces or updates the manuscript-facing snapshot under papers/ with the hardened package contents. Adds HARDENED_ENDPOINT_SYNC.md as the repository-level handoff note. Updates README and release notes so the hardening is visible from the public landing surface. Preserves the existing Lean audit/truth-boundary posture: the Lean archive remains the verific...</dc:description>
+            <dc:date>2026-06-12</dc:date>
+            <dc:type>Text</dc:type>
+            <dc:identifier>https://doi.org/10.5281/zenodo.20523055</dc:identifier>
+            <dc:identifier>https://constraintsystemsinstitute.org/papers/somamaley-ux-aasc-yangmills-lean-audit-yang-mills-local-net-and-clay-extension-lean4-a/</dc:identifier>
+            <dc:language>en</dc:language>
+          </oai_dc:dc>
+        </metadata>
+      </record>
+      <record>
+        <header><identifier>oai:constraintsystemsinstitute.org:anchor-tensor-and-skin-a-fixed-domain-decomposition-theorem-for-admissible-description</identifier><datestamp>2026-04-22</datestamp></header>
+        <metadata>
+          <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+            <dc:title>Anchor, Tensor, and Skin: A Fixed-Domain Decomposition Theorem for Admissible Description (Normal Form Capstone)</dc:title>
+            <dc:creator>Amos Jay Maley</dc:creator>
+            <dc:subject>AASC, Constraint Systems Institute, theoretical physics, mathematical foundations, Non-Degenerate Construction and the Kernel of Admissibility, formal epistemology; meta-logic; admissibility; standing; AMetric boundary; structural invariance; irreversibility; constraint-based reasoning; foundations of logic; fixed-domain theorem; identity-preserving transformation; decomposition theorem; formal systems; non-degenerate systems; representation theory (foundational); formal epistemic structure; logical structure</dc:subject>
+            <dc:description>Anchor-Tensor-Skin: A Fixed-Domain Decomposition Theorem for Admissible Structure This manuscript proves a fixed-domain structural closure theorem : on any domain governed by admissibility and identity-preserving constraints, all admissibility-bearing descriptive structure admits a unique, minimal, and irreducible decomposition into three roles. 🔷 Core Result Within a fixed admissibility regime: Every descriptive element induces a governance-relevant effect on: admissibility-definedness , or invariant (tensor-l...</dc:description>
+            <dc:date>2026-04-22</dc:date>
+            <dc:type>Text</dc:type>
+            <dc:identifier>https://doi.org/10.5281/zenodo.18678041</dc:identifier>
+            <dc:identifier>https://constraintsystemsinstitute.org/papers/anchor-tensor-and-skin-a-fixed-domain-decomposition-theorem-for-admissible-description/</dc:identifier>
+            <dc:language>en</dc:language>
+          </oai_dc:dc>
+        </metadata>
+      </record>
+      <record>
+        <header><identifier>oai:constraintsystemsinstitute.org:boundary-trace-fixation-under-admissibility-10-5281-zenodo-19988044</identifier><datestamp>2026-05-02</datestamp></header>
+        <metadata>
+          <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+            <dc:title>Boundary-Trace Fixation under Admissibility</dc:title>
+            <dc:creator>Amos Jay Maley</dc:creator>
+            <dc:subject>AASC, Constraint Systems Institute, theoretical physics, mathematical foundations, Non-Degenerate Construction and the Kernel of Admissibility, admissible construction; standing constraints; boundary trace; environmental coupling; reference fixation; asymmetry exhaustion; symmetry breaking; construction systems; non-selectivity; outcome-complete systems; structural necessity; closure theorem</dc:subject>
+            <dc:description>Description Title: Boundary-Trace Fixation under Admissibility: Forced Environmental Coupling as the Final Role-Anchor Asymmetry Summary This paper establishes the Fixation Theorem for admissible construction systems: a unique role-anchor assignment exists if and only if a boundary-trace asymmetry exists; otherwise, fixation is impossible. The result is derived within the AASC (Admissible Construction under Standing Constraints) framework and closes the reference-formation problem under internal non-selectivity....</dc:description>
+            <dc:date>2026-05-02</dc:date>
+            <dc:type>Text</dc:type>
+            <dc:identifier>https://doi.org/10.5281/zenodo.19988044</dc:identifier>
+            <dc:identifier>https://constraintsystemsinstitute.org/papers/boundary-trace-fixation-under-admissibility-10-5281-zenodo-19988044/</dc:identifier>
+            <dc:language>en</dc:language>
+          </oai_dc:dc>
+        </metadata>
+      </record>
+      <record>
+        <header><identifier>oai:constraintsystemsinstitute.org:constraint-bundle-forcing-under-fixed-domain-evaluability-10-5281-zenodo-20085938</identifier><datestamp>2026-05-08</datestamp></header>
+        <metadata>
+          <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+            <dc:title>Constraint-Bundle Forcing under Fixed-Domain Evaluability</dc:title>
+            <dc:creator>Amos Jay Maley</dc:creator>
+            <dc:subject>AASC, Constraint Systems Institute, theoretical physics, mathematical foundations, Non-Degenerate Construction and the Kernel of Admissibility, Forced Existence Arc; AASC; fixed-domain evaluability; admissibility-bearing continuation; governance non-vacuity; invariant constraint architecture; structural forcing; role-existence; admissibility; standing; identity fixation; transport structure; quotient discipline; structural persistence; constraint-bundle forcing</dc:subject>
+            <dc:description>Paper II of the Forced Existence Arc This paper develops the positive structural successor to the fixed-domain null-regime closure theorem. The previous result established that total admissibility-vacuity cannot function as an admissible endpoint, fixed point, lower generator, repair target, or same-scope counterexample within admissibility-bearing evaluability. The present work begins after that closure and asks a narrower and more constructive question: What is structurally forced once non-degenerate fixed-dom...</dc:description>
+            <dc:date>2026-05-08</dc:date>
+            <dc:type>Text</dc:type>
+            <dc:identifier>https://doi.org/10.5281/zenodo.20085938</dc:identifier>
+            <dc:identifier>https://constraintsystemsinstitute.org/papers/constraint-bundle-forcing-under-fixed-domain-evaluability-10-5281-zenodo-20085938/</dc:identifier>
+            <dc:language>en</dc:language>
+          </oai_dc:dc>
+        </metadata>
+      </record>
+      <record>
+        <header><identifier>oai:constraintsystemsinstitute.org:covariant-differentiation-from-the-aasc-kernel-10-5281-zenodo-21318224</identifier><datestamp>2026-08-27</datestamp></header>
+        <metadata>
+          <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+            <dc:title>Covariant Differentiation from the AASC Kernel</dc:title>
+            <dc:creator>Amos Jay Maley</dc:creator>
+            <dc:subject>AASC, Constraint Systems Institute, theoretical physics, mathematical foundations, Non-Degenerate Construction and the Kernel of Admissibility</dc:subject>
+            <dc:description>Part of the Non-Degenerate Construction and the Kernel of Admissibility research arc in the Constraint Systems Institute archive.</dc:description>
+            <dc:date>2026-08-27</dc:date>
+            <dc:type>Text</dc:type>
+            <dc:identifier>https://doi.org/10.5281/zenodo.21318224</dc:identifier>
+            <dc:identifier>https://constraintsystemsinstitute.org/papers/covariant-differentiation-from-the-aasc-kernel-10-5281-zenodo-21318224/</dc:identifier>
+            <dc:language>en</dc:language>
+          </oai_dc:dc>
+        </metadata>
+      </record>
+      <record>
+        <header><identifier>oai:constraintsystemsinstitute.org:the-impossibility-of-deeper-invariants-under-the-ametric-boundary-10-5281-zenodo-18518</identifier><datestamp>2026-02-07</datestamp></header>
+        <metadata>
+          <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+            <dc:title>The Impossibility of Deeper Invariants Under the AMetric Boundary</dc:title>
+            <dc:creator>Amos Jay Maley</dc:creator>
+            <dc:subject>AASC, Constraint Systems Institute, theoretical physics, mathematical foundations, Non-Degenerate Construction and the Kernel of Admissibility</dc:subject>
+            <dc:description>This paper establishes that no deeper invariants exist beneath the AMetric Boundary. Once admissibility is enforced, the search for more fundamental, hidden, or pre-metric invariants is shown to be incoherent rather than incomplete. The analysis proceeds by exhaustion. It demonstrates that all proposed candidates for deeper invariants-structural symmetries, abstract information measures, meta-dynamical principles, or pre-geometric substrates-rely on illicit re-metricization, scope transport, or covert reintroduc...</dc:description>
+            <dc:date>2026-02-07</dc:date>
+            <dc:type>Text</dc:type>
+            <dc:identifier>https://doi.org/10.5281/zenodo.18518348</dc:identifier>
+            <dc:identifier>https://constraintsystemsinstitute.org/papers/the-impossibility-of-deeper-invariants-under-the-ametric-boundary-10-5281-zenodo-18518/</dc:identifier>
+            <dc:language>en</dc:language>
+          </oai_dc:dc>
+        </metadata>
+      </record>
+      <record>
+        <header><identifier>oai:constraintsystemsinstitute.org:gravity-as-structural-necessity-10-5281-zenodo-19945401</identifier><datestamp>2026-05-01</datestamp></header>
+        <metadata>
+          <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+            <dc:title>Gravity as Structural Necessity</dc:title>
+            <dc:creator>Amos Jay Maley</dc:creator>
+            <dc:subject>AASC, Constraint Systems Institute, theoretical physics, mathematical foundations, Physical projection spine, gravity, quantum theory, Einstein dynamics, Schrodinger dynamics, admissibility; constraint structure; gravity foundations; general relativity; Hamiltonian constraints; projection equivalence; quantum gravity foundations; gauge structure; identity-preserving construction; theoretical physics foundations</dc:subject>
+            <dc:description>Overview This paper presents a structural account of gravity within the AASC (Admissible Structure of Construction) framework. It argues that gravity is not a contingent dynamical sector, but the necessary constraint architecture required for the existence of an admissible physical interior. The central claim is not that Einstein&apos;s field equations are derived from first principles, but that any well-typed physical theory supporting identity-preserving, reusable, admissible structure must instantiate a GR-type co...</dc:description>
+            <dc:date>2026-05-01</dc:date>
+            <dc:type>Text</dc:type>
+            <dc:identifier>https://doi.org/10.5281/zenodo.19945401</dc:identifier>
+            <dc:identifier>https://constraintsystemsinstitute.org/papers/gravity-as-structural-necessity-10-5281-zenodo-19945401/</dc:identifier>
+            <dc:language>en</dc:language>
+          </oai_dc:dc>
+        </metadata>
+      </record>
+      <record>
+        <header><identifier>oai:constraintsystemsinstitute.org:free-will-as-admissible-commitment-an-aasc-account-of-responsibility-authorship-withou</identifier><datestamp>2026-06-20</datestamp></header>
+        <metadata>
+          <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+            <dc:title>Free Will as Admissible Commitment: An AASC Account of Responsibility-Authorship Without Outcome Selection</dc:title>
+            <dc:creator>Amos Jay Maley</dc:creator>
+            <dc:subject>AASC, Constraint Systems Institute, theoretical physics, mathematical foundations, Primary mind and agency papers, AASC; free will; admissible commitment; authored uptake; responsibility-authorship; commitment fixation; moral responsibility; determinism; agency under constraint; philosophy of action; philosophy of responsibility</dc:subject>
+            <dc:description>Overview This record contains the full AASC manuscript package for Free Will as Admissible Commitment: An AASC Account of Responsibility-Authorship Without Outcome Selection . The manuscript develops a flagship-level AASC treatment of free will. It argues that free will should not be understood as metaphysical spontaneity, uncaused causation, outcome selection, randomness, branch selection, or exemption from determinism. Instead, the paper gives the AASC answer: free will is the standing-bound capacity for admis...</dc:description>
+            <dc:date>2026-06-20</dc:date>
+            <dc:type>Text</dc:type>
+            <dc:identifier>https://doi.org/10.5281/zenodo.18514627</dc:identifier>
+            <dc:identifier>https://constraintsystemsinstitute.org/papers/free-will-as-admissible-commitment-an-aasc-account-of-responsibility-authorship-withou/</dc:identifier>
+            <dc:language>en</dc:language>
+          </oai_dc:dc>
+        </metadata>
+      </record>
+      <record>
+        <header><identifier>oai:constraintsystemsinstitute.org:the-aasc-description-of-consciousness-10-5281-zenodo-20773878</identifier><datestamp>2026-06-20</datestamp></header>
+        <metadata>
+          <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+            <dc:title>The AASC Description of Consciousness</dc:title>
+            <dc:creator>Amos Jay Maley</dc:creator>
+            <dc:subject>AASC, Constraint Systems Institute, theoretical physics, mathematical foundations, Primary mind and agency papers, AASC; consciousness; qualia; philosophy of mind; phenomenal consciousness; reference fixation; quotient interface; redescription invariance; qualitative tensors; machine consciousness; global workspace theory; integrated information theory; predictive processing; functionalism; higher-order theories; neural correlates of consciousness; structural philosophy</dc:subject>
+            <dc:description>Description Overview The AASC Description of Consciousness: Referential Standing, Qualitative Tensors, and the Conscious Quotient develops a downstream application of the AASC admissibility-and-standing framework to consciousness and qualia. The paper proceeds under an explicit dependency lock: it imports the upstream AASC machinery of fixed-domain admissibility, standing, redescription covariance, quotient-interface formation, no-hidden-remainder closure, same-scope operator exhaustion, and anchor/tensor/skin d...</dc:description>
+            <dc:date>2026-06-20</dc:date>
+            <dc:type>Text</dc:type>
+            <dc:identifier>https://doi.org/10.5281/zenodo.20773878</dc:identifier>
+            <dc:identifier>https://constraintsystemsinstitute.org/papers/the-aasc-description-of-consciousness-10-5281-zenodo-20773878/</dc:identifier>
+            <dc:language>en</dc:language>
+          </oai_dc:dc>
+        </metadata>
+      </record>
+      <record>
+        <header><identifier>oai:constraintsystemsinstitute.org:charges-couplings-and-renormalization-as-standing-transport-10-5281-zenodo-21213845</identifier><datestamp>2026-07-06</datestamp></header>
+        <metadata>
+          <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+            <dc:title>Charges, Couplings, and Renormalization as Standing Transport</dc:title>
+            <dc:creator>Amos Jay Maley</dc:creator>
+            <dc:subject>AASC, Constraint Systems Institute, theoretical physics, mathematical foundations, Recent carrier-exhaustion center, Standard Model, mass, charge, fields, AASC; Standard Model; charges; couplings; renormalization; charge response; charge lattice; hypercharge; electric charge; charge quantization; gauge couplings; coupling moduli; dimensionless couplings; fine-structure constant; RG flow; renormalization group; running coupling; threshold matching; calibration ledger; physical constants; EW/EM coupling bookkeeping; Standing-Preserving Coupling Theorem; EFT coefficients; Wilson coefficients; unification plots; varying constants; fine-tuning; anthropic selection; primitive closure; derivative skin; counterexample burden; BSM audit; EFT audit; prediction register; falsification protocol; Standard Model foundations</dc:subject>
+            <dc:description>Charge-Response Carriers, Coupling Moduli, RG Ledgers, and No Primitive Standing from Numerical Interaction Strengths Overview This manuscript is SM-4 in the Standard Model Carrier Exhaustion Closure sequence. It applies the SM-1 master classifier to charge numbers, gauge couplings, running parameters, renormalization-group transport, matching conditions, calibration values, effective-field-theory coefficients, and unification displays after receiving the SM-2 gauge-sector closure and SM-3 matter-sector closure....</dc:description>
+            <dc:date>2026-07-06</dc:date>
+            <dc:type>Text</dc:type>
+            <dc:identifier>https://doi.org/10.5281/zenodo.21213845</dc:identifier>
+            <dc:identifier>https://constraintsystemsinstitute.org/papers/charges-couplings-and-renormalization-as-standing-transport-10-5281-zenodo-21213845/</dc:identifier>
+            <dc:language>en</dc:language>
+          </oai_dc:dc>
+        </metadata>
+      </record>
+      <record>
+        <header><identifier>oai:constraintsystemsinstitute.org:flavor-transition-mixing-and-generation-cardinality-10-5281-zenodo-21214028</identifier><datestamp>2026-07-06</datestamp></header>
+        <metadata>
+          <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+            <dc:title>Flavor Transition, Mixing, and Generation Cardinality</dc:title>
+            <dc:creator>Amos Jay Maley</dc:creator>
+            <dc:subject>AASC, Constraint Systems Institute, theoretical physics, mathematical foundations, Recent carrier-exhaustion center, AASC; Standard Model; flavor transition; CKM matrix; PMNS matrix; mixing matrix; mixing angles; CP phase; CP violation; holonomy residue; rephasing redundancy; diagonalization; mass eigenstate; flavor eigenstate; neutrino oscillation; flavor-changing neutral currents; FCNC; generation cardinality; generation labels; role cardinality; role occupancy; fixed family envelope; primitive closure; derivative skin; counterexample burden; BSM flavor; prediction register; falsification protocol; Standard Model foundations</dc:subject>
+            <dc:description>Flavor Transition, Mixing, and Generation Cardinality CKM/PMNS Coordinates, CP Phases, Basis Skins, Role-Cardinality Burdens, and No Primitive Mixing-Matrix Identity in the Standard Model Overview This manuscript is SM-5 in the Standard Model Carrier Exhaustion Closure sequence. It applies the SM-1 master classifier to flavor transition, mixing matrices, basis choices, rephasing conventions, CP-like phases, mass/flavor eigenstate labels, neutrino oscillation routes, flavor-changing neutral-current branches, gene...</dc:description>
+            <dc:date>2026-07-06</dc:date>
+            <dc:type>Text</dc:type>
+            <dc:identifier>https://doi.org/10.5281/zenodo.21214028</dc:identifier>
+            <dc:identifier>https://constraintsystemsinstitute.org/papers/flavor-transition-mixing-and-generation-cardinality-10-5281-zenodo-21214028/</dc:identifier>
+            <dc:language>en</dc:language>
+          </oai_dc:dc>
+        </metadata>
+      </record>
+      <record>
+        <header><identifier>oai:constraintsystemsinstitute.org:gauge-carriers-photon-gluon-and-weak-boson-standing-10-5281-zenodo-21213644</identifier><datestamp>2026-07-06</datestamp></header>
+        <metadata>
+          <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+            <dc:title>Gauge Carriers: Photon, Gluon, and Weak-Boson Standing</dc:title>
+            <dc:creator>Amos Jay Maley</dc:creator>
+            <dc:subject>AASC, Constraint Systems Institute, theoretical physics, mathematical foundations, Recent carrier-exhaustion center, AASC; Standard Model; gauge carriers; charge response; color transport; weak-chiral response; anomaly obstruction; gauge-vacuum compatibility; primitive closure; derivative skin; gauge potential; curvature; holonomy; color-flow diagrams; longitudinal modes; Goldstone equivalence; electroweak standing; Higgs bridge carrier; BSM audit; gauge anomaly; counterexample burden; falsification protocol; prediction register; Standard Model foundations</dc:subject>
+            <dc:description>Field Notation, Gauge Redescription, and No Primitive Gauge-Boson Skin Escape in the Standard Model Overview This manuscript is SM-2 in the Standard Model Carrier Exhaustion Closure sequence. It applies the SM-1 master classifier to the gauge sector and develops a scoped primitive-status closure theorem for photon, gluon, W-boson, and Z-boson standing. The paper does not attempt to replace gauge theory, compute amplitudes, derive numerical gauge-coupling values, or deny standard photon, gluon, W, and Z phenomeno...</dc:description>
+            <dc:date>2026-07-06</dc:date>
+            <dc:type>Text</dc:type>
+            <dc:identifier>https://doi.org/10.5281/zenodo.21213644</dc:identifier>
+            <dc:identifier>https://constraintsystemsinstitute.org/papers/gauge-carriers-photon-gluon-and-weak-boson-standing-10-5281-zenodo-21213644/</dc:identifier>
+            <dc:language>en</dc:language>
+          </oai_dc:dc>
+        </metadata>
+      </record>
+      <record>
+        <header><identifier>oai:constraintsystemsinstitute.org:matter-carriers-quarks-leptons-and-neutrinos-10-5281-zenodo-21213753</identifier><datestamp>2026-07-06</datestamp></header>
+        <metadata>
+          <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+            <dc:title>Matter Carriers: Quarks, Leptons, and Neutrinos</dc:title>
+            <dc:creator>Amos Jay Maley</dc:creator>
+            <dc:subject>AASC, Constraint Systems Institute, theoretical physics, mathematical foundations, Recent carrier-exhaustion center, AASC; Standard Model; matter carriers; quarks; charged leptons; neutrinos; representation response; primitive closure; derivative skin; PMNS matrix; mass-response slot; Yukawa bookkeeping; BSM audit; counterexample burden; falsification protocol; prediction register; Standard Model foundations</dc:subject>
+            <dc:description>Spinor Skins, Mass Labels, Flavor Routes, and No Primitive Matter-Identity Escape in the Standard Model Overview This manuscript is SM-3 in the Standard Model Carrier Exhaustion Closure sequence. It imports the SM-1 master classifier and the SM-2 gauge-sector closure, then applies their carrier/skin discipline to Standard Model matter claims: quarks, charged leptons, neutrinos, spinor fields, representation labels, chiral labels, mass values, Yukawa coordinates, detector tracks, flavor labels, oscillation routes...</dc:description>
+            <dc:date>2026-07-06</dc:date>
+            <dc:type>Text</dc:type>
+            <dc:identifier>https://doi.org/10.5281/zenodo.21213753</dc:identifier>
+            <dc:identifier>https://constraintsystemsinstitute.org/papers/matter-carriers-quarks-leptons-and-neutrinos-10-5281-zenodo-21213753/</dc:identifier>
+            <dc:language>en</dc:language>
+          </oai_dc:dc>
+        </metadata>
+      </record>
+      <record>
+        <header><identifier>oai:constraintsystemsinstitute.org:primitive-carriers-derivative-skins-and-classifier-level-prediction-closure-in-the-sta</identifier><datestamp>2026-07-06</datestamp></header>
+        <metadata>
+          <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+            <dc:title>Primitive Carriers, Derivative Skins, and Classifier-Level Prediction Closure in the Standard Model</dc:title>
+            <dc:creator>Amos Jay Maley</dc:creator>
+            <dc:subject>AASC, Constraint Systems Institute, theoretical physics, mathematical foundations, Recent carrier-exhaustion center, Standard Model, mass, charge, fields, AASC; Standard Model; Standard Model foundations; primitive carrier; derivative skin; same-scope closure; primitive closure; BSM audit; prediction register; falsification protocol; gauge structure; matter representation; charge response; renormalization; flavor transition; generation cardinality; Higgs bridge carrier; kernel non-degeneracy; physical claim classification</dc:subject>
+            <dc:description>A Master Classifier for Same-Scope Primitive Exhaustion, New-Physics Sorting, and Carrier-Indexed Standing Overview This manuscript establishes the opening classifier layer of the Standard Model Carrier Exhaustion Closure ARC. Its purpose is not to claim empirical finality for the Standard Model, to prohibit future discoveries, or to deny the usefulness of effective-field-theory, anomaly, or beyond-Standard-Model language. Instead, it develops a primitive-status classifier for Standard Model-associated claims. T...</dc:description>
+            <dc:date>2026-07-06</dc:date>
+            <dc:type>Text</dc:type>
+            <dc:identifier>https://doi.org/10.5281/zenodo.21213269</dc:identifier>
+            <dc:identifier>https://constraintsystemsinstitute.org/papers/primitive-carriers-derivative-skins-and-classifier-level-prediction-closure-in-the-sta/</dc:identifier>
+            <dc:language>en</dc:language>
+          </oai_dc:dc>
+        </metadata>
+      </record>
+      <record>
+        <header><identifier>oai:constraintsystemsinstitute.org:an-aasc-constraint-formalism-proof-of-the-poincare-endpoint-by-fixed-carrier-negative</identifier><datestamp>2026-06-13</datestamp></header>
+        <metadata>
+          <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+            <dc:title>An AASC Constraint-Formalism Proof of the Poincare Endpoint by Fixed-Carrier Negative-Branch Exclusion</dc:title>
+            <dc:creator>Amos Jay Maley</dc:creator>
+            <dc:subject>AASC, Constraint Systems Institute, theoretical physics, mathematical foundations, Seven Clay endpoints, Poincare Conjecture, Poincare Conjecture; AASC; UEAP; residue exhaustion; fixed-domain endpoint exhaustion; uniqueness of admissible interior; primitive negative endpoint; no generators; no second classifier; sphere recognition; proof efficiency; Perelman; Ricci flow</dc:subject>
+            <dc:description>Overview This deposit presents An AASC Constraint-Formalism Proof of the Poincaré Endpoint by Fixed-Carrier Negative-Branch Exclusion . The manuscript gives a mathematical proof in the Admissibility And Standing Constraint (AASC) formalism. It is not a Ricci-flow proof, a surgery proof, a recognition algorithm proof, or an imported corollary of the Hamilton-Perelman solution. The proof class is fixed-carrier endpoint closure: the Poincaré endpoint is treated as a determinate theorem-bearing target on a fixed clo...</dc:description>
+            <dc:date>2026-06-13</dc:date>
+            <dc:type>Text</dc:type>
+            <dc:identifier>https://doi.org/10.5281/zenodo.20545179</dc:identifier>
+            <dc:identifier>https://constraintsystemsinstitute.org/papers/an-aasc-constraint-formalism-proof-of-the-poincare-endpoint-by-fixed-carrier-negative/</dc:identifier>
+            <dc:language>en</dc:language>
+          </oai_dc:dc>
+        </metadata>
+      </record>
+      <record>
+        <header><identifier>oai:constraintsystemsinstitute.org:carrier-universality-and-global-smoothness-for-the-periodic-3d-navier-stokes-equations</identifier><datestamp>2026-06-13</datestamp></header>
+        <metadata>
+          <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+            <dc:title>Carrier Universality and Global Smoothness for the Periodic 3D Navier–Stokes Equations</dc:title>
+            <dc:creator>Amos Jay Maley</dc:creator>
+            <dc:subject>AASC, Constraint Systems Institute, theoretical physics, mathematical foundations, Seven Clay endpoints, Navier-Stokes Existence and Smoothness, Navier-Stokes equations; Carrier Universality; structural certification; singular-candidate extractor; vortex stretching; constraint saturation; zero-parameter carrier; axiomatic PDE; T3 torus; Fefferman problem; Navier-Stokes regularity</dc:subject>
+            <dc:description>Carrier Universality and Global Smoothness for the Periodic 3D Navier-Stokes Equations This record deposits the referee-hardened manuscript package for Carrier Universality and Global Smoothness for the Periodic 3D Navier-Stokes Equations , a constraint-formalism impossibility proof of Fefferman&apos;s periodic Navier-Stokes statement (B). The manuscript presents a non-PDE-native mathematical route to the official periodic problem. It does not claim to derive a new vortex-stretching estimate, a new coercive continuat...</dc:description>
+            <dc:date>2026-06-13</dc:date>
+            <dc:type>Text</dc:type>
+            <dc:identifier>https://doi.org/10.5281/zenodo.19022917</dc:identifier>
+            <dc:identifier>https://constraintsystemsinstitute.org/papers/carrier-universality-and-global-smoothness-for-the-periodic-3d-navier-stokes-equations/</dc:identifier>
+            <dc:language>en</dc:language>
+          </oai_dc:dc>
+        </metadata>
+      </record>
+      <record>
+        <header><identifier>oai:constraintsystemsinstitute.org:p-np-by-exclusion-of-the-sat-separator-endpoint-10-5281-zenodo-20594895</identifier><datestamp>2026-06-13</datestamp></header>
+        <metadata>
+          <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+            <dc:title>P = NP by Exclusion of the SAT Separator Endpoint</dc:title>
+            <dc:creator>Amos Jay Maley</dc:creator>
+            <dc:subject>AASC, Constraint Systems Institute, theoretical physics, mathematical foundations, Seven Clay endpoints, P vs NP, sunflower lemma, P versus NP; P=NP; CNF-SAT; SAT; NP-completeness; Cook–Levin theorem; Karp reductions; computational complexity; AASC; Admissibility And Standing Constraint; endpoint rigidity; SAT separator endpoint; kernel necessity; theorem-bearing endpoint; fixed-domain construction; Lean4; formal verification; mathematical foundations</dc:subject>
+            <dc:description>Overview This record contains the manuscript and project materials for (P=NP) by Exclusion of the SAT Separator Endpoint: An AASC Endpoint-Rigidity Proof for Arbitrary Finite CNF-SAT . The manuscript presents an AASC endpoint-rigidity proof of the positive mathematical endpoint for the P versus NP problem. The official carrier used is unrestricted finite CNF-SAT. The positive raw branch is deterministic polynomial-time decidability of arbitrary finite CNF-SAT, and the bare negative branch is its raw complement o...</dc:description>
+            <dc:date>2026-06-13</dc:date>
+            <dc:type>Text</dc:type>
+            <dc:identifier>https://doi.org/10.5281/zenodo.20594895</dc:identifier>
+            <dc:identifier>https://constraintsystemsinstitute.org/papers/p-np-by-exclusion-of-the-sat-separator-endpoint-10-5281-zenodo-20594895/</dc:identifier>
+            <dc:language>en</dc:language>
+          </oai_dc:dc>
+        </metadata>
+      </record>
+      <record>
+        <header><identifier>oai:constraintsystemsinstitute.org:the-birch-and-swinnerton-dyer-endpoint-by-exclusion-of-analytic-arithmetic-mismatch-10</identifier><datestamp>2026-06-13</datestamp></header>
+        <metadata>
+          <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+            <dc:title>The Birch and Swinnerton-Dyer Endpoint by Exclusion of Analytic-Arithmetic Mismatch</dc:title>
+            <dc:creator>Amos Jay Maley</dc:creator>
+            <dc:subject>AASC, Constraint Systems Institute, theoretical physics, mathematical foundations, Seven Clay endpoints, Birch and Swinnerton-Dyer Conjecture, Birch and Swinnerton-Dyer conjecture; BSD rank endpoint; elliptic curves; analytic rank; Mordell-Weil rank; AASC; endpoint closure; fixed carrier; analytic-arithmetic bridge; rank mismatch exclusion; bridge-image exclusion; theorem-level discriminator; no-second-classifier closure; endpoint governance; Lean 4 audit; formal proof routing; refined BSD formula; Tate-Shafarevich group; formula-factor standing</dc:subject>
+            <dc:description>Overview This record contains the AASC endpoint-closure manuscript for the Birch and Swinnerton-Dyer rank endpoint, together with the associated Lean 4 audit-facing project materials. The manuscript treats the BSD rank statement on the fixed elliptic-curve carrier. The proof route is not a conventional arithmetic-geometric construction by descent, Euler systems, Iwasawa theory, rational-point construction, Sha-finiteness proof, or analytic estimation. It is a kernel-first AASC endpoint proof. Main Claim Boundary...</dc:description>
+            <dc:date>2026-06-13</dc:date>
+            <dc:type>Text</dc:type>
+            <dc:identifier>https://doi.org/10.5281/zenodo.20619224</dc:identifier>
+            <dc:identifier>https://constraintsystemsinstitute.org/papers/the-birch-and-swinnerton-dyer-endpoint-by-exclusion-of-analytic-arithmetic-mismatch-10/</dc:identifier>
+            <dc:language>en</dc:language>
+          </oai_dc:dc>
+        </metadata>
+      </record>
+      <record>
+        <header><identifier>oai:constraintsystemsinstitute.org:the-hodge-conjecture-by-exclusion-of-the-empty-cycle-fiber-endpoint-10-5281-zenodo-205</identifier><datestamp>2026-06-13</datestamp></header>
+        <metadata>
+          <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+            <dc:title>The Hodge Conjecture by Exclusion of the Empty Cycle-Fiber Endpoint</dc:title>
+            <dc:creator>Amos Jay Maley</dc:creator>
+            <dc:subject>AASC, Constraint Systems Institute, theoretical physics, mathematical foundations, Seven Clay endpoints, Hodge Conjecture, Hodge Conjecture; algebraic geometry; Hodge theory; Chow groups; cycle-realization relation; role compression; structural solution; AASC; UEAP; realization bridge; no silent redescription; no post-selection repair; role-occupancy closure; counterexample force; Lean4 audit; mathematical foundations</dc:subject>
+            <dc:description>This record contains an audit-grade AASC endpoint-exclusion manuscript for the Hodge Conjecture: The Hodge Conjecture by Exclusion of the Empty Cycle-Fiber Endpoint An AASC Endpoint-Rigidity Proof for Rational Hodge Classes via Cycle-Fiber Occupation The manuscript works on the fixed classical Hodge/cycle carrier. For a smooth projective complex variety XX X , codimension pp p , and rational Hodge class α∈Hdgp(X),\alpha \in \mathrm{Hdg}^p(X), α ∈ Hdg p ( X ) , the positive endpoint is the nonemptiness of the rat...</dc:description>
+            <dc:date>2026-06-13</dc:date>
+            <dc:type>Text</dc:type>
+            <dc:identifier>https://doi.org/10.5281/zenodo.20534479</dc:identifier>
+            <dc:identifier>https://constraintsystemsinstitute.org/papers/the-hodge-conjecture-by-exclusion-of-the-empty-cycle-fiber-endpoint-10-5281-zenodo-205/</dc:identifier>
+            <dc:language>en</dc:language>
+          </oai_dc:dc>
+        </metadata>
+      </record>
+      <record>
+        <header><identifier>oai:constraintsystemsinstitute.org:the-riemann-hypothesis-by-exclusion-of-the-prime-trace-amplitude-separator-10-5281-zen</identifier><datestamp>2026-06-13</datestamp></header>
+        <metadata>
+          <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+            <dc:title>The Riemann Hypothesis by Exclusion of the Prime-Trace Amplitude Separator</dc:title>
+            <dc:creator>Amos Jay Maley</dc:creator>
+            <dc:subject>AASC, Constraint Systems Institute, theoretical physics, mathematical foundations, Seven Clay endpoints, Riemann Hypothesis, AASC; Admissibility And Standing Constraint; Riemann Hypothesis; Riemann zeta function; carrier preservation; critical-line readout; same-scope zerohood; irreversibility; fixed reference; selector exclusion; analytic non-closure; mathematical foundations; formal epistemology; mathematical logic; scope discipline; zeta interface; Clay Millennium Problems</dc:subject>
+            <dc:description>This archive contains The Riemann Hypothesis by Exclusion of the Prime-Trace Amplitude Separator , a full audit-grade manuscript presenting an AASC endpoint-rigidity proof route for the Riemann Hypothesis through explicit-formula scale discrimination. The manuscript frames the Riemann Hypothesis as the positive endpoint ∀ρ (Aζ(ρ)⇒Lcrit(ρ)),\forall \rho \, (A_\zeta(\rho) \Rightarrow L_{\mathrm{crit}}(\rho)), ∀ ρ ( A ζ ( ρ ) ⇒ L crit ( ρ )) , where Aζ(ρ)A_\zeta(\rho) A ζ ( ρ ) denotes nontrivial zeta zerohood and...</dc:description>
+            <dc:date>2026-06-13</dc:date>
+            <dc:type>Text</dc:type>
+            <dc:identifier>https://doi.org/10.5281/zenodo.20473212</dc:identifier>
+            <dc:identifier>https://constraintsystemsinstitute.org/papers/the-riemann-hypothesis-by-exclusion-of-the-prime-trace-amplitude-separator-10-5281-zen/</dc:identifier>
+            <dc:language>en</dc:language>
+          </oai_dc:dc>
+        </metadata>
+      </record>
+      <record>
+        <header><identifier>oai:constraintsystemsinstitute.org:generation-cardinality-as-a-forced-role-occupancy-endpoint-10-5281-zenodo-21215285</identifier><datestamp>2026-07-06</datestamp></header>
+        <metadata>
+          <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+            <dc:title>Generation Cardinality as a Forced Role-Occupancy Endpoint</dc:title>
+            <dc:creator>Amos Jay Maley</dc:creator>
+            <dc:subject>AASC, Constraint Systems Institute, theoretical physics, mathematical foundations, Standard Model ARC, AASC; Standard Model; generation cardinality; three generations; role occupancy; role cardinality; forced role-occupancy endpoint; Standard Model carrier architecture; open-generation arena; rank matching; complete graph; cycle rank; rephasing quotient; CP holonomy; holonomy residue; flavor transition; CKM; PMNS; fixed-domain exhaustion; same-scope operator closure; primitive closure; derivative skin; Standard Model foundations; SM ARC; carrier exhaustion</dc:subject>
+            <dc:description>Rank-Matching Closure over the Open-Generation Standard Model Carrier Architecture Overview This manuscript supplies the open-generation cardinality endpoint required by the Standard Model Carrier Exhaustion Closure ARC. It closes the question deliberately left open by the fixed-envelope sector papers: whether the Standard Model carrier architecture itself forces a generation-role cardinality when the family-count envelope is opened. The theorem is not a numerical prediction of particle masses, Yukawa eigenvalue...</dc:description>
+            <dc:date>2026-07-06</dc:date>
+            <dc:type>Text</dc:type>
+            <dc:identifier>https://doi.org/10.5281/zenodo.21215285</dc:identifier>
+            <dc:identifier>https://constraintsystemsinstitute.org/papers/generation-cardinality-as-a-forced-role-occupancy-endpoint-10-5281-zenodo-21215285/</dc:identifier>
+            <dc:language>en</dc:language>
+          </oai_dc:dc>
+        </metadata>
+      </record>
+      <record>
+        <header><identifier>oai:constraintsystemsinstitute.org:the-standalone-standard-model-structure-from-first-principles-10-5281-zenodo-20305720</identifier><datestamp>2026-05-21</datestamp></header>
+        <metadata>
+          <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+            <dc:title>The Standalone Standard Model Structure from First Principles</dc:title>
+            <dc:creator>Amos Jay Maley</dc:creator>
+            <dc:subject>AASC, Constraint Systems Institute, theoretical physics, mathematical foundations, Standard Model ARC, Standard Model, mass, charge, fields, AASC; Standard Model; first-principles derivation; structural closure; charged leptons; philosophy of physics; mathematical physics; foundational physics; physical realization; constraint formalism; gauge realization; Yukawa realizability; Higgs bridge; mass response; admissible construction</dc:subject>
+            <dc:description>Overview The Standalone Standard Model Structure from First Principles presents a first-principles derivation of the recovered standalone Standard Model structural envelope, followed by a charged-lepton parameter-sector derivation yielding a conditional one-anchor numerical readout for the charged-lepton mass hierarchy. The central result is not merely a reinterpretation of known Standard Model structure. The manuscript gives a dependency-compressed proof spine in which the conventional Standard Model structural...</dc:description>
+            <dc:date>2026-05-21</dc:date>
+            <dc:type>Text</dc:type>
+            <dc:identifier>https://doi.org/10.5281/zenodo.20305720</dc:identifier>
+            <dc:identifier>https://constraintsystemsinstitute.org/papers/the-standalone-standard-model-structure-from-first-principles-10-5281-zenodo-20305720/</dc:identifier>
+            <dc:language>en</dc:language>
+          </oai_dc:dc>
+        </metadata>
+      </record>
+      <record>
+        <header><identifier>oai:constraintsystemsinstitute.org:the-standard-model-carrier-exhaustion-closure-10-5281-zenodo-21214336</identifier><datestamp>2026-07-06</datestamp></header>
+        <metadata>
+          <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+            <dc:title>The Standard Model Carrier Exhaustion Closure</dc:title>
+            <dc:creator>Amos Jay Maley</dc:creator>
+            <dc:subject>AASC, Constraint Systems Institute, theoretical physics, mathematical foundations, Standard Model ARC, Standard Model, mass, charge, fields, AASC; Standard Model; carrier exhaustion; Standard Model closure; primitive closure; skin openness; primitive carrier; derivative skin; Standard Model foundations; gauge carriers; matter carriers; charge response; charge lattice; coupling moduli; renormalization transport; flavor transition; CKM; PMNS; CP holonomy residue; generation cardinality; role occupancy; Higgs bridge carrier; Higgs fixation; BSM audit; EFT audit; anomaly audit; registered status atlas; projection interface; numerical parameter status; prediction register; falsification protocol; non-degenerate claimhood; kernel preservation</dc:subject>
+            <dc:description>Primitive Closure, Skin Openness, BSM Audit, and No Same-Scope Primitive Escape Overview This manuscript is SM-6 , the endpoint synthesis of the Standard Model Carrier Exhaustion Closure sequence. It receives the master classifier from SM-1, the gauge-sector closure from SM-2, the matter-sector closure from SM-3, the charge/coupling/renormalization closure from SM-4, the flavor/mixing/generation closure from SM-5, the open-generation cardinality endpoint, the Higgs bridge/fixation endpoint, the AASC/kernel admis...</dc:description>
+            <dc:date>2026-07-06</dc:date>
+            <dc:type>Text</dc:type>
+            <dc:identifier>https://doi.org/10.5281/zenodo.21214336</dc:identifier>
+            <dc:identifier>https://constraintsystemsinstitute.org/papers/the-standard-model-carrier-exhaustion-closure-10-5281-zenodo-21214336/</dc:identifier>
+            <dc:language>en</dc:language>
+          </oai_dc:dc>
+        </metadata>
+      </record>
+      <record>
+        <header><identifier>oai:constraintsystemsinstitute.org:the-arrow-of-time-as-standing-monotonicity-10-5281-zenodo-20678464</identifier><datestamp>2026-06-24</datestamp></header>
+        <metadata>
+          <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+            <dc:title>The Arrow of Time as Standing Monotonicity</dc:title>
+            <dc:creator>Amos Jay Maley</dc:creator>
+            <dc:subject>AASC, Constraint Systems Institute, theoretical physics, mathematical foundations, Standing monotonicity and the physical clock, AASC; arrow of time; standing monotonicity; temporal directionality; philosophy of time; philosophy of physics; entropy; thermodynamic arrow; causality; quantum measurement; decoherence; cosmological arrow; time asymmetry; foundations of physics; constraint formalism; Boltzmann entropy; Gibbs entropy; von Neumann entropy; block universe; quantum foundations; cosmology</dc:subject>
+            <dc:description>Overview This manuscript is Paper I in the AASC Time Non-Primitivity series. The paper treats the arrow of time not as primitive temporal flow, entropy increase, causal influence, information growth, psychological memory, quantum collapse, cosmological initial condition, or clock order, but as a standing-governed quotient structure. The central claim is that temporal directionality is not an independent primitive source. It is the strict non-invertible orientation left after primitive-arrow routes are exhausted...</dc:description>
+            <dc:date>2026-06-24</dc:date>
+            <dc:type>Text</dc:type>
+            <dc:identifier>https://doi.org/10.5281/zenodo.20678464</dc:identifier>
+            <dc:identifier>https://constraintsystemsinstitute.org/papers/the-arrow-of-time-as-standing-monotonicity-10-5281-zenodo-20678464/</dc:identifier>
+            <dc:language>en</dc:language>
+          </oai_dc:dc>
+        </metadata>
+      </record>
+      <record>
+        <header><identifier>oai:constraintsystemsinstitute.org:the-physical-clock-as-a-quotient-10-5281-zenodo-20833048</identifier><datestamp>2026-06-24</datestamp></header>
+        <metadata>
+          <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+            <dc:title>The Physical Clock as a Quotient</dc:title>
+            <dc:creator>Amos Jay Maley</dc:creator>
+            <dc:subject>AASC, Constraint Systems Institute, theoretical physics, mathematical foundations, Standing monotonicity and the physical clock, AASC; constrained quantum gravity; problem of time; physical clock; clock quotient; internal time; relational time; clock choice; quotient finality; selection governance; AMetric boundary</dc:subject>
+            <dc:description>Overview This manuscript is Paper II in the AASC Time Non-Primitivity series. The paper treats the physical clock not as a primitive temporal parameter, preferred variable, gauge slice, subsystem label, external time, or record token, but as a quotient object: the use-relative equivalence class of certified same-scope clock-use behavior for a declared constrained domain and physical use. The first paper in the series, The Arrow of Time as Standing Monotonicity , establishes the directionality side of the program...</dc:description>
+            <dc:date>2026-06-24</dc:date>
+            <dc:type>Text</dc:type>
+            <dc:identifier>https://doi.org/10.5281/zenodo.20833048</dc:identifier>
+            <dc:identifier>https://constraintsystemsinstitute.org/papers/the-physical-clock-as-a-quotient-10-5281-zenodo-20833048/</dc:identifier>
+            <dc:language>en</dc:language>
+          </oai_dc:dc>
+        </metadata>
+      </record>
+      <record>
+        <header><identifier>oai:constraintsystemsinstitute.org:agency-as-a-bookkeeping-projection-10-5281-zenodo-18522150</identifier><datestamp>2026-02-08</datestamp></header>
+        <metadata>
+          <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+            <dc:title>Agency as a Bookkeeping Projection</dc:title>
+            <dc:creator>Amos Jay Maley</dc:creator>
+            <dc:subject>AASC, Constraint Systems Institute, theoretical physics, mathematical foundations, Supporting structure</dc:subject>
+            <dc:description>This paper argues that agency is not an ontic primitive but a representational bookkeeping projection within an admissible interior. Under standing conservation and fail-closed admissibility, agency is shown to arise as a descriptive convenience tied to particular partitions of the admissible structure, rather than as an independently acting causal entity. The analysis proceeds by exhaustion: treating agency as ontically fundamental leads either to redundancy or to inadmissible scope transport. No mechanisms, de...</dc:description>
+            <dc:date>2026-02-08</dc:date>
+            <dc:type>Text</dc:type>
+            <dc:identifier>https://doi.org/10.5281/zenodo.18522150</dc:identifier>
+            <dc:identifier>https://constraintsystemsinstitute.org/papers/agency-as-a-bookkeeping-projection-10-5281-zenodo-18522150/</dc:identifier>
+            <dc:language>en</dc:language>
+          </oai_dc:dc>
+        </metadata>
+      </record>
+      <record>
+        <header><identifier>oai:constraintsystemsinstitute.org:mentis-umbra-10-5281-zenodo-18611122</identifier><datestamp>2026-02-13</datestamp></header>
+        <metadata>
+          <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+            <dc:title>Mentis Umbra</dc:title>
+            <dc:creator>Amos Jay Maley</dc:creator>
+            <dc:subject>AASC, Constraint Systems Institute, theoretical physics, mathematical foundations, Supporting structure, multi-agent systems; formal philosophy of mind; theoretical computer science foundations; identity equivalence; invariant reference</dc:subject>
+            <dc:description>Mentis Umbra: Consciousness, Agency, and Qualia as Admissible Projections This paper establishes a structural classification theorem for systems satisfying irreversibility and redescription stability. It proves that any such system must instantiate a projection structure consisting of (i) transition mediation and (ii) invariant reference. These structures are not introduced as primitives but are derived as necessary consequences of a commutation condition: The argument proceeds in layers. First, for single syste...</dc:description>
+            <dc:date>2026-02-13</dc:date>
+            <dc:type>Text</dc:type>
+            <dc:identifier>https://doi.org/10.5281/zenodo.18611122</dc:identifier>
+            <dc:identifier>https://constraintsystemsinstitute.org/papers/mentis-umbra-10-5281-zenodo-18611122/</dc:identifier>
+            <dc:language>en</dc:language>
+          </oai_dc:dc>
+        </metadata>
+      </record>
+      <record>
+        <header><identifier>oai:constraintsystemsinstitute.org:sa-2-the-ametric-boundary-as-non-transmissive-interface-10-5281-zenodo-18522654</identifier><datestamp>2026-02-08</datestamp></header>
+        <metadata>
+          <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+            <dc:title>SA_2 The AMetric Boundary as Non Transmissive Interface</dc:title>
+            <dc:creator>Amos Jay Maley</dc:creator>
+            <dc:subject>AASC, Constraint Systems Institute, theoretical physics, mathematical foundations, The AMetric boundary invariant</dc:subject>
+            <dc:description>This paper establishes the AMetric Boundary as a non-transmissive interface separating admissible description from illicit scope transport. The boundary is shown to be structural rather than dynamical: nothing crosses it by inference, extrapolation, parameter transport, or representational continuity. By exhaustion, any attempt to treat the boundary as permeable-whether via limiting procedures, emergent narratives, or meta-descriptive projection-violates admissibility and fails closed. The result is purely class...</dc:description>
+            <dc:date>2026-02-08</dc:date>
+            <dc:type>Text</dc:type>
+            <dc:identifier>https://doi.org/10.5281/zenodo.18522654</dc:identifier>
+            <dc:identifier>https://constraintsystemsinstitute.org/papers/sa-2-the-ametric-boundary-as-non-transmissive-interface-10-5281-zenodo-18522654/</dc:identifier>
+            <dc:language>en</dc:language>
+          </oai_dc:dc>
+        </metadata>
+      </record>
+      <record>
+        <header><identifier>oai:constraintsystemsinstitute.org:the-ametric-boundary-admissibility-constraint-map-paper-ii-10-5281-zenodo-18518587</identifier><datestamp>2026-02-07</datestamp></header>
+        <metadata>
+          <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+            <dc:title>The AMetric Boundary Admissibility Constraint Map Paper II</dc:title>
+            <dc:creator>Amos Jay Maley</dc:creator>
+            <dc:subject>AASC, Constraint Systems Institute, theoretical physics, mathematical foundations, The AMetric boundary invariant</dc:subject>
+            <dc:description>This paper establishes the AMetric Boundary as a necessary division between admissible representational structure and illicit metric reanchoring. The boundary marks the point beyond which quantities, measures, probabilities, or gradients cannot be meaningfully introduced without violating admissibility. The analysis demonstrates that attempts to ground admissibility in metric notions-such as information measures, probabilistic weights, distances, or optimization criteria-implicitly cross the AMetric Boundary and...</dc:description>
+            <dc:date>2026-02-07</dc:date>
+            <dc:type>Text</dc:type>
+            <dc:identifier>https://doi.org/10.5281/zenodo.18518587</dc:identifier>
+            <dc:identifier>https://constraintsystemsinstitute.org/papers/the-ametric-boundary-admissibility-constraint-map-paper-ii-10-5281-zenodo-18518587/</dc:identifier>
+            <dc:language>en</dc:language>
+          </oai_dc:dc>
+        </metadata>
+      </record>
+      <record>
+        <header><identifier>oai:constraintsystemsinstitute.org:wdw-1-connection-typed-canonical-projection-of-the-frozen-einstein-source-realization</identifier><datestamp>2026-08-27</datestamp></header>
+        <metadata>
+          <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+            <dc:title>WDW 1: Connection-Typed Canonical Projection of the Frozen Einstein-Source Realization</dc:title>
+            <dc:creator>Amos Jay Maley</dc:creator>
+            <dc:subject>AASC, Constraint Systems Institute, theoretical physics, mathematical foundations, Wheeler-DeWitt ten-paper branch, Wheeler-DeWitt equation, canonical gravity, quantum gravity, gravity, quantum theory, Einstein dynamics, Schrodinger dynamics</dc:subject>
+            <dc:description>Part of the Wheeler-DeWitt ten-paper branch research arc in the Constraint Systems Institute archive.</dc:description>
+            <dc:date>2026-08-27</dc:date>
+            <dc:type>Text</dc:type>
+            <dc:identifier>https://doi.org/10.5281/zenodo.21824424</dc:identifier>
+            <dc:identifier>https://constraintsystemsinstitute.org/papers/wdw-1-connection-typed-canonical-projection-of-the-frozen-einstein-source-realization/</dc:identifier>
+            <dc:language>en</dc:language>
+          </oai_dc:dc>
+        </metadata>
+      </record>
+      <record>
+        <header><identifier>oai:constraintsystemsinstitute.org:wdw-10-global-clock-neutral-relational-descent-and-universality-closure-10-5281-zenodo</identifier><datestamp>2026-08-27</datestamp></header>
+        <metadata>
+          <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+            <dc:title>WDW 10: Global Clock-Neutral Relational Descent and Universality Closure</dc:title>
+            <dc:creator>Amos Jay Maley</dc:creator>
+            <dc:subject>AASC, Constraint Systems Institute, theoretical physics, mathematical foundations, Wheeler-DeWitt ten-paper branch, Wheeler-DeWitt equation, canonical gravity, quantum gravity</dc:subject>
+            <dc:description>Part of the Wheeler-DeWitt ten-paper branch research arc in the Constraint Systems Institute archive.</dc:description>
+            <dc:date>2026-08-27</dc:date>
+            <dc:type>Text</dc:type>
+            <dc:identifier>https://doi.org/10.5281/zenodo.21827349</dc:identifier>
+            <dc:identifier>https://constraintsystemsinstitute.org/papers/wdw-10-global-clock-neutral-relational-descent-and-universality-closure-10-5281-zenodo/</dc:identifier>
+            <dc:language>en</dc:language>
+          </oai_dc:dc>
+        </metadata>
+      </record>
+      <record>
+        <header><identifier>oai:constraintsystemsinstitute.org:wdw-2-groupoid-faithful-proper-redescription-descent-of-the-aasc-canonical-gravity-rea</identifier><datestamp>2026-08-27</datestamp></header>
+        <metadata>
+          <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+            <dc:title>WDW 2: Groupoid-Faithful Proper-Redescription Descent of the AASC Canonical Gravity Realization</dc:title>
+            <dc:creator>Amos Jay Maley</dc:creator>
+            <dc:subject>AASC, Constraint Systems Institute, theoretical physics, mathematical foundations, Wheeler-DeWitt ten-paper branch, Wheeler-DeWitt equation, canonical gravity, quantum gravity, gravity, quantum theory, Einstein dynamics, Schrodinger dynamics</dc:subject>
+            <dc:description>Part of the Wheeler-DeWitt ten-paper branch research arc in the Constraint Systems Institute archive.</dc:description>
+            <dc:date>2026-08-27</dc:date>
+            <dc:type>Text</dc:type>
+            <dc:identifier>https://doi.org/10.5281/zenodo.21824928</dc:identifier>
+            <dc:identifier>https://constraintsystemsinstitute.org/papers/wdw-2-groupoid-faithful-proper-redescription-descent-of-the-aasc-canonical-gravity-rea/</dc:identifier>
+            <dc:language>en</dc:language>
+          </oai_dc:dc>
+        </metadata>
+      </record>
+      <record>
+        <header><identifier>oai:constraintsystemsinstitute.org:wdw-3-normal-deformation-as-constrained-refoliation-10-5281-zenodo-21824991</identifier><datestamp>2026-08-27</datestamp></header>
+        <metadata>
+          <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+            <dc:title>WDW 3: Normal Deformation as Constrained Refoliation</dc:title>
+            <dc:creator>Amos Jay Maley</dc:creator>
+            <dc:subject>AASC, Constraint Systems Institute, theoretical physics, mathematical foundations, Wheeler-DeWitt ten-paper branch, Wheeler-DeWitt equation, canonical gravity, quantum gravity</dc:subject>
+            <dc:description>Part of the Wheeler-DeWitt ten-paper branch research arc in the Constraint Systems Institute archive.</dc:description>
+            <dc:date>2026-08-27</dc:date>
+            <dc:type>Text</dc:type>
+            <dc:identifier>https://doi.org/10.5281/zenodo.21824991</dc:identifier>
+            <dc:identifier>https://constraintsystemsinstitute.org/papers/wdw-3-normal-deformation-as-constrained-refoliation-10-5281-zenodo-21824991/</dc:identifier>
+            <dc:language>en</dc:language>
+          </oai_dc:dc>
+        </metadata>
+      </record>
+      <record>
+        <header><identifier>oai:constraintsystemsinstitute.org:wdw-4-classical-matter-occupancy-and-joint-constraint-closure-under-aasc-10-5281-zenod</identifier><datestamp>2026-08-27</datestamp></header>
+        <metadata>
+          <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+            <dc:title>WDW 4: Classical Matter Occupancy and Joint-Constraint Closure under AASC</dc:title>
+            <dc:creator>Amos Jay Maley</dc:creator>
+            <dc:subject>AASC, Constraint Systems Institute, theoretical physics, mathematical foundations, Wheeler-DeWitt ten-paper branch, Wheeler-DeWitt equation, canonical gravity, quantum gravity</dc:subject>
+            <dc:description>Part of the Wheeler-DeWitt ten-paper branch research arc in the Constraint Systems Institute archive.</dc:description>
+            <dc:date>2026-08-27</dc:date>
+            <dc:type>Text</dc:type>
+            <dc:identifier>https://doi.org/10.5281/zenodo.21825104</dc:identifier>
+            <dc:identifier>https://constraintsystemsinstitute.org/papers/wdw-4-classical-matter-occupancy-and-joint-constraint-closure-under-aasc-10-5281-zenod/</dc:identifier>
+            <dc:language>en</dc:language>
+          </oai_dc:dc>
+        </metadata>
+      </record>
+      <record>
+        <header><identifier>oai:constraintsystemsinstitute.org:wdw-5-configuration-space-differentiation-and-the-constraint-native-wheeler-dewitt-can</identifier><datestamp>2026-08-27</datestamp></header>
+        <metadata>
+          <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+            <dc:title>WDW 5: Configuration-Space Differentiation and the Constraint-Native Wheeler-DeWitt Candidate Family</dc:title>
+            <dc:creator>Amos Jay Maley</dc:creator>
+            <dc:subject>AASC, Constraint Systems Institute, theoretical physics, mathematical foundations, Wheeler-DeWitt ten-paper branch, Wheeler-DeWitt equation, canonical gravity, quantum gravity</dc:subject>
+            <dc:description>Part of the Wheeler-DeWitt ten-paper branch research arc in the Constraint Systems Institute archive.</dc:description>
+            <dc:date>2026-08-27</dc:date>
+            <dc:type>Text</dc:type>
+            <dc:identifier>https://doi.org/10.5281/zenodo.21825298</dc:identifier>
+            <dc:identifier>https://constraintsystemsinstitute.org/papers/wdw-5-configuration-space-differentiation-and-the-constraint-native-wheeler-dewitt-can/</dc:identifier>
+            <dc:language>en</dc:language>
+          </oai_dc:dc>
+        </metadata>
+      </record>
+      <record>
+        <header><identifier>oai:constraintsystemsinstitute.org:wdw-6-quantum-constraint-survival-and-renormalized-physical-realization-of-the-wheeler</identifier><datestamp>2026-08-27</datestamp></header>
+        <metadata>
+          <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+            <dc:title>WDW 6: Quantum Constraint Survival and Renormalized Physical Realization of the Wheeler-DeWitt Family</dc:title>
+            <dc:creator>Amos Jay Maley</dc:creator>
+            <dc:subject>AASC, Constraint Systems Institute, theoretical physics, mathematical foundations, Wheeler-DeWitt ten-paper branch, Wheeler-DeWitt equation, canonical gravity, quantum gravity, gravity, quantum theory, Einstein dynamics, Schrodinger dynamics</dc:subject>
+            <dc:description>Part of the Wheeler-DeWitt ten-paper branch research arc in the Constraint Systems Institute archive.</dc:description>
+            <dc:date>2026-08-27</dc:date>
+            <dc:type>Text</dc:type>
+            <dc:identifier>https://doi.org/10.5281/zenodo.21825794</dc:identifier>
+            <dc:identifier>https://constraintsystemsinstitute.org/papers/wdw-6-quantum-constraint-survival-and-renormalized-physical-realization-of-the-wheeler/</dc:identifier>
+            <dc:language>en</dc:language>
+          </oai_dc:dc>
+        </metadata>
+      </record>
+      <record>
+        <header><identifier>oai:constraintsystemsinstitute.org:wdw-7-profile-clock-exhaustion-and-constraint-induced-cauchy-germ-evolution-for-the-wh</identifier><datestamp>2026-08-27</datestamp></header>
+        <metadata>
+          <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+            <dc:title>WDW 7: Profile-Clock Exhaustion and Constraint-Induced Cauchy-Germ Evolution for the Wheeler-DeWitt Constraint</dc:title>
+            <dc:creator>Amos Jay Maley</dc:creator>
+            <dc:subject>AASC, Constraint Systems Institute, theoretical physics, mathematical foundations, Wheeler-DeWitt ten-paper branch, Wheeler-DeWitt equation, canonical gravity, quantum gravity</dc:subject>
+            <dc:description>Part of the Wheeler-DeWitt ten-paper branch research arc in the Constraint Systems Institute archive.</dc:description>
+            <dc:date>2026-08-27</dc:date>
+            <dc:type>Text</dc:type>
+            <dc:identifier>https://doi.org/10.5281/zenodo.21825975</dc:identifier>
+            <dc:identifier>https://constraintsystemsinstitute.org/papers/wdw-7-profile-clock-exhaustion-and-constraint-induced-cauchy-germ-evolution-for-the-wh/</dc:identifier>
+            <dc:language>en</dc:language>
+          </oai_dc:dc>
+        </metadata>
+      </record>
+      <record>
+        <header><identifier>oai:constraintsystemsinstitute.org:wdw-8-covariant-canonical-reconciliation-and-controlled-semiclassical-recovery-for-the</identifier><datestamp>2026-08-27</datestamp></header>
+        <metadata>
+          <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+            <dc:title>WDW 8: Covariant-Canonical Reconciliation and Controlled Semiclassical Recovery for the Wheeler-DeWitt Constraint</dc:title>
+            <dc:creator>Amos Jay Maley</dc:creator>
+            <dc:subject>AASC, Constraint Systems Institute, theoretical physics, mathematical foundations, Wheeler-DeWitt ten-paper branch, Wheeler-DeWitt equation, canonical gravity, quantum gravity</dc:subject>
+            <dc:description>Part of the Wheeler-DeWitt ten-paper branch research arc in the Constraint Systems Institute archive.</dc:description>
+            <dc:date>2026-08-27</dc:date>
+            <dc:type>Text</dc:type>
+            <dc:identifier>https://doi.org/10.5281/zenodo.21827063</dc:identifier>
+            <dc:identifier>https://constraintsystemsinstitute.org/papers/wdw-8-covariant-canonical-reconciliation-and-controlled-semiclassical-recovery-for-the/</dc:identifier>
+            <dc:language>en</dc:language>
+          </oai_dc:dc>
+        </metadata>
+      </record>
+      <record>
+        <header><identifier>oai:constraintsystemsinstitute.org:wdw-9-complete-joint-constraint-kernel-realization-closure-for-the-wheeler-dewitt-syst</identifier><datestamp>2026-08-27</datestamp></header>
+        <metadata>
+          <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+            <dc:title>WDW 9: Complete Joint Constraint-Kernel Realization Closure for the Wheeler-DeWitt System</dc:title>
+            <dc:creator>Amos Jay Maley</dc:creator>
+            <dc:subject>AASC, Constraint Systems Institute, theoretical physics, mathematical foundations, Wheeler-DeWitt ten-paper branch, Wheeler-DeWitt equation, canonical gravity, quantum gravity</dc:subject>
+            <dc:description>Part of the Wheeler-DeWitt ten-paper branch research arc in the Constraint Systems Institute archive.</dc:description>
+            <dc:date>2026-08-27</dc:date>
+            <dc:type>Text</dc:type>
+            <dc:identifier>https://doi.org/10.5281/zenodo.21827310</dc:identifier>
+            <dc:identifier>https://constraintsystemsinstitute.org/papers/wdw-9-complete-joint-constraint-kernel-realization-closure-for-the-wheeler-dewitt-syst/</dc:identifier>
+            <dc:language>en</dc:language>
+          </oai_dc:dc>
+        </metadata>
+      </record>
+      <record>
+        <header><identifier>oai:constraintsystemsinstitute.org:companion-i-ultraviolet-gate-and-route-1-mass-gap-chain-10-5281-zenodo-19492934</identifier><datestamp>2026-04-18</datestamp></header>
+        <metadata>
+          <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+            <dc:title>Companion I: Ultraviolet Gate and Route 1 Mass-Gap Chain</dc:title>
+            <dc:creator>Amos Jay Maley</dc:creator>
+            <dc:subject>AASC, Constraint Systems Institute, theoretical physics, mathematical foundations, Yang-Mills five-paper arc inside the Clay series, Standard Model, mass, charge, fields, Yang-Mills theory; mass gap; lattice gauge theory; non-perturbative QFT; constructive field theory; measure transport; finite-depth RG</dc:subject>
+            <dc:description>This document provides the complete proof home for the ultraviolet/public-scope gate and the Route 1 lattice-to-continuum mass-gap chain used in the main manuscript. It establishes the full lattice-side burden of the Yang-Mills mass-gap argument, including: the compact-simple ultraviolet gate (A1 input and group-scope closure), the one-shot entrance theorem into the KP/Dobrushin contraction regime, the same-scale Wilson-to-patched transport theorem , the finite-depth transport control and de-patching stability ,...</dc:description>
+            <dc:date>2026-04-18</dc:date>
+            <dc:type>Text</dc:type>
+            <dc:identifier>https://doi.org/10.5281/zenodo.19492934</dc:identifier>
+            <dc:identifier>https://constraintsystemsinstitute.org/papers/companion-i-ultraviolet-gate-and-route-1-mass-gap-chain-10-5281-zenodo-19492934/</dc:identifier>
+            <dc:language>en</dc:language>
+          </oai_dc:dc>
+        </metadata>
+      </record>
+      <record>
+        <header><identifier>oai:constraintsystemsinstitute.org:companion-ii-lane-a-sharp-local-construction-10-5281-zenodo-19492999</identifier><datestamp>2026-04-18</datestamp></header>
+        <metadata>
+          <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+            <dc:title>Companion II: Lane A Sharp-Local Construction</dc:title>
+            <dc:creator>Amos Jay Maley</dc:creator>
+            <dc:subject>AASC, Constraint Systems Institute, theoretical physics, mathematical foundations, Yang-Mills five-paper arc inside the Clay series, Yang-Mills theory; constructive field theory; local quantum field theory; gauge invariance; sharp-local algebra; Osterwalder-Schrader; reflection positivity; Wightman reconstruction; spectral theory; operator algebras</dc:subject>
+            <dc:description>Description This document provides the complete proof home for the Lane A constructive chain , establishing the existence and structure of the sharp-local gauge-invariant Yang-Mills field algebra used in the main theorem. It constructs, in fully explicit theorem-level form: the flowed continuum state , the bounded positive-time base state , the exact-dimension quotient formalism , the finite-truncation inverse-control package , the finite-cap mixed-correlator closure , the finite-cap sharp-local extension with O...</dc:description>
+            <dc:date>2026-04-18</dc:date>
+            <dc:type>Text</dc:type>
+            <dc:identifier>https://doi.org/10.5281/zenodo.19492999</dc:identifier>
+            <dc:identifier>https://constraintsystemsinstitute.org/papers/companion-ii-lane-a-sharp-local-construction-10-5281-zenodo-19492999/</dc:identifier>
+            <dc:language>en</dc:language>
+          </oai_dc:dc>
+        </metadata>
+      </record>
+      <record>
+        <header><identifier>oai:constraintsystemsinstitute.org:companion-iii-reconstruction-non-triviality-and-faithful-wilson-universality-10-5281-z</identifier><datestamp>2026-04-18</datestamp></header>
+        <metadata>
+          <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+            <dc:title>Companion III: Reconstruction, Non-Triviality, and Faithful-Wilson Universality</dc:title>
+            <dc:creator>Amos Jay Maley</dc:creator>
+            <dc:subject>AASC, Constraint Systems Institute, theoretical physics, mathematical foundations, Yang-Mills five-paper arc inside the Clay series, Yang-Mills theory; mass gap; quantum field theory; spectral gap; vacuum structure; local net; field reconstruction; lattice gauge theory; mathematical physics</dc:subject>
+            <dc:description>This document provides the complete proof home for the endpoint packet of the Yang-Mills mass-gap argument. It establishes, in fully explicit theorem-level form: the Euclidean Osterwalder-Schrader (OS) dossier for the sharp-local theory, the OS/Wightman reconstruction and Haag-Kastler local net , the field correspondence between constructed observables and local quantum fields, the Minkowski vacuum spectral gap transfer , non-triviality of the theory (nonzero spectral weight) , and the exact bounded-region local...</dc:description>
+            <dc:date>2026-04-18</dc:date>
+            <dc:type>Text</dc:type>
+            <dc:identifier>https://doi.org/10.5281/zenodo.19493077</dc:identifier>
+            <dc:identifier>https://constraintsystemsinstitute.org/papers/companion-iii-reconstruction-non-triviality-and-faithful-wilson-universality-10-5281-z/</dc:identifier>
+            <dc:language>en</dc:language>
+          </oai_dc:dc>
+        </metadata>
+      </record>
+  </ListRecords>
+</OAI-PMH>
