@@ -13,6 +13,15 @@
   --shadow: 0 32px 110px rgba(0, 0, 0, 0.46);
 }
 
+#standard-model-arc h3 { font-size: 2.25rem; line-height: 1.15; }
+.standard-tour-entry { display: block; margin-top: 24px; border: 1px solid var(--line); border-radius: 6px; overflow: hidden; }
+.standard-tour-entry img { display: block; width: 100%; height: auto; }
+.standard-tour-entry > span { display: flex; align-items: center; justify-content: space-between; gap: 16px; padding: 15px 17px; font-size: .95rem; font-weight: 700; background: rgba(216,210,204,.08); }
+.standard-tour-entry:hover > span { background: rgba(216,210,204,.15); }
+.standard-tour-papers { border-block: 1px solid var(--line); padding-block: 4px; }
+.standard-tour-papers summary { padding: 12px 0; cursor: pointer; color: var(--silver); font-weight: 700; font-size: .95rem; }
+.standard-tour-papers .paper-chip-list { padding-block: 10px 16px; }
+
 * {
   box-sizing: border-box;
 }

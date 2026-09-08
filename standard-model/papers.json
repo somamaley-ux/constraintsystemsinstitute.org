@@ -1,0 +1,119 @@
+[
+  {
+    "id": "fcgs-1",
+    "code": "FCGS-I",
+    "group": "Fermionic structure",
+    "source_prefix": "FCGS 1_",
+    "title": "Premetric Exact-Three Root Structure and the Generation-Governed Standard-Model Matter Bundle",
+    "date": "2026-08-31",
+    "description": "Derives an unlabelled three-root base from the neutral comparison structure, then forms four typed matter-kind fibres and three rooted Higgs-response incidences per kind through one bridge.",
+    "technical": "The complete neutral comparison graph retains its integer circuit space after rephasing. Every independent circuit remains live, and the certified primitive transition-orientation residue has rank one, forcing (n - 1)(n - 2)/2 = 1 and n = 3. Generation erasure supplies the count-free matter profile; base change gives I3 x {N, L, U, D}. Rooted response slots precede numerical Yukawa values and pole masses.",
+    "chapter": "three"
+  },
+  {
+    "id": "fcgs-2",
+    "code": "FCGS-II",
+    "group": "Fermionic structure",
+    "source_prefix": "FCGS 2_",
+    "title": "Terminal Nonpromotion and Target-Relative Factorization in Charged and Colored Matter",
+    "date": "2026-08-31",
+    "description": "Separates the established generation structure from the further evidence needed to identify terminal physical bearers in charged and colored matter.",
+    "technical": "Complete typed continuation signatures characterize target-relative semantic identity when their soundness and completeness interfaces are activated. Terminal realization requires an actual singleton role-occupancy orbit with its physical authority. The charged-lepton and U/D-marked colored targets retain their precise NotReady profiles at the frozen evidence bases; this is not a physical nonexistence claim.",
+    "chapter": "matter"
+  },
+  {
+    "id": "fcgs-3",
+    "code": "FCGS-III",
+    "group": "Fermionic structure",
+    "source_prefix": "FCGS 3_",
+    "title": "Structural Universality and Exact Terminal Bifurcation",
+    "date": "2026-08-31",
+    "description": "Integrates the common three-root structure across all four matter kinds while preserving the different physical readiness of each terminal branch.",
+    "technical": "Kind-preserving natural equivalences integrate the rooted response fibres through one Higgs bridge on their maximal lawful domains. The frozen endpoint is structurally universal and terminally partial. Neutral certified child scopes, unresolved parent scopes, and charged and colored readiness profiles remain distinct; physical readouts cannot supply missing upstream authority.",
+    "chapter": "matter"
+  },
+  {
+    "id": "bcrs-1",
+    "code": "BCRS-I",
+    "group": "Bosonic responses",
+    "source_prefix": "BCRS 1_",
+    "title": "Premetric Bosonic Response Structure in the Standard Model",
+    "description": "Constructs the premetric bosonic response atlas: three gauge-response roots, one Higgs bridge, and a compatible mixed source without counting particle labels as new carriers.",
+    "technical": "Complete contextual signatures include admitted tests, finite typed continuations, exact domains and failure. The common source fixes the structured gauge-law record while preserving real response variation at different inputs. The carrier-root counts are separately typed as (3; 1); metric, vacuum, polarization, resonance and confinement realizations have their own source requirements.",
+    "chapter": "bosons"
+  },
+  {
+    "id": "bcrs-2ewh",
+    "code": "BCRS-2EWH",
+    "group": "Bosonic responses",
+    "source_prefix": "BCRS 2 EWH_",
+    "title": "Electroweak and Higgs Realization from a Premetric Response Atlas",
+    "description": "Follows the common Higgs-gauge source into electroweak fixation, residual charge, response supports, local interactions, and source-qualified physical channels.",
+    "technical": "On the one-doublet branch, residual action and the kinetic form determine gauge supports; with the scalar normal quotient they form a four-atom graded support lattice. Four invariant coordinates reconstruct the normalized local interaction, with a fifth when vacuum value is observed. Joint source kernels and complete continuation data retain physical state, channel and operator-domain information.",
+    "chapter": "bosons"
+  },
+  {
+    "id": "bcrs-2c",
+    "code": "BCRS-2C",
+    "group": "Bosonic responses",
+    "source_prefix": "BCRS 2 C_",
+    "title": "Color Realization from a Premetric Response Atlas",
+    "date": "2026-09-04",
+    "description": "Develops color transport, invariant neutral responses, global gauge information, physical composite boundaries, and the color contribution to metric response.",
+    "technical": "One color-transport carrier and its joint matter-Higgs source support invariant-network reconstruction, global quotient descent, screening and specified physical continuation branches. Complete metric probes determine the source distribution, with balanced matter-Higgs-color exchange. Structural neutralization, screening, source-qualified spectral transport and unrestricted confinement are distinct claims.",
+    "chapter": "bosons"
+  },
+  {
+    "id": "bcrs-3",
+    "code": "BCRS-III",
+    "group": "Bosonic responses",
+    "source_prefix": "BCRS 3_",
+    "title": "The Bosonic Carrier\u2013Response\u2013Projection Atlas",
+    "description": "Joins electromagnetic, weak, color and Higgs responses on one source, retaining mixed information that is lost when the sectors are considered separately.",
+    "technical": "The complete mixed observation algebra gives an exact quotient and retains relative attachment data. Five invariant response coordinates reconstruct the stipulated joint local interaction, or six with the observed vacuum contribution. A fixed Wheeler-DeWitt matter branch supplies a simultaneous classical gauge-Higgs-gravity history; stronger state and asymptotic projections retain their independent source data.",
+    "chapter": "bosons"
+  },
+  {
+    "id": "csp-s",
+    "code": "CSP-S",
+    "group": "Common source and realization",
+    "source_prefix": "CSP S_",
+    "title": "The Standard Model as a Constraint-Derived Carrier\u2013Response Structure",
+    "description": "Assembles the fermionic and bosonic architecture over a common source, preserving relative flavor, charge, Higgs and mixed-response information.",
+    "technical": "A domain-sensitive mixed-use algebra constructs the greatest observational congruence for the declared target. Complete source reconstruction factors admitted covariant uses. On represented branches, tensor probes recover charged coefficients, and complex traces of words up to length seventeen classify two three-dimensional Hermitian quark Gram matrices up to simultaneous unitary conjugacy. The result separates structural-law closure from numerical parameter selection.",
+    "chapter": "physical"
+  },
+  {
+    "id": "csp-c",
+    "code": "CSP-C",
+    "group": "Common source and realization",
+    "source_prefix": "CSP C_",
+    "title": "Classical Standard Model and Gravity from a Common Constraint-Governed Source",
+    "date": "2026-09-05",
+    "description": "Constructs a common classical Standard Model-gravity branch with an attached total source, exact coupled constraints, local evolution, and finite-algebra classical fermions.",
+    "technical": "A fixed covariant action occupies both a represented polynomial chart and an Einstein-matter construction on a compact hyperbolic Cauchy surface with a scalar clock. The exact Dirac-bracket constraint algebra, mixed-order right inverse and finite refoliation theorem concern the stated local regular body. Finite exterior-algebra lifting constructs classical anticommuting-field solutions. This branch is separately specified from CSP-P's occupied physical source.",
+    "chapter": "physical"
+  },
+  {
+    "id": "csp-p",
+    "code": "CSP-P",
+    "group": "Common source and realization",
+    "source_prefix": "CSP P_",
+    "title": "Common Physical Sources for a Constraint-Derived Standard Model",
+    "date": "2026-09-08",
+    "description": "Constructs the common physical realization: Higgs and matter responses, electroweak channels, the color/composite interface and the Einstein action retain the same occupied source.",
+    "technical": "Theorem 11.5 preserves one source, state, joint parameter point, original operation domains and compatible continuation families. Its physical Higgs response, complete source-qualified color interface and causal source-dependent Einstein action retain their original quantum-action order. Additional regulated Hamiltonian and asymptotic constructions have explicit source comparisons; the theorem does not claim unrestricted all-state scattering or nonperturbative quantum gravity.",
+    "chapter": "physical"
+  },
+  {
+    "id": "csp-r",
+    "code": "CSP-R",
+    "group": "Common source and realization",
+    "source_prefix": "CSP R_",
+    "title": "The Persistence Bearer and the Reconstruction of Standard-Model Roles",
+    "date": "2026-09-08",
+    "description": "Reconstructs the differentiated Standard Model from the common distributed persistence bearer, preserving its full response distinctions and the established quantum-Einstein realization.",
+    "technical": "Theorem 3.5 identifies the native and differentiated partial-operation response structures, including exact domains, failures and shared inputs. Proposition 3.6 reconstructs the finer retained source class. Theorem 4.3 preserves the same-source physical realization. Together with persistence-carrier and role exhaustion, theorem 5.2 excludes an additional same-target primitive material bearer without collapsing distinct response classes.",
+    "chapter": "bearer"
+  }
+]
