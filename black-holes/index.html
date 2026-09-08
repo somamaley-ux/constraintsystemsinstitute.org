@@ -1,0 +1,172 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Black Holes: The Limits of Spacetime | Constraint Systems Institute</title>
+  <meta name="description" content="Explore Amos Jay Maley's five-paper black-hole arc: horizon reconstruction, residual coherence, AMetric boundary homology, and fresh governed-domain status without inheritance.">
+  <meta name="author" content="Amos Jay Maley">
+  <meta name="theme-color" content="#18171a">
+  <meta property="og:type" content="website">
+  <meta property="og:title" content="Black Holes: The Limits of Spacetime">
+  <meta property="og:description" content="A guided reading of the AASC black-hole arc, from exterior reconstruction to fresh origins without inheritance.">
+  <meta property="og:url" content="https://constraintsystemsinstitute.org/black-holes/">
+  <link rel="canonical" href="https://constraintsystemsinstitute.org/black-holes/">
+  <link rel="icon" href="../favicon.ico">
+  <link rel="stylesheet" href="../styles.css">
+  <link rel="stylesheet" href="../standard-model/tour.css">
+  <link rel="stylesheet" href="tour.css">
+  <script defer src="../assets/vendor/lucide.min.js"></script>
+  <script defer src="tour.js"></script>
+  <script data-goatcounter="https://constraintsystemsinstitute.goatcounter.com/count" async src="https://gc.zgo.at/count.js"></script>
+<!-- TOUR_METADATA -->
+<script type="application/ld+json">{"@context":"https://schema.org","@type":"CollectionPage","name":"Black Holes: The Limits of Spacetime","url":"https://constraintsystemsinstitute.org/black-holes/","inLanguage":"en","author":{"@type":"Person","name":"Amos Jay Maley"},"description":"A guided reading of the five-paper AASC black-hole arc, from exterior reconstruction to fresh governed-domain status without inheritance.","hasPart":[{"@type":"ScholarlyArticle","name":"Black Holes as Licensed Limit Regimes","url":"https://constraintsystemsinstitute.org/papers/black-holes-as-licensed-limit-regimes-black-hole-arc-0-10-5281-zenodo-20727174/","identifier":"10.5281/zenodo.20727174"},{"@type":"ScholarlyArticle","name":"Horizon Instability as an Admissible Reconstruction Obstruction","url":"https://constraintsystemsinstitute.org/papers/horizon-instability-as-an-admissible-reconstruction-obstruction-black-hole-arc-1-10-52/","identifier":"10.5281/zenodo.20073764"},{"@type":"ScholarlyArticle","name":"Standingless Interiors and Residual Coherence","url":"https://constraintsystemsinstitute.org/papers/standingless-interiors-and-residual-coherence-black-hole-arc-2-10-5281-zenodo-20727246/","identifier":"10.5281/zenodo.20727246"},{"@type":"ScholarlyArticle","name":"AMetric Normal-Form Homology","url":"https://constraintsystemsinstitute.org/papers/ametric-normal-form-homology-black-hole-arc-3-10-5281-zenodo-20835451/","identifier":"10.5281/zenodo.20835451"},{"@type":"ScholarlyArticle","name":"Black Holes as Constraint-Forced Origins","url":"https://constraintsystemsinstitute.org/papers/black-holes-as-constraint-forced-origins-black-hole-arc-4-10-5281-zenodo-21053982/","identifier":"10.5281/zenodo.21053982"}]}</script>
+<!-- /TOUR_METADATA -->
+</head>
+<body class="sm-tour bh-tour">
+  <a class="skip-link" href="#overview">Skip to the tour</a>
+  <header class="site-header tour-header">
+    <a class="brand" href="../index.html"><span class="brand-mark" aria-hidden="true"></span><span>Constraint Systems<br>Institute</span></a>
+    <nav class="tour-nav" aria-label="Tour navigation">
+      <a href="#papers">5 papers</a><a href="../standard-model/index.html">Standard Model</a><a href="../index.html#black-hole-arc">Archive <i data-lucide="arrow-up-right" aria-hidden="true"></i></a>
+      <button class="icon-button" id="motion-toggle" aria-label="Pause diagram animation" title="Pause diagram animation" aria-pressed="false"><i data-lucide="pause" aria-hidden="true"></i></button>
+    </nav>
+  </header>
+  <main>
+    <section class="tour-opening" id="overview" aria-labelledby="tour-title">
+      <div class="opening-copy wrap">
+        <p class="kicker">AASC / A guided research tour</p>
+        <h1 id="tour-title">Black Holes</h1>
+        <p class="opening-line">The limits of spacetime. Fresh origins without inheritance.</p>
+        <p class="opening-intro">A black-hole geometry is one thing. The conditions that let its physical content remain identifiable are another. This five-paper arc follows that distinction from exterior reconstruction to the AMetric endpoint, and from there to a fresh domain governed by its own constraints.</p>
+      </div>
+      <div class="boundary-exhibit wrap">
+        <div class="exhibit-topline"><span id="boundary-label">A horizon within a licensed geometry</span><span class="small-label">Schematic, not a spacetime solution</span></div>
+        <canvas id="boundary-canvas" role="img" aria-label="A schematic horizon within an exterior comparison grid. Geometry and witness relations are different descriptions; neither drawing represents an AMetric boundary.">A classical horizon is a structure within a metric and causal description. It is not automatically a reconstruction map.</canvas>
+        <div class="segmented" role="group" aria-label="Horizon description">
+          <button data-view="geometry" aria-pressed="true">Geometry</button><button data-view="witnesses" aria-pressed="false">Witness relations</button>
+        </div>
+        <p id="boundary-caption" class="exhibit-caption" aria-live="polite">A classical horizon is a metric and causal structure. Its geometry does not itself supply an exterior reconstruction map.</p>
+      </div>
+      <div class="opening-footer wrap"><a class="text-link" href="#horizons">Follow the argument <i data-lucide="arrow-down" aria-hidden="true"></i></a><span>5 manuscripts <span aria-hidden="true">/</span> Amos Jay Maley</span></div>
+    </section>
+
+    <nav class="chapter-nav" aria-label="Chapters">
+      <div class="wrap"><a href="#horizons" aria-current="step"><span>00</span> Horizons</a><a href="#reconstruction"><span>01</span> Recovery</a><a href="#residual"><span>02</span> Residual</a><a href="#boundary"><span>03</span> Boundary</a><a href="#origins"><span>04</span> Origins</a></div>
+      <div class="reading-progress" aria-hidden="true"><span id="reading-progress"></span></div>
+    </nav>
+
+    <section class="chapter wrap" id="horizons" aria-labelledby="horizon-title">
+      <div class="chapter-heading"><p class="kicker">00 / Fix the physical question</p><h2 id="horizon-title">A horizon is not<br>a reconstruction map.</h2></div>
+      <div class="chapter-layout">
+        <div class="chapter-copy">
+          <p>General relativity supplies black-hole geometries within its declared regimes. This arc preserves that role. Its additional question is whether a description can keep identifying the same physical reference through later exterior witnesses.</p>
+          <p>Here, <strong>standing</strong> means more than an observer knowing something: the declared structure supports identifying the target again and using it consistently. A <strong>scope</strong> fixes which references, witnesses and continuations belong to that reconstruction problem.</p>
+          <p>The kernel is not an optional layer added to such a construction. Once the target is non-degenerate and determinate, admissibility, standing, reference and irreversibility govern it. The later black-hole results then depend on the particular reconstruction and endpoint conditions established in the arc.</p>
+          <a class="source-ref" href="pdf/bh-0.pdf#page=11">Paper 0 / Classical horizon and reconstruction <i data-lucide="arrow-up-right" aria-hidden="true"></i></a>
+        </div>
+        <div class="exterior-ledger" aria-label="Exterior roles and their distinct burdens">
+          <div class="ledger-heading"><span>Exterior role</span><span>What it establishes</span></div>
+          <div><span class="math">M</span><p>Mass as an exterior source-response role.</p></div>
+          <div><span class="math">Q</span><p>Charge through gauge-compatible boundary or flux witnesses.</p></div>
+          <div><span class="math">J</span><p>Angular momentum through rotational and frame-dragging response.</p></div>
+          <div class="ledger-conclusion"><i data-lucide="git-compare-arrows" aria-hidden="true"></i><p>Preserving exterior parameters is not, by itself, reconstructing every crossed reference.</p></div>
+        </div>
+      </div>
+      <details class="technical-note"><summary>The technical distinction</summary><div><p>Paper 0 separates a classical event horizon from a same-scope, standing-preserving exterior reconstruction object. The latter fixes an exterior witness algebra, a reference quotient, a continuation relation and explicit transport status. The familiar Kerr-Newman mass, charge and angular-momentum ledger is an example of exterior role content, not a stationarity or no-hair premise for the whole theorem.</p><p>Singularities are treated as diagnostics of exhausted metric articulation. Thermodynamic and information-theoretic ledgers retain their proper roles, but do not acquire reconstruction force without an appropriate witness map. The arc does not compute a Hawking spectrum, a Page curve or interior microdynamics.</p></div></details>
+    </section>
+
+    <section class="chapter band" id="reconstruction" aria-labelledby="reconstruction-title"><div class="wrap">
+      <div class="chapter-heading"><p class="kicker">01 / The exterior obstruction</p><h2 id="reconstruction-title">A missing witness cannot<br>be filled by a label.</h2></div>
+      <div class="chapter-layout reconstruction-layout">
+        <div class="chapter-copy">
+          <p>Suppose some previously supported references become dependent on a permanently isolated horizon interior. The exterior reconstruction problem still asks for those references to remain identifiable. What supplies their later exterior witness?</p>
+          <p>Paper I distinguishes a genuine leakage or reconstruction route from the assertion that the information is stored somewhere. A boundary, radiation, holographic or remnant map can resolve the burden when it actually re-fixes the reference in the declared scope.</p>
+          <p>Without such a route, the assignment is <strong>undefined</strong>. Assigning a convenient label does not turn it into a justified reconstruction. If no admissible exterior successor remains, the result is exhaustion of that reconstruction, not successful standing-preserving permanence.</p>
+          <a class="source-ref" href="pdf/bh-1.pdf#page=28">Paper I / The finite reconstruction example <i data-lucide="arrow-up-right" aria-hidden="true"></i></a>
+        </div>
+        <div class="reconstruction-tool" aria-labelledby="transport-title">
+          <h3 id="transport-title">A finite reconstruction case</h3>
+          <p class="tool-context">Four reference classes; two require a route through the horizon reconstruction problem.</p>
+          <fieldset class="route-controls"><legend>Declared witness routes</legend><label><input id="leakage" type="checkbox"><span>Leakage with late witnesses</span></label><label><input id="certificate" type="checkbox"><span>Certified exterior reconstruction</span></label><label class="storage-option"><input id="storage" type="checkbox"><span>Global storage, without an exterior map</span></label></fieldset>
+          <div class="transport-table" role="table" aria-label="Reference to exterior witness assignments">
+            <div class="transport-row transport-head" role="row"><span role="columnheader">Reference</span><span role="columnheader">Transport</span><span role="columnheader">Exterior witness</span></div>
+            <div class="transport-row" role="row"><span role="cell" class="math">r<sub>1</sub></span><span role="cell" class="transport-path" aria-label="defined"><i data-lucide="arrow-right" aria-hidden="true"></i></span><span role="cell" class="math">w<sub>1</sub></span></div>
+            <div class="transport-row" role="row"><span role="cell" class="math">r<sub>2</sub></span><span role="cell" class="transport-path" aria-label="defined"><i data-lucide="arrow-right" aria-hidden="true"></i></span><span role="cell" class="math">w<sub>2</sub></span></div>
+            <div class="transport-row threatened" role="row" data-reference="3"><span role="cell" class="math">r<sub>3</sub></span><span role="cell" class="transport-path" aria-label="undefined"><i data-lucide="unlink" aria-hidden="true"></i></span><span role="cell" data-witness>Undefined</span></div>
+            <div class="transport-row threatened" role="row" data-reference="4"><span role="cell" class="math">r<sub>4</sub></span><span role="cell" class="transport-path" aria-label="undefined"><i data-lucide="unlink" aria-hidden="true"></i></span><span role="cell" data-witness>Undefined</span></div>
+          </div>
+          <div class="transport-result" aria-live="polite"><strong id="transport-count">2 of 4 references have exterior witnesses</strong><p id="transport-verdict">The assignment is partial. Neither a label nor an unsupported storage claim supplies the two missing witnesses.</p></div>
+          <p class="figure-note">Paper I, Definition 14.2: this finite rule illustrates the theorem's domain distinction. Each setting is a separate declared case, not a repair of an earlier history.</p>
+        </div>
+      </div>
+      <details class="technical-note"><summary>The partial-domain rule and the non-claim</summary><div><p>The illustration instantiates <span class="math">R = {r<sub>1</sub>, r<sub>2</sub>, r<sub>3</sub>, r<sub>4</sub>}</span> and <span class="math">R<sub>hid</sub> = {r<sub>3</sub>, r<sub>4</sub>}</span>. Under the paper's toy rule, <span class="math">dom(&tau;) = R</span> when leakage or a certificate supplies the required witnesses; otherwise <span class="math">dom(&tau;) = R &setminus; R<sub>hid</sub></span>. This is not a model of radiation dynamics, an information-capacity calculation or a numerical prediction.</p><p>The full theorem is scope-locked. A genuine certificate defeats the <em>uncertified</em> antecedent and is an allowed resolution. Larger-scope retention can also be meaningful, but is not automatically recovery in the original exterior scope. Paper I does not yet conclude that the interior is residual, AMetric or universe-generating.</p></div></details>
+    </div></section>
+
+    <section class="chapter wrap" id="residual" aria-labelledby="residual-title">
+      <div class="chapter-heading"><p class="kicker">02 / The interior-side distinction</p><h2 id="residual-title">Not ordinary continuation.<br>Not simple nothingness.</h2></div>
+      <p class="lead-copy">The missing exterior assignment does not, on its own, annihilate the represented structure. Paper II asks what status remains when formerly governed organization is still representable, but standing has been lost and no new governance has been supplied.</p>
+      <div class="residual-exhibit">
+        <div class="segmented" role="group" aria-label="Role-support case"><button data-support="licensed" aria-pressed="true">Licensed roles</button><button data-support="residual" aria-pressed="false">Residual coherence</button><button data-support="exhausted" aria-pressed="false">Metric support exhausted</button></div>
+        <div class="support-layout">
+          <div class="support-network" id="support-network" data-state="licensed" role="img" aria-label="Fully licensed roles have standing, organized role structure, and supported metric comparison.">
+            <div class="support-row"><span class="support-mark" aria-hidden="true"></span><div><strong>Standing in the old scope</strong><span id="support-standing">Supported reference and reuse</span></div></div>
+            <div class="support-row"><span class="support-mark" aria-hidden="true"></span><div><strong>Role-indexed organization</strong><span id="support-organization">Licensed physical role structure</span></div></div>
+            <div class="support-row"><span class="support-mark" aria-hidden="true"></span><div><strong>Metric comparison</strong><span id="support-metric">Supported comparison and continuation</span></div></div>
+          </div>
+          <div class="support-reading" aria-live="polite"><p class="kicker" id="support-label">Licensed roles</p><h3 id="support-heading">Description and role support agree.</h3><p id="support-description">The declared domain supports reference, comparison and reuse. Metric, source and record descriptions operate within that governed scope.</p><p class="support-boundary" id="support-boundary">A black-hole horizon is a structure within such a licensed projection, not a new source of its licensing.</p></div>
+        </div>
+        <p class="figure-note">These are structural cases, not time steps, radial positions or measured degrees of standing. Standing remains bivalent.</p>
+      </div>
+      <div class="chapter-layout residual-copy"><div class="chapter-copy"><h3>Why a pattern can remain</h3><p>Residual coherence requires a traceable earlier role, retained organization, a non-null representation and failure of full role licensing. It is not a new substance, a hidden energy store or a small amount of standing.</p></div><div class="chapter-copy"><h3>Why “deeper” changes meaning</h3><p>Governance-depth concerns which residual continuations remain supported. When metric-comparison successor support is exhausted, even “deeper inside” loses that residual metric basis. This is not a claim about an infalling observer's experience or a calculated radius.</p></div></div>
+      <a class="source-ref" href="pdf/bh-2.pdf#page=25">Paper II / Residual coherence and governance-depth <i data-lucide="arrow-up-right" aria-hidden="true"></i></a>
+      <details class="technical-note"><summary>The residual-coherence conditions</summary><div><p><span class="math">ResCoh<sup>r</sup><sub>D</sub>(x)</span> is role-indexed: it requires pre-break ancestry in role <span class="math">r</span>, standing loss, no certificate or new governance, non-null post-break representation, retained organization and failure of full role licensing. Local metric writability does not, by itself, supply standing-bearing measurement or reference recovery.</p><p>Governance-depth is ordered by inclusion of residual successor-support classes, not by a universal scalar ranking. The exact metric-depth failure condition is <span class="math">Succ<sup>res</sup><sub>D</sub>(x, Metric) = &empty;</span>. That condition alone is not the complete AMetric endpoint theorem: Paper III must still establish its remaining target coordinates and route closures.</p></div></details>
+    </section>
+
+    <section class="chapter band" id="boundary" aria-labelledby="boundary-title"><div class="wrap">
+      <div class="chapter-heading"><p class="kicker">03 / Endpoint and origin</p><h2 id="boundary-title">The same boundary profile.<br>No passage between them.</h2></div>
+      <p class="lead-copy">Paper III starts with what remains after every genuine exterior witness has resolved the burden it can resolve. For a nonempty unresolved residue whose residual metric support exhausts, with the other endpoint routes closed, the AMetric boundary profile is forced. The geometric horizon itself is not that boundary.</p>
+      <div class="endpoint-equation"><span class="math">R<sub>H</sub> = B<sub>H</sub> &setminus; W<sub>ext</sub>(B<sub>H</sub>)</span><p>Unresolved burden = the declared burden minus what genuine exterior witnesses re-fix.</p></div>
+      <div class="profile-exhibit" aria-labelledby="profile-title">
+        <h3 id="profile-title">Origin-side and endpoint-side roles</h3>
+        <div class="segmented profile-options" role="group" aria-label="Boundary role comparison"><button data-profile="metric" aria-pressed="true">Metric</button><button data-profile="time" aria-pressed="false">Time</button><button data-profile="causal" aria-pressed="false">Causality</button><button data-profile="transport" aria-pressed="false">Inheritance</button><button data-profile="governance" aria-pressed="false">Governance</button></div>
+        <div class="profile-pair" aria-live="polite">
+          <div><p class="profile-token math">B<sup>0</sup><sub>A</sub></p><h4>Origin-side licensing</h4><p id="origin-profile">No metric, scale or comparison rule has primitive authority at the boundary.</p></div>
+          <div><p class="profile-token math">B<sup>&star;</sup><sub>A</sub></p><h4>Endpoint-side exhaustion</h4><p id="endpoint-profile">Old-scope residual metric and comparison support is exhausted for the endpoint target.</p></div>
+        </div>
+        <div class="profile-result"><i data-lucide="equal" aria-hidden="true"></i><div><strong>Equal role profiles; distinct boundary tokens.</strong><p id="profile-result">Metricity is not primitive at the origin and cannot authorize its own continuation at the exhausted endpoint.</p></div></div>
+        <p class="figure-note">Selected coordinates from Paper III, Table 6. Homology means role-profile equality here, not algebraic-topological homology, temporal return or a connecting geometry.</p>
+      </div>
+      <details class="technical-note"><summary>What has to be established before the endpoint result applies?</summary><div><p>Theorem 5.9 requires a nonempty post-subtraction residue, undefined old-scope standing transport, exhausted residual metric successor support, no independent residue-level re-governance before exhaustion, closed endpoint routes and unavailable admitted nullity. A surviving witness resolves its burden; surviving metric support means this endpoint target has not yet been established; a separately governed richer scope changes the target.</p><p>The normal-form proof independently fixes metric, temporal, causal, operator, selector, transport, valuation, repair, target-gating and self-authorization coordinates, with the null route closed. Theorem 6.2 then gives <span class="math">B<sup>&star;</sup><sub>A</sub> &ne; B<sup>0</sup><sub>A</sub></span> and equal complete AMetric role profiles. It supplies no transfer of energy, information, laws, records or identity, and no populated successor follows from homology alone.</p></div></details>
+      <a class="source-ref" href="pdf/bh-3.pdf#page=23">Paper III / Endpoint exposure and profile homology <i data-lucide="arrow-up-right" aria-hidden="true"></i></a>
+    </div></section>
+
+    <section class="chapter wrap" id="origins" aria-labelledby="origins-title">
+      <div class="chapter-heading"><p class="kicker">04 / The counter-boundary capstone</p><h2 id="origins-title">Fresh governance.<br>Not inherited contents.</h2></div>
+      <div class="chapter-layout">
+        <div class="chapter-copy"><p>Paper IV adds a result that the earlier papers do not claim. Starting from the completed endpoint and homology conditions, it closes the remaining counter-boundary alternatives. The surviving status is a fresh internal governed domain, unique up to governance equivalence.</p><p>“Fresh” matters. The domain does not receive the earlier domain's energy, information, clock, history, laws or numerical constants. Its minimal constraint architecture recurs because non-degenerate domainhood requires it, not because a package travels through the boundary.</p><p><strong>For the certified endpoint target, this is a forced status-class result.</strong> It is not a selected, populated universe with a calculated history. Realized physical content and Standard Model structure require their own further target conditions.</p></div>
+        <div class="freshness-ledger"><h3>What recurs, and what does not cross</h3><div class="freshness-row"><i data-lucide="repeat-2" aria-hidden="true"></i><div><strong>Minimal role architecture</strong><p>Admissibility, standing, reference and irreversibility; independent AMetric licensing.</p></div></div><div class="freshness-row blocked"><i data-lucide="ban" aria-hidden="true"></i><div><strong>Parent-scope contents</strong><p>No transferred energy, information, metric, law token, record, clock or parameter value.</p></div></div><div class="freshness-row conditional"><i data-lucide="git-branch" aria-hidden="true"></i><div><strong>Further physical specialization</strong><p>Additional physical structure belongs to the fresh domain's own declared and supported target.</p></div></div></div>
+      </div>
+      <div class="route-exhibit"><div class="segmented" role="group" aria-label="Counter-boundary claim"><button data-route="transfer" aria-pressed="false">Transmission</button><button data-route="silence" aria-pressed="false">Boundary-only status</button><button data-route="fresh" aria-pressed="true">Fresh governed domain</button></div><div class="route-reading" aria-live="polite"><span id="route-symbol" aria-hidden="true"><i data-lucide="check" aria-hidden="true"></i></span><div><h3 id="route-title">The surviving governance-equivalence class</h3><p id="route-description">Under the certified endpoint antecedents and completed route closure, the capstone establishes fresh internal governed-domain status. No parent content is needed or permitted to cross.</p></div></div></div>
+      <a class="source-ref" href="pdf/bh-4.pdf#page=26">Paper IV / The Counter-Boundary Universe Theorem <i data-lucide="arrow-up-right" aria-hidden="true"></i></a>
+      <details class="technical-note"><summary>Status-existence, physical realization and the scope of the conclusion</summary><div><p>Theorem 6.2 uses antecedents A1-A9 and the Completed Closure Register Lemma. Its result is exactly one admissible counter-boundary status-class up to <span class="math">&equiv;<sub>gov,CB</sub></span>, represented by a token-distinct domain instantiating its own kernel and AMetric licensing profile. The route analysis, not an animation or an assumed successor, carries the existence and uniqueness claim.</p><p>The manuscript distinguishes this status-existence from populated existence, token selection and inherited cosmography. No tunneling, bounce, causal production or transfer mechanism is derived. Nor does an astronomical black-hole label by itself establish all endpoint antecedents. A richer third-domain theory can introduce other comparison structures, but is then a different governance scope.</p></div></details>
+    </section>
+
+    <section class="chapter band" id="argument" aria-labelledby="argument-title"><div class="wrap">
+      <div class="chapter-heading"><p class="kicker">The argument together</p><h2 id="argument-title">Five papers. One-way dependence.</h2></div>
+      <ol class="argument-spine"><li><span>00</span><div><strong>Fix the licensed black-hole target.</strong><p>Geometry, exterior witnesses and reconstruction have distinct roles.</p></div></li><li><span>01</span><div><strong>Close unsupported exterior totalization.</strong><p>A partial witness assignment cannot become total by relabeling.</p></div></li><li><span>02</span><div><strong>Classify the residual structure.</strong><p>Retained organization does not restore old-scope standing.</p></div></li><li><span>03</span><div><strong>Establish the endpoint profile.</strong><p>Certified exhaustion gives AMetric homology, without crossing.</p></div></li><li><span>04</span><div><strong>Close the counter-boundary alternatives.</strong><p>Fresh governed-domain status, not inherited populated contents.</p></div></li></ol>
+      <p class="source-policy">The arrows of the argument are logical dependencies, not a cosmic timeline. Each paper must establish its own handoff; the capstone cannot supply premises to the earlier steps.</p>
+    </div></section>
+
+    <section class="chapter wrap" id="papers" aria-labelledby="papers-title"><div class="chapter-heading"><p class="kicker">The complete five-paper arc</p><h2 id="papers-title">Read the sources.</h2></div><p class="lead-copy">Each manuscript develops a distinct step. The DOI links identify all versions; the downloadable PDFs are the verified published versions used for this tour.</p><div id="paper-catalogue"><!-- BLACK_HOLE_PAPERS -->
+<article class="paper-entry"><span class="paper-code">Paper 0</span><div><h3><a href="../papers/black-holes-as-licensed-limit-regimes-black-hole-arc-0-10-5281-zenodo-20727174/index.html">Black Holes as Licensed Limit Regimes</a></h3><p>Separates classical black-hole geometry from the requirements of exterior reconstruction. Mass, charge, angular momentum and thermodynamic quantities retain their declared exterior roles; they do not automatically reconstruct crossed content.</p><div class="paper-links"><a href="pdf/bh-0.pdf"><i data-lucide="file-text" aria-hidden="true"></i>Read PDF</a><a href="https://doi.org/10.5281/zenodo.20727174">All-versions DOI<i data-lucide="arrow-up-right" aria-hidden="true"></i></a><a href="pdf/bh-0.pdf" download title="Download Paper 0" aria-label="Download Paper 0"><i data-lucide="download" aria-hidden="true"></i></a></div><p class="paper-source-sections">Sections 1.3, 4-6, 8-10; formalization boundary in Appendix H</p></div></article>
+<article class="paper-entry"><span class="paper-code">Paper 1</span><div><h3><a href="../papers/horizon-instability-as-an-admissible-reconstruction-obstruction-black-hole-arc-1-10-52/index.html">Horizon Instability as an Admissible Reconstruction Obstruction</a></h3><p>Establishes the fixed-exterior-scope no-totalization obstruction: a missing standing-transport assignment cannot be completed without an admissible witness, certificate or declared change of scope. Global storage alone is not exterior recovery.</p><div class="paper-links"><a href="pdf/bh-1.pdf"><i data-lucide="file-text" aria-hidden="true"></i>Read PDF</a><a href="https://doi.org/10.5281/zenodo.20073764">All-versions DOI<i data-lucide="arrow-up-right" aria-hidden="true"></i></a><a href="pdf/bh-1.pdf" download title="Download Paper 1" aria-label="Download Paper 1"><i data-lucide="download" aria-hidden="true"></i></a></div><p class="paper-source-sections">Sections 8, 12-15; the finite example follows Definition 14.2 and Theorem 14.4</p></div></article>
+<article class="paper-entry"><span class="paper-code">Paper 2</span><div><h3><a href="../papers/standingless-interiors-and-residual-coherence-black-hole-arc-2-10-5281-zenodo-20727246/index.html">Standingless Interiors and Residual Coherence</a></h3><p>Classifies retained, role-indexed organization after old-scope standing loss. The horizon is not an AMetric reset, residual coherence is not annihilation, and governance-depth measures thinning successor support rather than distance or elapsed time.</p><div class="paper-links"><a href="pdf/bh-2.pdf"><i data-lucide="file-text" aria-hidden="true"></i>Read PDF</a><a href="https://doi.org/10.5281/zenodo.20727246">All-versions DOI<i data-lucide="arrow-up-right" aria-hidden="true"></i></a><a href="pdf/bh-2.pdf" download title="Download Paper 2" aria-label="Download Paper 2"><i data-lucide="download" aria-hidden="true"></i></a></div><p class="paper-source-sections">Parts II-IV, especially pages 25-29 and 35-37; main theorem on page 51</p></div></article>
+<article class="paper-entry"><span class="paper-code">Paper 3</span><div><h3><a href="../papers/ametric-normal-form-homology-black-hole-arc-3-10-5281-zenodo-20835451/index.html">AMetric Normal-Form Homology</a></h3><p>Derives the AMetric endpoint profile for a nonempty, unresolved residue after residual metric-support exhaustion and route closure. Origin and endpoint are distinct boundary tokens with the same role profile, without crossing or inheritance.</p><div class="paper-links"><a href="pdf/bh-3.pdf"><i data-lucide="file-text" aria-hidden="true"></i>Read PDF</a><a href="https://doi.org/10.5281/zenodo.20835451">All-versions DOI<i data-lucide="arrow-up-right" aria-hidden="true"></i></a><a href="pdf/bh-3.pdf" download title="Download Paper 3" aria-label="Download Paper 3"><i data-lucide="download" aria-hidden="true"></i></a></div><p class="paper-source-sections">Section 5, especially Theorem 5.9; Table 6 and Theorem 6.2</p></div></article>
+<article class="paper-entry"><span class="paper-code">Paper 4</span><div><h3><a href="../papers/black-holes-as-constraint-forced-origins-black-hole-arc-4-10-5281-zenodo-21053982/index.html">Black Holes as Constraint-Forced Origins</a></h3><p>Closes the counter-boundary classification for the certified endpoint target. The unique surviving governance-equivalence class has fresh internal governed-domain status, not inherited contents, causal production or a selected populated cosmology.</p><div class="paper-links"><a href="pdf/bh-4.pdf"><i data-lucide="file-text" aria-hidden="true"></i>Read PDF</a><a href="https://doi.org/10.5281/zenodo.21053982">All-versions DOI<i data-lucide="arrow-up-right" aria-hidden="true"></i></a><a href="pdf/bh-4.pdf" download title="Download Paper 4" aria-label="Download Paper 4"><i data-lucide="download" aria-hidden="true"></i></a></div><p class="paper-source-sections">Sections 5-7, especially antecedents A1-A9 and Theorem 6.2; target-class hierarchy in Sections 10-12</p></div></article>
+<!-- /BLACK_HOLE_PAPERS --></div><p class="source-policy">This is a guided presentation of Amos Jay Maley's research, not an independent proof audit or an observational simulation. The finite reconstruction rule follows Paper I; the other visual comparisons summarize stated role distinctions. No claim of a paper-specific Lean audit is added here.</p></section>
+    <section class="tour-connection"><div class="wrap"><p class="kicker">Another route through the corpus</p><a href="../standard-model/index.html"><span>Standard Model</span><span>From common persistence to physical realization <i data-lucide="arrow-up-right" aria-hidden="true"></i></span></a></div></section>
+  </main>
+  <footer class="tour-footer wrap"><a href="../index.html#black-hole-arc">Return to the research archive</a><a href="mailto:amos@constraintsystemsinstitute.org">amos@constraintsystemsinstitute.org</a></footer>
+</body>
+</html>

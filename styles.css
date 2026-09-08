@@ -14,6 +14,12 @@
 }
 
 #standard-model-arc h3 { font-size: 2.25rem; line-height: 1.15; }
+#black-hole-arc h3 { font-size: 2.25rem; line-height: 1.15; }
+.black-hole-tour-entry { display: flex; align-items: center; justify-content: space-between; gap: 18px; padding: 17px 18px; margin-top: 24px; border: 1px solid rgba(165,201,206,.55); border-radius: 4px; background: rgba(165,201,206,.1); font-size: .95rem; line-height: 1.45; font-weight: 600; }
+.black-hole-tour-entry:hover { background: rgba(165,201,206,.18); }
+.black-hole-tour-entry > span:last-child { flex-shrink: 0; }
+.paper-tour-links { display: flex; gap: 20px; flex-wrap: wrap; padding-block: 18px; margin-bottom: 20px; border-block: 1px solid var(--line); }
+.paper-tour-links a { color: var(--silver); border-bottom: 1px solid var(--line); padding-block: 5px; line-height: 1.5; }
 .standard-tour-entry { display: block; margin-top: 24px; border: 1px solid var(--line); border-radius: 6px; overflow: hidden; }
 .standard-tour-entry img { display: block; width: 100%; height: auto; }
 .standard-tour-entry > span { display: flex; align-items: center; justify-content: space-between; gap: 16px; padding: 15px 17px; font-size: .95rem; font-weight: 700; background: rgba(216,210,204,.08); }

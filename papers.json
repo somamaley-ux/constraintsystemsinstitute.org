@@ -249,7 +249,9 @@
     "report_number": "CSI-ZENODO-20835451",
     "description": "Overview This manuscript is Paper III of the AASC Black-Hole Endpoint Arc . It proves the AMetric normal-form homology theorem connecting origin-side licensing and endpoint-side exhaustion. The paper preserves the dependency order: kernel→AMetric invariant→licensed physical interior→metric projection→black-hole endpoint exposure\\text{kernel} \\rightarrow \\text{AMetric invariant} \\rightarrow \\text{licensed physical interior} \\rightarrow \\text{metric projection} \\rightarrow \\text{black-hole endpoint exposure} kerne...",
     "keywords": "AASC, Constraint Systems Institute, theoretical physics, mathematical foundations, Black Hole endpoint sequence, Papers 0-4, AASC; AMetric boundary; normal-form homology; black holes; horizon-isolated residue; residual coherence; governance-depth; null-regime closure; bivalence; metricity; Einstein projection; foundations of physics; philosophy of physics; constraint formalism; structural theorem; metric-support exhaustion; black-hole endpoint; origin-side licensing; endpoint-side exhaustion",
-    "zenodo_record": "https://zenodo.org/records/21053940"
+    "zenodo_record": "https://zenodo.org/records/21053940",
+    "pdf_url": "https://constraintsystemsinstitute.org/black-holes/pdf/bh-3.pdf",
+    "guided_tour_url": "https://constraintsystemsinstitute.org/black-holes/#boundary"
   },
   {
     "title": "Black Holes as Constraint-Forced Origins (Black Hole ARC 4)",
@@ -263,7 +265,9 @@
     "report_number": "CSI-ZENODO-21053982",
     "description": "Overview This manuscript is Paper IV of the AASC Black-Hole Endpoint Arc . It proves the Counter-Boundary Universe Theorem. The paper begins where AMetric Normal-Form Homology stops. Paper III establishes: token-distinct AMetric boundary-profile equality; no crossing; no inheritance; no cyclicity; no causal production; no energy transfer; no information transfer; no law transfer; no populated successor domain. Paper IV asks what counter-boundary status remains once those restrictions are preserved. Central Resul...",
     "keywords": "AASC, Constraint Systems Institute, theoretical physics, mathematical foundations, Black Hole endpoint sequence, Papers 0-4, AASC; black holes; constraint-forced origins; Counter-Boundary Universe Theorem; fresh internal governed domain; AMetric boundary; no crossing; no inheritance; origin of universes; multiple universes; philosophy of cosmology; quantum gravity; general relativity; black-hole endpoints; boundary-pair classification; null-route closure; route exhaustion; kernel minimality; constraint recurrence; spacetime ontology",
-    "zenodo_record": "https://zenodo.org/records/21053983"
+    "zenodo_record": "https://zenodo.org/records/21053983",
+    "pdf_url": "https://constraintsystemsinstitute.org/black-holes/pdf/bh-4.pdf",
+    "guided_tour_url": "https://constraintsystemsinstitute.org/black-holes/#origins"
   },
   {
     "title": "Black Holes as Licensed Limit Regimes (Black Hole ARC 0)",
@@ -277,7 +281,9 @@
     "report_number": "CSI-ZENODO-20727174",
     "description": "Overview This manuscript is Paper 0 of the AASC Black-Hole Endpoint Arc . It serves as the orientation and role-classification paper for the series. The paper treats black holes as licensed limit regimes under AASC, not as primitive ontological containers. Its purpose is to separate: classical metric representatives; exterior black-hole quotient structure; admissible horizon reconstruction objects; parameter ledgers; thermodynamic ledgers; information and reconstruction claims; downstream quantum-gravity proposa...",
     "keywords": "AASC, Constraint Systems Institute, theoretical physics, mathematical foundations, Black Hole endpoint sequence, Papers 0-4, AASC; black holes; event horizons; horizon reconstruction; information paradox; exterior standing; witness algebra; no-totalization theorem; Horizon Isolation Lemma; singularities; black-hole thermodynamics; entropy; Hawking radiation; Page curve; holography; fuzzballs; quantum gravity; foundations of physics",
-    "zenodo_record": "https://zenodo.org/records/21053625"
+    "zenodo_record": "https://zenodo.org/records/21053625",
+    "pdf_url": "https://constraintsystemsinstitute.org/black-holes/pdf/bh-0.pdf",
+    "guided_tour_url": "https://constraintsystemsinstitute.org/black-holes/#horizons"
   },
   {
     "title": "Horizon Instability as an Admissible Reconstruction Obstruction (Black Hole ARC 1)",
@@ -291,7 +297,9 @@
     "report_number": "CSI-ZENODO-20073764",
     "description": "Overview This manuscript is Paper I of the AASC Black-Hole Endpoint Arc . It proves the exterior no-totalization theorem for uncertified horizon reconstruction. The paper asks a narrow question: Can an uncertified permanent horizon remain a continuing same-scope standing-preserving exterior reconstruction object? The answer is no. Central Result In a fixed exterior black-hole reconstruction scope, a threatened reference class must be preserved by an admissible exterior route. Acceptable routes include: leakage;...",
     "keywords": "AASC, Constraint Systems Institute, theoretical physics, mathematical foundations, Black Hole endpoint sequence, Papers 0-4, black holes; event horizons; horizon instability; black hole information paradox; admissibility; standing; reconstruction theory; partial operator obstruction; AQFT; holography; exterior reconstruction; quantum gravity foundations; structural physics; AASC; mathematical physics foundations",
-    "zenodo_record": "https://zenodo.org/records/21053830"
+    "zenodo_record": "https://zenodo.org/records/21053830",
+    "pdf_url": "https://constraintsystemsinstitute.org/black-holes/pdf/bh-1.pdf",
+    "guided_tour_url": "https://constraintsystemsinstitute.org/black-holes/#reconstruction"
   },
   {
     "title": "Standingless Interiors and Residual Coherence (Black Hole ARC 2)",
@@ -305,7 +313,9 @@
     "report_number": "CSI-ZENODO-20727246",
     "description": "Overview This manuscript is Paper II of the AASC Black-Hole Endpoint Arc . It develops the interior consequence of the exterior horizon obstruction. The paper begins after Paper I's result: crossed standing is broken; old-scope standing transport is undefined; no leakage, certificate, non-sink quotient, or declared new governance is supplied. It asks: What is the status of the horizon-isolated carrier after standing transport fails? Central Result The horizon-isolated carrier is not an ordinary same-scope standi...",
     "keywords": "AASC, Constraint Systems Institute, theoretical physics, mathematical foundations, Black Hole endpoint sequence, Papers 0-4, AASC; black holes; black-hole interiors; residual coherence; standing transport; horizon-isolated carriers; AMetric boundary; metric projection; AASC-GR; governance-depth; measurement standing; matter-energy residualization; time; causality; information paradox; quantum gravity; foundations of physic",
-    "zenodo_record": "https://zenodo.org/records/21053879"
+    "zenodo_record": "https://zenodo.org/records/21053879",
+    "pdf_url": "https://constraintsystemsinstitute.org/black-holes/pdf/bh-2.pdf",
+    "guided_tour_url": "https://constraintsystemsinstitute.org/black-holes/#residual"
   },
   {
     "title": "Gauge-Coupling Parameters and Forced Uniqueness under Admissible Redescription (Constants)",
