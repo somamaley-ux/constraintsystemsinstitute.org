@@ -6,7 +6,7 @@
     "title": "Black Holes as Licensed Limit Regimes",
     "doi": "10.5281/zenodo.20727174",
     "version_doi": "10.5281/zenodo.21053625",
-    "description": "Separates classical black-hole geometry from the requirements of exterior reconstruction. Mass, charge, angular momentum and thermodynamic quantities retain their declared exterior roles; they do not automatically reconstruct crossed content.",
+    "description": "Sets the starting point: a black hole's mass, charge and spin can be described from outside without automatically recovering the individual things that crossed its horizon.",
     "source_sections": "Sections 1.3, 4-6, 8-10; formalization boundary in Appendix H"
   },
   {
@@ -16,7 +16,7 @@
     "title": "Horizon Instability as an Admissible Reconstruction Obstruction",
     "doi": "10.5281/zenodo.20073764",
     "version_doi": "10.5281/zenodo.21053830",
-    "description": "Establishes the fixed-exterior-scope no-totalization obstruction: a missing standing-transport assignment cannot be completed without an admissible witness, certificate or declared change of scope. Global storage alone is not exterior recovery.",
+    "description": "Establishes the loss of the exterior connection when no genuine recovery route is available. Saying that information is still stored inside does not restore that connection.",
     "source_sections": "Sections 8, 12-15; the finite example follows Definition 14.2 and Theorem 14.4"
   },
   {
@@ -26,7 +26,7 @@
     "title": "Standingless Interiors and Residual Coherence",
     "doi": "10.5281/zenodo.20727246",
     "version_doi": "10.5281/zenodo.21053879",
-    "description": "Classifies retained, role-indexed organization after old-scope standing loss. The horizon is not an AMetric reset, residual coherence is not annihilation, and governance-depth measures thinning successor support rather than distance or elapsed time.",
+    "description": "Explains what happens to matter, energy and spacetime after outside standing is lost: recognisable patterns can remain without their former physical status. Increasing governance-depth means less support for those roles, not a measured distance into the hole.",
     "source_sections": "Parts II-IV, especially pages 25-29 and 35-37; main theorem on page 51"
   },
   {
@@ -36,7 +36,7 @@
     "title": "AMetric Normal-Form Homology",
     "doi": "10.5281/zenodo.20835451",
     "version_doi": "10.5281/zenodo.21053940",
-    "description": "Derives the AMetric endpoint profile for a nonempty, unresolved residue after residual metric-support exhaustion and route closure. Origin and endpoint are distinct boundary tokens with the same role profile, without crossing or inheritance.",
+    "description": "Establishes the new AMetric boundary once the full endpoint conditions are met. Its structural conditions match the origin-side boundary, but no matter, energy, information or clock passes through.",
     "source_sections": "Section 5, especially Theorem 5.9; Table 6 and Theorem 6.2"
   },
   {
@@ -46,7 +46,7 @@
     "title": "Black Holes as Constraint-Forced Origins",
     "doi": "10.5281/zenodo.21053982",
     "version_doi": "10.5281/zenodo.21053983",
-    "description": "Closes the counter-boundary classification for the certified endpoint target. The unique surviving governance-equivalence class has fresh internal governed-domain status, not inherited contents, causal production or a selected populated cosmology.",
+    "description": "Completes the argument for a fresh interior under the established endpoint conditions. The necessary governance roles recur independently, not by inheritance; the particular contents and history of a populated universe are not specified.",
     "source_sections": "Sections 5-7, especially antecedents A1-A9 and Theorem 6.2; target-class hierarchy in Sections 10-12"
   }
 ]

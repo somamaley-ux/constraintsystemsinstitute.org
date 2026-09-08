@@ -44,7 +44,7 @@ let html = fs.readFileSync(htmlPath, 'utf8');
 const start = '<!-- BLACK_HOLE_PAPERS -->', end = '<!-- /BLACK_HOLE_PAPERS -->';
 if (!html.includes(start) || !html.includes(end)) throw new Error('Missing catalogue markers');
 html = html.slice(0, html.indexOf(start) + start.length) + '\n' + entries.join('\n') + '\n' + html.slice(html.indexOf(end));
-const metadata = {'@context':'https://schema.org','@type':'CollectionPage',name:'Black Holes: The Limits of Spacetime',url:`${origin}/black-holes/`,inLanguage:'en',author:{'@type':'Person',name:'Amos Jay Maley'},description:'A guided reading of the five-paper AASC black-hole arc, from exterior reconstruction to fresh governed-domain status without inheritance.',hasPart:papers.map(p=>({'@type':'ScholarlyArticle',name:p.title,url:catalogue.find(item=>item.doi===p.doi).url,identifier:p.doi}))};
+const metadata = {'@context':'https://schema.org','@type':'CollectionPage',name:'Black Holes: The Limits of Spacetime',url:`${origin}/black-holes/`,inLanguage:'en',author:{'@type':'Person',name:'Amos Jay Maley'},description:'A plain-language reading of the five-paper AASC black-hole arc: matter-energy degeneracy, the exhaustion of metric support, a non-transmissive AMetric boundary and fresh internal governance.',hasPart:papers.map(p=>({'@type':'ScholarlyArticle',name:p.title,url:catalogue.find(item=>item.doi===p.doi).url,identifier:p.doi}))};
 const marker='<!-- TOUR_METADATA -->';
 if (!html.includes(marker)) html=html.replace('</head>', `${marker}\n<script type="application/ld+json">${JSON.stringify(metadata).replaceAll('<','\\u003c')}</script>\n<!-- /TOUR_METADATA -->\n</head>`);
 fs.writeFileSync(htmlPath, html);

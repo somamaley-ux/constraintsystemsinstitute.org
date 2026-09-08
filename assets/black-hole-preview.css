@@ -1,0 +1,27 @@
+.black-hole-scene { position: relative; isolation: isolate; min-width: 0; }
+.black-hole-scene canvas, .black-hole-scene .black-hole-poster { position: absolute; inset: 0; width: 100%; height: 100%; display: block; object-fit: contain; }
+.black-hole-scene canvas { opacity: 0; }
+.black-hole-scene[data-rendered] canvas { opacity: 1; }
+.black-hole-scene[data-rendered] .black-hole-poster { visibility: hidden; }
+.black-hole-motion { position: absolute; z-index: 2; right: 12px; bottom: 12px; display: grid; place-items: center; width: 38px; height: 38px; padding: 0; color: #ded5d0; background: #1b191ce8; border: 1px solid #d8d2cc59; border-radius: 4px; cursor: pointer; }
+.black-hole-motion[hidden] { display: none; }
+.black-hole-motion:hover { background: #383035; }
+.black-hole-motion:focus-visible { outline: 2px solid #a5c9ce; outline-offset: 4px; }
+.black-hole-motion svg { width: 17px; height: 17px; }
+#black-hole-arc { grid-template-columns: minmax(0,.9fr) minmax(0,1.3fr); column-gap: 36px; row-gap: 22px; align-items: center; }
+#black-hole-arc .arc-focus-copy { grid-column: 1; grid-row: 1 / span 2; }
+#black-hole-arc .black-hole-invitation { grid-column: 2; grid-row: 1; }
+#black-hole-arc > .paper-chip-list { grid-column: 2; grid-row: 2; }
+.black-hole-invitation { margin-top: 0; }
+.black-hole-invitation .black-hole-scene { height: 200px; }
+.black-hole-preview-link { display: block; }
+.black-hole-preview-link:focus-visible { outline: 2px solid #a5c9ce; outline-offset: 4px; }
+.black-hole-preview-link:hover .black-hole-tour-entry { background: #a5c9ce20; border-color: #a5c9ce; }
+.black-hole-invitation .black-hole-tour-entry { margin-top: 0; }
+.black-hole-invitation .black-hole-motion { bottom: 78px; }
+.black-hole-invitation { position: relative; }
+@media (max-width: 900px) {
+  #black-hole-arc { grid-template-columns: minmax(0,1fr); }
+  #black-hole-arc .arc-focus-copy, #black-hole-arc .black-hole-invitation, #black-hole-arc > .paper-chip-list { grid-column: 1; grid-row: auto; }
+  .black-hole-invitation .black-hole-scene { height: 180px; }
+}

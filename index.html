@@ -40,6 +40,9 @@
     <link rel="apple-touch-icon" href="/apple-touch-icon.png" />
     <script data-goatcounter="https://constraintsystemsinstitute.goatcounter.com/count" async src="//gc.zgo.at/count.js"></script>
     <link rel="stylesheet" href="styles.css" />
+    <link rel="stylesheet" href="assets/black-hole-preview.css" />
+    <script defer src="assets/vendor/lucide.min.js"></script>
+    <script defer src="assets/black-hole-preview.js"></script>
     <script type="application/ld+json">
       {
         "@context": "https://schema.org",
@@ -478,15 +481,23 @@
                 <p class="repo-type">Black Holes / Guided Tour</p>
                 <h3>Black Holes</h3>
                 <p class="plain">
-                  Follow the five-paper argument from the limits of exterior reconstruction to residual structure,
-                  the AMetric boundary, and fresh origins without inheritance.
+                  What becomes of matter and energy when their connection to the outside is lost?
+                  Follow the arc to the limit of spacetime, and a fresh interior that inherits nothing from the old.
                 </p>
                 <p class="technical">
-                  The arc distinguishes licensed black-hole geometry from standing transport, establishes
-                  endpoint profile homology, and closes the counter-boundary status-class for the certified target.
+                  Nothing crosses the new boundary. The necessary foundations begin anew.
                 </p>
-                <a class="black-hole-tour-entry" href="black-holes/index.html"><span>Explore the black-hole tour</span><span aria-hidden="true">&rarr;</span></a>
               </div>
+                <div class="black-hole-invitation">
+                  <a class="black-hole-preview-link" href="black-holes/index.html">
+                    <div class="black-hole-scene" data-black-hole-scene data-motion-control="archive-black-hole-motion">
+                      <img class="black-hole-poster" src="assets/black-hole-poster.webp" width="1200" height="360" loading="lazy" alt="A stylized black hole with a luminous silver and rose-colored disk.">
+                      <canvas aria-hidden="true"></canvas>
+                    </div>
+                    <span class="black-hole-tour-entry"><span>Explore the black-hole tour</span><span aria-hidden="true">&rarr;</span></span>
+                  </a>
+                  <button class="black-hole-motion" id="archive-black-hole-motion" type="button" hidden aria-label="Pause black-hole animation" title="Pause black-hole animation" aria-pressed="false"><i data-lucide="pause" aria-hidden="true"></i></button>
+                </div>
               <div class="paper-chip-list prominent five-list">
                 <a href="https://doi.org/10.5281/zenodo.20727174" data-paper-title="Black Holes as Licensed Limit Regimes" data-paper-description="Separates classical black-hole geometry, exterior parameter roles and thermodynamic ledgers from the requirements of standing-preserving exterior reconstruction.">Paper 0: Licensed Limit Regimes</a>
                 <a href="https://doi.org/10.5281/zenodo.20073764" data-paper-title="Horizon Instability as an Admissible Reconstruction Obstruction" data-paper-description="The fixed-exterior-scope no-totalization obstruction: unsupported witness assignments cannot be completed by global storage, relabeling or hidden selectors.">Paper 1: Horizon Instability</a>
