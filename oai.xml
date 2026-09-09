@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
-  <responseDate>2026-08-27T11:47:17Z</responseDate>
+  <responseDate>2026-09-09T16:14:50Z</responseDate>
   <request verb="ListRecords" metadataPrefix="oai_dc">https://constraintsystemsinstitute.org/oai.xml</request>
   <ListRecords>
       <record>
@@ -1535,6 +1535,22 @@
             <dc:type>Text</dc:type>
             <dc:identifier>https://doi.org/10.5281/zenodo.19493077</dc:identifier>
             <dc:identifier>https://constraintsystemsinstitute.org/papers/companion-iii-reconstruction-non-triviality-and-faithful-wilson-universality-10-5281-z/</dc:identifier>
+            <dc:language>en</dc:language>
+          </oai_dc:dc>
+        </metadata>
+      </record>
+      <record>
+        <header><identifier>oai:constraintsystemsinstitute.org:the-ametric-boundary-18603144</identifier><datestamp>2026-09-09</datestamp></header>
+        <metadata>
+          <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+            <dc:title>The AMetric Boundary as a Unique Regime-Invariant Constraint on Admissibility-Bearing Construction</dc:title>
+            <dc:creator>Amos Jay Maley</dc:creator>
+            <dc:subject>AASC; AMetric boundary; identity-preserving construction; no-selector theorem; fixed-domain exhaustion</dc:subject>
+            <dc:description>A fixed-domain structural theorem establishing the unique, non-parameterized, non-eventful and non-transmissive AMetric boundary for admissibility-bearing construction. Metric descriptions are licensed interior structure, not a source of boundary authority.</dc:description>
+            <dc:date>2026-04-23</dc:date>
+            <dc:type>Text</dc:type>
+            <dc:identifier>https://doi.org/10.5281/zenodo.18603144</dc:identifier>
+            <dc:identifier>https://constraintsystemsinstitute.org/papers/the-ametric-boundary-18603144/</dc:identifier>
             <dc:language>en</dc:language>
           </oai_dc:dc>
         </metadata>

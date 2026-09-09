@@ -1469,5 +1469,19 @@
     "technical": "Theorem 3.5 identifies the native and differentiated partial-operation response structures, including exact domains, failures and shared inputs. Proposition 3.6 reconstructs the finer retained source class. Theorem 4.3 preserves the same-source physical realization. Together with persistence-carrier and role exhaustion, theorem 5.2 excludes an additional same-target primitive material bearer without collapsing distinct response classes.",
     "author": "Amos Jay Maley",
     "keywords": "Standard Model, AASC, CSP-R, Common source and realization"
+  },
+  {
+    "title": "The AMetric Boundary as a Unique Regime-Invariant Constraint on Admissibility-Bearing Construction",
+    "doi": "10.5281/zenodo.18603144",
+    "doi_url": "https://doi.org/10.5281/zenodo.18603144",
+    "url": "https://constraintsystemsinstitute.org/papers/the-ametric-boundary-18603144/",
+    "slug": "the-ametric-boundary-18603144",
+    "date": "2026-04-23",
+    "scholar_date": "2026/04/23",
+    "context": "AASC Foundations",
+    "report_number": "CSI-ZENODO-18603144",
+    "description": "Establishes the unique, non-parameterized AMetric boundary for admissibility-bearing, identity-preserving construction. Relabelling cannot supply a privileged target, ranking or graded geometry before fixation. The boundary is non-eventful and non-transmissive; metric descriptions belong to licensed interiors. The result is a fixed-domain structural theorem, not a causal creation process or an empirical model of all physical systems.",
+    "keywords": "AASC, AMetric boundary, Kernel of Admissibility, premetric foundations, identity-preserving construction, no-selector theorem, relabelling invariance, standing, fixed-domain exhaustion",
+    "zenodo_record": "https://zenodo.org/records/19722291"
   }
 ]

@@ -44,12 +44,14 @@
     <link rel="stylesheet" href="assets/gravity-quantum-scene.css" />
     <link rel="stylesheet" href="assets/time-scene.css?v=2" />
     <link rel="stylesheet" href="assets/mind-scene.css" />
+    <link rel="stylesheet" href="assets/foundation-scene.css" />
     <link rel="stylesheet" href="assets/archive-tours.css" />
     <script defer src="assets/vendor/lucide.min.js"></script>
     <script defer src="assets/black-hole-preview.js"></script>
     <script defer src="assets/gravity-quantum-scene.js"></script>
     <script defer src="assets/time-scene.js"></script>
     <script defer src="assets/mind-scene.js"></script>
+    <script defer src="assets/foundation-scene.js"></script>
     <script type="application/ld+json">
       {
         "@context": "https://schema.org",
@@ -294,10 +296,35 @@
       <section class="section guided-tours" id="guided-tours" aria-labelledby="arcs-title">
         <div class="section-heading">
           <p class="eyebrow">Guided Research Tours</p>
-          <h2 id="arcs-title">Five paths into the research.</h2>
+          <h2 id="arcs-title">Six paths into the research.</h2>
         </div>
         <div class="research-arcs">
           <div class="arc-focus-grid">
+            <article class="arc-focus-card foundation-card" id="foundation-arc">
+              <div class="arc-focus-copy">
+                <p class="repo-type">Start here / The foundations</p>
+                <h3>Kernel &amp; AMetric boundary</h3>
+                <p class="plain">Two maps can look completely different and still take you to the same place. What has to stay the same? Begin with that familiar question, then follow the argument behind the whole research program.</p>
+                <p class="technical">A journey, a map, and a bridge introduce the necessary foundations of definite construction, why measurement comes downstream, and how the same discipline carries into physics.</p>
+              </div>
+              <div class="foundation-invitation">
+                <a class="foundation-preview-link" href="foundations/index.html">
+                  <div class="foundation-scene" data-foundation-scene data-motion-control="archive-foundation-motion">
+                    <img src="assets/foundation-bridge.webp" width="1672" height="941" loading="lazy" alt="A miniature silver bridge beside a route map. The animated version redraws one route while preserving its connections.">
+                    <canvas aria-hidden="true"></canvas>
+                    <p class="foundation-scene-caption">Same connections. Different drawing.</p>
+                  </div>
+                  <span class="foundation-tour-entry"><span><strong>Explore the foundations</strong><small>Two maps. One journey. What has to stay the same?</small></span><i data-lucide="arrow-right" aria-hidden="true"></i></span>
+                </a>
+                <button type="button" class="foundation-motion" id="archive-foundation-motion" hidden aria-label="Pause map animation" title="Pause map animation" aria-pressed="false"><i data-lucide="pause" aria-hidden="true"></i></button>
+              </div>
+              <div class="foundation-card-papers"><div class="arc-paper-group"><h4>The foundation papers</h4><div class="paper-chip-list prominent foundation-list">
+                <a href="https://doi.org/10.5281/zenodo.19324199" data-paper-title="Non-Degenerate Construction and the Kernel of Admissibility" data-paper-description="The necessary roles that make construction determinate: admissibility, standing, reference and irreversibility.">The Kernel</a>
+                <a href="https://doi.org/10.5281/zenodo.18603144" data-paper-title="The AMetric Boundary as a Unique Regime-Invariant Constraint on Admissibility-Bearing Construction" data-paper-description="The main AMetric boundary theorem: a unique non-parameterized, non-eventful and non-transmissive boundary, with metric description licensed downstream.">The AMetric Boundary</a>
+                <a href="https://doi.org/10.5281/zenodo.19198249" data-paper-title="The Structure of Admissibility" data-paper-description="From the Kernel to AMetricity, bivalence, reuse-stable standing and the unique admissible interior.">The Structure of Admissibility</a>
+                <a href="https://doi.org/10.5281/zenodo.18518484" data-paper-title="Unus Solus Possibilis Est" data-paper-description="The unique maximal admissible closure on the same standing-instantiated domain.">Unus Solus Possibilis Est</a>
+              </div></div></div>
+            </article>
             <article class="arc-focus-card certificate-closure-card" id="fep-certificate-closure">
               <div class="arc-focus-copy">
                 <p class="repo-type">Current Centerpiece ARC</p>
@@ -648,6 +675,7 @@
               </article>
               <div class="shelf-links">
                 <a href="https://doi.org/10.5281/zenodo.19198249">The Structure of Admissibility: AMetric Boundary, Bivalence, and the Unique Admissible Interior</a>
+                <a href="https://doi.org/10.5281/zenodo.18603144" data-paper-title="The AMetric Boundary as a Unique Regime-Invariant Constraint on Admissibility-Bearing Construction" data-paper-description="The main AMetric boundary theorem: no selector, graded metric authority, crossing or causal generation at the foundation.">The AMetric Boundary as a Unique Regime-Invariant Constraint</a>
                 <a href="https://doi.org/10.5281/zenodo.18522654">The AMetric Boundary as Non-Transmissive Interface</a>
                 <a href="https://doi.org/10.5281/zenodo.18518587">The AMetric Boundary Admissibility Constraint Map</a>
                 <a href="https://doi.org/10.5281/zenodo.18518348">The Impossibility of Deeper Invariants Under the AMetric Boundary</a>
