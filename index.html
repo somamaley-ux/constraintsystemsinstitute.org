@@ -41,8 +41,10 @@
     <script data-goatcounter="https://constraintsystemsinstitute.goatcounter.com/count" async src="//gc.zgo.at/count.js"></script>
     <link rel="stylesheet" href="styles.css" />
     <link rel="stylesheet" href="assets/black-hole-preview.css" />
+    <link rel="stylesheet" href="assets/gravity-quantum-scene.css" />
     <script defer src="assets/vendor/lucide.min.js"></script>
     <script defer src="assets/black-hole-preview.js"></script>
+    <script defer src="assets/gravity-quantum-scene.js"></script>
     <script type="application/ld+json">
       {
         "@context": "https://schema.org",
@@ -299,10 +301,9 @@
                 <p class="repo-type">Current Centerpiece ARC</p>
                 <h3>Gravity-quantum closure arc</h3>
                 <p class="plain">
-                  Plainly: this arc is the long-form closure of the gravity-quantum line. It starts from the
-                  Kernel and uniqueness thesis, passes through gravity, Einstein, Schrodinger, and structural
-                  unification, adds the Wheeler-DeWitt canonical branch, then completes the constructive physical
-                  realization through Modules A-D and the final complete certificate closure.
+                  Gravity and quantum theory are two descriptions of one underlying physical interior.
+                  Follow the full argument from its necessary foundations, through spacetime and quantum
+                  evolution, to physical clocks, common sources, and a complete matched realization.
                 </p>
                 <p class="technical">
                   Technically: the sequence establishes the necessary physical constraint role, derives the
@@ -313,23 +314,17 @@
                 </p>
               </div>
               <div class="arc-paper-groups certificate-groups">
-                <div>
-                  <h4>Dependency map</h4>
-                  <div class="closure-dependency-map" aria-label="Gravity-quantum closure dependency map">
-                    <div class="chart-node source-node">AASC kernel and upstream machinery</div>
-                    <div class="branch-grid">
-                      <div class="dependency-lane metric-lane" aria-label="Metric branch">
-                        <div class="chart-node">Gravity as Structural Necessity</div>
-                        <div class="chart-node">Einstein Dynamics</div>
-                      </div>
-                      <div class="dependency-lane quantum-lane" aria-label="Quantum branch">
-                        <div class="chart-node wdw-node">Wheeler-DeWitt ARC <span>10-manuscript canonical branch</span></div>
-                        <div class="chart-node">Schrodinger Dynamics</div>
-                      </div>
+                <div class="gq-invitation">
+                  <a class="gq-preview-link" href="gravity-quantum/index.html">
+                    <div class="gq-scene" data-gq-scene data-view="together" data-motion-control="archive-gq-motion">
+                      <img class="gq-poster" src="assets/gravity-quantum-poster.webp" width="1200" height="420" loading="lazy" alt="One common structure opening into gravity and quantum descriptions.">
+                      <canvas aria-hidden="true"></canvas>
+                      <div class="gq-scene-labels" aria-hidden="true"><span>Spacetime &amp; sources</span><span>Quantum states &amp; evolution</span></div>
+                      <p class="gq-source-label">Two descriptions. One physical world.</p>
                     </div>
-                    <div class="chart-node convergence-node">Gravity-quantum unification</div>
-                    <div class="chart-node realization-node">Constructive physical realization</div>
-                  </div>
+                    <span class="gq-tour-entry">Explore the gravity-quantum arc <i data-lucide="arrow-right" aria-hidden="true"></i></span>
+                  </a>
+                  <button class="gq-motion" id="archive-gq-motion" type="button" hidden aria-label="Pause gravity-quantum animation" title="Pause gravity-quantum animation" aria-pressed="false"><i data-lucide="pause" aria-hidden="true"></i></button>
                 </div>
                 <div>
                   <h4>Foundational entry</h4>

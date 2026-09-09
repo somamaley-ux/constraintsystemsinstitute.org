@@ -1,0 +1,29 @@
+.gq-scene { position: relative; isolation: isolate; height: 250px; min-width: 0; overflow: hidden; }
+.gq-scene canvas, .gq-scene .gq-poster { position: absolute; inset: 0; width: 100%; height: 100%; display: block; object-fit: contain; }
+.gq-scene canvas { opacity: 0; }
+.gq-scene[data-rendered] canvas { opacity: 1; }
+.gq-scene[data-rendered] .gq-poster { visibility: hidden; }
+.gq-scene-labels { position: absolute; left: 0; right: 0; top: 73%; display: grid; grid-template-columns: repeat(2,minmax(0,1fr)); text-align: center; gap: 14px; padding-inline: 12px; color: #d5adac; font-size: .83rem; line-height: 1.45; pointer-events: none; }
+.gq-scene-labels span:last-child { color: #aed0c9; }
+.gq-source-label { position: absolute; top: 5%; left: 15%; right: 15%; margin: 0; text-align: center; color: #ddd4cf; font-size: .8rem; line-height: 1.5; pointer-events: none; }
+.gq-scene[data-view="gravity"] .gq-scene-labels span:last-child, .gq-scene[data-view="quantum"] .gq-scene-labels span:first-child { opacity: .35; }
+.gq-motion { position: absolute; right: 12px; bottom: 10px; z-index: 2; display: grid; place-items: center; width: 38px; height: 38px; padding: 0; color: #e0d7d1; background: #1c1b1eea; border: 1px solid #d8d2cc59; border-radius: 4px; cursor: pointer; }
+.gq-motion[hidden] { display: none; }
+.gq-motion:hover { background: #373034; }
+.gq-motion svg { width: 17px; height: 17px; }
+.gq-motion:focus-visible, .gq-preview-link:focus-visible { outline: 2px solid #aed0c9; outline-offset: 4px; }
+.gq-invitation { position: relative; min-width: 0; }
+.gq-preview-link { display: block; border-block: 1px solid #d8d2cc4d; }
+.gq-preview-link .gq-scene { height: 230px; background: #18181ad9; }
+.gq-tour-entry { display: flex; justify-content: space-between; align-items: center; gap: 16px; padding: 17px 15px; color: #e6dcd6; font-size: .95rem; font-weight: 700; background: #b6c6bd0c; }
+.gq-tour-entry svg { width: 21px; height: 21px; flex: 0 0 auto; }
+.gq-preview-link:hover .gq-tour-entry { background: #aed0c91c; color: #d0e5df; }
+.gq-invitation > .gq-motion { top: 192px; bottom: auto; }
+@media (max-width: 650px) {
+  .gq-scene-labels { font-size: .72rem; padding-inline: 6px; gap: 10px; }
+  .gq-source-label { font-size: .7rem; left: 8%; right: 8%; }
+  .gq-preview-link .gq-scene { height: 210px; }
+  .gq-scene > .gq-motion { bottom: 0; }
+  .gq-invitation > .gq-motion { top: 172px; }
+  .gq-tour-entry { padding: 15px 10px; font-size: .85rem; }
+}
