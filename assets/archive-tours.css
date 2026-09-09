@@ -1,0 +1,10 @@
+.archive-home .nav { flex-wrap: wrap; row-gap: 8px; }
+.archive-home .nav a { white-space: nowrap; }
+.archive-home .guided-tours .research-arcs { margin-top: 0; }
+.archive-home .research-collections { margin-top: 74px; }
+.archive-home #time-pair h3 { font-size: 2.25rem; line-height: 1.15; }
+@media (max-width: 860px) {
+  .archive-home .site-header { gap: 16px; }
+  .archive-home .nav { justify-content: flex-start; gap: 8px 18px; }
+  .archive-home #guided-tours, .archive-home #manuscripts { scroll-margin-top: 64px; }
+}

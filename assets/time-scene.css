@@ -1,0 +1,30 @@
+.time-scene { position: relative; isolation: isolate; height: 230px; min-width: 0; overflow: hidden; }
+.time-scene canvas, .time-scene .time-poster { display: block; position: absolute; inset: 0; width: 100%; height: 100%; object-fit: contain; }
+.time-scene canvas { opacity: 0; }
+.time-scene[data-rendered] canvas { opacity: 1; }
+.time-scene[data-rendered] .time-poster { visibility: hidden; }
+.time-scene-labels { position: absolute; top: 70%; left: 7%; right: 7%; display: grid; grid-template-columns: repeat(3,minmax(0,1fr)); gap: 12px; color: #d8acae; text-align: center; font-size: .8rem; line-height: 1.45; pointer-events: none; }
+.time-scene-labels span:nth-child(2) { color: #a9ccc6; }
+.time-scene-labels span:nth-child(3) { color: #c8c9a1; }
+.time-motion { position: absolute; right: 9px; bottom: 8px; display: grid; place-items: center; width: 36px; height: 36px; border: 1px solid #d8d2cc59; border-radius: 4px; background: #1c1b1ef0; color: #ded4d0; cursor: pointer; padding: 0; }
+.time-motion[hidden] { display: none; }
+.time-motion:hover { background: #373034; }
+.time-motion svg { width: 17px; height: 17px; }
+.time-motion:focus-visible, .time-preview-link:focus-visible { outline: 2px solid #a9ccc6; outline-offset: 4px; }
+.time-invitation { position: relative; grid-column: 1 / -1; min-width: 0; }
+.time-preview-link { display: block; border-block: 1px solid #d8d2cc4d; }
+.time-preview-link .time-scene { background: #19191bd6; }
+.time-tour-entry { display: flex; gap: 18px; align-items: center; justify-content: space-between; padding: 16px; color: #e6dcd6; background: #a9ccc608; }
+.time-tour-entry > span { min-width: 0; }
+.time-tour-entry strong { display: block; font-size: 1rem; line-height: 1.4; }
+.time-tour-entry small { display: block; font-size: .8rem; color: #bfb7b6; line-height: 1.5; margin-top: 4px; }
+.time-tour-entry svg { width: 22px; height: 22px; flex: 0 0 auto; }
+.time-preview-link:hover .time-tour-entry { background: #a9ccc617; }
+.time-invitation > .time-motion { top: 188px; bottom: auto; }
+@media (max-width: 650px) {
+  .time-preview-link .time-scene { height: 195px; }
+  .time-invitation > .time-motion { top: 153px; }
+  .time-scene-labels { left: 1%; right: 1%; font-size: .7rem; gap: 4px; }
+  .time-tour-entry { padding-inline: 10px; }
+  .time-tour-entry strong { font-size: .9rem; }
+}

@@ -42,9 +42,12 @@
     <link rel="stylesheet" href="styles.css" />
     <link rel="stylesheet" href="assets/black-hole-preview.css" />
     <link rel="stylesheet" href="assets/gravity-quantum-scene.css" />
+    <link rel="stylesheet" href="assets/time-scene.css" />
+    <link rel="stylesheet" href="assets/archive-tours.css" />
     <script defer src="assets/vendor/lucide.min.js"></script>
     <script defer src="assets/black-hole-preview.js"></script>
     <script defer src="assets/gravity-quantum-scene.js"></script>
+    <script defer src="assets/time-scene.js"></script>
     <script type="application/ld+json">
       {
         "@context": "https://schema.org",
@@ -238,13 +241,14 @@
       }
     </script>
   </head>
-  <body>
+  <body class="archive-home">
     <header class="site-header">
       <a class="brand" href="#top" aria-label="Constraint Systems Institute home">
         <span class="brand-mark" aria-hidden="true"></span>
         <span>Constraint Systems<br />Institute</span>
       </a>
       <nav class="nav" aria-label="Primary navigation">
+        <a href="#guided-tours">Tours</a>
         <a href="#manuscripts">Manuscripts</a>
         <a href="#corpus-search">Search</a>
         <a href="#recent">Recent</a>
@@ -265,8 +269,8 @@
             This archive develops a foundational constraint formalism from a premise taken seriously across quantum gravity and emergent-spacetime research, but pressed here to its full consequence: metricity is not the primitive ground of physics. Before anything can be measured, localized, evolved, or modeled, the admissible structure of determinate instantiation must already be fixed. The corpus follows that prior order outward, treating familiar mathematical and physical descriptions as consequences of constraint, exclusion, and invariant closure.
           </p>
           <div class="hero-actions">
-            <a class="button primary" href="#manuscripts">Browse manuscripts</a>
-            <a class="button secondary" href="#lean">View Lean 4 projects</a>
+            <a class="button primary" href="#guided-tours">Explore guided tours</a>
+            <a class="button secondary" href="#manuscripts">Browse manuscripts</a>
           </div>
           <div class="hero-structure" aria-label="Archive structure">
             <a href="#manuscripts">
@@ -285,16 +289,12 @@
         </div>
       </section>
 
-      <section class="section" id="manuscripts" aria-labelledby="manuscripts-title">
+      <section class="section guided-tours" id="guided-tours" aria-labelledby="arcs-title">
         <div class="section-heading">
-          <p class="eyebrow">Manuscript Repository</p>
-          <h2 id="manuscripts-title">Theoretical research organized by formal dependency.</h2>
+          <p class="eyebrow">Guided Research Tours</p>
+          <h2 id="arcs-title">Four paths into the research.</h2>
         </div>
-        <div class="research-arcs" aria-labelledby="arcs-title">
-          <div class="section-heading">
-            <p class="eyebrow">Major Research Arcs</p>
-            <h2 id="arcs-title">Current centerpiece first.</h2>
-          </div>
+        <div class="research-arcs">
           <div class="arc-focus-grid">
             <article class="arc-focus-card certificate-closure-card" id="fep-certificate-closure">
               <div class="arc-focus-copy">
@@ -432,44 +432,6 @@
               </div>
             </article>
 
-            <article class="arc-focus-card millennium-card">
-              <div class="arc-focus-copy">
-                <p class="repo-type">Millennium Card</p>
-                <h3>Seven Clay-style endpoint solutions and audit surfaces</h3>
-                <p class="plain">
-                  Plainly: the Millennium work should be seen as a complete seven-problem cluster rather than a
-                  Yang-Mills-only subsection.
-                </p>
-                <p class="technical">
-                  Technically: each item is kept as an endpoint paper or formal audit surface, with the Lean
-                  repositories listed later for reproducibility and theorem-surface inspection.
-                </p>
-              </div>
-              <div class="millennium-series-panel">
-                <div>
-                  <h4>Seven Clay endpoints</h4>
-                  <div class="paper-chip-list prominent seven-list">
-                    <a id="yang-mills-mass-gap" href="https://doi.org/10.5281/zenodo.19492854">Yang-Mills Mass Gap</a>
-                    <a id="riemann-hypothesis" href="https://doi.org/10.5281/zenodo.20473212">Riemann Hypothesis</a>
-                    <a id="p-vs-np-sat-endpoint" href="https://doi.org/10.5281/zenodo.20594895">P vs NP</a>
-                    <a id="navier-stokes-smoothness" href="https://doi.org/10.5281/zenodo.19022917">Navier-Stokes Existence and Smoothness</a>
-                    <a id="hodge-conjecture" href="https://doi.org/10.5281/zenodo.20534479">Hodge Conjecture</a>
-                    <a id="birch-swinnerton-dyer" href="https://doi.org/10.5281/zenodo.20619224">Birch and Swinnerton-Dyer</a>
-                    <a id="poincare-endpoint" href="https://doi.org/10.5281/zenodo.20545179">Poincare Conjecture</a>
-                  </div>
-                </div>
-                <div class="yang-mills-subseries">
-                  <h4>Yang-Mills five-paper arc inside the Clay series</h4>
-                  <div class="paper-chip-list quiet yang-mills-list">
-                    <a href="https://doi.org/10.5281/zenodo.19492854">Local-net mass gap</a>
-                    <a href="https://doi.org/10.5281/zenodo.19492934">Companion I: Route 1 chain</a>
-                    <a href="https://doi.org/10.5281/zenodo.19492999">Companion II: Lane A construction</a>
-                    <a href="https://doi.org/10.5281/zenodo.19493077">Companion III: reconstruction</a>
-                    <a href="https://doi.org/10.5281/zenodo.19646301">Endpoint well-definedness</a>
-                  </div>
-                </div>
-              </div>
-            </article>
 
             <article class="arc-focus-card black-hole-card" id="black-hole-arc">
               <div class="arc-focus-copy">
@@ -502,33 +464,15 @@
               </div>
             </article>
 
-            <article class="arc-focus-card quantum-boundary-card">
-              <div class="arc-focus-copy">
-                <p class="repo-type">Quantum Boundary Pair</p>
-                <h3>Measurement and entanglement as boundary problems</h3>
-                <p class="plain">
-                  Plainly: measurement and entanglement belong together because both ask how records,
-                  compatibility, and boundary standing work without hidden selectors or illicit transport.
-                </p>
-                <p class="technical">
-                  Technically: measurement supplies record-fixation and non-selective update discipline;
-                  entanglement supplies boundary-level compatibility without same-scope signaling, repair,
-                  or hidden metric transport.
-                </p>
-              </div>
-              <div class="paper-chip-list prominent pair-list">
-                <a href="https://doi.org/10.5281/zenodo.18514647">Admissible Record Construction</a>
-                <a href="https://doi.org/10.5281/zenodo.19401432">Quantum Entanglement as Boundary-Level Compatibility</a>
-              </div>
-            </article>
 
-            <article class="arc-focus-card time-card">
+            <article class="arc-focus-card time-card" id="time-pair">
               <div class="arc-focus-copy">
                 <p class="repo-type">Time Pair</p>
-                <h3>Standing monotonicity and the physical clock</h3>
+                <h3>The arrow of time and the physical clock</h3>
                 <p class="plain">
-                  Plainly: these two papers separate temporal direction from physical clock use:
-                  first the arrow, then the quotient object that functions as a clock.
+                  Why does change have a direction, and what makes something a clock?
+                  The time pair separates these questions. The guided tour follows them into
+                  WDW 10's three different local clocks: matter, volume, and curvature.
                 </p>
                 <p class="technical">
                   Technically: temporal directionality is treated as standing monotonicity after primitive-arrow
@@ -540,40 +484,27 @@
                 <a href="https://doi.org/10.5281/zenodo.20678464">The Arrow of Time as Standing Monotonicity</a>
                 <a href="https://doi.org/10.5281/zenodo.20833048">The Physical Clock as a Quotient</a>
               </div>
+              <div class="time-invitation">
+                <a class="time-preview-link" href="time/index.html">
+                  <div class="time-scene" data-time-scene data-motion-control="archive-time-motion">
+                    <img class="time-poster" src="assets/time-poster.webp" width="1200" height="360" loading="lazy" alt="Three local clock motifs above one oriented sequence of events." />
+                    <canvas aria-hidden="true"></canvas>
+                    <div class="time-scene-labels" aria-hidden="true"><span>Matter</span><span>Local volume</span><span>Curvature</span></div>
+                  </div>
+                  <span class="time-tour-entry"><span><strong>Explore the arrow &amp; the clock</strong><small>A direction without a master clock.</small></span><i data-lucide="arrow-right" aria-hidden="true"></i></span>
+                </a>
+                <button class="time-motion" id="archive-time-motion" type="button" hidden aria-label="Pause time animation" title="Pause time animation" aria-pressed="false"><i data-lucide="pause" aria-hidden="true"></i></button>
+              </div>
             </article>
 
-            <article class="arc-focus-card mind-agency-card">
-              <div class="arc-focus-copy">
-                <p class="repo-type">Mind / Agency Card</p>
-                <h3>Consciousness, qualia, free will, and responsible authorship</h3>
-                <p class="plain">
-                  Plainly: this card treats consciousness and free will as standing problems:
-                  how experience gets referential fixation, and how responsibility attaches without outcome selection.
-                </p>
-                <p class="technical">
-                  Technically: consciousness is typed as a subject-indexed referential quotient interface with
-                  qualitative tensors, while free will is typed as admissible authored commitment under standing
-                  rather than indeterminism, randomness, or causal exemption.
-                </p>
-              </div>
-              <div class="arc-paper-groups">
-                <div>
-                  <h4>Primary mind and agency papers</h4>
-                  <div class="paper-chip-list prominent pair-list">
-                    <a href="https://doi.org/10.5281/zenodo.20773878">The AASC Description of Consciousness</a>
-                    <a href="https://doi.org/10.5281/zenodo.18514627">Free Will as Admissible Commitment</a>
-                  </div>
-                </div>
-                <div>
-                  <h4>Supporting structure</h4>
-                  <div class="paper-chip-list quiet pair-list">
-                    <a href="https://doi.org/10.5281/zenodo.18611122">Mentis Umbra</a>
-                    <a href="https://doi.org/10.5281/zenodo.18522150">Agency as a Bookkeeping Projection</a>
-                  </div>
-                </div>
-              </div>
-            </article>
           </div>
+        </div>
+      </section>
+
+      <section class="section" id="manuscripts" aria-labelledby="manuscripts-title">
+        <div class="section-heading">
+          <p class="eyebrow">Manuscript Repository</p>
+          <h2 id="manuscripts-title">Theoretical research organized by formal dependency.</h2>
         </div>
         <div class="cards">
           <article class="card">
@@ -817,6 +748,104 @@
               </div>
             </div>
           </details>
+        </div>
+        <div class="research-collections" id="research-collections" aria-labelledby="collections-title">
+          <div class="section-heading">
+            <p class="eyebrow">Research Collections</p>
+            <h2 id="collections-title">Further arcs across the corpus.</h2>
+          </div>
+          <div class="arc-focus-grid">
+            <article class="arc-focus-card millennium-card">
+              <div class="arc-focus-copy">
+                <p class="repo-type">Millennium Card</p>
+                <h3>Seven Clay-style endpoint solutions and audit surfaces</h3>
+                <p class="plain">
+                  Plainly: the Millennium work should be seen as a complete seven-problem cluster rather than a
+                  Yang-Mills-only subsection.
+                </p>
+                <p class="technical">
+                  Technically: each item is kept as an endpoint paper or formal audit surface, with the Lean
+                  repositories listed later for reproducibility and theorem-surface inspection.
+                </p>
+              </div>
+              <div class="millennium-series-panel">
+                <div>
+                  <h4>Seven Clay endpoints</h4>
+                  <div class="paper-chip-list prominent seven-list">
+                    <a id="yang-mills-mass-gap" href="https://doi.org/10.5281/zenodo.19492854">Yang-Mills Mass Gap</a>
+                    <a id="riemann-hypothesis" href="https://doi.org/10.5281/zenodo.20473212">Riemann Hypothesis</a>
+                    <a id="p-vs-np-sat-endpoint" href="https://doi.org/10.5281/zenodo.20594895">P vs NP</a>
+                    <a id="navier-stokes-smoothness" href="https://doi.org/10.5281/zenodo.19022917">Navier-Stokes Existence and Smoothness</a>
+                    <a id="hodge-conjecture" href="https://doi.org/10.5281/zenodo.20534479">Hodge Conjecture</a>
+                    <a id="birch-swinnerton-dyer" href="https://doi.org/10.5281/zenodo.20619224">Birch and Swinnerton-Dyer</a>
+                    <a id="poincare-endpoint" href="https://doi.org/10.5281/zenodo.20545179">Poincare Conjecture</a>
+                  </div>
+                </div>
+                <div class="yang-mills-subseries">
+                  <h4>Yang-Mills five-paper arc inside the Clay series</h4>
+                  <div class="paper-chip-list quiet yang-mills-list">
+                    <a href="https://doi.org/10.5281/zenodo.19492854">Local-net mass gap</a>
+                    <a href="https://doi.org/10.5281/zenodo.19492934">Companion I: Route 1 chain</a>
+                    <a href="https://doi.org/10.5281/zenodo.19492999">Companion II: Lane A construction</a>
+                    <a href="https://doi.org/10.5281/zenodo.19493077">Companion III: reconstruction</a>
+                    <a href="https://doi.org/10.5281/zenodo.19646301">Endpoint well-definedness</a>
+                  </div>
+                </div>
+              </div>
+            </article>
+
+            <article class="arc-focus-card quantum-boundary-card">
+              <div class="arc-focus-copy">
+                <p class="repo-type">Quantum Boundary Pair</p>
+                <h3>Measurement and entanglement as boundary problems</h3>
+                <p class="plain">
+                  Plainly: measurement and entanglement belong together because both ask how records,
+                  compatibility, and boundary standing work without hidden selectors or illicit transport.
+                </p>
+                <p class="technical">
+                  Technically: measurement supplies record-fixation and non-selective update discipline;
+                  entanglement supplies boundary-level compatibility without same-scope signaling, repair,
+                  or hidden metric transport.
+                </p>
+              </div>
+              <div class="paper-chip-list prominent pair-list">
+                <a href="https://doi.org/10.5281/zenodo.18514647">Admissible Record Construction</a>
+                <a href="https://doi.org/10.5281/zenodo.19401432">Quantum Entanglement as Boundary-Level Compatibility</a>
+              </div>
+            </article>
+
+            <article class="arc-focus-card mind-agency-card">
+              <div class="arc-focus-copy">
+                <p class="repo-type">Mind / Agency Card</p>
+                <h3>Consciousness, qualia, free will, and responsible authorship</h3>
+                <p class="plain">
+                  Plainly: this card treats consciousness and free will as standing problems:
+                  how experience gets referential fixation, and how responsibility attaches without outcome selection.
+                </p>
+                <p class="technical">
+                  Technically: consciousness is typed as a subject-indexed referential quotient interface with
+                  qualitative tensors, while free will is typed as admissible authored commitment under standing
+                  rather than indeterminism, randomness, or causal exemption.
+                </p>
+              </div>
+              <div class="arc-paper-groups">
+                <div>
+                  <h4>Primary mind and agency papers</h4>
+                  <div class="paper-chip-list prominent pair-list">
+                    <a href="https://doi.org/10.5281/zenodo.20773878">The AASC Description of Consciousness</a>
+                    <a href="https://doi.org/10.5281/zenodo.18514627">Free Will as Admissible Commitment</a>
+                  </div>
+                </div>
+                <div>
+                  <h4>Supporting structure</h4>
+                  <div class="paper-chip-list quiet pair-list">
+                    <a href="https://doi.org/10.5281/zenodo.18611122">Mentis Umbra</a>
+                    <a href="https://doi.org/10.5281/zenodo.18522150">Agency as a Bookkeeping Projection</a>
+                  </div>
+                </div>
+              </div>
+            </article>
+          </div>
         </div>
         <div class="topic-routes" aria-labelledby="topic-routes-title">
           <div class="section-heading">

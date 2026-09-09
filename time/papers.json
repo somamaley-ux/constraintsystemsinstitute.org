@@ -1,0 +1,35 @@
+[
+  {
+    "id": "arrow",
+    "code": "Paper I",
+    "doi": "10.5281/zenodo.20678464",
+    "group": "The time pair",
+    "plain": "Why an event can leave a consequence that a later event cannot silently make never to have happened. The paper identifies temporal direction with standing monotonicity, while distinguishing it from entropy, causality, memory, and the choice of a clock.",
+    "scope": "Fixed-scope standing preorder, partial order after standing equivalence, and strict non-invertible direction. Not a global linear time, an entropy-production calculation, or a primitive temporal flow.",
+    "title": "The Arrow of Time as Standing Monotonicity",
+    "url": "https://constraintsystemsinstitute.org/papers/the-arrow-of-time-as-standing-monotonicity-10-5281-zenodo-20678464/",
+    "slug": "the-arrow-of-time-as-standing-monotonicity-10-5281-zenodo-20678464"
+  },
+  {
+    "id": "clock",
+    "code": "Paper II",
+    "doi": "10.5281/zenodo.20833048",
+    "group": "The time pair",
+    "plain": "What makes a variable, field, device, or record sequence a physical clock for a particular job. Equivalent descriptions are grouped by their complete usable behavior; genuine differences and breakdown conditions remain explicit.",
+    "scope": "Use-relative quotient of certified clock behavior and exhaustive pair/selection classification. The quotient may be empty, singleton, or physically plural. Local-atlas compatibility is a criterion, not an existence theorem.",
+    "title": "The Physical Clock as a Quotient",
+    "url": "https://constraintsystemsinstitute.org/papers/the-physical-clock-as-a-quotient-10-5281-zenodo-20833048/",
+    "slug": "the-physical-clock-as-a-quotient-10-5281-zenodo-20833048"
+  },
+  {
+    "id": "wdw10",
+    "code": "WDW 10",
+    "doi": "10.5281/zenodo.21827349",
+    "group": "Constructive support",
+    "plain": "Constructs three different local clocks from a matter-field profile, local volume density, and intrinsic spatial curvature. Their transitions preserve the shared physical account and agree on overlaps, allowing clock-neutral assembly without a master clock.",
+    "scope": "Retained Branch-A compact-hyperbolic metric-real-scalar rank-one no-spectator target. Three function-valued local clocks and clock-neutral descent; no global monotonic clock or clock-only extension beyond the inherited scalar-chart locus.",
+    "title": "WDW 10: Global Clock-Neutral Relational Descent and Universality Closure",
+    "url": "https://constraintsystemsinstitute.org/papers/wdw-10-global-clock-neutral-relational-descent-and-universality-closure-10-5281-zenodo/",
+    "slug": "wdw-10-global-clock-neutral-relational-descent-and-universality-closure-10-5281-zenodo"
+  }
+]
