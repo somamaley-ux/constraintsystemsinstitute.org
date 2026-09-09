@@ -32,6 +32,11 @@
 .kernel-roles h3 { margin: 0 0 9px; font-size: 1.06rem; }
 .kernel-roles p { font-size: .89rem; color: #c3b8c0; margin: 0 0 10px; }
 .kernel-roles span { color: #d7b6c3; font-size: .76rem; }
+.necessity-note { max-width: 870px; margin-top: 38px; padding-left: 25px; border-left: 2px solid #b4cfae80; }
+.necessity-note .kicker { font-size: .76rem; margin-bottom: 13px; }
+.necessity-note h3 { font: 1.7rem/1.35 Georgia,serif; color: #e5d8d5; margin: 0 0 18px; }
+.necessity-note > p:not(.kicker) { color: #cfc3cb; font-size: .97rem; margin: 0 0 17px; }
+.necessity-note strong { color: #eee4dd; }
 .token-stage { height: 190px; position: relative; margin-block: 10px 20px; }
 .boundary-token { position: absolute; width: 52px; height: 52px; border: 1.5px solid #d3c2cb; border-radius: 50%; display: grid; place-items: center; color: #e8dce1; font: 1.4rem Georgia,serif; transform: translate(-50%,-50%); background: #262329; }
 .boundary-token:nth-child(1) { left: 18%; top: 64%; }
@@ -111,6 +116,8 @@
   .kernel-roles { gap: 25px 18px; }
   .kernel-roles h3 { font-size: 1rem; }
   .kernel-roles p { font-size: .83rem; }
+  .necessity-note { padding-left: 18px; }
+  .necessity-note h3 { font-size: 1.45rem; }
   .foundation-conclusion h3 { font-size: 1.6rem; }
   .foundation-tour .paper-entry { grid-template-columns: minmax(0,1fr); }
   .foundation-exhibit:has(#roles-map) .interaction-result { min-height: 214px; }
