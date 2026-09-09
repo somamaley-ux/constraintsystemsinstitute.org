@@ -1,0 +1,46 @@
+[
+  {
+    "id": "consciousness",
+    "code": "Consciousness",
+    "doi": "10.5281/zenodo.20773878",
+    "group": "The main papers",
+    "plain": "How experience, internal records, memory, and qualitative differences form one subject-linked structure. Distinguishes the experience from its report and a genuine qualitative difference from a change of vocabulary.",
+    "scope": "Local reference and qualification theorems, a complete fixed-domain consciousness-description bridge, and a defended constitutive identification. Depends on imported AASC closure. Does not supply actual neural realization, a consciousness score, or empirical certification of present AI.",
+    "title": "The AASC Description of Consciousness",
+    "url": "https://constraintsystemsinstitute.org/papers/the-aasc-description-of-consciousness-10-5281-zenodo-20773878/",
+    "slug": "the-aasc-description-of-consciousness-10-5281-zenodo-20773878"
+  },
+  {
+    "id": "free-will",
+    "code": "Free will",
+    "doi": "10.5281/zenodo.18514627",
+    "group": "The main papers",
+    "plain": "Locates free will in valid authorship of a determinate undertaking. Shows why authorship attaches at commitment, not when a later outcome succeeds or fails, while keeping coercion, concealed terms, and displaced authorship distinct from ordinary causal constraint.",
+    "scope": "Indexed standing, access, directed uptake, carrier adequacy, bundle admissibility, non-displacement and fixation. Responsibility-authorship is not outcome selection, retributive desert, or a theorem of legal liability.",
+    "title": "Free Will as Admissible Commitment: An AASC Account of Responsibility-Authorship Without Outcome Selection",
+    "url": "https://constraintsystemsinstitute.org/papers/free-will-as-admissible-commitment-an-aasc-account-of-responsibility-authorship-withou/",
+    "slug": "free-will-as-admissible-commitment-an-aasc-account-of-responsibility-authorship-withou"
+  },
+  {
+    "id": "mentis",
+    "code": "Earlier support",
+    "doi": "10.5281/zenodo.18611122",
+    "group": "Earlier supporting work",
+    "plain": "Develops structural mediation and invariant reference under changes of description, then extends the account to interacting systems. Supplies earlier role-classification machinery rather than a shortcut to the newer consciousness criteria.",
+    "scope": "Typed single- and multi-system projection results with compatibility conditions. Role-based consciousness and agency vocabulary adds no primitives. Quotient mediation is distinct from choosing a privileged representative.",
+    "title": "Mentis Umbra",
+    "url": "https://constraintsystemsinstitute.org/papers/mentis-umbra-10-5281-zenodo-18611122/",
+    "slug": "mentis-umbra-10-5281-zenodo-18611122"
+  },
+  {
+    "id": "agency",
+    "code": "Earlier support",
+    "doi": "10.5281/zenodo.18522150",
+    "group": "Earlier supporting work",
+    "plain": "Explains why calling something an agent need not add any structure beyond the behavior already described. The label remains useful, but cannot by itself supply consciousness or absorb responsibility for an authored policy.",
+    "scope": "Elimination of agency as an additional primitive under standing-closed admissibility and redescription stability. Does not deny capability, complexity, practical agency language, or risk.",
+    "title": "Agency as a Bookkeeping Projection",
+    "url": "https://constraintsystemsinstitute.org/papers/agency-as-a-bookkeeping-projection-10-5281-zenodo-18522150/",
+    "slug": "agency-as-a-bookkeeping-projection-10-5281-zenodo-18522150"
+  }
+]
