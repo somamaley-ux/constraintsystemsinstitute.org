@@ -1391,9 +1391,9 @@
     "slug": "standing-carrier-identity-closure-22337280",
     "date": "2026-09-05",
     "scholar_date": "2026/09/05",
-    "context": "Standard Model / Symmetry sequence",
-    "description": "Published record in the Standard Model symmetry sequence.",
-    "keywords": "Standard Model, AASC, symmetry, atlas",
+    "context": "Symmetry arc",
+    "description": "Fixes carrier identity by the complete authorized continuation signature, separating real carrier differences from source labels and keeping unresolved carrier multiplicity explicit.",
+    "keywords": "AASC, symmetry, Foundation, Standing carrier identity",
     "zenodo_record": "https://zenodo.org/records/22337281"
   },
   {
@@ -1404,9 +1404,9 @@
     "slug": "the-symmetry-status-22337569",
     "date": "2026-09-05",
     "scholar_date": "2026/09/05",
-    "context": "Standard Model / Symmetry sequence",
-    "description": "Published record in the Standard Model symmetry sequence.",
-    "keywords": "Standard Model, AASC, symmetry, atlas",
+    "context": "Symmetry arc",
+    "description": "Separates changes of description, physical actions and domain-defining structure, giving symmetry claims a precise physical status.",
+    "keywords": "AASC, symmetry, SYM-0, The status question",
     "zenodo_record": "https://zenodo.org/records/22337570"
   },
   {
@@ -1417,9 +1417,9 @@
     "slug": "gauge-architecture-and-gauge-skin-in-the-standard-model-22338095",
     "date": "2026-09-05",
     "scholar_date": "2026/09/05",
-    "context": "Standard Model / Symmetry sequence",
-    "description": "Published record in the Standard Model symmetry sequence.",
-    "keywords": "Standard Model, AASC, symmetry, atlas",
+    "context": "Symmetry arc",
+    "description": "Distinguishes local gauge displays from connection orbits, curvature and holonomy, with boundary and global operations assigned their own physical status.",
+    "keywords": "AASC, symmetry, SYM-1, Gauge architecture and skin",
     "zenodo_record": "https://zenodo.org/records/22338096"
   },
   {
@@ -1430,9 +1430,9 @@
     "slug": "spacetime-symmetry-as-domain-anchor-22347967",
     "date": "2026-09-05",
     "scholar_date": "2026/09/05",
-    "context": "Standard Model / Symmetry sequence",
-    "description": "Published record in the Standard Model symmetry sequence.",
-    "keywords": "Standard Model, AASC, symmetry, atlas",
+    "context": "Symmetry arc",
+    "description": "Separates passive frames from active spacetime transformations and from the invariant geometric and causal structure that anchors the domain.",
+    "keywords": "AASC, symmetry, SYM-2, Spacetime and the anchor",
     "zenodo_record": "https://zenodo.org/records/22347968"
   },
   {
@@ -1443,9 +1443,9 @@
     "slug": "anomalies-as-structural-obstructions-22348528",
     "date": "2026-09-05",
     "scholar_date": "2026/09/05",
-    "context": "Standard Model / Symmetry sequence",
-    "description": "Published record in the Standard Model symmetry sequence.",
-    "keywords": "Standard Model, AASC, symmetry, atlas",
+    "context": "Symmetry arc",
+    "description": "Builds an anomaly normal form that separates gauge inconsistency, anomalous physical response, global obstruction, inflow, matching and trace identities.",
+    "keywords": "AASC, symmetry, SYM-3, Anomaly obstructions",
     "zenodo_record": "https://zenodo.org/records/22348529"
   },
   {
@@ -1456,9 +1456,9 @@
     "slug": "the-discrete-symmetry-ledger-of-the-standard-model-22348704",
     "date": "2026-09-05",
     "scholar_date": "2026/09/05",
-    "context": "Standard Model / Symmetry sequence",
-    "description": "Published record in the Standard Model symmetry sequence.",
-    "keywords": "Standard Model, AASC, symmetry, atlas",
+    "context": "Symmetry arc",
+    "description": "Organizes C, P, T, CP and CPT by physical sector, retaining the invariant, anomaly and vacuum data that determine their status.",
+    "keywords": "AASC, symmetry, SYM-4, Discrete symmetry",
     "zenodo_record": "https://zenodo.org/records/22348705"
   },
   {
@@ -1469,9 +1469,9 @@
     "slug": "flavor-symmetry-basis-skin-spurion-structure-and-invariant-normal-form-22587689",
     "date": "2026-09-07",
     "scholar_date": "2026/09/07",
-    "context": "Standard Model / Symmetry sequence",
-    "description": "Published record in the Standard Model symmetry sequence.",
-    "keywords": "Standard Model, AASC, symmetry, atlas",
+    "context": "Symmetry arc",
+    "description": "Separates flavor-basis freedom from invariant masses, mixing and CP data, while retaining stabilizers, spurions and singular strata.",
+    "keywords": "AASC, symmetry, SYM-5, Flavor and basis",
     "zenodo_record": "https://zenodo.org/records/22587690"
   },
   {
@@ -1482,9 +1482,9 @@
     "slug": "chiral-custodial-and-infrared-symmetries-22589866",
     "date": "2026-09-07",
     "scholar_date": "2026/09/07",
-    "context": "Standard Model / Symmetry sequence",
-    "description": "Published record in the Standard Model symmetry sequence.",
-    "keywords": "Standard Model, AASC, symmetry, atlas",
+    "context": "Symmetry arc",
+    "description": "Connects chiral, axial, custodial, isospin and heavy-quark limits while preserving their vacuum, anomaly and effective-theory ancestry.",
+    "keywords": "AASC, symmetry, SYM-6, Chiral and infrared limits",
     "zenodo_record": "https://zenodo.org/records/22589867"
   },
   {
@@ -1495,9 +1495,9 @@
     "slug": "accidental-symmetry-by-operator-dimension-baryon-lepton-and-their-remnants-22591931",
     "date": "2026-09-07",
     "scholar_date": "2026/09/07",
-    "context": "Standard Model / Symmetry sequence",
-    "description": "Published record in the Standard Model symmetry sequence.",
-    "keywords": "Standard Model, AASC, symmetry, atlas",
+    "context": "Symmetry arc",
+    "description": "Derives baryon and lepton symmetries from field and operator content, then tracks the charge directions and remnants left by specified additional effects.",
+    "keywords": "AASC, symmetry, SYM-7, Accidental symmetry",
     "zenodo_record": "https://zenodo.org/records/22591932"
   },
   {
@@ -1508,9 +1508,9 @@
     "slug": "electroweak-vacuum-fixation-and-residual-spectrum-rigidity-22593311",
     "date": "2026-09-07",
     "scholar_date": "2026/09/07",
-    "context": "Standard Model / Symmetry sequence",
-    "description": "Published record in the Standard Model symmetry sequence.",
-    "keywords": "Standard Model, AASC, symmetry, atlas",
+    "context": "Symmetry arc",
+    "description": "Derives the electromagnetic stabilizer, rank-three gauge response and inherited charge ratios on the fixed one-doublet electroweak branch.",
+    "keywords": "AASC, symmetry, SYM-8, Vacuum and residual response",
     "zenodo_record": "https://zenodo.org/records/22593312"
   },
   {
@@ -1521,9 +1521,9 @@
     "slug": "global-form-and-generalized-symmetry-of-the-standard-model-22595005",
     "date": "2026-09-07",
     "scholar_date": "2026/09/07",
-    "context": "Standard Model / Symmetry sequence",
-    "description": "Published record in the Standard Model symmetry sequence.",
-    "keywords": "Standard Model, AASC, symmetry, atlas",
+    "context": "Symmetry arc",
+    "description": "Classifies compatible global forms and their line, screening, one-form and topological-response structures on explicitly declared physical targets.",
+    "keywords": "AASC, symmetry, SYM-9, Global form and generalized symmetry",
     "zenodo_record": "https://zenodo.org/records/22595006"
   },
   {
@@ -1534,9 +1534,9 @@
     "slug": "scale-renormalization-group-and-emergent-symmetry-22597123",
     "date": "2026-09-07",
     "scholar_date": "2026/09/07",
-    "context": "Standard Model / Symmetry sequence",
-    "description": "Published record in the Standard Model symmetry sequence.",
-    "keywords": "Standard Model, AASC, symmetry, atlas",
+    "context": "Symmetry arc",
+    "description": "Separates lawful redescription from RG flow, matching and emergent limits, and establishes transport consistent with the relevant quotient structure.",
+    "keywords": "AASC, symmetry, SYM-10, Scale and emergence",
     "zenodo_record": "https://zenodo.org/records/22597124"
   },
   {
@@ -1547,9 +1547,9 @@
     "slug": "the-standard-model-symmetry-atlas-and-exhaustion-closure-22636150",
     "date": "2026-09-07",
     "scholar_date": "2026/09/07",
-    "context": "Standard Model / Symmetry sequence",
-    "description": "Published record in the Standard Model symmetry sequence.",
-    "keywords": "Standard Model, AASC, symmetry, atlas",
+    "context": "Symmetry arc",
+    "description": "Assembles the symmetry branches into an atlas normal form and establishes uniqueness and exhaustion within its declared target family and comparison scope.",
+    "keywords": "AASC, symmetry, SYM-11, The atlas and closure",
     "zenodo_record": "https://zenodo.org/records/22636151"
   },
   {

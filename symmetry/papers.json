@@ -1,0 +1,132 @@
+[
+  {
+    "id": "standing",
+    "code": "Foundation",
+    "doi": "10.5281/zenodo.22337280",
+    "title": "Standing Carrier Identity Closure",
+    "slug": "standing-carrier-identity-closure-22337280",
+    "url": "https://constraintsystemsinstitute.org/papers/standing-carrier-identity-closure-22337280/",
+    "role": "Standing carrier identity",
+    "description": "Fixes carrier identity by the complete authorized continuation signature, separating real carrier differences from source labels and keeping unresolved carrier multiplicity explicit."
+  },
+  {
+    "id": "sym-0",
+    "code": "SYM-0",
+    "doi": "10.5281/zenodo.22337569",
+    "title": "The Symmetry Status",
+    "slug": "the-symmetry-status-22337569",
+    "url": "https://constraintsystemsinstitute.org/papers/the-symmetry-status-22337569/",
+    "role": "The status question",
+    "description": "Separates changes of description, physical actions and domain-defining structure, giving symmetry claims a precise physical status."
+  },
+  {
+    "id": "sym-1",
+    "code": "SYM-1",
+    "doi": "10.5281/zenodo.22338095",
+    "title": "Gauge Architecture and Gauge Skin in the Standard Model",
+    "slug": "gauge-architecture-and-gauge-skin-in-the-standard-model-22338095",
+    "url": "https://constraintsystemsinstitute.org/papers/gauge-architecture-and-gauge-skin-in-the-standard-model-22338095/",
+    "role": "Gauge architecture and skin",
+    "description": "Distinguishes local gauge displays from connection orbits, curvature and holonomy, with boundary and global operations assigned their own physical status."
+  },
+  {
+    "id": "sym-2",
+    "code": "SYM-2",
+    "doi": "10.5281/zenodo.22347967",
+    "title": "Spacetime Symmetry as Domain Anchor",
+    "slug": "spacetime-symmetry-as-domain-anchor-22347967",
+    "url": "https://constraintsystemsinstitute.org/papers/spacetime-symmetry-as-domain-anchor-22347967/",
+    "role": "Spacetime and the anchor",
+    "description": "Separates passive frames from active spacetime transformations and from the invariant geometric and causal structure that anchors the domain."
+  },
+  {
+    "id": "sym-3",
+    "code": "SYM-3",
+    "doi": "10.5281/zenodo.22348528",
+    "title": "Anomalies as Structural Obstructions",
+    "slug": "anomalies-as-structural-obstructions-22348528",
+    "url": "https://constraintsystemsinstitute.org/papers/anomalies-as-structural-obstructions-22348528/",
+    "role": "Anomaly obstructions",
+    "description": "Builds an anomaly normal form that separates gauge inconsistency, anomalous physical response, global obstruction, inflow, matching and trace identities."
+  },
+  {
+    "id": "sym-4",
+    "code": "SYM-4",
+    "doi": "10.5281/zenodo.22348704",
+    "title": "The Discrete Symmetry Ledger of the Standard Model",
+    "slug": "the-discrete-symmetry-ledger-of-the-standard-model-22348704",
+    "url": "https://constraintsystemsinstitute.org/papers/the-discrete-symmetry-ledger-of-the-standard-model-22348704/",
+    "role": "Discrete symmetry",
+    "description": "Organizes C, P, T, CP and CPT by physical sector, retaining the invariant, anomaly and vacuum data that determine their status."
+  },
+  {
+    "id": "sym-5",
+    "code": "SYM-5",
+    "doi": "10.5281/zenodo.22587689",
+    "title": "Flavor Symmetry, Basis Skin, Spurion Structure, and Invariant Normal Form",
+    "slug": "flavor-symmetry-basis-skin-spurion-structure-and-invariant-normal-form-22587689",
+    "url": "https://constraintsystemsinstitute.org/papers/flavor-symmetry-basis-skin-spurion-structure-and-invariant-normal-form-22587689/",
+    "role": "Flavor and basis",
+    "description": "Separates flavor-basis freedom from invariant masses, mixing and CP data, while retaining stabilizers, spurions and singular strata."
+  },
+  {
+    "id": "sym-6",
+    "code": "SYM-6",
+    "doi": "10.5281/zenodo.22589866",
+    "title": "Chiral, Custodial, and Infrared Symmetries",
+    "slug": "chiral-custodial-and-infrared-symmetries-22589866",
+    "url": "https://constraintsystemsinstitute.org/papers/chiral-custodial-and-infrared-symmetries-22589866/",
+    "role": "Chiral and infrared limits",
+    "description": "Connects chiral, axial, custodial, isospin and heavy-quark limits while preserving their vacuum, anomaly and effective-theory ancestry."
+  },
+  {
+    "id": "sym-7",
+    "code": "SYM-7",
+    "doi": "10.5281/zenodo.22591931",
+    "title": "Accidental Symmetry by Operator Dimension: Baryon, Lepton, and Their Remnants",
+    "slug": "accidental-symmetry-by-operator-dimension-baryon-lepton-and-their-remnants-22591931",
+    "url": "https://constraintsystemsinstitute.org/papers/accidental-symmetry-by-operator-dimension-baryon-lepton-and-their-remnants-22591931/",
+    "role": "Accidental symmetry",
+    "description": "Derives baryon and lepton symmetries from field and operator content, then tracks the charge directions and remnants left by specified additional effects."
+  },
+  {
+    "id": "sym-8",
+    "code": "SYM-8",
+    "doi": "10.5281/zenodo.22593311",
+    "title": "Electroweak Vacuum Fixation and Residual-Spectrum Rigidity",
+    "slug": "electroweak-vacuum-fixation-and-residual-spectrum-rigidity-22593311",
+    "url": "https://constraintsystemsinstitute.org/papers/electroweak-vacuum-fixation-and-residual-spectrum-rigidity-22593311/",
+    "role": "Vacuum and residual response",
+    "description": "Derives the electromagnetic stabilizer, rank-three gauge response and inherited charge ratios on the fixed one-doublet electroweak branch."
+  },
+  {
+    "id": "sym-9",
+    "code": "SYM-9",
+    "doi": "10.5281/zenodo.22595005",
+    "title": "Global Form and Generalized Symmetry of the Standard Model",
+    "slug": "global-form-and-generalized-symmetry-of-the-standard-model-22595005",
+    "url": "https://constraintsystemsinstitute.org/papers/global-form-and-generalized-symmetry-of-the-standard-model-22595005/",
+    "role": "Global form and generalized symmetry",
+    "description": "Classifies compatible global forms and their line, screening, one-form and topological-response structures on explicitly declared physical targets."
+  },
+  {
+    "id": "sym-10",
+    "code": "SYM-10",
+    "doi": "10.5281/zenodo.22597123",
+    "title": "Scale, Renormalization Group, and Emergent Symmetry",
+    "slug": "scale-renormalization-group-and-emergent-symmetry-22597123",
+    "url": "https://constraintsystemsinstitute.org/papers/scale-renormalization-group-and-emergent-symmetry-22597123/",
+    "role": "Scale and emergence",
+    "description": "Separates lawful redescription from RG flow, matching and emergent limits, and establishes transport consistent with the relevant quotient structure."
+  },
+  {
+    "id": "sym-11",
+    "code": "SYM-11",
+    "doi": "10.5281/zenodo.22636150",
+    "title": "The Standard Model Symmetry Atlas and Exhaustion Closure",
+    "slug": "the-standard-model-symmetry-atlas-and-exhaustion-closure-22636150",
+    "url": "https://constraintsystemsinstitute.org/papers/the-standard-model-symmetry-atlas-and-exhaustion-closure-22636150/",
+    "role": "The atlas and closure",
+    "description": "Assembles the symmetry branches into an atlas normal form and establishes uniqueness and exhaustion within its declared target family and comparison scope."
+  }
+]

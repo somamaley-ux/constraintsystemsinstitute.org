@@ -46,6 +46,65 @@
     ]
   },
   {
+    "theme": "Symmetry Arc",
+    "layman_summary": "What changes in a description, what acts on physical states, and what must stay fixed for the comparison to make sense.",
+    "technical_summary": "Gauge architecture and skin, spacetime anchors, anomaly and discrete-symmetry ledgers, flavor, chiral and custodial structure, operator grammar, vacuum fixation, global form, RG and atlas exhaustion.",
+    "papers": [
+      {
+        "title": "Standing Carrier Identity Closure",
+        "concept_doi": "10.5281/zenodo.22337280"
+      },
+      {
+        "title": "The Symmetry Status",
+        "concept_doi": "10.5281/zenodo.22337569"
+      },
+      {
+        "title": "Gauge Architecture and Gauge Skin in the Standard Model",
+        "concept_doi": "10.5281/zenodo.22338095"
+      },
+      {
+        "title": "Spacetime Symmetry as Domain Anchor",
+        "concept_doi": "10.5281/zenodo.22347967"
+      },
+      {
+        "title": "Anomalies as Structural Obstructions",
+        "concept_doi": "10.5281/zenodo.22348528"
+      },
+      {
+        "title": "The Discrete Symmetry Ledger of the Standard Model",
+        "concept_doi": "10.5281/zenodo.22348704"
+      },
+      {
+        "title": "Flavor Symmetry, Basis Skin, Spurion Structure, and Invariant Normal Form",
+        "concept_doi": "10.5281/zenodo.22587689"
+      },
+      {
+        "title": "Chiral, Custodial, and Infrared Symmetries",
+        "concept_doi": "10.5281/zenodo.22589866"
+      },
+      {
+        "title": "Accidental Symmetry by Operator Dimension: Baryon, Lepton, and Their Remnants",
+        "concept_doi": "10.5281/zenodo.22591931"
+      },
+      {
+        "title": "Electroweak Vacuum Fixation and Residual-Spectrum Rigidity",
+        "concept_doi": "10.5281/zenodo.22593311"
+      },
+      {
+        "title": "Global Form and Generalized Symmetry of the Standard Model",
+        "concept_doi": "10.5281/zenodo.22595005"
+      },
+      {
+        "title": "Scale, Renormalization Group, and Emergent Symmetry",
+        "concept_doi": "10.5281/zenodo.22597123"
+      },
+      {
+        "title": "The Standard Model Symmetry Atlas and Exhaustion Closure",
+        "concept_doi": "10.5281/zenodo.22636150"
+      }
+    ]
+  },
+  {
     "theme": "Gravity / Quantum Unification",
     "layman_summary": "A single constraint-language for gravity and quantum behavior, without pretending one equation does every job.",
     "technical_summary": "Einstein and Schrodinger dynamics as minimal first-response projections of AASC standing, tied to measurement and entanglement boundary results.",

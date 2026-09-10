@@ -1,0 +1,37 @@
+import fs from 'node:fs';
+import path from 'node:path';
+import {fileURLToPath} from 'node:url';
+import {createRequire} from 'node:module';
+const root=path.resolve(path.dirname(fileURLToPath(import.meta.url)),'..');
+const origin='https://constraintsystemsinstitute.org';
+const records=JSON.parse(fs.readFileSync(path.join(root,'symmetry/papers.json'),'utf8'));
+const all=JSON.parse(fs.readFileSync(path.join(root,'papers.json'),'utf8'));
+const model=createRequire(import.meta.url)('../symmetry/model.js');
+const esc=s=>String(s).replaceAll('&','&amp;').replaceAll('<','&lt;').replaceAll('>','&gt;').replaceAll('"','&quot;');
+const replaceBlock=(text,name,body)=>{const start=`<!-- ${name} -->`,end=`<!-- /${name} -->`;if(!text.includes(start)||!text.includes(end))throw new Error('Missing '+name);return text.slice(0,text.indexOf(start)+start.length)+'\n'+body+'\n'+text.slice(text.indexOf(end));};
+let tour=fs.readFileSync(path.join(root,'symmetry/index.html'),'utf8');
+const meta={'@context':'https://schema.org','@type':'CollectionPage',name:'Symmetry: What Changes, What Holds',url:origin+'/symmetry/',inLanguage:'en',author:{'@type':'Person',name:'Amos Jay Maley'},hasPart:records.map(p=>({'@type':'ScholarlyArticle',name:p.title,url:p.url,identifier:p.doi}))};
+const metadata=`<script type="application/ld+json">${JSON.stringify(meta).replaceAll('<','\\u003c')}</script>`;
+if(!tour.includes('<!-- /SYMMETRY_METADATA -->'))tour=tour.replace('<!-- SYMMETRY_METADATA -->','<!-- SYMMETRY_METADATA -->\n<!-- /SYMMETRY_METADATA -->');
+tour=replaceBlock(tour,'SYMMETRY_METADATA',metadata);
+tour=replaceBlock(tour,'SYMMETRY_PAPERS',records.map(p=>`<article class="paper-entry" id="paper-${p.id}"><span class="paper-code">${p.code}</span><div><h3><a href="../papers/${p.slug}/index.html">${esc(p.title)}</a></h3><p>${esc(p.description)}</p></div></article>`).join('\n')+'\n<p class="source-policy">Each title opens its paper record and publication link. The first example is a geometric illustration; the Abelian loop shows a stated gauge identity; the anomaly and operator displays use the exact coefficient and charge data identified in their source notes.</p>');
+const a=model.anomaly('full');
+const rows=a.rows.map(row=>`<div class="anomaly-row"><span class="multiplet"><strong>${esc(row.label)}</strong><small>${esc(row.representation)} · Y = ${esc(row.hypercharge)}</small></span><span class="anomaly-track" aria-hidden="true"><span class="anomaly-bar" data-sign="${row.local[3]<0?'negative':'positive'}" style="width:${Math.abs(row.local[3])/36*48}%"></span></span><strong class="contribution">${model.fraction(row.local[3],36)}</strong></div>`).join('');
+tour=tour.replace(/<div id="anomaly-rows" class="anomaly-rows">[\s\S]*?<\/div><p class="figure-note">/,`<div id="anomaly-rows" class="anomaly-rows">${rows}</div><p class="figure-note">`);
+const labels=['SU(3)³','SU(3)² U(1)','SU(2)² U(1)','U(1)³','Gravity² U(1)'];
+tour=tour.replace(/<div class="local-checks" id="local-checks">[\s\S]*?<\/div><div class="global-check">/,`<div class="local-checks" id="local-checks">${labels.map(label=>`<div><span>${label}</span><strong data-clear="true">0</strong></div>`).join('')}</div><div class="global-check">`);
+fs.writeFileSync(path.join(root,'symmetry/index.html'),tour);
+let home=fs.readFileSync(path.join(root,'index.html'),'utf8');
+home=replaceBlock(home,'SYMMETRY_HOME_PAPERS',records.map(p=>`<a href="papers/${p.slug}/index.html" data-paper-link data-paper-doi="${p.doi}" data-paper-title="${esc(p.title)}" data-paper-description="${esc(p.description)}">${p.code}: ${esc(p.title)}</a>`).join('\n'));
+fs.writeFileSync(path.join(root,'index.html'),home);
+for(const p of records){
+  const shared=all.find(row=>row.doi===p.doi);if(!shared)throw new Error('Missing existing record '+p.doi);
+  shared.context='Symmetry arc';shared.description=p.description;shared.keywords='AASC, symmetry, '+p.code+', '+p.role;
+  const record=`<!doctype html><html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width, initial-scale=1"><title>${esc(p.title)} | Constraint Systems Institute</title><meta name="description" content="${esc(p.description)}"><meta name="citation_title" content="${esc(p.title)}"><meta name="citation_author" content="Maley, Amos Jay"><meta name="citation_doi" content="${p.doi}"><meta name="citation_publication_date" content="${shared.scholar_date}"><link rel="canonical" href="${p.url}"><link rel="stylesheet" href="../../styles.css"><link rel="icon" href="../../favicon.ico"></head><body class="paper-page"><main class="paper-shell"><a class="paper-back" href="../../symmetry/index.html#paper-${p.id}">The symmetry arc</a><article class="paper-record"><p class="repo-type">${p.code} / Symmetry arc</p><h1>${esc(p.title)}</h1><p class="paper-author">Amos Jay Maley</p><p>${esc(p.description)}</p><div class="paper-actions"><a class="button primary" href="https://doi.org/${p.doi}">Read the published paper</a><a class="button" href="../../symmetry/index.html">Explore the symmetry tour</a></div><dl class="paper-meta-list"><div><dt>All-versions DOI</dt><dd>${p.doi}</dd></div><div><dt>Publication date</dt><dd>${shared.date}</dd></div><div><dt>Place in the arc</dt><dd>${esc(p.role)}</dd></div></dl></article></main></body></html>\n`;
+  fs.writeFileSync(path.join(root,'papers',p.slug,'index.html'),record);
+}
+fs.writeFileSync(path.join(root,'papers.json'),JSON.stringify(all,null,2)+'\n');
+let sitemap=fs.readFileSync(path.join(root,'sitemap.xml'),'utf8');
+if(!sitemap.includes(`<loc>${origin}/symmetry/</loc>`))sitemap=sitemap.replace('</urlset>',`  <url><loc>${origin}/symmetry/</loc><lastmod>2026-09-11</lastmod></url>\n</urlset>`);
+fs.writeFileSync(path.join(root,'sitemap.xml'),sitemap);
+console.log(`Built symmetry tour metadata, ${records.length} paper entries, homepage links and existing archive records.`);

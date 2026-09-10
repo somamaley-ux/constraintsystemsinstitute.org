@@ -57,7 +57,7 @@ const homePath = path.join(root, 'index.html');
 let home = fs.readFileSync(homePath, 'utf8');
 const homeStart='<!-- STANDARD_MODEL_PAPERS -->', homeEnd='<!-- /STANDARD_MODEL_PAPERS -->';
 if(home.includes(homeStart) && home.includes(homeEnd)) {
-  const links = records.map(p=>`<a href="standard-model/papers/${p.id}/index.html" data-paper-link data-paper-description="${escape(p.description)}" data-paper-title="${escape(p.title)}">${escape(p.code)}: ${escape(p.title)}</a>${p.doi ? `<a href="${p.doi_url}" data-paper-title="${escape(p.title)}">${escape(p.code)} · Zenodo</a>` : ''}`).join('\n');
+  const links = records.map(p=>`<a href="standard-model/papers/${p.id}/index.html" data-paper-link data-paper-doi="${escape(p.doi || '')}" data-paper-description="${escape(p.description)}" data-paper-title="${escape(p.title)}">${escape(p.code)}: ${escape(p.title)}</a>`).join('\n');
   home=home.slice(0,home.indexOf(homeStart)+homeStart.length)+'\n'+links+'\n'+home.slice(home.indexOf(homeEnd));
   fs.writeFileSync(homePath, home);
 }

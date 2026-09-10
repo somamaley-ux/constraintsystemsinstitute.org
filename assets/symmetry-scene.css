@@ -1,0 +1,14 @@
+.symmetry-card{position:relative;}
+.symmetry-anchor{position:absolute;top:0;scroll-margin-top:110px;}
+.symmetry-tour-entry{display:block;min-width:0;border:1px solid #bfb9d34d;border-radius:5px;overflow:hidden;background:#16131999;}
+.symmetry-card-diagram{background:radial-gradient(ellipse at 50% 50%,#55415e3d,transparent 75%);}
+.symmetry-card-diagram svg{display:block;width:100%;height:auto;max-height:310px;}
+.symmetry-card-entry{display:flex;align-items:center;justify-content:space-between;gap:20px;padding:19px 23px;background:#c1b7d00b;}
+.symmetry-card-entry strong{display:block;font-size:1rem;color:#dfd3e6;}
+.symmetry-card-entry small{display:block;font-size:.875rem;line-height:1.6;color:#c6b7cb;margin-top:7px;}
+.symmetry-tour-entry:hover .symmetry-card-entry,.symmetry-tour-entry:focus-visible .symmetry-card-entry{background:#c1b7d018;}
+.symmetry-card-entry svg{width:23px;height:23px;flex-shrink:0;color:#c9bfd8;}
+.symmetry-card-papers{grid-column:1/-1;}
+.arc-related-link{font-size:.9375rem;color:var(--muted);line-height:1.7;}
+.arc-related-link a{color:var(--silver);border-bottom:1px solid var(--line);}
+@media(max-width:650px){.symmetry-card-entry{padding:17px;}.symmetry-card-entry small{font-size:.875rem;}}
