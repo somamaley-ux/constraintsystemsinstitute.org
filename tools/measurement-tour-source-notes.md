@@ -10,6 +10,13 @@ The Bell table is section10.2 of *Bell-Nonlocal Quantum Entanglement as Boundary
 
 Kernel governance of determinate carriers and incidences is unconditional throughout. None of the examples is an experimental device calibration, actual-event simulation or claim that the complete instrument selects an actual history through linear dynamics alone.
 
-Artwork: one original image generated with the built-in image tool for this tour, showing an illustrative silver recording instrument, marked strip and two detector modules. It is laboratory-themed editorial art, not a diagram of the paper's six-mode circuit. No social preview image was added. The homepage animation is a schematic signal-amplification-record sequence for one detector, with pause and reduced-motion support.
+Artwork: one original image generated with the built-in image tool for this tour, showing an illustrative silver recording instrument, marked strip and two detector modules. It is laboratory-themed editorial art, not a diagram of the paper's six-mode circuit. No social preview image was added. The homepage animation emphasizes one joint standing class with two local faces, with pause and reduced-motion support; it depicts no travelling signal.
 
 Validation used source-link and metadata checks plus independent numerical reproduction. No browser screenshot or interaction QA was performed in this task.
+
+
+## Joint-standing refinement
+
+The visitor path now begins with the Bell paper's joint standing class (Definition4.39, Theorem4.40), local restrictions (Definition5.1), AMetric co-standing and boundary co-fixation (Definitions5.2–5.3, Theorem5.6), and metric description downstream of admission (§9). The presentation control redraws the same fixed witness; it does not simulate changing physical separation, interaction, preparation, noise or decoherence. Diagram connectors mean restriction relations, never transmission.
+
+The main copy states no controllable faster-than-light communication and no Bell-local hidden-variable completion. The exact-scope expansion preserves Corollary7.5's wider-domain qualification. It explicitly distinguishes governance-class collapse from a physical joint-collapse dynamics, which §12 does not derive. No process is represented as happening at a hidden spacetime surface. The homepage animation emphasizes the joint-class label; it sends no travelling pulse between the wings.

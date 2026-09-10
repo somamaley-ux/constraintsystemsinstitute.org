@@ -7,6 +7,8 @@
   window.lucide?.createIcons();
   const el=id=>document.getElementById(id);
   function choose(selector,key,update) { const buttons=[...document.querySelectorAll(selector)]; buttons.forEach(button=>button.addEventListener('click',()=>{buttons.forEach(b=>b.setAttribute('aria-pressed',String(b===button)));update(button.dataset[key]);})); }
+  const standingLayouts={near:'Two nearby views in the drawing. The same joint class fixes their compatibility.',far:'The local views are farther apart in the drawing. Their joint standing and local probabilities remain unchanged; no signal route has been added.',reversed:'The local views have exchanged positions in the drawing. Their identities and their common joint standing are preserved.'};
+  choose('[data-standing-layout]','standingLayout',value=>{el('co-standing-diagram').dataset.separation=value;el('standing-layout-result').textContent=standingLayouts[value];});
   const stages={
     source:['01','Begin with something that can physically interact.','The new paper constructs receivers on an interacting quantum source and develops a separate, explicit six-mode circuit for detector calculations. The source has its own dynamics; it is not merely a label attached to a possible answer.'],
     receiver:['02','Let the apparatus acquire information.','A specified interaction couples the source to a receiver. Its response depends on the preparation. Finite pulses and their errors are part of the calculation, while the source continues to evolve.'],

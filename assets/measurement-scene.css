@@ -5,10 +5,9 @@
 .measurement-mini-chain { position:absolute; inset:auto 14px 14px; padding:8px 12px; background:#18171bf0; border:1px solid #c6afbd44; }
 .measurement-mini-chain svg { width:100%; height:42px; display:block; }
 .measurement-mini-labels { display:flex; justify-content:space-between; gap:10px; color:#d7c7cf; font-size:.8125rem; }
-.measurement-mini-chain .trace-progress { stroke-dasharray:650; stroke-dashoffset:0; }
-.js-motion .measurement-mini-chain .trace-progress { animation:measurement-trace 6s ease-in-out infinite; }
-.measurement-invitation.is-paused .trace-progress { animation-play-state:paused; }
-@keyframes measurement-trace { 0%,7% {stroke-dashoffset:650;opacity:.3} 68%,92% {stroke-dashoffset:0;opacity:1} 100% {stroke-dashoffset:0;opacity:.3} }
+.js-motion .standing-preview-joint { animation:standing-emphasis 5s ease-in-out infinite; }
+.measurement-invitation.is-paused .standing-preview-joint { animation-play-state:paused; }
+@keyframes standing-emphasis { 0%,100% {border-color:#bfdec95c;background:#bfdcca04} 50% {border-color:#c6e4d8bd;background:#bfdcca16} }
 .measurement-tour-entry { display:flex; justify-content:space-between; align-items:center; gap:18px; padding:18px 14px; background:#d7bdc409; }
 .measurement-tour-entry > span { min-width:0; }
 .measurement-tour-entry strong { display:block; font-size:1.05rem; line-height:1.4; color:#ecdfdf; }
@@ -24,4 +23,8 @@
 .measurement-card-papers { grid-column:1/-1;grid-row:2;border-top:1px solid #baa0b444;padding-top:22px; }
 @media(max-width:860px) { #measurement-arc { grid-template-columns:minmax(0,1fr); } #measurement-arc .measurement-invitation,#measurement-arc .measurement-card-papers { grid-column:1;grid-row:auto; } }
 @media(max-width:650px) { #measurement-arc h3 { font-size:2rem; } .measurement-mini-chain { inset:auto 10px 10px; } .measurement-tour-entry { padding-inline:10px; } }
-@media(prefers-reduced-motion:reduce) { .js-motion .measurement-mini-chain .trace-progress { animation:none!important; } }
+@media(prefers-reduced-motion:reduce) { .js-motion .standing-preview-joint { animation:none!important; } }
+
+.standing-preview-joint { border:1px solid #bfdec95c; color:#d3e7dc; text-align:center; font-size:.875rem; padding:8px; width:fit-content; min-width:60%; margin:0 auto; }
+.standing-preview-faces { display:flex;justify-content:space-around;gap:20px;color:#d9c8d4;font-size:.875rem; }
+.standing-preview svg { height:25px; }
