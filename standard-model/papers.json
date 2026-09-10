@@ -8,7 +8,11 @@
     "date": "2026-08-31",
     "description": "Derives an unlabelled three-root base from the neutral comparison structure, then forms four typed matter-kind fibres and three rooted Higgs-response incidences per kind through one bridge.",
     "technical": "The complete neutral comparison graph retains its integer circuit space after rephasing. Every independent circuit remains live, and the certified primitive transition-orientation residue has rank one, forcing (n - 1)(n - 2)/2 = 1 and n = 3. Generation erasure supplies the count-free matter profile; base change gives I3 x {N, L, U, D}. Rooted response slots precede numerical Yukawa values and pole masses.",
-    "chapter": "three"
+    "chapter": "three",
+    "doi": "10.5281/zenodo.22661742",
+    "doi_url": "https://doi.org/10.5281/zenodo.22661742",
+    "zenodo_record": "https://zenodo.org/records/22661743",
+    "zenodo_publication_date": "2026-09-08"
   },
   {
     "id": "fcgs-2",
@@ -19,7 +23,11 @@
     "date": "2026-08-31",
     "description": "Separates the established generation structure from the further evidence needed to identify terminal physical bearers in charged and colored matter.",
     "technical": "Complete typed continuation signatures characterize target-relative semantic identity when their soundness and completeness interfaces are activated. Terminal realization requires an actual singleton role-occupancy orbit with its physical authority. The charged-lepton and U/D-marked colored targets retain their precise NotReady profiles at the frozen evidence bases; this is not a physical nonexistence claim.",
-    "chapter": "matter"
+    "chapter": "matter",
+    "doi": "10.5281/zenodo.22661888",
+    "doi_url": "https://doi.org/10.5281/zenodo.22661888",
+    "zenodo_record": "https://zenodo.org/records/22661889",
+    "zenodo_publication_date": "2026-09-08"
   },
   {
     "id": "fcgs-3",
@@ -30,7 +38,11 @@
     "date": "2026-08-31",
     "description": "Integrates the common three-root structure across all four matter kinds while preserving the different physical readiness of each terminal branch.",
     "technical": "Kind-preserving natural equivalences integrate the rooted response fibres through one Higgs bridge on their maximal lawful domains. The frozen endpoint is structurally universal and terminally partial. Neutral certified child scopes, unresolved parent scopes, and charged and colored readiness profiles remain distinct; physical readouts cannot supply missing upstream authority.",
-    "chapter": "matter"
+    "chapter": "matter",
+    "doi": "10.5281/zenodo.22662083",
+    "doi_url": "https://doi.org/10.5281/zenodo.22662083",
+    "zenodo_record": "https://zenodo.org/records/22662084",
+    "zenodo_publication_date": "2026-09-08"
   },
   {
     "id": "bcrs-1",
@@ -40,7 +52,11 @@
     "title": "Premetric Bosonic Response Structure in the Standard Model",
     "description": "Constructs the premetric bosonic response atlas: three gauge-response roots, one Higgs bridge, and a compatible mixed source without counting particle labels as new carriers.",
     "technical": "Complete contextual signatures include admitted tests, finite typed continuations, exact domains and failure. The common source fixes the structured gauge-law record while preserving real response variation at different inputs. The carrier-root counts are separately typed as (3; 1); metric, vacuum, polarization, resonance and confinement realizations have their own source requirements.",
-    "chapter": "bosons"
+    "chapter": "bosons",
+    "doi": "10.5281/zenodo.22662358",
+    "doi_url": "https://doi.org/10.5281/zenodo.22662358",
+    "zenodo_record": "https://zenodo.org/records/22662359",
+    "zenodo_publication_date": "2026-09-08"
   },
   {
     "id": "bcrs-2ewh",
@@ -50,7 +66,11 @@
     "title": "Electroweak and Higgs Realization from a Premetric Response Atlas",
     "description": "Follows the common Higgs-gauge source into electroweak fixation, residual charge, response supports, local interactions, and source-qualified physical channels.",
     "technical": "On the one-doublet branch, residual action and the kinetic form determine gauge supports; with the scalar normal quotient they form a four-atom graded support lattice. Four invariant coordinates reconstruct the normalized local interaction, with a fifth when vacuum value is observed. Joint source kernels and complete continuation data retain physical state, channel and operator-domain information.",
-    "chapter": "bosons"
+    "chapter": "bosons",
+    "doi": "10.5281/zenodo.22662994",
+    "doi_url": "https://doi.org/10.5281/zenodo.22662994",
+    "zenodo_record": "https://zenodo.org/records/22662995",
+    "zenodo_publication_date": "2026-09-08"
   },
   {
     "id": "bcrs-2c",
@@ -61,27 +81,39 @@
     "date": "2026-09-04",
     "description": "Develops color transport, invariant neutral responses, global gauge information, physical composite boundaries, and the color contribution to metric response.",
     "technical": "One color-transport carrier and its joint matter-Higgs source support invariant-network reconstruction, global quotient descent, screening and specified physical continuation branches. Complete metric probes determine the source distribution, with balanced matter-Higgs-color exchange. Structural neutralization, screening, source-qualified spectral transport and unrestricted confinement are distinct claims.",
-    "chapter": "bosons"
+    "chapter": "bosons",
+    "doi": "10.5281/zenodo.22662905",
+    "doi_url": "https://doi.org/10.5281/zenodo.22662905",
+    "zenodo_record": "https://zenodo.org/records/22662906",
+    "zenodo_publication_date": "2026-09-08"
   },
   {
     "id": "bcrs-3",
     "code": "BCRS-III",
     "group": "Bosonic responses",
     "source_prefix": "BCRS 3_",
-    "title": "The Bosonic Carrier\u2013Response\u2013Projection Atlas",
+    "title": "The Bosonic Carrier–Response–Projection Atlas",
     "description": "Joins electromagnetic, weak, color and Higgs responses on one source, retaining mixed information that is lost when the sectors are considered separately.",
     "technical": "The complete mixed observation algebra gives an exact quotient and retains relative attachment data. Five invariant response coordinates reconstruct the stipulated joint local interaction, or six with the observed vacuum contribution. A fixed Wheeler-DeWitt matter branch supplies a simultaneous classical gauge-Higgs-gravity history; stronger state and asymptotic projections retain their independent source data.",
-    "chapter": "bosons"
+    "chapter": "bosons",
+    "doi": "10.5281/zenodo.22663085",
+    "doi_url": "https://doi.org/10.5281/zenodo.22663085",
+    "zenodo_record": "https://zenodo.org/records/22663086",
+    "zenodo_publication_date": "2026-09-08"
   },
   {
     "id": "csp-s",
     "code": "CSP-S",
     "group": "Common source and realization",
     "source_prefix": "CSP S_",
-    "title": "The Standard Model as a Constraint-Derived Carrier\u2013Response Structure",
+    "title": "The Standard Model as a Constraint-Derived Carrier–Response Structure",
     "description": "Assembles the fermionic and bosonic architecture over a common source, preserving relative flavor, charge, Higgs and mixed-response information.",
     "technical": "A domain-sensitive mixed-use algebra constructs the greatest observational congruence for the declared target. Complete source reconstruction factors admitted covariant uses. On represented branches, tensor probes recover charged coefficients, and complex traces of words up to length seventeen classify two three-dimensional Hermitian quark Gram matrices up to simultaneous unitary conjugacy. The result separates structural-law closure from numerical parameter selection.",
-    "chapter": "physical"
+    "chapter": "physical",
+    "doi": "10.5281/zenodo.22663327",
+    "doi_url": "https://doi.org/10.5281/zenodo.22663327",
+    "zenodo_record": "https://zenodo.org/records/22663328",
+    "zenodo_publication_date": "2026-09-08"
   },
   {
     "id": "csp-c",
@@ -92,7 +124,11 @@
     "date": "2026-09-05",
     "description": "Constructs a common classical Standard Model-gravity branch with an attached total source, exact coupled constraints, local evolution, and finite-algebra classical fermions.",
     "technical": "A fixed covariant action occupies both a represented polynomial chart and an Einstein-matter construction on a compact hyperbolic Cauchy surface with a scalar clock. The exact Dirac-bracket constraint algebra, mixed-order right inverse and finite refoliation theorem concern the stated local regular body. Finite exterior-algebra lifting constructs classical anticommuting-field solutions. This branch is separately specified from CSP-P's occupied physical source.",
-    "chapter": "physical"
+    "chapter": "physical",
+    "doi": "10.5281/zenodo.22663416",
+    "doi_url": "https://doi.org/10.5281/zenodo.22663416",
+    "zenodo_record": "https://zenodo.org/records/22663417",
+    "zenodo_publication_date": "2026-09-08"
   },
   {
     "id": "csp-p",
@@ -103,7 +139,11 @@
     "date": "2026-09-08",
     "description": "Constructs the common physical realization: Higgs and matter responses, electroweak channels, the color/composite interface and the Einstein action retain the same occupied source.",
     "technical": "Theorem 11.5 preserves one source, state, joint parameter point, original operation domains and compatible continuation families. Its physical Higgs response, complete source-qualified color interface and causal source-dependent Einstein action retain their original quantum-action order. Additional regulated Hamiltonian and asymptotic constructions have explicit source comparisons; the theorem does not claim unrestricted all-state scattering or nonperturbative quantum gravity.",
-    "chapter": "physical"
+    "chapter": "physical",
+    "doi": "10.5281/zenodo.22663481",
+    "doi_url": "https://doi.org/10.5281/zenodo.22663481",
+    "zenodo_record": "https://zenodo.org/records/22663482",
+    "zenodo_publication_date": "2026-09-08"
   },
   {
     "id": "csp-r",
@@ -114,6 +154,10 @@
     "date": "2026-09-08",
     "description": "Reconstructs the differentiated Standard Model from the common distributed persistence bearer, preserving its full response distinctions and the established quantum-Einstein realization.",
     "technical": "Theorem 3.5 identifies the native and differentiated partial-operation response structures, including exact domains, failures and shared inputs. Proposition 3.6 reconstructs the finer retained source class. Theorem 4.3 preserves the same-source physical realization. Together with persistence-carrier and role exhaustion, theorem 5.2 excludes an additional same-target primitive material bearer without collapsing distinct response classes.",
-    "chapter": "bearer"
+    "chapter": "bearer",
+    "doi": "10.5281/zenodo.22663541",
+    "doi_url": "https://doi.org/10.5281/zenodo.22663541",
+    "zenodo_record": "https://zenodo.org/records/22663542",
+    "zenodo_publication_date": "2026-09-08"
   }
 ]

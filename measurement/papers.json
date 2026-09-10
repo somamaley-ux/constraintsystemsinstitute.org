@@ -1,0 +1,33 @@
+[
+  {
+    "id": "physical",
+    "code": "Physical measurement",
+    "title": "Quantum Measurement under AASC: Physical Sources, Finite Detectors, Persistent Records and Actual Events",
+    "slug": "quantum-measurement-under-aasc",
+    "url": "https://constraintsystemsinstitute.org/papers/quantum-measurement-under-aasc/",
+    "doi": "10.5281/zenodo.22693784",
+    "pdf": "https://constraintsystemsinstitute.org/papers/quantum-measurement-under-aasc/quantum-measurement-under-aasc.pdf",
+    "plain": "A connected construction of physical quantum sources and receivers, complete detector instruments, finite amplification, persistent records, calibrated probability laws and compatible actual histories. The physical and probability results retain their source comparisons, apparatus errors and explicit actual-history commitments.",
+    "scope": "Constructed receivers and registration circuits; a complete detector comparison over 35.587 ms; finite amplification and conditional quiet-hold retention; calibrated affine probability uniqueness; coherent calibration limits; adaptive and local-instrument compatibility. A unique actual history requires the explicit occurrence/history law and its physical inputs; outstanding apparatus errors remain in the residual ledger."
+  },
+  {
+    "id": "records",
+    "code": "Record identity",
+    "doi": "10.5281/zenodo.18514647",
+    "plain": "Establishes the necessary role structure for a record to remain the same determinate evidence through retention, comparison and reuse. Shows why a non-selective description does not itself choose one fine record.",
+    "scope": "Fixed-domain record-role determinacy, quotient and boundary-trace normal forms, and a finite non-selector audit. Does not add collapse dynamics or prove actual physical branch selection.",
+    "title": "Admissible Record Construction in Physically Non-Selective Quantum Regimes (Measurement Problem)",
+    "slug": "admissible-record-construction-in-physically-non-selective-quantum-regimes-measurement",
+    "url": "https://constraintsystemsinstitute.org/papers/admissible-record-construction-in-physically-non-selective-quantum-regimes-measurement/"
+  },
+  {
+    "id": "entanglement",
+    "code": "Joint compatibility",
+    "doi": "10.5281/zenodo.19401432",
+    "plain": "Establishes the boundary-level compatibility form of a reusable finite Bell witness. Separates the joint correlation pattern from controllable signaling and from a global assignment of local predetermined answers.",
+    "scope": "Fixed finite Bell-nonlocal, no-signaling witnesses with declared reuse and comparison structure; quantum specialization for finite-dimensional bipartite tensor-product realizations with local POVMs. The denominator-32 finite arithmetic certificate has its own bounded scope.",
+    "title": "Quantum Entanglement as Boundary-Level Compatibility",
+    "slug": "quantum-entanglement-as-boundary-level-compatibility-10-5281-zenodo-19401432",
+    "url": "https://constraintsystemsinstitute.org/papers/quantum-entanglement-as-boundary-level-compatibility-10-5281-zenodo-19401432/"
+  }
+]
