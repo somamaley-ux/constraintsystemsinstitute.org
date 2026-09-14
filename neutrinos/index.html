@@ -54,11 +54,95 @@
   <nav class="chapter-nav" aria-label="Tour chapters"><div class="wrap"><a href="#oscillation"><span>01</span>The clue</a><a href="#vectorlike"><span>02</span>Vectorlike</a><a href="#strength"><span>03</span>Signals</a><a href="#symmetry"><span>04</span>What survives</a><a href="#experiment"><span>05</span>Detector &amp; test</a><a href="#papers"><span>06</span>The papers</a></div><div class="reading-progress" aria-hidden="true"><span id="reading-progress"></span></div></nav>
   <section class="chapter wrap" id="oscillation" aria-labelledby="oscillation-title">
     <div class="chapter-heading"><p class="kicker">01 / What oscillation leaves open</p><h2 id="oscillation-title">The same rhythm.<br>Different underlying sources.</h2></div>
-    <div class="chapter-layout"><div class="chapter-copy"><p>Oscillation tells us that the neutrino response changes between preparation and detection. But the same low-energy response can come from different physical source structures.</p><p>The arc constructs a family in which a heavy threshold and its coupling change together. The effective low-energy coefficient stays fixed. The original oscillation response cannot distinguish those changes by itself.</p><p class="try-prompt">Move the threshold. Watch the source change while the curve holds.</p></div>
-      <div class="exhibit-surface threshold-exhibit"><div class="exhibit-topline"><span>Illustrative oscillation response</span><span id="response-badge" class="positive">Unchanged</span></div><svg id="oscillation-chart" viewBox="0 0 530 240" role="img" aria-label="An illustrative oscillation curve that stays unchanged as a compensated heavy source threshold varies."><path d="M40 24V195H510" fill="none" stroke="#a7b3bc" stroke-opacity=".5"/><path d="M40 66H510M40 110H510M40 152H510" stroke="#a7b3bc" stroke-opacity=".1"/><path id="oscillation-curve" d="M40 45 Q78 180 118 100T196 65T274 110T352 45T430 100T510 60" fill="none" stroke="#c9b8e1" stroke-width="2.5"/><text x="278" y="227" text-anchor="middle" class="svg-small">propagation setting · arbitrary units</text><text x="42" y="17" class="svg-small">response</text></svg>
-      <div class="metric-trio"><div><span>Heavy threshold</span><strong id="threshold-m">1.00×</strong></div><div><span>Coupling</span><strong id="threshold-y">1.00×</strong></div><div><span>Effective coefficient</span><strong id="threshold-k">1.00×</strong></div></div>
-      <label class="range-control interactive-controls" for="threshold"><span>Change the source threshold <output for="threshold" id="threshold-value">1.00×</output></span><input id="threshold" type="range" min="1" max="2" step="0.01" value="1"><span class="range-ends"><small>Original scale</small><small>Twice the scale</small></span></label><p class="figure-note">Dimensionless illustration of the paper’s compensated family, not an oscillation fit or a predicted heavy mass.</p></div>
+    <div class="source-intro chapter-copy">
+      <p>Oscillation tells us that the neutrino response changes between preparation and detection. But the same low-energy response can come from different physical source structures.</p>
+      <p>Here, a higher heavy threshold is balanced by a stronger coupling. Change source B, then compare what the two kinds of record can reveal.</p>
     </div>
+    <div class="exhibit-surface threshold-exhibit source-lab">
+      <div class="source-workbench">
+        <div class="source-controls">
+          <div class="exhibit-topline"><span class="source-step">01 / Change the source</span><span class="source-unit">Relative to source A</span></div>
+          <label class="range-control interactive-controls" for="threshold">
+            <span>Raise source B’s heavy scale <output for="threshold" id="threshold-value">1.50×</output></span>
+            <input id="threshold" type="range" min="1" max="2" step="0.01" value="1.5" aria-describedby="source-visual-key">
+            <span class="range-ends"><small>Same scale as A</small><small>Twice A’s scale</small></span>
+          </label>
+          <div class="segmented interactive-controls source-presets" role="group" aria-label="Choose source B's relative heavy scale">
+            <button type="button" data-source-scale="1" aria-pressed="false">Match A</button>
+            <button type="button" data-source-scale="1.5" aria-pressed="true">Raise 50%</button>
+            <button type="button" data-source-scale="2" aria-pressed="false">Double it</button>
+          </div>
+          <svg id="source-comparison" viewBox="0 0 460 280" role="img" aria-label="Source A stays at its original heavy scale and coupling. Source B has a 50 percent higher heavy scale and a 22.5 percent stronger coupling. Height encodes relative heavy scale; bridge width encodes coupling amplitude.">
+            <defs><linearGradient id="source-b-bridge" gradientUnits="userSpaceOnUse" x1="0" y1="65" x2="0" y2="235"><stop stop-color="#a4d7cd" stop-opacity=".85"/><stop offset="1" stop-color="#a4d7cd" stop-opacity=".25"/></linearGradient></defs>
+            <text x="151" y="22" text-anchor="middle" class="source-svg-title source-a-color">A · fixed</text>
+            <text x="350" y="22" text-anchor="middle" class="source-svg-title source-b-color">B · adjustable</text>
+            <path d="M63 60V193M63 65H425M63 127.5H425M63 190H425" fill="none" stroke="#b7c9c3" stroke-opacity=".16"/>
+            <g class="svg-small" text-anchor="end"><text x="50" y="70">2×</text><text x="50" y="133">1.5×</text><text x="50" y="195">1×</text></g>
+            <path d="M151 190V235" fill="none" stroke="#cabbdf" stroke-opacity=".55" stroke-width="10"/>
+            <path id="source-coupling-bridge" d="M350 127.5V235" fill="none" stroke="url(#source-b-bridge)" stroke-width="12.247"/>
+            <path d="M102 190H200" stroke="#cabbdf" stroke-width="4" stroke-linecap="round"/>
+            <circle cx="151" cy="190" r="6" fill="#cabbdf"/>
+            <g id="source-threshold-marker" transform="translate(0 -62.5)">
+              <path d="M301 190H399" stroke="#a4d7cd" stroke-width="4" stroke-linecap="round"/>
+              <circle cx="350" cy="190" r="6" fill="#a4d7cd"/>
+            </g>
+            <path d="M287 190H412" stroke="#cabbdf" stroke-opacity=".35" stroke-dasharray="3 5"/>
+            <rect x="125" y="231" width="52" height="11" rx="5.5" fill="#cabbdf" fill-opacity=".16" stroke="#cabbdf" stroke-opacity=".5"/>
+            <rect x="324" y="231" width="52" height="11" rx="5.5" fill="#a4d7cd" fill-opacity=".16" stroke="#a4d7cd" stroke-opacity=".5"/>
+            <text x="151" y="270" text-anchor="middle" class="svg-small source-a-color">Original coupling</text>
+            <text id="source-coupling-label" x="350" y="270" text-anchor="middle" class="svg-small source-b-color">Coupling +22.5%</text>
+          </svg>
+          <p class="source-key" id="source-visual-key">Height = relative heavy scale. Bridge width = coupling amplitude.</p>
+          <div class="metric-trio source-metrics">
+            <div><span>B’s heavy scale</span><strong id="threshold-m">1.50×</strong><small id="source-m-change">+50%</small></div>
+            <div><span>B’s coupling</span><strong id="threshold-y">1.22×</strong><small id="source-y-change">+22.5%</small></div>
+            <div><span>Low-energy coefficient</span><strong id="threshold-k">1.00×</strong><small>Unchanged</small></div>
+          </div>
+        </div>
+        <div class="source-record">
+          <div class="exhibit-topline"><span class="source-step">02 / Compare the records</span></div>
+          <div class="segmented interactive-controls source-record-controls" role="group" aria-label="Choose which source information to compare">
+            <button type="button" data-source-record="oscillation" aria-pressed="true" aria-controls="source-oscillation-record source-heavy-record">Oscillation</button>
+            <button type="button" data-source-record="heavy" aria-pressed="false" aria-controls="source-oscillation-record source-heavy-record">Reveal heavy scale</button>
+          </div>
+          <div class="source-legend"><span><i class="source-a-swatch" aria-hidden="true"></i>Source A</span><span><i class="source-b-swatch" aria-hidden="true"></i>Source B</span></div>
+          <div id="source-oscillation-record">
+            <div class="exhibit-topline source-record-heading"><h3>The curves coincide.</h3><span id="response-badge" class="positive">Unchanged</span></div>
+            <svg id="oscillation-chart" viewBox="0 0 530 240" role="img" aria-label="The illustrative oscillation curves from source A and source B overlap exactly for every displayed compensated source setting.">
+              <path d="M40 24V195H510" fill="none" stroke="#a7b3bc" stroke-opacity=".5"/>
+              <path d="M40 66H510M40 110H510M40 152H510" stroke="#a7b3bc" stroke-opacity=".1"/>
+              <path id="oscillation-reference" d="M40 45 Q78 180 118 100T196 65T274 110T352 45T430 100T510 60" fill="none" stroke="#cabbdf" stroke-width="5"/>
+              <path id="oscillation-curve" d="M40 45 Q78 180 118 100T196 65T274 110T352 45T430 100T510 60" fill="none" stroke="#a4d7cd" stroke-width="4.5" stroke-dasharray="12 9"/>
+              <text x="278" y="227" text-anchor="middle" class="svg-small">propagation setting · arbitrary units</text><text x="42" y="17" class="svg-small">response</text>
+            </svg>
+            <p class="source-record-copy">Both sources leave exactly the same oscillation pattern. The dashed green trace lies on the solid lavender trace.</p>
+          </div>
+          <div id="source-heavy-record">
+            <div class="exhibit-topline source-record-heading"><h3 id="source-heavy-title">The scales separate.</h3><span id="source-heavy-badge" class="source-b-color">50% higher</span></div>
+            <svg id="source-heavy-chart" viewBox="0 0 530 240" role="img" aria-label="A comparison retaining heavy-scale information separates source A at 1 times the original scale from source B at 1.5 times. These are relative source thresholds, not detector peaks.">
+              <rect id="source-scale-gap" x="65" y="25" width="205" height="165" fill="#a4d7cd" fill-opacity=".06"/>
+              <path d="M65 30V195M270 30V195M475 30V195" stroke="#a7b3bc" stroke-opacity=".16" stroke-dasharray="3 5"/>
+              <path d="M40 195H510M65 190V201M270 190V201M475 190V201" fill="none" stroke="#a7b3bc" stroke-opacity=".5"/>
+              <text x="40" y="24" class="svg-small source-a-color">Source A</text><path d="M40 64H510" stroke="#cabbdf" stroke-opacity=".18"/>
+              <circle cx="65" cy="64" r="7" fill="#cabbdf"/><text x="81" y="69" class="source-svg-title source-a-color">1.00×</text>
+              <text x="40" y="110" class="svg-small source-b-color">Source B</text><path d="M40 150H510" stroke="#a4d7cd" stroke-opacity=".18"/>
+              <circle id="source-record-dot" cx="270" cy="150" r="7" fill="#a4d7cd"/>
+              <text id="source-record-scale" x="286" y="155" class="source-svg-title source-b-color">1.50×</text>
+              <g class="svg-small" text-anchor="middle"><text x="65" y="216">1×</text><text x="270" y="216">1.5×</text><text x="475" y="216">2×</text></g>
+              <text x="278" y="240" text-anchor="middle" class="svg-small">relative heavy scale</text>
+            </svg>
+            <p class="source-record-copy" id="source-heavy-copy">Keep the heavy-scale information and these sources become distinguishable. Oscillation alone had hidden this difference.</p>
+          </div>
+          <div class="source-balance">
+            <span>Why the oscillation stays the same</span>
+            <div class="source-equation"><span><b id="source-numerator">1.50</b><small>coupling²</small></span><i aria-hidden="true">÷</i><span><b id="source-denominator">1.50</b><small>heavy scale</small></span><i aria-hidden="true">=</i><span class="source-invariant"><b>1.00</b><small>same coefficient</small></span></div>
+          </div>
+        </div>
+      </div>
+      <p id="source-result" class="source-takeaway" role="status">Source B’s heavy scale is 50% higher and its coupling is 22.5% stronger. Oscillation still cannot tell A and B apart.</p>
+      <p class="figure-note">An illustration of PCR5B’s compensated source family. Relative source parameters and schematic records, not an oscillation fit or a predicted heavy mass.</p>
+    </div>
+    <p class="source-next">The same oscillation can hide a different heavy scale. That is why the arc asks for more kinds of measurements.</p>
     <details class="technical-note"><summary>The invariant behind the slider</summary><div><p>For the displayed family, M<sub>λ</sub> = λM₀ and Y<sub>λ</sub> = √λY₀. The matched coefficient Y<sub>λ</sub>M<sub>λ</sub><sup>−1</sup>Y<sub>λ</sub><sup>T</sup> is unchanged, while the retained heavy threshold and matching structure distinguish the sources. The chart is schematic; its curve is not fitted to experimental data.</p><p>PCR5B establishes at least continuum many standing-carrier realization classes. The later targets add absolute mass response, lepton-number violation, heavy-state and active-closure response, cosmology, and symmetry. They must agree on one common physical source.</p><a class="source-ref" href="#paper-pcr-5b">PCR5B · Exact standing-carrier stratification</a><a class="source-ref" href="#paper-pcr-5e">PCR5E · Joint standing-carrier closure</a></div></details>
   </section>
   <section class="chapter wrap" id="vectorlike" aria-labelledby="vl-title">

@@ -28,14 +28,46 @@
     const response=1-.53*Math.sin(.9*x)**2-.21*Math.sin(3.35*x)**2;
     return (i?'L':'M')+(40+i/240*470).toFixed(2)+' '+(185-response*145).toFixed(2);
   }).join(' ');
+  set('oscillation-reference','d',curve);
   set('oscillation-curve','d',curve);
+  let sourceRecord='oscillation';
   function threshold(){
     const v=M.threshold(number('threshold'));
+    const massChange=Math.round((v.M-1)*100),couplingChange=((v.Y-1)*100).toFixed(1);
+    const same=v.M===1,offset=(v.M-1)*125,recordX=65+(v.M-1)*410;
     text('threshold-m',v.M.toFixed(2)+'×');text('threshold-y',v.Y.toFixed(2)+'×');
     text('threshold-k',v.effective.toFixed(2)+'×');text('threshold-value',v.M.toFixed(2)+'×');
+    text('source-m-change',same?'Same as A':'+'+massChange+'%');
+    text('source-y-change',same?'Same as A':'+'+couplingChange+'%');
+    set('source-threshold-marker','transform','translate(0 '+(-offset).toFixed(2)+')');
+    set('source-coupling-bridge','d','M350 '+(190-offset).toFixed(2)+'V235');
+    set('source-coupling-bridge','stroke-width',(10*v.Y).toFixed(3));
+    text('source-coupling-label',same?'Same coupling':'Coupling +'+couplingChange+'%');
+    text('source-numerator',(v.Y*v.Y).toFixed(2));text('source-denominator',v.M.toFixed(2));
+    set('source-scale-gap','width',recordX-65);set('source-record-dot','cx',recordX);
+    set('source-record-scale','x',recordX>430?recordX-16:recordX+16);
+    set('source-record-scale','text-anchor',recordX>430?'end':'start');
+    text('source-record-scale',v.M.toFixed(2)+'×');
+    text('source-heavy-title',same?'The scales match.':'The scales separate.');
+    text('source-heavy-badge',same?'Same setting':massChange+'% higher');
+    text('source-heavy-copy',same?'A and B now use the same source setting. Raise B’s scale to reveal the difference that oscillation alone cannot see.':'Keep the heavy-scale information and these sources become distinguishable. Oscillation alone had hidden this difference.');
+    $('source-oscillation-record').hidden=sourceRecord!=='oscillation';
+    $('source-heavy-record').hidden=sourceRecord!=='heavy';
+    document.querySelectorAll('[data-source-scale]').forEach(b=>b.setAttribute('aria-pressed',String(Number(b.dataset.sourceScale)===v.M)));
+    document.querySelectorAll('[data-source-record]').forEach(b=>b.setAttribute('aria-pressed',String(b.dataset.sourceRecord===sourceRecord)));
+    const change=same?'Both sources now use the same heavy scale and coupling. Raise source B to compare different sources.':'Source B’s heavy scale is '+massChange+'% higher and its coupling is '+couplingChange+'% stronger. '+(sourceRecord==='heavy'?'Their heavy-scale information separates them; the oscillation response remains identical.':'Oscillation still cannot tell A and B apart.');
+    text('source-result',change);
+    set('source-comparison','aria-label',(same?'Sources A and B have the same heavy scale and coupling.':'Source A stays fixed. Source B has a '+massChange+' percent higher heavy scale and a '+couplingChange+' percent stronger coupling.')+' Height encodes relative heavy scale; bridge width encodes coupling amplitude.');
+    set('source-heavy-chart','aria-label','A comparison retaining heavy-scale information: source A is at 1 times the original scale and source B is at '+v.M.toFixed(2)+' times. These are relative source thresholds, not detector peaks.');
     set('threshold','aria-valuetext',v.M.toFixed(2)+' times threshold; coupling '+v.Y.toFixed(2)+' times; effective coefficient unchanged');
   }
   $('threshold').addEventListener('input',threshold);
+  document.querySelectorAll('[data-source-scale]').forEach(button=>button.addEventListener('click',()=>{
+    $('threshold').value=button.dataset.sourceScale;threshold();
+  }));
+  document.querySelectorAll('[data-source-record]').forEach(button=>button.addEventListener('click',()=>{
+    sourceRecord=button.dataset.sourceRecord;threshold();
+  }));
 
   const patterns={matched:undefined,absent:[0,0,0],mismatch:[delta,delta*.5,delta*1.5]};
   const patternCopy={

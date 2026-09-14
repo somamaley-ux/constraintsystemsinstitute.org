@@ -18,6 +18,11 @@ The source family is `Mλ = λ M0`, `Yλ = sqrt(λ) Y0`, so `Yλ Mλ^-1 Yλ^T = 
 
 `threshold(lambda)` is the scalar, dimensionless slice `M0 = Y0 = 1`. Its slider includes the two endpoints only for ease of use; the published continuum witness uses the open interval. The implementation makes no measured mass assignment or claim that the neutrino theory is a one-dimensional model.
 
+
+The source-comparison exhibit retains A at λ=1 and defaults B to λ=1.5, so the static fallback already displays a nontrivial comparison. Presets 1, 1.5 and 2 and the continuous slider all use the same model. The height of B's threshold marker scales linearly with M; its bridge width scales with the coupling amplitude Y, not Y² or an event rate. A and B's schematic oscillation curves have identical coordinates, with a solid lavender baseline and a dashed green overlay. The displayed scalar cancellation uses unrounded Y²/M.
+
+The second view retains the relative heavy-scale information (A at 1, B at λ); it is an ideal source-sensitive comparison, not a reconstructed mass peak or a facility sensitivity claim. Its marker separation is 410(λ−1) SVG units. The source family is the earlier active-singlet example in PCR5B, not an illustration of the later vectorlike carrier. It preserves the specified low-energy oscillation target, not every possible measurement.
+
 ## 2. Light–heavy accounting
 
 Sources: [PCR7](https://doi.org/10.5281/zenodo.22747744), PDF pp. 15–28; [PCR8](https://doi.org/10.5281/zenodo.22747926), PDF pp. 21–22, P8-13.
