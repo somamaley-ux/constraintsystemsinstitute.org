@@ -9,39 +9,55 @@
   const title = document.getElementById('vl-step-title');
   const description = document.getElementById('vl-step-description');
   const svgDescription = document.getElementById('vl-svg-description');
-  if (!exhibit || !controls || buttons.length !== 3 || !label || !title || !description || !svgDescription) return;
+  const nextButton = document.getElementById('vl-next');
+  const nextLabel = document.getElementById('vl-next-label');
+  const continueLink = document.getElementById('vl-continue');
+  const massLayer = section.querySelector('.vl-layer-mass');
+  const mixingLayer = section.querySelector('.vl-layer-mixing');
+  if (!exhibit || !controls || buttons.length !== 3 || !label || !title || !description || !svgDescription || !nextButton || !nextLabel || !continueLink || !massLayer || !mixingLayer) return;
 
+  const order = ['pair', 'mass', 'mixing'];
   const stages = {
     pair: {
-      label: '01 / Matching gauge identity',
-      title: 'Two chiral parts. The same gauge identity.',
-      description: 'The heavy fields N_L and N_R have opposite chirality, but the same Standard Model gauge representation: both are singlets. They also share B−L = −1. This matching of representations is what “vectorlike” means here.',
-      diagram: 'The two heavy field types N_L and N_R are highlighted. They have left and right chirality, respectively, but both have Standard Model singlet representation (1, 1, 0) and B minus L charge minus one. Their later mass and mixing connections remain faintly visible for context.'
+      label: 'Step 1 of 3 / The two parts',
+      title: 'Their gauge charges match.',
+      description: 'These are the left- and right-chiral components of the heavy field. Both carry the same gauge charges. That match is the defining vectorlike feature.',
+      next: 'Add the mass pairing',
+      diagram: 'Only the two heavy components are shown. One is left-chiral and the other is right-chiral. Both boxes have matching gauge charges. No mass pairing or light-sector connection is displayed yet.'
     },
     mass: {
-      label: '02 / The direct mass pairing',
-      title: 'A mass pairing the gauge symmetry allows.',
-      description: 'Because the representations match, a direct Dirac mass term can pair N_L with N_R. This term itself needs no Higgs field. The pairing explains an allowed piece of the source architecture; it does not assign the heavy mass a numerical value.',
-      diagram: 'A direct mass connection between N_L and N_R is highlighted, labeled minus N bar L times M_N times N_R plus its Hermitian conjugate. Matching gauge representations allow this operator without a Higgs field in the mass term itself.'
+      label: 'Step 2 of 3 / Mass pairing added',
+      title: 'A direct mass term is allowed.',
+      description: 'Matching gauge charges allow the two components to pair in a Dirac mass term. The new gold connection shows that pairing. This term itself needs no Higgs field.',
+      next: 'Connect the light sector',
+      diagram: 'A gold connection has been added between the two matching heavy components, labeled mass pairing allowed directly. The light sector has not yet been added. A Higgs field is not required in this direct mass term.'
     },
     mixing: {
-      label: '03 / Connection to the light sector',
-      title: 'The light weak interface still matters.',
-      description: 'The light weak interaction is chiral: it acts on the left-chiral lepton doublet. A Higgs/Yukawa coupling connects that doublet to N_R, and the full mass mixing links the light and heavy responses. A direct heavy mass and a Higgs-mediated connection coexist.',
-      diagram: 'The full diagram is visible. A Higgs/Yukawa connection joins the chiral light lepton doublet L, containing nu_L and ell_L, to the heavy field N_R. The direct N_L to N_R mass pairing remains present. These curves indicate source operators, not particle paths.'
+      label: 'Step 3 of 3 / Light connection added',
+      title: 'The light and heavy sectors can mix.',
+      description: 'The purple Higgs/Yukawa connection joins the right-chiral heavy component to the left-chiral light lepton doublet. The complete mass map links the light and heavy responses.',
+      next: 'Replay these three steps',
+      diagram: 'The completed diagram adds a purple Higgs/Yukawa connection from the right-chiral heavy component to the light weak sector. The gold direct mass pairing remains present. Field types and permitted couplings are shown, not particle paths or a count of heavy states.'
     }
   };
   if (buttons.some(button => !Object.hasOwn(stages, button.dataset.vlSelect))) return;
+  let current = 'pair';
 
-  function select(key) {
+  function select(key, interacted = true) {
     const state = stages[key];
     if (!state) return;
+    current = key;
     exhibit.dataset.vlStep = key;
+    if (interacted) exhibit.dataset.vlInteracted = 'true';
     buttons.forEach(button => button.setAttribute('aria-pressed', String(button.dataset.vlSelect === key)));
     label.textContent = state.label;
     title.textContent = state.title;
     description.textContent = state.description;
     svgDescription.textContent = state.diagram;
+    nextLabel.textContent = state.next;
+    massLayer.setAttribute('aria-hidden', String(key === 'pair'));
+    mixingLayer.setAttribute('aria-hidden', String(key !== 'mixing'));
+    continueLink.hidden = key !== 'mixing';
   }
 
   buttons.forEach((button, index) => {
@@ -58,8 +74,10 @@
       select(buttons[next].dataset.vlSelect);
     });
   });
+  nextButton.addEventListener('click', () => select(order[(order.indexOf(current) + 1) % order.length]));
 
-  select('pair');
+  select('pair', false);
   controls.hidden = false;
+  nextButton.hidden = false;
   document.documentElement.classList.add('vectorlike-ready');
 })();

@@ -10,16 +10,17 @@
   const delta=.003;
 
   const carrierCopy={
-    light:'Three distinct light sectors carry the oscillation response. Together they also connect to the endpoint and population records. They do not by themselves supply the complete heavy-response work.',
-    heavy:'One heavy standing sector is an aggregate of three algebraic modes in the exact symmetric source. Its inclusive weight supplies the light-sector deficit. The heavy sector alone lacks the full light response.',
-    all:'Each sector contributes part of the physical work. The complete carrier holds the light response, heavy response and their shared relations together.'
+    light:'The three light sectors produce the oscillation response. Their weak-interaction strength falls short of the complete normalization by a small, linked amount.',
+    heavy:'The heavy response supplies the strength missing from the light part. This sector is an aggregate of three algebraic modes in the exact symmetric source.',
+    all:'The light response and matching heavy strength are parts of one complete physical carrier. The connection between them is what the proposed test checks.'
   };
+  const carrierRole={light:'The light part gives the oscillation response.',heavy:'The heavy part supplies the matching strength.',all:'The two responses belong together.'};
   document.querySelectorAll('[data-carrier]').forEach(button=>button.addEventListener('click',()=>{
     const view=button.dataset.carrier;
     document.querySelector('.carrier-exhibit').dataset.view=view;
     document.querySelectorAll('[data-carrier]').forEach(b=>b.setAttribute('aria-pressed',String(b===button)));
-    text('carrier-result',carrierCopy[view]);
-    set('carrier-diagram','aria-label',carrierCopy[view]+' The curves show structural relations, not trajectories.');
+    text('carrier-role',carrierRole[view]);text('carrier-result',carrierCopy[view]);
+    set('carrier-diagram','aria-label',carrierCopy[view]+' Highlighting changes emphasis only. The curves show structural relations, not trajectories.');
   }));
 
   // A fixed, schematic two-scale response. It is not fitted to an experimental record.
@@ -53,8 +54,10 @@
     text('source-heavy-copy',same?'A and B now use the same source setting. Raise B’s scale to reveal the difference that oscillation alone cannot see.':'Keep the heavy-scale information and these sources become distinguishable. Oscillation alone had hidden this difference.');
     $('source-oscillation-record').hidden=sourceRecord!=='oscillation';
     $('source-heavy-record').hidden=sourceRecord!=='heavy';
-    document.querySelectorAll('[data-source-scale]').forEach(b=>b.setAttribute('aria-pressed',String(Number(b.dataset.sourceScale)===v.M)));
-    document.querySelectorAll('[data-source-record]').forEach(b=>b.setAttribute('aria-pressed',String(b.dataset.sourceRecord===sourceRecord)));
+    const lesson=sourceRecord==='heavy'?'reveal':same?'same':'different';
+    document.querySelectorAll('[data-source-lesson]').forEach(b=>b.setAttribute('aria-pressed',String(b.dataset.sourceLesson===lesson)));
+    text('source-record-label',sourceRecord==='heavy'?'What the heavy-scale information reveals':'What oscillation reveals');
+    text('source-step-help',same?'A and B now match. Choose step 2 to change B and watch what happens.':sourceRecord==='heavy'?'The heavy-scale information distinguishes A and B. Their oscillation patterns are still identical.':'B’s heavy scale is '+massChange+'% higher and its coupling is '+couplingChange+'% stronger. The oscillation stays the same. Step 3 reveals the difference.');
     const change=same?'Both sources now use the same heavy scale and coupling. Raise source B to compare different sources.':'Source B’s heavy scale is '+massChange+'% higher and its coupling is '+couplingChange+'% stronger. '+(sourceRecord==='heavy'?'Their heavy-scale information separates them; the oscillation response remains identical.':'Oscillation still cannot tell A and B apart.');
     text('source-result',change);
     set('source-comparison','aria-label',(same?'Sources A and B have the same heavy scale and coupling.':'Source A stays fixed. Source B has a '+massChange+' percent higher heavy scale and a '+couplingChange+' percent stronger coupling.')+' Height encodes relative heavy scale; bridge width encodes coupling amplitude.');
@@ -62,56 +65,23 @@
     set('threshold','aria-valuetext',v.M.toFixed(2)+' times threshold; coupling '+v.Y.toFixed(2)+' times; effective coefficient unchanged');
   }
   $('threshold').addEventListener('input',threshold);
-  document.querySelectorAll('[data-source-scale]').forEach(button=>button.addEventListener('click',()=>{
-    $('threshold').value=button.dataset.sourceScale;threshold();
+  document.querySelectorAll('[data-source-lesson]').forEach(button=>button.addEventListener('click',()=>{
+    const lesson=button.dataset.sourceLesson;
+    if(lesson==='same'){$('threshold').value=1;sourceRecord='oscillation';}
+    if(lesson==='different'){$('threshold').value=2;sourceRecord='oscillation';}
+    if(lesson==='reveal'){if(number('threshold')===1)$('threshold').value=2;sourceRecord='heavy';}
+    threshold();
+    if(window.matchMedia('(max-width: 800px)').matches){
+      requestAnimationFrame(()=>{
+        const target=document.querySelector(lesson==='reveal'?'.source-record':'.source-controls');
+        const offset=document.querySelector('.chapter-nav').getBoundingClientRect().height+document.querySelector('.source-lesson').getBoundingClientRect().height+12;
+        const top=target.getBoundingClientRect().top+window.scrollY-offset;
+        window.scrollTo({top,behavior:window.matchMedia('(prefers-reduced-motion: reduce)').matches?'instant':'smooth'});
+      });
+    }
   }));
-  document.querySelectorAll('[data-source-record]').forEach(button=>button.addEventListener('click',()=>{
-    sourceRecord=button.dataset.sourceRecord;threshold();
-  }));
-
-  const patterns={matched:undefined,absent:[0,0,0],mismatch:[delta,delta*.5,delta*1.5]};
-  const patternCopy={
-    matched:'Each missing light weight is accounted for by the heavy sector. This is the diagonal part of the linked prediction; the full test also checks correlations, rank and heavy support.',
-    absent:'The light deficit is left unaccounted for in this hypothetical pattern. With a qualified and sufficiently sensitive test, absent heavy support would challenge the linked prediction.',
-    mismatch:'Heavy weight is present in every flavor, but it does not match the fixed light deficit. Having a heavy signal is not enough: the two sides must satisfy the same relation.'
-  };
-  function strength(pattern='matched'){
-    const v=M.strength(delta,patterns[pattern]);
-    M.flavors.forEach((f,i)=>{ $('heavy-bar-'+f).style.width=(v.heavyWeights[i]/.006*100)+'%';text('heavy-value-'+f,percent(v.heavyWeights[i]));});
-    text('strength-verdict',v.closed?'The weights match.':'The complete relation fails.');
-    $('strength-verdict').style.color=v.closed?'#b4dbbd':'#e2bb9e';
-    text('strength-result',patternCopy[pattern]);
-  }
-  document.querySelectorAll('[data-pattern]').forEach(button=>button.addEventListener('click',()=>{
-    document.querySelectorAll('[data-pattern]').forEach(b=>b.setAttribute('aria-pressed',String(b===button)));
-    strength(button.dataset.pattern);
-  }));
-
-  function symmetry(){
-    const split=number('mass-split')/100,anisotropy=number('anisotropy')/100;
-    const v=M.perturbation({delta,split,anisotropy});
-    text('split-value',Math.round(split*100)+'%');text('anisotropy-value',Math.round(anisotropy*100)+'%');
-    text('support-label',v.degenerate?'Three modes · one shared value':'Three modes · separated values');
-    v.relativeSupport.forEach((mass,i)=>{
-      const x=260+(mass-1)*925,y=60+i*30;
-      set('support-'+i,'d','M'+x.toFixed(2)+' '+y+'V205');set('support-dot-'+i,'cx',x.toFixed(2));
-    });
-    M.flavors.forEach((f,i)=>text('perturb-'+f,percent(v.heavyWeights[i])));
-    text('feature-degeneracy',v.degenerate?'Exact':'Split');set('feature-degeneracy','data-changed',!v.degenerate);
-    text('feature-universality',v.universal?'Exact':'Unequal');set('feature-universality','data-changed',!v.universal);
-    text('feature-rank',v.fullRank?'Three':'Changed');text('feature-closure',v.closed?'Preserved':'Changed');
-    text('feature-carrier',split===0&&anisotropy===0?'One in the exact source':'Requires its own domain');
-    const clauses=[];
-    if(!v.degenerate)clauses.push('The heavy structural support separates.');
-    if(!v.universal)clauses.push('The flavor weights become unequal.');
-    if(clauses.length){
-      clauses.push('Full rank and light–heavy closure remain in this constructed example. Internal changes alone do not establish a second complete carrier; carrier persistence requires the paper’s certified source-support domain.');
-    }else clauses.push('In the symmetric example, all three heavy modes share a value and all flavor weights are equal. These two symmetries can be changed independently.');
-    text('symmetry-result',clauses.join(' '));
-    set('support-chart','aria-label',(v.degenerate?'Three heavy modes share one structural mass value.':'Three relative heavy support values: '+v.relativeSupport.map(x=>x.toFixed(3)).join(', ')+'.')+' This is structural support, not a detector peak or a physical unstable-state pole.');
-  }
-  $('mass-split').addEventListener('input',symmetry);$('anisotropy').addEventListener('input',symmetry);
-  $('reset-symmetry').addEventListener('click',()=>{$('mass-split').value=0;$('anisotropy').value=0;symmetry();});
+  // A readable nontrivial comparison is in the HTML fallback; the guided interaction begins at step 1.
+  $('threshold').value=1;
 
   function experiment(){
     const v=M.experiment({delta,exposure:number('exposure'),systematic:number('systematic'),flavors:[...document.querySelectorAll('[data-flavor]:checked')].map(x=>x.dataset.flavor),heavyCovered:$('heavy-covered').checked});
@@ -149,13 +119,14 @@
   $('exposure').addEventListener('input',experiment);$('systematic').addEventListener('input',experiment);
   document.querySelectorAll('[data-flavor],#heavy-covered').forEach(input=>input.addEventListener('change',experiment));
 
-  threshold();strength();symmetry();experiment();
+  threshold();experiment();
   document.documentElement.classList.add('neutrino-ready');
   if(window.lucide)window.lucide.createIcons();
   const navLinks=[...document.querySelectorAll('.chapter-nav a')];
   const chapters=navLinks.map(a=>document.querySelector(a.getAttribute('href'))).filter(Boolean);
   let scheduled=false;
   function progress(){
+    document.querySelector('.source-lab').style.setProperty('--source-nav-height',document.querySelector('.chapter-nav').getBoundingClientRect().height+'px');
     const max=document.documentElement.scrollHeight-window.innerHeight;
     $('reading-progress').style.width=(max>0?Math.max(0,Math.min(100,window.scrollY/max*100)):0)+'%';
     const current=chapters.filter(e=>e.getBoundingClientRect().top<=130).at(-1);

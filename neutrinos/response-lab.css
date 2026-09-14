@@ -1,0 +1,100 @@
+/* Two teaching exhibits: account for a missing fraction, then vary independent features. */
+.response-lab .response-workbench{padding:0;overflow:hidden;background:linear-gradient(120deg,#1d292c,#162126)}
+.response-lab .response-action{padding:25px 28px;border-bottom:1px solid #accbbc30}
+.response-lab .response-action>p{margin:0;color:#dce5dd;font-size:1rem;line-height:1.6}
+.response-lab .response-action>p strong{font-weight:500;color:#e3bb98}
+.response-lab .response-action .segmented{margin-top:17px}
+.response-lab .response-action button{flex:1;text-align:left;padding:12px 15px!important}
+.response-lab .response-action button strong,.response-lab .response-action button small{display:block}
+.response-lab .response-action button strong{font-size:.9rem;font-weight:500;line-height:1.4}
+.response-lab .response-action button small{font-size:.72rem;line-height:1.5;color:#b8c5be;margin-top:4px}
+.response-ready .response-lab .interactive-controls{display:block}.response-ready .response-lab .segmented{display:flex}
+.response-lab .missing-explanation{display:grid;grid-template-columns:minmax(0,1fr) auto minmax(0,1fr) auto minmax(0,1fr);align-items:center;gap:14px;padding:24px 28px;border-bottom:1px solid #accbbc23}
+.response-lab .missing-explanation>div{min-width:0}.response-lab .missing-explanation b{display:block;font-size:1.6rem;font-weight:400;font-variant-numeric:tabular-nums;color:#e6e9e0}
+.response-lab .missing-explanation span{display:block;font-size:.78rem;color:#bfcac5;margin-top:4px;line-height:1.5}
+.response-lab .missing-explanation>i{font-style:normal;color:#819c94;font-size:1.25rem}
+.response-lab .missing-explanation .missing-fragment{padding:13px 17px;border:1px dashed #cbb9e180;border-radius:4px;background:#cbb9e10a}
+.response-lab .missing-fragment b{color:#d7c7e8}
+.response-lab .response-reading-key{margin:0;padding:22px 28px 0;color:#c6d4cc;font-size:.85rem;line-height:1.65}
+.response-lab .response-reading-key strong{color:#e2dfdf;font-weight:500}
+.response-lab .response-cards{display:grid;grid-template-columns:repeat(3,minmax(0,1fr));gap:0;padding:22px 28px 26px}
+.response-lab .response-card{padding:0 23px;border-left:1px solid #b3cbc32c;min-width:0}
+.response-lab .response-card:first-child{padding-left:0;border-left:0}.response-lab .response-card:last-child{padding-right:0}
+.response-lab .response-card h3{font-family:Georgia,serif;font-size:1.45rem;font-weight:400;color:#eee9e4;margin:0 0 21px}
+.response-lab .response-card h3 small{font-family:Inter,"Segoe UI",sans-serif;color:#b6c6be;font-size:.9rem;margin-left:7px}
+.response-lab .required-label{display:flex;align-items:baseline;justify-content:space-between;gap:8px;font-size:.75rem;color:#c5b5dc;line-height:1.5}
+.response-lab .required-label b{font-size:.96rem;font-weight:500;white-space:nowrap;font-variant-numeric:tabular-nums}
+.response-lab .response-track{height:35px;margin:16px 0 8px;position:relative;background:#a3c2ba0a;border-radius:3px;isolation:isolate}
+.response-lab .response-required{position:absolute;left:0;top:0;bottom:0;width:50%;border:1px dashed #d8c8e2aa;background:repeating-linear-gradient(135deg,#c7b0de0a 0 5px,#c7b0de18 5px 6px);z-index:1;border-radius:3px}
+.response-lab .response-heavy{position:absolute;left:0;top:9px;height:17px;width:50%;background:#a6d7c3;z-index:2;border-radius:2px;transition:width .25s ease}
+.response-lab .required-marker{position:absolute;left:50%;top:-7px;bottom:-7px;border-left:2px solid #e5d4ee;z-index:3}
+.response-lab .response-axis{display:flex;justify-content:space-between;font-size:.64rem;color:#a9bdb4;font-variant-numeric:tabular-nums}
+.response-lab .response-amount{display:flex;justify-content:space-between;align-items:baseline;gap:8px;margin-top:21px;font-size:.8rem;color:#bfcec5}
+.response-lab .response-amount output{color:#b8e2ca;font-size:1.08rem;font-variant-numeric:tabular-nums}
+.response-lab .residual-readout{margin-top:15px;padding-top:14px;border-top:1px solid #bad1c723;display:flex;justify-content:space-between;gap:10px;align-items:baseline}
+.response-lab .residual-readout span{font-size:.73rem;color:#bedac8;line-height:1.5}
+.response-lab .residual-readout output{font-size:.86rem;white-space:nowrap;color:#bedac8;font-variant-numeric:tabular-nums}
+.response-lab .response-card[data-state="shortfall"] .residual-readout>*{color:#e5be9b}.response-lab .response-card[data-state="excess"] .residual-readout>*{color:#dcc9e9}
+.response-lab .response-summary{padding:22px 28px;border-top:1px solid #accbbc30;background:#acd7be08}
+.response-lab .response-summary-top{display:flex;gap:15px;justify-content:space-between;align-items:baseline;flex-wrap:wrap}
+.response-lab .response-summary strong{font-size:1.08rem;font-weight:500;color:#c7e7d0}
+.response-lab .response-summary-top>span{font-size:.76rem;color:#bccfc4}
+.response-lab .response-summary[data-state="mismatch"] strong{color:#e7c4a4}
+.response-lab .response-summary .interaction-result{min-height:0;margin-top:9px;font-size:.91rem;color:#c8d6ce}
+.response-lab .response-footnote{padding:0 28px;margin:16px 0 22px!important}
+.response-lab .response-legend{display:flex;flex-wrap:wrap;gap:12px 25px;padding:0 28px 22px;font-size:.72rem;color:#bbc9c1}
+.response-lab .response-legend span{display:flex;gap:8px;align-items:center}.response-lab .response-legend i{width:23px;height:8px;display:inline-block;background:#a6d7c3}.response-lab .response-legend .required-key{height:14px;border:1px dashed #d8c8e2aa;background:none}
+.response-lab .change-labs{display:grid;grid-template-columns:repeat(2,minmax(0,1fr))}
+.response-lab .change-lab{padding:27px 28px;min-width:0}.response-lab .change-lab+.change-lab{border-left:1px solid #accbbc30;background:#11212444}
+.response-lab .change-lab .lab-title{display:flex;align-items:flex-start;justify-content:space-between;gap:17px}
+.response-lab .lab-title h3{font-family:Georgia,serif;font-size:1.55rem;line-height:1.35;font-weight:400;color:#e3e8df;margin:0}
+.response-lab .feature-badge{border:1px solid #b5d4c539;border-radius:3px;padding:5px 9px;font-size:.73rem;line-height:1.4;color:#bfdfcb;white-space:nowrap}
+.response-lab .feature-badge[data-changed="true"]{color:#e4c19f;border-color:#e4c19f49}
+.response-lab .lab-question{margin:12px 0 20px;font-size:.86rem;line-height:1.65;color:#bacfc2;min-height:3.3em}
+.response-lab #support-chart{margin:0 0 4px}.response-lab .support-name{font-family:Inter,"Segoe UI",sans-serif;font-size:15px;fill:#c9d2cd}.response-lab .support-number{font-family:Inter,"Segoe UI",sans-serif;font-size:15px;fill:#dce7de;font-variant-numeric:tabular-nums}
+.response-lab .lab-effect{font-size:.91rem;line-height:1.5;margin:6px 0 0;color:#d6dfd2;min-height:1.5em}
+.response-lab .change-lab .range-control{padding-top:19px;margin-top:20px;border-top:1px solid #accbbc25}
+.response-lab .change-lab .range-control>span:first-child{font-size:.84rem}
+.response-lab .pair-legend{display:flex;gap:14px;flex-wrap:wrap;font-size:.7rem;color:#bdcfc4;margin:4px 0 21px}
+.response-lab .pair-legend>span{display:flex;align-items:center;gap:7px}.response-lab .pair-legend i{width:18px;border-top:4px solid #c9b8df}.response-lab .pair-legend .heavy-key{border-color:#a6d7c3}
+.response-lab .flavor-pair{margin-bottom:21px}.response-lab .flavor-pair:last-child{margin-bottom:0}
+.response-lab .pair-heading{display:flex;justify-content:space-between;gap:10px;align-items:baseline;font-size:.86rem;color:#dce1db;margin-bottom:9px}
+.response-lab .pair-heading b{font-size:.82rem;font-weight:400;color:#d1dccf;font-variant-numeric:tabular-nums;white-space:nowrap}
+.response-lab .pair-heading small{font-size:.66rem;color:#acc1b4}
+.response-lab .paired-track{height:19px;position:relative;background:#a3c2ba09;display:flex;flex-direction:column;justify-content:space-between;border-radius:2px}
+.response-lab .paired-track>span{display:block;height:7px;width:50%;transition:width .25s ease;background:#c9b8df;border-radius:1px}.response-lab .paired-track>span:last-child{background:#a6d7c3}
+.response-lab .paired-track::after{content:"";position:absolute;top:-3px;bottom:-3px;left:50%;border-left:1px dashed #bac8bc55}
+.response-lab .pair-scale{display:flex;justify-content:space-between;gap:12px;margin-top:14px;font-size:.66rem;color:#aabdaf}
+.response-lab .flavor-visual{padding:5px 0 13px;min-height:253px}
+.response-lab .preserved-features{display:grid;grid-template-columns:repeat(3,minmax(0,1fr));gap:25px;padding:23px 28px;border-top:1px solid #accbbc30;background:#accbbb07}
+.response-lab .preserved-features span{display:block;font-size:.74rem;color:#bdd0c2;line-height:1.6}.response-lab .preserved-features strong{display:block;font-size:.94rem;line-height:1.5;font-weight:500;color:#d2e6d5;margin-top:6px}.response-lab .preserved-features small{display:block;font-size:.73rem;line-height:1.65;color:#b7c8be;margin-top:6px}
+.response-lab .symmetry-takeaway{padding:22px 28px;margin:0!important;border-top:1px solid #accbbc30;color:#d8e3d6;min-height:0}
+.response-lab button:focus-visible,.response-lab input:focus-visible{outline:2px solid #e0b99a;outline-offset:4px}
+@media(max-width:1000px){.response-lab .response-card{padding-inline:15px}.response-lab .residual-readout{flex-direction:column;gap:4px}.response-lab .response-action button{padding:10px!important}.response-lab .change-lab{padding-inline:23px}.response-lab .lab-title h3{font-size:1.36rem}.response-lab .lab-title{gap:10px}}
+@media(max-width:800px){.response-lab .change-labs{grid-template-columns:1fr}.response-lab .change-lab+.change-lab{border-left:0;border-top:1px solid #accbbc30}.response-lab #support-chart{max-width:520px;margin-inline:auto}.response-lab .lab-question{min-height:0}.response-lab .flavor-visual{min-height:0;padding-bottom:5px}.response-lab .symmetry-examples{flex-wrap:wrap}.response-lab .symmetry-examples button{flex-basis:calc(50% - 8px)}.response-lab .preserved-features{gap:20px}.response-lab .lab-title h3{font-size:1.55rem}}
+@media(max-width:650px){.response-lab .response-action,.response-lab .change-lab,.response-lab .response-summary{padding:21px 19px}.response-lab .response-action>p{font-size:.92rem}.response-lab .response-action .segmented{flex-wrap:wrap}.response-lab .response-action .pattern-examples button{flex-basis:100%;display:grid;grid-template-columns:1fr 1.3fr;gap:12px;align-items:center}.response-lab .response-action button strong{font-size:.84rem}.response-lab .response-action button small{font-size:.7rem;margin:0}.response-lab .missing-explanation{gap:9px;padding:21px 19px}.response-lab .missing-explanation b{font-size:1.17rem}.response-lab .missing-explanation span{font-size:.69rem}.response-lab .missing-explanation .missing-fragment{padding:10px}.response-lab .missing-explanation>i{font-size:1rem}.response-lab .response-reading-key{padding:19px 19px 0;font-size:.8rem}.response-lab .response-cards{grid-template-columns:1fr;padding:0 19px 23px}.response-lab .response-card,.response-lab .response-card:first-child,.response-lab .response-card:last-child{padding:25px 0;border-left:0;border-bottom:1px solid #b3cbc32c}.response-lab .response-card:last-child{padding-bottom:0;border-bottom:0}.response-lab .response-card h3{font-size:1.3rem;margin-bottom:17px}.response-lab .residual-readout{flex-direction:row;gap:15px}.response-lab .response-axis{font-size:.69rem}.response-lab .response-track{height:33px}.response-lab .response-legend{padding:0 19px 22px;font-size:.7rem}.response-lab .response-summary-top{gap:7px}.response-lab .response-summary strong{font-size:1rem}.response-lab .response-summary .interaction-result{font-size:.86rem}.response-lab .response-footnote{padding-inline:19px}.response-lab .preserved-features{grid-template-columns:1fr;padding:21px 19px;gap:19px}.response-lab .preserved-features>div{border-left:2px solid #a9ceba70;padding-left:14px}.response-lab .preserved-features strong{margin-top:2px}.response-lab .symmetry-takeaway{padding:21px 19px;font-size:.91rem}.response-lab .symmetry-examples button{flex-basis:calc(50% - 8px);text-align:left}.response-lab .symmetry-examples small{margin-top:4px!important}.response-lab .lab-title h3{font-size:1.4rem}.response-lab .support-name,.response-lab .support-number{font-size:17px}.response-lab #support-chart .svg-small{font-size:17px}}
+@media(prefers-reduced-motion:reduce){.response-lab .response-heavy,.response-lab .paired-track>span{transition:none}}
+
+/* Keep the chosen example and its consequence close on small screens. */
+.response-lab .response-action .quick-outcome{margin:17px 0 0;padding-left:12px;border-left:2px solid #a9d2bd;color:#cfe1d3;font-size:.82rem;line-height:1.6}
+.response-lab .lab-return{display:inline-block;margin-top:8px;font-size:.76rem;color:#c7dbcb;border-bottom:1px solid #b4cbb953;min-height:30px;line-height:1.8}
+.response-lab .lab-title h3{scroll-margin-top:125px}
+.response-lab #symmetry-examples{scroll-margin-top:120px}
+.response-lab .response-axis,.response-lab .pair-scale{display:grid;grid-template-columns:1fr auto 1fr}
+.response-lab .response-axis>span:last-child,.response-lab .pair-scale>span:last-child{text-align:right}
+@media(min-width:801px){.response-lab .lab-return{display:none}}
+@media(max-width:650px){
+ .response-lab .response-card,.response-lab .response-card:first-child,.response-lab .response-card:last-child{display:grid;grid-template-columns:68px minmax(0,1fr);column-gap:14px;padding:17px 0}
+ .response-lab .response-card:last-child{padding-bottom:0}
+ .response-lab .response-card h3{grid-row:1/5;grid-column:1;font-size:1.05rem;line-height:1.4;margin:0;align-self:center}
+ .response-lab .response-card h3 small{display:block;margin:3px 0 0;font-size:.8rem}
+ .response-lab .response-card>div{grid-column:2}
+ .response-lab .required-label{font-size:.68rem}.response-lab .required-label b{font-size:.8rem}
+ .response-lab .response-track{height:23px;margin:9px 0 0}.response-lab .response-heavy{height:11px;top:6px}
+ .response-lab .response-axis{display:none}.response-lab .response-amount{margin-top:11px;font-size:.7rem}
+ .response-lab .response-amount output{font-size:.87rem}
+ .response-lab .residual-readout{border:0;margin-top:8px;padding:0;font-size:.69rem;gap:8px}
+ .response-lab .residual-readout span{font-size:.66rem}.response-lab .residual-readout output{font-size:.73rem}
+ .response-lab .response-action .quick-outcome{font-size:.78rem;margin-top:14px}
+}
+html:not(.response-ready) .response-lab .interactive-controls{display:none!important}
