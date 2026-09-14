@@ -1,0 +1,211 @@
+[
+  {
+    "id": "pcr-1",
+    "code": "PCR 1",
+    "doi": "10.5281/zenodo.22723350",
+    "doi_url": "https://doi.org/10.5281/zenodo.22723350",
+    "title": "Target-Fixed Physical Role Necessity for the Realized Neutrino Oscillation Interface",
+    "slug": "target-fixed-physical-role-necessity-for-the-realized-neutrino-oscillation-interface-22723350",
+    "url": "https://constraintsystemsinstitute.org/papers/target-fixed-physical-role-necessity-for-the-realized-neutrino-oscillation-interface-22723350/",
+    "role": "What oscillation requires",
+    "description": "Identifies the physical response and interaction–propagation nonalignment required by the fixed oscillation interface before selecting its microscopic carrier."
+  },
+  {
+    "id": "pcr-2",
+    "code": "PCR 2",
+    "doi": "10.5281/zenodo.22723447",
+    "doi_url": "https://doi.org/10.5281/zenodo.22723447",
+    "title": "Complete Physical Interface of the Neutrino Propagation Role Complex",
+    "slug": "complete-physical-interface-of-the-neutrino-propagation-role-complex-22723447",
+    "url": "https://constraintsystemsinstitute.org/papers/complete-physical-interface-of-the-neutrino-propagation-role-complex-22723447/",
+    "role": "The complete physical interface",
+    "description": "Assembles the complete propagation interface, retaining active responses, source and detector attachments, and the shared physical witnesses needed for joint compatibility."
+  },
+  {
+    "id": "pcr-3",
+    "code": "PCR 3",
+    "doi": "10.5281/zenodo.22724064",
+    "doi_url": "https://doi.org/10.5281/zenodo.22724064",
+    "title": "Source-First Exhaustion of the Physical Carrier Universe",
+    "slug": "source-first-exhaustion-of-the-physical-carrier-universe-22724064",
+    "url": "https://constraintsystemsinstitute.org/papers/source-first-exhaustion-of-the-physical-carrier-universe-22724064/",
+    "role": "The candidate source universe",
+    "description": "Constructs a source-first universe of active carrier architectures before physical viability is assessed, retaining composition, matching and boundary structure."
+  },
+  {
+    "id": "pcr-4",
+    "code": "PCR 4",
+    "doi": "10.5281/zenodo.22724201",
+    "doi_url": "https://doi.org/10.5281/zenodo.22724201",
+    "title": "Simultaneous Physical Constraint Collapse of the Neutrino Carrier Universe",
+    "slug": "simultaneous-physical-constraint-collapse-of-the-neutrino-carrier-universe-22724201",
+    "url": "https://constraintsystemsinstitute.org/papers/simultaneous-physical-constraint-collapse-of-the-neutrino-carrier-universe-22724201/",
+    "role": "Simultaneous physical constraints",
+    "description": "Applies physical consistency requirements to one common realization, keeping their shared parameters and cross-sector conditions together."
+  },
+  {
+    "id": "pcr-5",
+    "code": "PCR 5",
+    "doi": "10.5281/zenodo.22724292",
+    "doi_url": "https://doi.org/10.5281/zenodo.22724292",
+    "title": "Compatible Role-Occupancy Closure for the Neutrino Propagation Role Complex",
+    "slug": "compatible-role-occupancy-closure-for-the-neutrino-propagation-role-complex-22724292",
+    "url": "https://constraintsystemsinstitute.org/papers/compatible-role-occupancy-closure-for-the-neutrino-propagation-role-complex-22724292/",
+    "role": "Compatible occupancy",
+    "description": "Establishes compatible occupancy of the required neutrino role while retaining physically distinct carrier alternatives allowed by the oscillation target."
+  },
+  {
+    "id": "pcr-5a",
+    "code": "PCR 5A",
+    "doi": "10.5281/zenodo.22735240",
+    "doi_url": "https://doi.org/10.5281/zenodo.22735240",
+    "title": "Standing-Carrier Upper Closure for the Neutrino Propagation Role Complex",
+    "slug": "standing-carrier-upper-closure-for-the-neutrino-propagation-role-complex-22735240",
+    "url": "https://constraintsystemsinstitute.org/papers/standing-carrier-upper-closure-for-the-neutrino-propagation-role-complex-22735240/",
+    "role": "Carrier identity and deletion distinctions",
+    "description": "Characterizes standing identity through seven retained response channels and exhibits four distinct ways that complete source contributions can survive or fail deletion."
+  },
+  {
+    "id": "pcr-5b",
+    "code": "PCR 5B",
+    "doi": "10.5281/zenodo.22735684",
+    "doi_url": "https://doi.org/10.5281/zenodo.22735684",
+    "title": "Exact Standing-Carrier Stratification of the Neutrino Oscillation Realization Space",
+    "slug": "exact-standing-carrier-stratification-of-the-neutrino-oscillation-realization-space-22735684",
+    "url": "https://constraintsystemsinstitute.org/papers/exact-standing-carrier-stratification-of-the-neutrino-oscillation-realization-space-22735684/",
+    "role": "The oscillation realization atlas",
+    "description": "Constructs the exact symbolic standing atlas for the fixed oscillation target, including a continuum of different heavy thresholds with the same low-energy response."
+  },
+  {
+    "id": "pcr-5c",
+    "code": "PCR 5C",
+    "doi": "10.5281/zenodo.22735800",
+    "doi_url": "https://doi.org/10.5281/zenodo.22735800",
+    "title": "Functorial Target Extension of Standing-Carrier Quotients",
+    "slug": "functorial-target-extension-of-standing-carrier-quotients-22735800",
+    "url": "https://constraintsystemsinstitute.org/papers/functorial-target-extension-of-standing-carrier-quotients-22735800/",
+    "role": "How new targets refine the space",
+    "description": "Explains how additional physical targets can eliminate, preserve or split existing standing classes, while retaining distinctions already established at the original target."
+  },
+  {
+    "id": "pcr-5d1",
+    "code": "PCR 5D1",
+    "doi": "10.5281/zenodo.22735890",
+    "doi_url": "https://doi.org/10.5281/zenodo.22735890",
+    "title": "Direct Kinematic-Mass Target Extension of the Neutrino Standing-Carrier Space",
+    "slug": "direct-kinematic-mass-target-extension-of-the-neutrino-standing-carrier-space-22735890",
+    "url": "https://constraintsystemsinstitute.org/papers/direct-kinematic-mass-target-extension-of-the-neutrino-standing-carrier-space-22735890/",
+    "role": "Direct kinematic mass",
+    "description": "Adds beta-endpoint mass response to the standing-carrier space and separates the added absolute-support information from the original oscillation distinctions."
+  },
+  {
+    "id": "pcr-5d2",
+    "code": "PCR 5D2",
+    "doi": "10.5281/zenodo.22736018",
+    "doi_url": "https://doi.org/10.5281/zenodo.22736018",
+    "title": "Lepton-Number-Violating Target Extension of the Neutrino Standing-Carrier Space",
+    "slug": "lepton-number-violating-target-extension-of-the-neutrino-standing-carrier-space-22736018",
+    "url": "https://constraintsystemsinstitute.org/papers/lepton-number-violating-target-extension-of-the-neutrino-standing-carrier-space-22736018/",
+    "role": "Lepton-number-violating response",
+    "description": "Adds lepton-number-violating transition amplitudes, distinguishing accepted zero and nonzero responses without treating a null search as a unique carrier selector."
+  },
+  {
+    "id": "pcr-5d3",
+    "code": "PCR 5D3",
+    "doi": "10.5281/zenodo.22745336",
+    "doi_url": "https://doi.org/10.5281/zenodo.22745336",
+    "title": "Heavy-State Active Closure and CLFV Extension of the Neutrino Standing-Carrier Space",
+    "slug": "heavy-state-active-closure-and-clfv-extension-of-the-neutrino-standing-carrier-space-22745336",
+    "url": "https://constraintsystemsinstitute.org/papers/heavy-state-active-closure-and-clfv-extension-of-the-neutrino-standing-carrier-space-22745336/",
+    "role": "Heavy states and active closure",
+    "description": "Adds heavy-state, active-closure and charged-lepton-flavor constraints, with an explicit benchmark family and a declared source comparison scope."
+  },
+  {
+    "id": "pcr-5d3-5",
+    "code": "PCR 5D3.5",
+    "doi": "10.5281/zenodo.22745467",
+    "doi_url": "https://doi.org/10.5281/zenodo.22745467",
+    "title": "Successor Target for Quantitative Active Closure in the Neutrino Standing-Carrier Space",
+    "slug": "successor-target-for-quantitative-active-closure-in-the-neutrino-standing-carrier-space-22745467",
+    "url": "https://constraintsystemsinstitute.org/papers/successor-target-for-quantitative-active-closure-in-the-neutrino-standing-carrier-space-22745467/",
+    "role": "Quantitative active closure",
+    "description": "Defines a separate quantitative successor target with retained active-event response, preserving the distinction between new target information and the earlier heavy-state branch."
+  },
+  {
+    "id": "pcr-5d4",
+    "code": "PCR 5D4",
+    "doi": "10.5281/zenodo.22745640",
+    "doi_url": "https://doi.org/10.5281/zenodo.22745640",
+    "title": "Cosmological Population and Transport Extension of the Neutrino Standing-Carrier Space",
+    "slug": "cosmological-population-and-transport-extension-of-the-neutrino-standing-carrier-space-22745640",
+    "url": "https://constraintsystemsinstitute.org/papers/cosmological-population-and-transport-extension-of-the-neutrino-standing-carrier-space-22745640/",
+    "role": "Population, transport and cosmology",
+    "description": "Adds cosmological population and transport information, separating the public-summary target from the complete correlated cosmological likelihood still required for the broader inference."
+  },
+  {
+    "id": "pcr-5d5",
+    "code": "PCR 5D5",
+    "doi": "10.5281/zenodo.22745841",
+    "doi_url": "https://doi.org/10.5281/zenodo.22745841",
+    "title": "Symmetry and Charge Extensions of the Neutrino Standing-Carrier Space",
+    "slug": "symmetry-and-charge-extensions-of-the-neutrino-standing-carrier-space-22745841",
+    "url": "https://constraintsystemsinstitute.org/papers/symmetry-and-charge-extensions-of-the-neutrino-standing-carrier-space-22745841/",
+    "role": "Symmetry and charge",
+    "description": "Separates seven symmetry and charge targets, retaining their source, matching, anomaly and remnant conditions instead of treating symmetry labels as interchangeable."
+  },
+  {
+    "id": "pcr-5e",
+    "code": "PCR 5E",
+    "doi": "10.5281/zenodo.22745994",
+    "doi_url": "https://doi.org/10.5281/zenodo.22745994",
+    "title": "Joint Standing-Carrier Closure for the Neutrino Sector",
+    "slug": "joint-standing-carrier-closure-for-the-neutrino-sector-22745994",
+    "url": "https://constraintsystemsinstitute.org/papers/joint-standing-carrier-closure-for-the-neutrino-sector-22745994/",
+    "role": "One common realization",
+    "description": "Combines the extended targets at one physical source and completes joint closure for two qualified vectorlike branches, while preserving unresolved parent branches and multiple realizations."
+  },
+  {
+    "id": "pcr-6",
+    "code": "PCR 6",
+    "doi": "10.5281/zenodo.22747643",
+    "doi_url": "https://doi.org/10.5281/zenodo.22747643",
+    "title": "Physical Nature and Minimal Identity of the Neutrino Carrier",
+    "slug": "physical-nature-and-minimal-identity-of-the-neutrino-carrier-22747643",
+    "url": "https://constraintsystemsinstitute.org/papers/physical-nature-and-minimal-identity-of-the-neutrino-carrier-22747643/",
+    "role": "One complete carrier",
+    "description": "Identifies one complete terminal carrier within each accepted realization of the two qualified branches, with three light sectors and one rank-three heavy sector in the exact symmetric limit."
+  },
+  {
+    "id": "pcr-7",
+    "code": "PCR 7",
+    "doi": "10.5281/zenodo.22747744",
+    "doi_url": "https://doi.org/10.5281/zenodo.22747744",
+    "title": "Observable Projection and Experimental Prediction Lock for the Neutrino Carrier",
+    "slug": "observable-projection-and-experimental-prediction-lock-for-the-neutrino-carrier-22747744",
+    "url": "https://constraintsystemsinstitute.org/papers/observable-projection-and-experimental-prediction-lock-for-the-neutrino-carrier-22747744/",
+    "role": "The linked experimental signature",
+    "description": "Derives the matched light charged-current deficit and inclusive heavy weight in the qualified branches, with a shared flavor structure and a prospective experimental protocol."
+  },
+  {
+    "id": "pcr-7-5",
+    "code": "PCR 7.5",
+    "doi": "10.5281/zenodo.22747820",
+    "doi_url": "https://doi.org/10.5281/zenodo.22747820",
+    "title": "Structural Stability and Degeneracy Lifting of the Neutrino Heavy Sector",
+    "slug": "structural-stability-and-degeneracy-lifting-of-the-neutrino-heavy-sector-22747820",
+    "url": "https://constraintsystemsinstitute.org/papers/structural-stability-and-degeneracy-lifting-of-the-neutrino-heavy-sector-22747820/",
+    "role": "What survives disturbance",
+    "description": "Separates the robustness of carrier identity, rank, closure, degeneracy and flavor equality, and specifies the response and resolution requirements for experimental inference."
+  },
+  {
+    "id": "pcr-8",
+    "code": "PCR 8",
+    "doi": "10.5281/zenodo.22747926",
+    "doi_url": "https://doi.org/10.5281/zenodo.22747926",
+    "title": "A Neutrino Carrier Prediction: Robustness and a Framework for Experimental Testing",
+    "slug": "a-neutrino-carrier-prediction-robustness-and-a-framework-for-experimental-testing-22747926",
+    "url": "https://constraintsystemsinstitute.org/papers/a-neutrino-carrier-prediction-robustness-and-a-framework-for-experimental-testing-22747926/",
+    "role": "A framework for qualified testing",
+    "description": "Combines the source-qualified carrier prediction and its robustness results into a framework for experimental testing, with numerical physical pole, lifetime and detector qualification still open."
+  }
+]

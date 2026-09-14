@@ -110,7 +110,11 @@ foreach ($record in @($fullData + $registry)) {
 $arcByDoi = @{}
 foreach ($arc in $arcs) {
   foreach ($paper in $arc.papers) {
-    if ($paper.concept_doi) { $arcByDoi[[string]$paper.concept_doi] = $arc.theme }
+    foreach ($doiKey in @("concept_doi", "doi")) {
+      if (($paper.PSObject.Properties.Name -contains $doiKey) -and $paper.$doiKey) {
+        $arcByDoi[[string]$paper.$doiKey] = $arc.theme
+      }
+    }
   }
 }
 

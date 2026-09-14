@@ -46,6 +46,109 @@
     ]
   },
   {
+    "theme": "Neutrino Carrier Arc",
+    "layman_summary": "Explore a proposed neutrino carrier with three light sectors and a heavy sector, and the linked observations it would require.",
+    "technical_summary": "Target-fixed oscillation roles, source exhaustion, standing stratification, experimental target extensions, joint closure in two qualified vectorlike branches, and the linked light/heavy charged-current prediction with feature-specific robustness.",
+    "url": "https://constraintsystemsinstitute.org/neutrinos/",
+    "papers": [
+      {
+        "title": "Target-Fixed Physical Role Necessity for the Realized Neutrino Oscillation Interface",
+        "doi": "10.5281/zenodo.22723350",
+        "doi_url": "https://doi.org/10.5281/zenodo.22723350"
+      },
+      {
+        "title": "Complete Physical Interface of the Neutrino Propagation Role Complex",
+        "doi": "10.5281/zenodo.22723447",
+        "doi_url": "https://doi.org/10.5281/zenodo.22723447"
+      },
+      {
+        "title": "Source-First Exhaustion of the Physical Carrier Universe",
+        "doi": "10.5281/zenodo.22724064",
+        "doi_url": "https://doi.org/10.5281/zenodo.22724064"
+      },
+      {
+        "title": "Simultaneous Physical Constraint Collapse of the Neutrino Carrier Universe",
+        "doi": "10.5281/zenodo.22724201",
+        "doi_url": "https://doi.org/10.5281/zenodo.22724201"
+      },
+      {
+        "title": "Compatible Role-Occupancy Closure for the Neutrino Propagation Role Complex",
+        "doi": "10.5281/zenodo.22724292",
+        "doi_url": "https://doi.org/10.5281/zenodo.22724292"
+      },
+      {
+        "title": "Standing-Carrier Upper Closure for the Neutrino Propagation Role Complex",
+        "doi": "10.5281/zenodo.22735240",
+        "doi_url": "https://doi.org/10.5281/zenodo.22735240"
+      },
+      {
+        "title": "Exact Standing-Carrier Stratification of the Neutrino Oscillation Realization Space",
+        "doi": "10.5281/zenodo.22735684",
+        "doi_url": "https://doi.org/10.5281/zenodo.22735684"
+      },
+      {
+        "title": "Functorial Target Extension of Standing-Carrier Quotients",
+        "doi": "10.5281/zenodo.22735800",
+        "doi_url": "https://doi.org/10.5281/zenodo.22735800"
+      },
+      {
+        "title": "Direct Kinematic-Mass Target Extension of the Neutrino Standing-Carrier Space",
+        "doi": "10.5281/zenodo.22735890",
+        "doi_url": "https://doi.org/10.5281/zenodo.22735890"
+      },
+      {
+        "title": "Lepton-Number-Violating Target Extension of the Neutrino Standing-Carrier Space",
+        "doi": "10.5281/zenodo.22736018",
+        "doi_url": "https://doi.org/10.5281/zenodo.22736018"
+      },
+      {
+        "title": "Heavy-State Active Closure and CLFV Extension of the Neutrino Standing-Carrier Space",
+        "doi": "10.5281/zenodo.22745336",
+        "doi_url": "https://doi.org/10.5281/zenodo.22745336"
+      },
+      {
+        "title": "Successor Target for Quantitative Active Closure in the Neutrino Standing-Carrier Space",
+        "doi": "10.5281/zenodo.22745467",
+        "doi_url": "https://doi.org/10.5281/zenodo.22745467"
+      },
+      {
+        "title": "Cosmological Population and Transport Extension of the Neutrino Standing-Carrier Space",
+        "doi": "10.5281/zenodo.22745640",
+        "doi_url": "https://doi.org/10.5281/zenodo.22745640"
+      },
+      {
+        "title": "Symmetry and Charge Extensions of the Neutrino Standing-Carrier Space",
+        "doi": "10.5281/zenodo.22745841",
+        "doi_url": "https://doi.org/10.5281/zenodo.22745841"
+      },
+      {
+        "title": "Joint Standing-Carrier Closure for the Neutrino Sector",
+        "doi": "10.5281/zenodo.22745994",
+        "doi_url": "https://doi.org/10.5281/zenodo.22745994"
+      },
+      {
+        "title": "Physical Nature and Minimal Identity of the Neutrino Carrier",
+        "doi": "10.5281/zenodo.22747643",
+        "doi_url": "https://doi.org/10.5281/zenodo.22747643"
+      },
+      {
+        "title": "Observable Projection and Experimental Prediction Lock for the Neutrino Carrier",
+        "doi": "10.5281/zenodo.22747744",
+        "doi_url": "https://doi.org/10.5281/zenodo.22747744"
+      },
+      {
+        "title": "Structural Stability and Degeneracy Lifting of the Neutrino Heavy Sector",
+        "doi": "10.5281/zenodo.22747820",
+        "doi_url": "https://doi.org/10.5281/zenodo.22747820"
+      },
+      {
+        "title": "A Neutrino Carrier Prediction: Robustness and a Framework for Experimental Testing",
+        "doi": "10.5281/zenodo.22747926",
+        "doi_url": "https://doi.org/10.5281/zenodo.22747926"
+      }
+    ]
+  },
+  {
     "theme": "Symmetry Arc",
     "layman_summary": "What changes in a description, what acts on physical states, and what must stay fixed for the comparison to make sense.",
     "technical_summary": "Gauge architecture and skin, spacetime anchors, anomaly and discrete-symmetry ledgers, flavor, chiral and custodial structure, operator grammar, vacuum fixation, global form, RG and atlas exhaustion.",

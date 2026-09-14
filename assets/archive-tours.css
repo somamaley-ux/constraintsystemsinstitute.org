@@ -8,3 +8,6 @@
   .archive-home .nav { justify-content: flex-start; gap: 8px 18px; }
   .archive-home #guided-tours, .archive-home #manuscripts { scroll-margin-top: 64px; }
 }
+
+.archive-home .neutrino-card-image{display:block;width:100%;height:auto;aspect-ratio:16/9;}
+.archive-home #neutrino-arc h3{font-size:2.25rem;line-height:1.15;}

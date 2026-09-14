@@ -26,7 +26,7 @@ const walk = dir => fs.readdirSync(dir, {withFileTypes:true}).flatMap(entry => {
   return entry.isDirectory() ? walk(full) : entry.name.endsWith('.html') ? [full] : [];
 });
 const records = JSON.parse(fs.readFileSync(path.join(root, 'papers.json'), 'utf8'));
-const tours = new Set(['foundations', 'gravity-quantum', 'standard-model', 'symmetry', 'black-holes', 'time', 'mind-agency', 'measurement']);
+const tours = new Set(['foundations', 'gravity-quantum', 'standard-model', 'symmetry', 'black-holes', 'time', 'mind-agency', 'measurement', 'neutrinos']);
 const variants = {
   'banner.jpg': [7680,2780,[480,960,1600]],
   'constraint-seal.png': [832,1248,[256,768]],
