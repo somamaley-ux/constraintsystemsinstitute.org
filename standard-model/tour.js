@@ -197,34 +197,32 @@
   addEventListener('scroll',()=>{ if(!scrollPending){scrollPending=true;requestAnimationFrame(()=>{updateChapter();scrollPending=false;});} },{passive:true});
   updateChapter();
 
-  const dialog = $('#atlas-dialog');
-  const viewport = $('#atlas-viewport');
-  let zoom = 1;
-  let fitWidth = 0;
-  function applyZoom(next) {
-    const oldWidth = $('#atlas-full').clientWidth;
-    const centerX=(viewport.scrollLeft+viewport.clientWidth/2)/Math.max(1,oldWidth);
-    const centerY=(viewport.scrollTop+viewport.clientHeight/2)/Math.max(1,oldWidth*.75);
-    zoom=Math.max(1,Math.min(6,next));
-    const newWidth=fitWidth*zoom;
-    $('#atlas-full').style.width=`${newWidth}px`;
-    $('#zoom-level').value=zoom===1?'Fit':`${Math.round(zoom*100)}%`;
-    $('#zoom-out').disabled=zoom===1; $('#zoom-in').disabled=zoom===6;
-    viewport.scrollLeft=Math.max(0,centerX*newWidth-viewport.clientWidth/2);
-    viewport.scrollTop=Math.max(0,centerY*newWidth*.75-viewport.clientHeight/2);
+
+  const dialog=$('#atlas-dialog'),viewport=$('#atlas-viewport'),atlas=$('#atlas-full'),status=$('#atlas-status'),recovery=$('#atlas-recovery');
+  let zoom=1,fitWidth=0,loaded=false,loading=false,opener=null;
+  const zoomButtons=[$('#zoom-in'),$('#zoom-out'),$('#zoom-reset')];
+  function applyZoom(next){
+    if(!loaded)return;
+    const oldWidth=atlas.clientWidth,centerX=(viewport.scrollLeft+viewport.clientWidth/2)/Math.max(1,oldWidth),centerY=(viewport.scrollTop+viewport.clientHeight/2)/Math.max(1,oldWidth*.75);
+    zoom=Math.max(1,Math.min(6,next));fitWidth=Math.max(1,Math.min(viewport.clientWidth-20,(viewport.clientHeight-20)*4/3));const width=fitWidth*zoom;
+    atlas.style.width=width+'px';$('#zoom-level').value=zoom===1?'Fit':Math.round(zoom*100)+'%';
+    $('#zoom-out').disabled=zoom===1;$('#zoom-in').disabled=zoom===6;$('#zoom-reset').disabled=false;
+    viewport.scrollLeft=zoom===1?0:Math.max(0,centerX*width-viewport.clientWidth/2);viewport.scrollTop=zoom===1?0:Math.max(0,centerY*width*.75-viewport.clientHeight/2);
   }
-  function openAtlas(event) {
-    if (!dialog?.showModal) return;
-    event.preventDefault(); dialog.showModal();
-    document.documentElement.style.overflow='hidden';
-    fitWidth=Math.min(viewport.clientWidth-16,(viewport.clientHeight-16)*4/3);
-    applyZoom(1); $('#atlas-close').focus();
+  function loadAtlas(){
+    if(loaded){applyZoom(1);return;}if(loading)return;
+    loading=true;viewport.setAttribute('aria-busy','true');status.hidden=false;status.textContent='Loading the original 8K atlas…';recovery.hidden=true;atlas.hidden=true;zoomButtons.forEach(b=>b.disabled=true);
+    atlas.src=atlas.dataset.src;
   }
-  $('#atlas-open')?.addEventListener('click',openAtlas); $('#atlas-expand')?.addEventListener('click',openAtlas);
+  atlas?.addEventListener('load',()=>{if(!atlas.naturalWidth)return;loaded=true;loading=false;viewport.removeAttribute('aria-busy');atlas.hidden=false;status.textContent='Atlas loaded.';status.hidden=true;if(dialog.open)applyZoom(1);});
+  atlas?.addEventListener('error',()=>{loaded=false;loading=false;viewport.removeAttribute('aria-busy');atlas.hidden=true;status.hidden=false;status.textContent='The original atlas could not be loaded. Try again or open its direct link.';recovery.hidden=false;zoomButtons.forEach(b=>b.disabled=true);});
+  function openAtlas(event){
+    if(!dialog?.showModal)return;event.preventDefault();opener=event.currentTarget;dialog.showModal();document.documentElement.style.overflow='hidden';loadAtlas();$('#atlas-close').focus();
+  }
+  $('#atlas-open')?.addEventListener('click',openAtlas);$('#atlas-expand')?.addEventListener('click',openAtlas);
   $('#atlas-close')?.addEventListener('click',()=>dialog.close());
-  dialog?.addEventListener('close',()=>{ document.documentElement.style.overflow=''; });
-  $('#zoom-in')?.addEventListener('click',()=>applyZoom(zoom+1));
-  $('#zoom-out')?.addEventListener('click',()=>applyZoom(zoom-1));
-  $('#zoom-reset')?.addEventListener('click',()=>applyZoom(1));
-  if(viewport) new ResizeObserver(()=>{if(dialog.open){fitWidth=Math.min(viewport.clientWidth-16,(viewport.clientHeight-16)*4/3);applyZoom(zoom);}}).observe(viewport);
+  dialog?.addEventListener('close',()=>{document.documentElement.style.overflow='';opener?.focus({preventScroll:true});});
+  $('#atlas-retry')?.addEventListener('click',()=>{atlas.removeAttribute('src');loadAtlas();});
+  $('#zoom-in')?.addEventListener('click',()=>applyZoom(zoom+1));$('#zoom-out')?.addEventListener('click',()=>applyZoom(zoom-1));$('#zoom-reset')?.addEventListener('click',()=>applyZoom(1));
+  if(viewport)new ResizeObserver(()=>{if(dialog.open&&loaded)applyZoom(zoom);}).observe(viewport);
 })();

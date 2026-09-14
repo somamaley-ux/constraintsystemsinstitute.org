@@ -7,13 +7,6 @@
   <meta name="description" content="Why does change have a direction, and what makes something a clock? Explore the AASC time pair and WDW 10's matter, local-volume, and curvature clocks in a plain-language guided tour.">
   <meta name="author" content="Amos Jay Maley">
   <meta name="theme-color" content="#1b191c">
-  <meta property="og:type" content="website">
-  <meta property="og:title" content="The Arrow & the Clock">
-  <meta property="og:description" content="A direction without a master clock. Explore the time pair and three different physical clock constructions.">
-  <meta property="og:url" content="https://constraintsystemsinstitute.org/time/">
-  <meta property="og:image" content="https://constraintsystemsinstitute.org/assets/time-poster.webp">
-  <meta property="og:image:alt" content="Three distinct clock-profile motifs above a common line of retained events.">
-  <meta name="twitter:card" content="summary_large_image">
   <link rel="canonical" href="https://constraintsystemsinstitute.org/time/">
   <link rel="icon" href="../favicon.ico">
   <link rel="stylesheet" href="../styles.css">
@@ -27,6 +20,23 @@
   <!-- TIME_METADATA -->
 <script type="application/ld+json">{"@context":"https://schema.org","@type":"CollectionPage","name":"The Arrow & the Clock","url":"https://constraintsystemsinstitute.org/time/","inLanguage":"en","author":{"@type":"Person","name":"Amos Jay Maley"},"description":"A guided tour of the AASC time pair and the three local profile clocks constructed in WDW 10.","hasPart":[{"@type":"ScholarlyArticle","name":"The Arrow of Time as Standing Monotonicity","url":"https://constraintsystemsinstitute.org/papers/the-arrow-of-time-as-standing-monotonicity-10-5281-zenodo-20678464/","identifier":"10.5281/zenodo.20678464"},{"@type":"ScholarlyArticle","name":"The Physical Clock as a Quotient","url":"https://constraintsystemsinstitute.org/papers/the-physical-clock-as-a-quotient-10-5281-zenodo-20833048/","identifier":"10.5281/zenodo.20833048"},{"@type":"ScholarlyArticle","name":"WDW 10: Global Clock-Neutral Relational Descent and Universality Closure","url":"https://constraintsystemsinstitute.org/papers/wdw-10-global-clock-neutral-relational-descent-and-universality-closure-10-5281-zenodo/","identifier":"10.5281/zenodo.21827349"}]}</script>
 <!-- /TIME_METADATA -->
+<link rel="apple-touch-icon" href="/apple-touch-icon.png">
+<meta property="og:type" content="website">
+<meta property="og:site_name" content="Constraint Systems Institute">
+<meta property="og:title" content="The Arrow of Time and the Physical Clock | Constraint Systems Institute">
+<meta property="og:description" content="Why does change have a direction, and what makes something a clock? Explore the AASC time pair and WDW 10's matter, local-volume, and curvature clocks in a plain-language guided tour.">
+<meta property="og:url" content="https://constraintsystemsinstitute.org/time/">
+<meta property="og:image" content="https://constraintsystemsinstitute.org/assets/social/time.jpg">
+<meta property="og:image:width" content="1200">
+<meta property="og:image:height" content="630">
+<meta property="og:image:type" content="image/jpeg">
+<meta property="og:image:alt" content="The Arrow of Time and the Physical Clock — a guided tour from Constraint Systems Institute">
+<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:title" content="The Arrow of Time and the Physical Clock | Constraint Systems Institute">
+<meta name="twitter:description" content="Why does change have a direction, and what makes something a clock? Explore the AASC time pair and WDW 10's matter, local-volume, and curvature clocks in a plain-language guided tour.">
+<meta name="twitter:image" content="https://constraintsystemsinstitute.org/assets/social/time.jpg">
+<meta name="twitter:image:alt" content="The Arrow of Time and the Physical Clock — a guided tour from Constraint Systems Institute">
+<link rel="stylesheet" href="/assets/site-quality.css">
 </head>
 <body class="sm-tour time-tour">
   <a class="skip-link" href="#time-problem">Skip to the tour</a>
@@ -44,7 +54,7 @@
       </div>
       <div class="time-hero-scene">
         <div class="time-scene" data-time-scene data-motion-control="time-hero-motion">
-          <img class="time-poster" src="../assets/time-poster.webp" width="1200" height="360" alt="Matter, local-volume, and curvature motifs connected to one oriented sequence of events.">
+          <img class="time-poster" src="/assets/responsive/time-poster-960.webp" width="1200" height="360" alt="Matter, local-volume, and curvature motifs connected to one oriented sequence of events." srcset="/assets/responsive/time-poster-480.webp 480w, /assets/responsive/time-poster-960.webp 960w" sizes="(max-width: 1200px) calc(100vw - 48px), 1160px" decoding="async" loading="eager">
           <canvas aria-hidden="true"></canvas>
           <div class="time-scene-labels" aria-hidden="true"><span>Matter</span><span>Local volume</span><span>Curvature</span></div>
           <button class="time-motion" id="time-hero-motion" type="button" hidden title="Pause time animation" aria-label="Pause time animation" aria-pressed="false"><i data-lucide="pause" aria-hidden="true"></i></button>
@@ -52,7 +62,6 @@
       </div>
       <div class="opening-footer wrap"><a class="text-link" href="#time-problem">Why is time a problem? <i data-lucide="arrow-down" aria-hidden="true"></i></a><span>Two foundational papers. Three constructed clocks.</span></div>
     </section>
-
     <section class="chapter wrap time-prologue" id="time-problem" aria-labelledby="time-problem-title">
       <div class="chapter-heading"><p class="kicker">The starting question</p><h2 id="time-problem-title">Our clocks work.<br>Why is time a problem in physics?</h2></div>
       <div class="chapter-layout">
@@ -74,14 +83,12 @@
       <details class="technical-note"><summary>Background and scope</summary><div><p>The conventional problem-of-time background is discussed by <a href="https://arxiv.org/abs/0909.3767">Claus Kiefer, <em>Does time exist in quantum gravity?</em></a>, and <a href="https://arxiv.org/abs/2112.05788">Kiefer and Peter, <em>Time in quantum cosmology</em></a>. The key mismatch is background time versus dynamical spacetime, not simply that different observers' clocks show different readings. The absence of an external time parameter does not by itself say that nothing happens.</p><p>The AASC claims explained here are the time pair's directionality and clock-use results, followed by WDW 10's bounded three-clock construction. The arrow paper does not replace statistical mechanics, and WDW 10 does not claim one global clock or an all-regime solution of every problem of time. The following chapters keep those distinctions explicit.</p></div></details>
       <a class="chapter-next text-link" href="#direction">Start with an event and what it leaves behind <i data-lucide="arrow-down" aria-hidden="true"></i></a>
     </section>
-
     <nav class="chapter-nav" aria-label="Chapters"><div class="wrap">
       <a href="#direction" aria-current="step"><span>01</span> Direction</a>
       <a href="#clock-use"><span>02</span> A useful clock</a>
       <a href="#three-clocks"><span>03</span> Three clocks</a>
       <a href="#agreement"><span>04</span> Agreement</a>
     </div><div class="reading-progress" aria-hidden="true"><span id="reading-progress"></span></div></nav>
-
     <section class="chapter wrap" id="direction" aria-labelledby="direction-title">
       <div class="chapter-heading"><p class="kicker">01 / The Arrow of Time as Standing Monotonicity</p><h2 id="direction-title">Back to the same state.<br>Not back to the same history.</h2></div>
       <div class="chapter-layout">
@@ -108,7 +115,6 @@
       <p class="chapter-reading"><a href="#paper-arrow">Read the arrow-of-time paper <i data-lucide="file-text" aria-hidden="true"></i></a></p>
       <a class="chapter-next text-link" href="#clock-use">So what makes something a clock? <i data-lucide="arrow-down" aria-hidden="true"></i></a>
     </section>
-
     <section class="chapter band" id="clock-use" aria-labelledby="clock-use-title"><div class="wrap">
       <div class="chapter-heading"><p class="kicker">02 / The Physical Clock as a Quotient</p><h2 id="clock-use-title">A clock is a usable physical reference.<br>Not just a number that changes.</h2></div>
       <div class="chapter-layout">
@@ -133,7 +139,6 @@
       <p class="chapter-reading"><a href="#paper-clock">Read the physical-clock paper <i data-lucide="file-text" aria-hidden="true"></i></a></p>
       <a class="chapter-next text-link" href="#three-clocks">Can different physical quantities serve as clocks? <i data-lucide="arrow-down" aria-hidden="true"></i></a>
     </div></section>
-
     <section class="chapter wrap" id="three-clocks" aria-labelledby="three-clocks-title">
       <div class="chapter-heading"><p class="kicker">03 / The constructive step in WDW 10</p><h2 id="three-clocks-title">Matter can be a clock.<br>So can aspects of spatial geometry.</h2></div>
       <p class="lead-copy">The time pair establishes the distinction and the rules. WDW 10 takes a further step: on its specified gravity-and-scalar-matter construction, it builds three different local clock descriptions and the maps that relate them.</p>
@@ -154,7 +159,6 @@
       <p class="chapter-reading"><a href="#paper-wdw10">Read WDW 10 <i data-lucide="file-text" aria-hidden="true"></i></a><a href="../gravity-quantum/index.html#clocks">The full Wheeler&ndash;DeWitt dependency branch <i data-lucide="arrow-up-right" aria-hidden="true"></i></a></p>
       <a class="chapter-next text-link" href="#agreement">What has to stay the same between clocks? <i data-lucide="arrow-down" aria-hidden="true"></i></a>
     </section>
-
     <section class="chapter band" id="agreement" aria-labelledby="agreement-title"><div class="wrap">
       <div class="chapter-heading"><p class="kicker">04 / Agreement without a preferred clock</p><h2 id="agreement-title">Change the clock description.<br>Keep the physical account.</h2></div>
       <div class="chapter-layout">
@@ -176,7 +180,6 @@
       <details class="technical-note"><summary>Why this is not a universal-clock claim</summary><div><p>The clock paper's section 17.3 states a compatibility criterion, not the existence of a clock atlas. WDW 10 supplies a constructed three-chart example with source-preserving transitions, triple-overlap coherence, and clock-neutral descent. The physical and enriched transitions are built before the common object is formed.</p><p>The direct transition agrees with the composed transition on the common overlap; the physical form, represented algebra, records, operator domains, continuation, first failures, and source markings are preserved. This does not identify different profiles, manufacture a global monotonic scalar clock, or extend the clockable domain beyond the inherited scalar-chart locus. It is not a full-superspace or all-regime quantum-gravity claim.</p></div></details>
       <a class="chapter-next text-link" href="#papers">Follow the argument in the papers <i data-lucide="arrow-down" aria-hidden="true"></i></a>
     </div></section>
-
     <section class="chapter wrap" id="papers" aria-labelledby="papers-title">
       <div class="chapter-heading"><p class="kicker">Read the research</p><h2 id="papers-title">The pair, then the construction.</h2></div>
       <p class="lead-copy">The first two papers are the time pair. WDW 10 is the later constructive support, with its own gravity&ndash;quantum dependencies and more specific target.</p>
@@ -189,5 +192,8 @@
     </section>
   </main>
   <footer class="tour-footer wrap"><a href="../index.html#time-pair">Return to the time pair</a><a href="../gravity-quantum/index.html">Explore gravity and quantum theory</a><a href="mailto:amos@constraintsystemsinstitute.org">Contact Amos Jay Maley</a></footer>
+<!-- SITE_INFORMATION -->
+<nav class="site-information-footer" aria-label="Website information"><a href="/privacy/">Privacy</a><a href="/using-the-research/">Citation &amp; reuse</a><a href="mailto:amos@constraintsystemsinstitute.org">Contact</a></nav>
+<!-- /SITE_INFORMATION -->
 </body>
 </html>

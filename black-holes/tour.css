@@ -1,5 +1,5 @@
 .bh-tour { --blue: #a5c9ce; --copper: #d6a18d; --green: #b7c8a5; --muted: #c2b9b8; background: #1b191c; }
-.bh-tour .tour-opening { padding-top: 35px; background-image: url('../assets/banner.jpg'); background-color: #242023; background-size: 1500px auto; }
+.bh-tour .tour-opening { padding-top: 35px; background-image: var(--site-banner); background-color: #242023; background-size: 1500px auto; }
 .bh-tour .opening-copy { text-align: center; }
 .bh-tour h1 { margin: 0; font-size: 4.3rem; }
 .bh-tour .opening-line { font-size: 1.6rem; margin: 10px 0 14px; }

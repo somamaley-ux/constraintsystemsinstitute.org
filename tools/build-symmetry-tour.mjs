@@ -35,3 +35,6 @@ let sitemap=fs.readFileSync(path.join(root,'sitemap.xml'),'utf8');
 if(!sitemap.includes(`<loc>${origin}/symmetry/</loc>`))sitemap=sitemap.replace('</urlset>',`  <url><loc>${origin}/symmetry/</loc><lastmod>2026-09-11</lastmod></url>\n</urlset>`);
 fs.writeFileSync(path.join(root,'sitemap.xml'),sitemap);
 console.log(`Built symmetry tour metadata, ${records.length} paper entries, homepage links and existing archive records.`);
+
+// Keep generated records consistent with the archive's shared publication setup.
+await import('./prepare-site.mjs');

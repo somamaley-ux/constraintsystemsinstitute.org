@@ -7,10 +7,6 @@
   <meta name="description" content="Explore the AASC black-hole arc: matter and energy after external standing is lost, increasing degeneracy, the exhaustion of spacetime, and a fresh interior beyond a non-transmissive AMetric boundary.">
   <meta name="author" content="Amos Jay Maley">
   <meta name="theme-color" content="#1b191c">
-  <meta property="og:type" content="website">
-  <meta property="og:title" content="Black Holes: The Limits of Spacetime">
-  <meta property="og:description" content="Matter, energy and spacetime reach their limit. Nothing crosses the new boundary, but the necessary foundations begin anew. A guided tour of the AASC black-hole arc.">
-  <meta property="og:url" content="https://constraintsystemsinstitute.org/black-holes/">
   <link rel="canonical" href="https://constraintsystemsinstitute.org/black-holes/">
   <link rel="icon" href="../favicon.ico">
   <link rel="stylesheet" href="../styles.css">
@@ -24,6 +20,23 @@
 <!-- TOUR_METADATA -->
 <script type="application/ld+json">{"@context":"https://schema.org","@type":"CollectionPage","name":"Black Holes: The Limits of Spacetime","url":"https://constraintsystemsinstitute.org/black-holes/","inLanguage":"en","author":{"@type":"Person","name":"Amos Jay Maley"},"description":"A plain-language reading of the five-paper AASC black-hole arc: matter-energy degeneracy, the exhaustion of metric support, a non-transmissive AMetric boundary and fresh internal governance.","hasPart":[{"@type":"ScholarlyArticle","name":"Black Holes as Licensed Limit Regimes","url":"https://constraintsystemsinstitute.org/papers/black-holes-as-licensed-limit-regimes-black-hole-arc-0-10-5281-zenodo-20727174/","identifier":"10.5281/zenodo.20727174"},{"@type":"ScholarlyArticle","name":"Horizon Instability as an Admissible Reconstruction Obstruction","url":"https://constraintsystemsinstitute.org/papers/horizon-instability-as-an-admissible-reconstruction-obstruction-black-hole-arc-1-10-52/","identifier":"10.5281/zenodo.20073764"},{"@type":"ScholarlyArticle","name":"Standingless Interiors and Residual Coherence","url":"https://constraintsystemsinstitute.org/papers/standingless-interiors-and-residual-coherence-black-hole-arc-2-10-5281-zenodo-20727246/","identifier":"10.5281/zenodo.20727246"},{"@type":"ScholarlyArticle","name":"AMetric Normal-Form Homology","url":"https://constraintsystemsinstitute.org/papers/ametric-normal-form-homology-black-hole-arc-3-10-5281-zenodo-20835451/","identifier":"10.5281/zenodo.20835451"},{"@type":"ScholarlyArticle","name":"Black Holes as Constraint-Forced Origins","url":"https://constraintsystemsinstitute.org/papers/black-holes-as-constraint-forced-origins-black-hole-arc-4-10-5281-zenodo-21053982/","identifier":"10.5281/zenodo.21053982"}]}</script>
 <!-- /TOUR_METADATA -->
+<link rel="apple-touch-icon" href="/apple-touch-icon.png">
+<meta property="og:type" content="website">
+<meta property="og:site_name" content="Constraint Systems Institute">
+<meta property="og:title" content="Black Holes: The Limits of Spacetime | Constraint Systems Institute">
+<meta property="og:description" content="Explore the AASC black-hole arc: matter and energy after external standing is lost, increasing degeneracy, the exhaustion of spacetime, and a fresh interior beyond a non-transmissive AMetric boundary.">
+<meta property="og:url" content="https://constraintsystemsinstitute.org/black-holes/">
+<meta property="og:image" content="https://constraintsystemsinstitute.org/assets/social/black-holes.jpg">
+<meta property="og:image:width" content="1200">
+<meta property="og:image:height" content="630">
+<meta property="og:image:type" content="image/jpeg">
+<meta property="og:image:alt" content="Black Holes: The Limits of Spacetime — a guided tour from Constraint Systems Institute">
+<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:title" content="Black Holes: The Limits of Spacetime | Constraint Systems Institute">
+<meta name="twitter:description" content="Explore the AASC black-hole arc: matter and energy after external standing is lost, increasing degeneracy, the exhaustion of spacetime, and a fresh interior beyond a non-transmissive AMetric boundary.">
+<meta name="twitter:image" content="https://constraintsystemsinstitute.org/assets/social/black-holes.jpg">
+<meta name="twitter:image:alt" content="Black Holes: The Limits of Spacetime — a guided tour from Constraint Systems Institute">
+<link rel="stylesheet" href="/assets/site-quality.css">
 </head>
 <body class="sm-tour bh-tour">
   <a class="skip-link" href="#overview">Skip to the tour</a>
@@ -40,13 +53,12 @@
         <p class="opening-intro">Matter and energy lose their familiar roles. Spacetime itself reaches its limit. Nothing crosses the new boundary, but the necessary foundations begin anew. This is the AASC black-hole arc.</p>
       </div>
       <div class="hero-scene black-hole-scene wrap" data-black-hole-scene data-motion-control="hero-motion">
-        <img class="black-hole-poster" src="../assets/black-hole-poster.webp" width="1200" height="360" alt="A stylized black hole with a luminous silver and rose-colored disk.">
+        <img class="black-hole-poster" src="/assets/responsive/black-hole-poster-960.webp" width="1200" height="360" alt="A stylized black hole with a luminous silver and rose-colored disk." srcset="/assets/responsive/black-hole-poster-480.webp 480w, /assets/responsive/black-hole-poster-960.webp 960w" sizes="(max-width: 1200px) calc(100vw - 48px), 1160px" decoding="async" loading="eager">
         <canvas aria-hidden="true"></canvas>
         <button class="black-hole-motion" id="hero-motion" type="button" hidden aria-label="Pause black-hole animation" title="Pause black-hole animation" aria-pressed="false"><i data-lucide="pause" aria-hidden="true"></i></button>
       </div>
       <div class="opening-footer wrap"><a class="text-link" href="#horizons">Begin at the horizon <i data-lucide="arrow-down" aria-hidden="true"></i></a><span>One story. Five papers.</span></div>
     </section>
-
     <nav class="chapter-nav" aria-label="Chapters"><div class="wrap">
       <a href="#horizons" aria-current="step"><span>01</span> Crossing</a>
       <a href="#reconstruction"><span>02</span> Matter</a>
@@ -54,7 +66,6 @@
       <a href="#boundary"><span>04</span> Boundary</a>
       <a href="#origins"><span>05</span> Beginning</a>
     </div><div class="reading-progress" aria-hidden="true"><span id="reading-progress"></span></div></nav>
-
     <section class="chapter wrap" id="horizons" aria-labelledby="horizon-title">
       <div class="chapter-heading"><p class="kicker">01 / Crossing the horizon</p><h2 id="horizon-title">Not just hidden.<br>The link to the outside is broken.</h2></div>
       <div class="chapter-layout">
@@ -71,7 +82,6 @@
       <details class="technical-note"><summary>The precise claim and its limits</summary><div><p>Paper 0 separates classical black-hole geometry from same-scope, standing-preserving exterior reconstruction. "Standing" is not merely an observer's knowledge: the declared structure must support identifying a target again and using it consistently. The exterior mass, charge and angular-momentum roles do not by themselves supply the required reconstruction map.</p><p>The kernel is not an optional overlay. A non-degenerate determinate construction is kernel-governed. The later results also require the particular reconstruction and endpoint conditions established in the arc. They do not deny classical horizon geometry or calculate a Hawking spectrum, Page curve or interior microdynamics.</p><a class="source-ref" href="pdf/bh-0.pdf#page=11">Paper 0 / Read the full treatment <i data-lucide="arrow-up-right" aria-hidden="true"></i></a></div></details>
       <a class="chapter-next text-link" href="#reconstruction">What happens to matter and energy? <i data-lucide="arrow-down" aria-hidden="true"></i></a>
     </section>
-
     <section class="chapter band" id="reconstruction" aria-labelledby="reconstruction-title"><div class="wrap">
       <div class="chapter-heading"><p class="kicker">02 / Matter and energy become degenerate</p><h2 id="reconstruction-title">The pattern can remain.<br>Its familiar physical meaning cannot be assumed.</h2></div>
       <div class="chapter-layout">
@@ -90,7 +100,6 @@
       <details class="technical-note"><summary>The precise claim: matter-energy residualization</summary><div><p>Paper I establishes the fixed-exterior-scope no-totalization obstruction. A genuine leakage route, reconstruction certificate or explicitly richer governance must be accounted for; global storage without a witness map does not resolve the burden.</p><p>Paper II's Matter-Energy Residualization Theorem classifies retained matter-energy descriptions as residual source, field, particle, transport and deformation coherence after standing loss without new governance. Standing is bivalent; residual coherence can vary by role and ancestry. This is neither a measured destruction of matter nor a local stress-energy discontinuity. The licensed AASC-GR projection retains its proper local role; an energy-conservation ledger does not acquire full same-scope support merely because it remains writable.</p><a class="source-ref" href="pdf/bh-1.pdf#page=28">Paper I / Exterior standing loss <i data-lucide="arrow-up-right" aria-hidden="true"></i></a><a class="source-ref" href="pdf/bh-2.pdf#page=40">Paper II / Matter, energy and source roles <i data-lucide="arrow-up-right" aria-hidden="true"></i></a></div></details>
       <a class="chapter-next text-link" href="#residual">And what happens to space and time? <i data-lucide="arrow-down" aria-hidden="true"></i></a>
     </div></section>
-
     <section class="chapter wrap" id="residual" aria-labelledby="residual-title">
       <div class="chapter-heading"><p class="kicker">03 / Increasing governance-depth</p><h2 id="residual-title">Eventually, even distance and time lose their basis.</h2></div>
       <div class="chapter-layout">
@@ -109,7 +118,6 @@
       <details class="technical-note"><summary>Governance-depth is not a distance into the hole</summary><div><p>Paper II defines governance-depth by the inclusion ordering of residual successor-support classes. Higher depth means thinner support for continuations retaining the relevant role coherence. It is not a radial coordinate, proper time, curvature magnitude or dynamical decay law.</p><p>Metric expressions and local equations can remain writable while lacking full old-scope role licensing for the crossed content. Metric exhaustion is necessary to the endpoint argument, but it is not alone the complete AMetric-boundary theorem. Paper III also establishes the remaining profile coordinates and closes the alternative routes.</p><a class="source-ref" href="pdf/bh-2.pdf#page=34">Paper II / Metricity and governance-depth <i data-lucide="arrow-up-right" aria-hidden="true"></i></a></div></details>
       <a class="chapter-next text-link" href="#boundary">What is left at that limit? <i data-lucide="arrow-down" aria-hidden="true"></i></a>
     </section>
-
     <section class="chapter band" id="boundary" aria-labelledby="boundary-title"><div class="wrap">
       <div class="chapter-heading"><p class="kicker">04 / The new AMetric boundary</p><h2 id="boundary-title">An end with the structure of a beginning.</h2></div>
       <div class="chapter-copy boundary-copy">
@@ -125,7 +133,6 @@
       <details class="technical-note"><summary>The precise result: AMetric profile homology</summary><div><p>Paper III first subtracts every burden resolved by a genuine exterior witness. Theorem 5.9 requires a nonempty remaining residue, undefined old-scope standing transport, exhausted residual metric-successor support, no independent residue-level re-governance before exhaustion, closed endpoint alternatives and unavailable admitted nullity. A remaining recovery route or supported metric continuation means this endpoint target has not yet been established.</p><p>Table 6 and Theorem 6.2 establish equal complete AMetric role profiles for distinct origin and endpoint boundary tokens. The comparison covers metric, temporal, causal, operator, selector, transport, valuation, repair, gating and self-authorization coordinates, with the null route closed. It is not a temporal cycle, wormhole, transfer mechanism or populated successor.</p><a class="source-ref" href="pdf/bh-3.pdf#page=23">Paper III / Endpoint and origin comparison <i data-lucide="arrow-up-right" aria-hidden="true"></i></a></div></details>
       <a class="chapter-next text-link" href="#origins">How can there be a fresh beginning? <i data-lucide="arrow-down" aria-hidden="true"></i></a>
     </div></section>
-
     <section class="chapter wrap" id="origins" aria-labelledby="origins-title">
       <div class="chapter-heading"><p class="kicker">05 / The necessary roles begin anew</p><h2 id="origins-title">A fresh interior.<br>The same basic roles, established anew.</h2></div>
       <div class="chapter-layout">
@@ -142,9 +149,7 @@
       </div>
       <details class="technical-note"><summary>Exactly what the final theorem establishes</summary><div><p>Paper IV's Theorem 6.2 uses antecedents A1-A9 and the Completed Closure Register Lemma. The surviving counter-boundary status-class is unique up to governance equivalence and is represented by a token-distinct domain with its own kernel and AMetric licensing profile. The required constraint roles recur by necessity, not by transmission.</p><p>This is status-existence, not the selection of a populated cosmology. Further physical or Standard Model content requires its own additional target conditions. No causal production, bounce, tunneling or transfer mechanism is derived, and merely identifying an astronomical black hole does not establish every antecedent of the endpoint theorem.</p><a class="source-ref" href="pdf/bh-4.pdf#page=26">Paper IV / The final theorem <i data-lucide="arrow-up-right" aria-hidden="true"></i></a></div></details>
     </section>
-
     <section class="chapter band" id="argument" aria-labelledby="argument-title"><div class="wrap argument-recap"><p class="kicker">The story in one line</p><h2 id="argument-title">Lost standing. Degenerate physical roles. An AMetric limit. Fresh foundations.</h2><p>Matter and energy lose their former support. With increasing governance-depth, metricity itself is exhausted. Nothing crosses the resulting boundary, yet the necessary roles begin anew in a fresh interior.</p><p class="figure-note">This is the arc's structural argument under its stated conditions, not a timed simulation of falling into a black hole.</p></div></section>
-
     <section class="chapter wrap" id="papers" aria-labelledby="papers-title"><div class="chapter-heading"><p class="kicker">The complete five-paper arc</p><h2 id="papers-title">The papers behind the tour.</h2></div><p class="lead-copy">Read the manuscripts for the full definitions, conditions and proofs. Each DOI points to the latest version; the PDFs are the published versions used for this tour.</p><div id="paper-catalogue"><!-- BLACK_HOLE_PAPERS -->
 <article class="paper-entry"><span class="paper-code">Paper 0</span><div><h3><a href="../papers/black-holes-as-licensed-limit-regimes-black-hole-arc-0-10-5281-zenodo-20727174/index.html">Black Holes as Licensed Limit Regimes</a></h3><p>Sets the starting point: a black hole&#39;s mass, charge and spin can be described from outside without automatically recovering the individual things that crossed its horizon.</p><div class="paper-links"><a href="pdf/bh-0.pdf"><i data-lucide="file-text" aria-hidden="true"></i>Read PDF</a><a href="https://doi.org/10.5281/zenodo.20727174">All-versions DOI<i data-lucide="arrow-up-right" aria-hidden="true"></i></a><a href="pdf/bh-0.pdf" download title="Download Paper 0" aria-label="Download Paper 0"><i data-lucide="download" aria-hidden="true"></i></a></div><p class="paper-source-sections">Sections 1.3, 4-6, 8-10; formalization boundary in Appendix H</p></div></article>
 <article class="paper-entry"><span class="paper-code">Paper 1</span><div><h3><a href="../papers/horizon-instability-as-an-admissible-reconstruction-obstruction-black-hole-arc-1-10-52/index.html">Horizon Instability as an Admissible Reconstruction Obstruction</a></h3><p>Establishes the loss of the exterior connection when no genuine recovery route is available. Saying that information is still stored inside does not restore that connection.</p><div class="paper-links"><a href="pdf/bh-1.pdf"><i data-lucide="file-text" aria-hidden="true"></i>Read PDF</a><a href="https://doi.org/10.5281/zenodo.20073764">All-versions DOI<i data-lucide="arrow-up-right" aria-hidden="true"></i></a><a href="pdf/bh-1.pdf" download title="Download Paper 1" aria-label="Download Paper 1"><i data-lucide="download" aria-hidden="true"></i></a></div><p class="paper-source-sections">Sections 8, 12-15; the finite example follows Definition 14.2 and Theorem 14.4</p></div></article>
@@ -155,5 +160,8 @@
     <section class="tour-connection"><div class="wrap"><p class="kicker">Continue exploring</p><a href="../standard-model/index.html"><span>Standard Model</span><span>The particles and responses of the physical world <i data-lucide="arrow-up-right" aria-hidden="true"></i></span></a></div></section>
   </main>
   <footer class="tour-footer wrap"><a href="../index.html#black-hole-arc">Return to the research archive</a><a href="mailto:amos@constraintsystemsinstitute.org">amos@constraintsystemsinstitute.org</a></footer>
+<!-- SITE_INFORMATION -->
+<nav class="site-information-footer" aria-label="Website information"><a href="/privacy/">Privacy</a><a href="/using-the-research/">Citation &amp; reuse</a><a href="mailto:amos@constraintsystemsinstitute.org">Contact</a></nav>
+<!-- /SITE_INFORMATION -->
 </body>
 </html>

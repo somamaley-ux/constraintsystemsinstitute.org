@@ -49,3 +49,6 @@ const marker='<!-- TOUR_METADATA -->';
 if (!html.includes(marker)) html=html.replace('</head>', `${marker}\n<script type="application/ld+json">${JSON.stringify(metadata).replaceAll('<','\\u003c')}</script>\n<!-- /TOUR_METADATA -->\n</head>`);
 fs.writeFileSync(htmlPath, html);
 console.log('Built the black-hole tour catalogue, verified five published PDF versions, and linked the five existing manuscript records.');
+
+// Keep generated records consistent with the archive's shared publication setup.
+await import('./prepare-site.mjs');

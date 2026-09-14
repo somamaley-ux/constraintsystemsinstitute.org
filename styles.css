@@ -66,7 +66,7 @@ body::after {
   position: fixed;
   inset: 0;
   z-index: -1;
-  background: url("assets/constraint-seal.png") center 110px / min(72vw, 760px) auto no-repeat;
+  background: var(--site-seal) center 110px / min(72vw, 760px) auto no-repeat;
   content: "";
   filter: grayscale(1) contrast(0.9);
   opacity: 0.11;
@@ -112,7 +112,7 @@ a {
   height: 28px;
   border: 1px solid var(--silver);
   border-radius: 50%;
-  background: url("assets/constraint-seal.png") center / cover;
+  background: var(--site-seal) center / cover;
   box-shadow: 0 0 18px rgba(216, 210, 204, 0.24);
 }
 
@@ -413,7 +413,7 @@ h3 {
   min-height: 100vh;
   background:
     linear-gradient(rgba(17, 17, 18, 0.72), rgba(17, 17, 18, 0.92)),
-    url("assets/banner.jpg") top center / cover fixed,
+    var(--site-banner) top center / cover fixed,
     var(--ink);
 }
 
@@ -530,7 +530,7 @@ h3 {
   border-radius: 8px;
   background:
     linear-gradient(rgba(15, 15, 17, 0.7), rgba(15, 15, 17, 0.84)),
-    url("assets/banner.jpg") center / cover;
+    var(--site-banner) center / cover;
   box-shadow: var(--shadow);
 }
 
@@ -781,7 +781,7 @@ h3 {
 .featured-arc {
   background:
     linear-gradient(rgba(18, 18, 20, 0.58), rgba(18, 18, 20, 0.78)),
-    url("assets/banner.jpg") center / cover;
+    var(--site-banner) center / cover;
 }
 
 .arc-card h3 {
@@ -850,7 +850,7 @@ h3 {
   border-color: rgba(244, 240, 236, 0.44);
   background:
     linear-gradient(rgba(18, 18, 20, 0.5), rgba(18, 18, 20, 0.82)),
-    url("assets/banner.jpg") center / cover;
+    var(--site-banner) center / cover;
 }
 
 .millennium-card,
@@ -867,7 +867,7 @@ h3 {
   background:
     radial-gradient(circle at 18% 8%, rgba(216, 210, 204, 0.18), transparent 34%),
     linear-gradient(rgba(18, 18, 20, 0.56), rgba(18, 18, 20, 0.84)),
-    url("assets/banner.jpg") center / cover;
+    var(--site-banner) center / cover;
 }
 
 .mind-agency-card {
@@ -1258,7 +1258,7 @@ h3 {
   min-height: 320px;
   background:
     linear-gradient(rgba(18, 18, 20, 0.58), rgba(18, 18, 20, 0.76)),
-    url("assets/banner.jpg") center / cover;
+    var(--site-banner) center / cover;
 }
 
 .doi-card h3 {
@@ -1516,7 +1516,7 @@ h3 {
   border: 1px solid rgba(216, 210, 204, 0.32);
   background:
     linear-gradient(rgba(18, 18, 20, 0.52), rgba(18, 18, 20, 0.7)),
-    url("assets/banner.jpg") center / cover;
+    var(--site-banner) center / cover;
   color: var(--white);
   box-shadow: var(--shadow);
 }

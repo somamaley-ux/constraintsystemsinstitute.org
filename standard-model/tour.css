@@ -21,7 +21,7 @@ html:has(.sm-tour) { scroll-padding-top: 0; }
 .sm-tour svg.lucide { width: 19px; height: 19px; flex: 0 0 auto; }
 .icon-button { display: inline-grid; place-items: center; width: 42px; height: 42px; flex: 0 0 42px; background: transparent; border: 1px solid var(--line); border-radius: 4px; }
 .icon-button:hover, .icon-button[aria-pressed=true] { background: #303034; border-color: var(--silver); }
-.tour-opening { padding-top: 42px; background: url('../assets/banner.jpg') center top / 1440px auto no-repeat; background-blend-mode: soft-light; background-color: #202023; }
+.tour-opening { padding-top: 42px; background: var(--site-banner) center top / 1440px auto no-repeat; background-blend-mode: soft-light; background-color: #202023; }
 .opening-copy { max-width: 1160px; }
 .kicker { color: var(--copper); text-transform: uppercase; font-size: .8125rem; font-weight: 650; margin: 0 0 18px; }
 .opening-line { font-family: Georgia, serif; font-size: 1.7rem; margin: 10px 0; color: var(--silver); }

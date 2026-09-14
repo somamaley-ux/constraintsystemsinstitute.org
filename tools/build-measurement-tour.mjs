@@ -43,3 +43,6 @@ const identifier=`oai:constraintsystemsinstitute.org:${slug}`;
 if(!oai.includes(identifier))oai=oai.replace('</ListRecords>',`<record><header><identifier>${identifier}</identifier><datestamp>2026-09-11</datestamp></header><metadata><oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/"><dc:title>${esc(title)}</dc:title><dc:creator>Maley, Amos Jay</dc:creator><dc:identifier>https://doi.org/${physical.doi}</dc:identifier><dc:identifier>${physical.url}</dc:identifier><dc:identifier>${physical.pdf}</dc:identifier><dc:description>${esc(description)}</dc:description><dc:type>Text</dc:type><dc:language>en</dc:language></oai_dc:dc></metadata></record>\n</ListRecords>`);
 fs.writeFileSync(path.join(root,'oai.xml'),oai);
 console.log('Built three measurement tour records and the supplied-manuscript archive entry.');
+
+// Keep generated records consistent with the archive's shared publication setup.
+await import('./prepare-site.mjs');

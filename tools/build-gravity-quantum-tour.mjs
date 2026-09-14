@@ -30,3 +30,6 @@ replaceBlock('<!-- PAPER_CATALOGUE -->', '<!-- /PAPER_CATALOGUE -->', catalogue)
 replaceBlock('<!-- TOUR_METADATA -->', '<!-- /TOUR_METADATA -->', `<script type="application/ld+json">${JSON.stringify(metadata).replaceAll('<', '\\u003c')}</script>`);
 fs.writeFileSync(target, html);
 console.log('Built 21 source-linked paper explanations and matching collection metadata.');
+
+// Keep generated records consistent with the archive's shared publication setup.
+await import('./prepare-site.mjs');

@@ -31,3 +31,6 @@ html=html.replace(/<!-- TIME_PAPERS -->[\s\S]*?<!-- \/TIME_PAPERS -->/,`<!-- TIM
 fs.writeFileSync(file,html);
 fs.writeFileSync(path.join(root,'time','papers.json'),JSON.stringify(entries,null,2)+'\n');
 console.log(`Generated ${entries.length} verified paper entries and time-tour metadata.`);
+
+// Keep generated records consistent with the archive's shared publication setup.
+await import('./prepare-site.mjs');

@@ -40,3 +40,6 @@ html=html.replace(/<!-- FOUNDATION_PAPERS -->[\s\S]*?<!-- \/FOUNDATION_PAPERS --
 fs.writeFileSync(file,html);
 fs.writeFileSync(path.join(root,'foundations/papers.json'),JSON.stringify(entries,null,2)+'\n');
 console.log(`Generated ${entries.length} verified foundation paper records.`);
+
+// Keep generated records consistent with the archive's shared publication setup.
+await import('./prepare-site.mjs');

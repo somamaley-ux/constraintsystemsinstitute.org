@@ -23,13 +23,14 @@ for (const paper of records) {
   fs.mkdirSync(target, { recursive: true });
   const url = `${origin}/standard-model/papers/${paper.id}/`;
   const pdf = `${origin}/standard-model/pdf/${paper.id}.pdf`;
-  const metadata = { '@context':'https://schema.org', '@type':'ScholarlyArticle', headline:paper.title, author:{'@type':'Person',name:'Amos Jay Maley'}, description:paper.description, url, ...(paper.doi ? {identifier:paper.doi,sameAs:paper.doi_url}:{}), inLanguage:'en', ...(paper.date ? {datePublished:paper.date}:{}), encoding:{'@type':'MediaObject',contentUrl:pdf,encodingFormat:'application/pdf'}, isPartOf:{'@type':'CollectionPage',name:'Standard Model guided tour',url:`${origin}/standard-model/`} };
+  const published=paper.zenodo_publication_date || paper.date;
+  const metadata = { '@context':'https://schema.org', '@type':'ScholarlyArticle', headline:paper.title, author:{'@type':'Person',name:'Amos Jay Maley'}, description:paper.description, url, ...(paper.doi ? {identifier:paper.doi,sameAs:paper.doi_url}:{}), inLanguage:'en', ...(published ? {datePublished:published}:{}), encoding:{'@type':'MediaObject',contentUrl:pdf,encodingFormat:'application/pdf'}, isPartOf:{'@type':'CollectionPage',name:'Standard Model guided tour',url:`${origin}/standard-model/`} };
   const html = `<!doctype html>
 <html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width, initial-scale=1">
 <title>${escape(paper.title)} | Constraint Systems Institute</title>
 <meta name="description" content="${escape(paper.description)}"><meta name="author" content="Amos Jay Maley">
 <meta name="citation_title" content="${escape(paper.title)}"><meta name="citation_author" content="Maley, Amos Jay">
-${paper.date ? `<meta name="citation_publication_date" content="${paper.date.replaceAll('-','/')}">` : ''}
+${published ? `<meta name="citation_publication_date" content="${published.replaceAll('-','/')}">` : ''}
 ${paper.doi ? `<meta name="citation_doi" content="${paper.doi}">` : ''}
 <meta name="citation_pdf_url" content="${pdf}"><meta name="citation_language" content="en">
 <link rel="canonical" href="${url}"><link rel="icon" href="../../../favicon.ico"><link rel="stylesheet" href="../../../styles.css"><link rel="stylesheet" href="../../tour.css">
@@ -37,7 +38,7 @@ ${paper.doi ? `<meta name="citation_doi" content="${paper.doi}">` : ''}
 <script data-goatcounter="https://constraintsystemsinstitute.goatcounter.com/count" async src="https://gc.zgo.at/count.js"></script>
 </head><body class="sm-tour">
 <header class="site-header tour-header"><a class="brand" href="../../../index.html"><span class="brand-mark" aria-hidden="true"></span><span>Constraint Systems<br>Institute</span></a><nav class="tour-nav" aria-label="Paper navigation"><a href="../../index.html#${paper.chapter}">Guided tour</a><a href="../../index.html#papers">The full arc</a></nav></header>
-<main class="sm-paper wrap"><p class="kicker">${escape(paper.code)} / ${escape(paper.group)}</p><h1>${escape(paper.title)}</h1><p class="paper-meta">Amos Jay Maley${paper.date ? ` / ${paper.date}` : ''} / Manuscript</p><div class="paper-description"><p>${escape(paper.description)}</p></div>
+<main class="sm-paper wrap"><p class="kicker">${escape(paper.code)} / ${escape(paper.group)}</p><h1>${escape(paper.title)}</h1><p class="paper-meta">Amos Jay Maley${paper.date ? ` / Manuscript dated ${paper.date}` : ''}${published ? ` / Published ${published}` : ''}</p><div class="paper-description"><p>${escape(paper.description)}</p></div>
 <div class="paper-actions">${paper.doi ? `<a class="text-link" href="${paper.doi_url}">All-versions DOI</a>` : ''}<a class="text-link" href="../../pdf/${paper.id}.pdf">Read the full paper (PDF)</a><a class="text-link" href="../../pdf/${paper.id}.pdf" download>Download PDF</a></div>
 <section class="chapter"><h2>Technical overview</h2><div class="paper-description"><p>${escape(paper.technical)}</p></div><a class="text-link" href="../../index.html#${paper.chapter}">Explore this part of the argument</a></section>
 </main><footer class="tour-footer wrap"><a href="../../../index.html">Constraint Systems Institute</a><a href="mailto:amos@constraintsystemsinstitute.org">Contact</a></footer></body></html>`;
@@ -63,6 +64,9 @@ if(home.includes(homeStart) && home.includes(homeEnd)) {
 }
 const sharedPath = path.join(root,'papers.json');
 const shared = JSON.parse(fs.readFileSync(sharedPath,'utf8')).filter(p => !p.url?.includes('/standard-model/papers/'));
-for(const p of records) shared.push({title:p.title,url:`${origin}/standard-model/papers/${p.id}/`,pdf_url:`${origin}/standard-model/pdf/${p.id}.pdf`,...(p.date?{date:p.date}:{}),context:`Standard Model / ${p.group}`,description:p.description,technical:p.technical,author:'Amos Jay Maley',doi:p.doi,doi_url:p.doi_url,zenodo_record:p.zenodo_record,zenodo_publication_date:p.zenodo_publication_date,keywords:`Standard Model, AASC, ${p.code}, ${p.group}`});
+for(const p of records) shared.push({title:p.title,url:`${origin}/standard-model/papers/${p.id}/`,pdf_url:`${origin}/standard-model/pdf/${p.id}.pdf`,...(p.zenodo_publication_date||p.date?{date:p.zenodo_publication_date||p.date}:{}),manuscript_date:p.date,context:`Standard Model / ${p.group}`,description:p.description,technical:p.technical,author:'Amos Jay Maley',doi:p.doi,doi_url:p.doi_url,zenodo_record:p.zenodo_record,zenodo_publication_date:p.zenodo_publication_date,keywords:`Standard Model, AASC, ${p.code}, ${p.group}`});
 fs.writeFileSync(sharedPath,JSON.stringify(shared,null,2)+'\n');
 console.log(`Built tour catalogue and ${records.length} manuscript pages; verified all PDF sources.`);
+
+// Keep generated records consistent with the archive's shared publication setup.
+await import('./prepare-site.mjs');

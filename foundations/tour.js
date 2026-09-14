@@ -91,7 +91,7 @@
     if (!target || !revealSource(target)) return;
     event.preventDefault();
     history.pushState(null, '', link.hash);
-    requestAnimationFrame(() => target.scrollIntoView({block:'start',behavior:matchMedia('(prefers-reduced-motion: reduce)').matches ? 'auto' : 'smooth'}));
+    requestAnimationFrame(() => { target.scrollIntoView({block:'start',behavior:matchMedia('(prefers-reduced-motion: reduce)').matches ? 'auto' : 'smooth'}); if(!target.hasAttribute('tabindex')) target.setAttribute('tabindex','-1'); target.focus({preventScroll:true}); });
   }));
   const initialTarget = document.getElementById(location.hash.slice(1));
   if (initialTarget && revealSource(initialTarget)) requestAnimationFrame(() => initialTarget.scrollIntoView({block:'start',behavior:'instant'}));

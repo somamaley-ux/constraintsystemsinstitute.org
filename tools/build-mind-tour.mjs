@@ -34,3 +34,6 @@ html = html.replace(/<!-- MIND_PAPERS -->[\s\S]*?<!-- \/MIND_PAPERS -->/, `<!-- 
 fs.writeFileSync(file, html);
 fs.writeFileSync(path.join(root, 'mind-agency', 'papers.json'), JSON.stringify(entries, null, 2) + '\n');
 console.log(`Generated ${entries.length} verified mind/agency paper records.`);
+
+// Keep generated records consistent with the archive's shared publication setup.
+await import('./prepare-site.mjs');
