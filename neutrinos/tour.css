@@ -142,3 +142,17 @@
 @media(max-width:650px){.neutrino-ready .source-lesson{top:90px}.carrier-role-label{font-size:15px}}
 @media(max-width:420px){.neutrino-ready .source-lesson{padding-inline:12px}.source-lesson-buttons{gap:5px}.source-lesson button{padding:8px 6px}.source-lesson button strong{font-size:.72rem}.carrier-buttons button small{font-size:.65rem}}
 @media(max-width:800px){.source-lesson button strong{display:block;min-height:2.9em}.neutrino-ready .source-lesson{top:var(--source-nav-height,92px)}}
+
+/* Keep labels in their own responsive row, clear of structural connections. */
+.carrier-part-labels{display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:18px;margin:25px 0 0;text-align:center}
+.carrier-part-labels>div{min-width:0;transition:opacity .35s}
+.carrier-part-labels strong,.carrier-part-labels span{display:block;line-height:1.5}
+.carrier-part-labels strong{font-size:.9rem;font-weight:500;color:#d5c5e7}
+.carrier-part-labels .carrier-heavy-label strong{color:#a9ddcb}
+.carrier-part-labels span{margin-top:4px;font-size:.76rem;color:#c2cdc9}
+#carrier-diagram{margin:13px 0 0}
+#carrier-diagram .carrier-boundary-label{font-size:17px;fill:#b5c8c3}
+#carrier-diagram .carrier-mode-label{font-size:17px}
+.carrier-exhibit[data-view="light"] .carrier-heavy-label,.carrier-exhibit[data-view="heavy"] .carrier-light-label{opacity:.45}
+@media(max-width:420px){.carrier-part-labels{gap:12px;margin-top:24px}.carrier-part-labels strong{font-size:.83rem}.carrier-part-labels span{font-size:.72rem}#carrier-diagram .carrier-boundary-label,#carrier-diagram .carrier-mode-label{font-size:19px}}
+@media(prefers-reduced-motion:reduce){.carrier-part-labels>div{transition:none}}

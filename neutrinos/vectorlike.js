@@ -23,7 +23,7 @@
       title: 'Their gauge charges match.',
       description: 'These are the left- and right-chiral components of the heavy field. Both carry the same gauge charges. That match is the defining vectorlike feature.',
       next: 'Add the mass pairing',
-      diagram: 'Only the two heavy components are shown. One is left-chiral and the other is right-chiral. Both boxes have matching gauge charges. No mass pairing or light-sector connection is displayed yet.'
+      diagram: 'Only the two heavy components are shown. One is left-chiral and the other is right-chiral. Both field regions have matching gauge charges. No mass pairing or light-sector connection is displayed yet.'
     },
     mass: {
       label: 'Step 2 of 3 / Mass pairing added',
