@@ -103,7 +103,7 @@
       copy='Restore '+missing.join(' and ')+'. More exposure cannot replace a missing part of the linked measurement.';
     }else if(v.status==='capable'){
       label='This toy design separates the alternatives';
-      copy='The illustrative error bands no longer overlap. A real experiment still needs a qualified response, calibration and identifiability certificate, followed by independent data.';
+      copy='The illustrative error bands no longer overlap. The retained records now have enough precision to distinguish these two example responses.';
     }else if(v.floorLimited){
       label='The systematic floor is too high';
       copy='Even unlimited exposure cannot separate these illustrative bands at this floor. Lowering the systematic uncertainty is necessary in this example.';

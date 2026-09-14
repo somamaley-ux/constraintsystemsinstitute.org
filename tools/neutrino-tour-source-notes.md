@@ -56,3 +56,11 @@ The separate D3 **28–30 GeV / 0.2 mm** search benchmark is not the final VJ ca
 ## Verification
 
 `node tools/check-neutrino-model.cjs` checks the compensated coefficient, mismatched closure, full-rank Gram/isometry identities across the independent perturbations, boundary rejection, flavor/support coverage and the permanent systematic-floor limit. These tests verify the teaching implementation, not the scientific manuscripts or experiment qualification.
+
+## Vectorlike source exhibit
+
+Sources: [PCR5E](https://doi.org/10.5281/zenodo.22745994), §8.2, PDF p. 32; [PCR6](https://doi.org/10.5281/zenodo.22747643), PDF pp. 15–28. The source construction has equal-rank heavy singlet multiplets `N_L` and `N_R`, both in the Standard Model representation `(1,1,0)` with conventional `B−L = −1`. Its direct operator is `−Nbar_L M_N N_R + h.c.`; the Higgs/Yukawa operator `−Lbar Htilde Y_LN N_R + h.c.` connects the light weak doublet to the heavy singlet. The complete source also contains the right-handed light-neutrino Yukawa and `N_L`–`nu_R` mixing terms.
+
+`vectorlike.js` highlights three fixed views: the matching representations, their allowed direct mass pairing, and the chiral light-sector connection. The native SVG depicts field types and source operators, not particle counts, travel directions or spin arrows. Matching representations permits the displayed Dirac mass operator but does not supply a numerical mass, heavy-sector rank or complete carrier identity. Those later results require the full accepted source. Vectorlike representation content and Dirac/Majorana mass structure remain separate questions. Exact-global B−L forbids the retained LNV response; the bounded-accidental branch conserves B−L through dimension four and permits the additional higher-dimensional LNV responses described in the source.
+
+The controls remain hidden until successful initialization adds `html.vectorlike-ready`. Without JavaScript the complete diagram and source explanation stay visible. The native step buttons support keyboard activation, arrows and Home/End; changes are user initiated, and reduced-motion preferences suppress transitions. The detector-selection module has its separate fixture, source and inference boundaries in [neutrino-detector-notes.md](neutrino-detector-notes.md).
