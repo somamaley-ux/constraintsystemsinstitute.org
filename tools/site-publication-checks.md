@@ -24,3 +24,11 @@ node tools/check-neutrino-detector.cjs
 The vectorlike exhibit uses `vectorlike.css` and `vectorlike.js`. The missing-weight and independent-symmetry exhibits use `response-lab.css` and `response-lab.js`, loaded after the shared neutrino model. Check their preset outcomes, shortfall/excess signs, independent sliders, mobile feedback and static fallback. The opening source comparison has three guided steps and optional fine adjustment; its unchanged oscillation curve is intentional. The detector interaction uses `detector.css`, `detector-model.js` and `detector-tour.js`; load the model before its controller. After edits, check every step and detector layer with the keyboard, change trigger/reconstruction/analysis settings, and verify the narrow layout and reduced-motion behavior. With JavaScript disabled, both exhibits must retain their complete static explanations and hide inactive controls. Their readiness classes must appear only after initialization. The detector fixture is an invented teaching sample, not a prediction of experimental efficiency or event losses; keep its source notes beside the implementation.
 
 Run the shared preparation step after edits. The compact card and sharing artwork are built by `node tools/build-neutrino-assets.cjs` with Sharp available.
+
+For foundations edits, check the bridge teaching model with:
+
+```sh
+node tools/check-foundation-reuse.cjs
+```
+
+The bridge activities in `foundations/` use `reuse-lab.css` and `reuse-lab.js`, with `reuse-model.js` loaded before the controller. The model follows the four-state example in *The Structure of Admissibility*, §9.1, pp31–32. Preserve the 4 → 3 → 2 → 2 sequence, the distinction between a current pass and repeat behavior, and both errors in a claimed complete answer: an unsafe addition or an omitted safe bridge. Check both information modes, every guided step and challenge, keyboard operation, narrow-screen feedback, reduced motion, and reset. Excluded configurations remain visible. Without JavaScript, the complete example must remain readable and inactive controls hidden; `reuse-lab-ready` is added only after successful initialization.

@@ -29,35 +29,10 @@
     map('journey-map', isStraight ? straight : bent);
     $('journey-result').textContent = isStraight ? 'The drawing is straighter. Home still connects through the same bridge and market to the same harbour. Nothing about that route has changed.' : 'Four places, three connections, one route. The shape of the drawing is not the journey.';
   });
-  const cases = {
-    complete: ['The route holds together.','The places are fixed and the connections are available. The drawing can change without changing the route.'],
-    gap: ['The drawing promises a step that is missing.','There is a line on the page, but no bridge connection in the example. Repeating the claim or making the line prettier cannot supply the missing step.'],
-    wrong: ['A destination has been substituted.','The route reaches the airport, not the harbour originally claimed. It may be a useful route, but it is not a construction of the same journey.'],
-    repair: ['A new route is available now.','Building the missing bridge changes the situation. The later journey can work; it does not make the earlier disconnected route valid all along.']
-  };
-  options('[data-route-case]', button => {
-    const value = button.dataset.routeCase;
-    map('kernel-map', straight, {gap:value === 'gap',wrong:value === 'wrong',later:value === 'repair'});
-    $('kernel-case-title').textContent = cases[value][0];
-    $('kernel-result').textContent = cases[value][1];
-  });
-  let renames = 0, redraws = 0;
-  const tokens = [...document.querySelectorAll('.boundary-token')];
-  $('rename-tokens').addEventListener('click', () => {
-    renames++;
-    tokens.forEach((token,i) => { token.textContent = ['A','B','C'][(i+renames)%3]; });
-    $('boundary-result').textContent = 'The names have changed. Calling a different mark A has not supplied a reason to privilege it. The same-versus-different pattern remains.';
-  });
-  $('move-tokens').addEventListener('click', () => {
-    redraws++;
-    const positions = redraws%2 ? [[76,26],[18,52],[66,82]] : [[18,64],[50,25],[82,64]];
-    tokens.forEach((token,i) => { token.style.left = positions[i][0]+'%'; token.style.top = positions[i][1]+'%'; });
-    $('boundary-result').textContent = 'The spacing on your screen changed. That changes the artwork, not a distance supplied by the underlying equality-only description.';
-  });
   const roles = {
-    drawing: ['Only the presentation changes.','Straightening the drawing preserves the places and connections. The paper calls presentation without new authority skin.'],
-    route: ['The content changes.','A connection has been removed. This is not another drawing of the same route. In the role decomposition, preserved connection-content illustrates the tensor role.'],
-    rules: ['The question changes.','Suppose a line now means one-way travel rather than a two-way connection. You changed the conditions for interpreting the route. The anchor role concerns such defining preconditions, not a new style of drawing.']
+    drawing: ['Only the presentation changes.','Straightening the drawing keeps the same places and the same journeys available.'],
+    route: ['The content changes.','The bridge connection is missing. The map can no longer support the same journey, even though the place names have stayed the same.'],
+    rules: ['The question changes.','These roads now allow travel in one direction. Asking whether you can get home may have a different answer. The rule changed, so this is more than a new drawing.']
   };
   options('[data-map-change]', button => {
     const value = button.dataset.mapChange;
@@ -72,12 +47,19 @@
     const theta = (36.87-angle)*Math.PI/180;
     $('frame-result').textContent = `The arrow has not turned. In this frame its unit-direction components are (${Math.cos(theta).toFixed(2)}, ${Math.sin(theta).toFixed(2)}).`;
   });
+  let traceRenamed = false;
   function trace() {
     const a = $('trace-a').checked, b = $('trace-b').checked;
-    $('trace-status').textContent = a && b ? 'Two connections: no unique entry fixes this one role. A score would not repair the missing uniqueness.' : a || b ? `One connection: entry ${a ? 'A' : 'B'} fixes the role.` : 'No connection: this role is not fixed by the declared trace.';
+    const names = traceRenamed ? ['B','A'] : ['A','B'];
+    $('trace-card-a').textContent=names[0];$('trace-card-b').textContent=names[1];
+    $('trace-name-a').textContent=`Entry ${names[0]} connected`;$('trace-name-b').textContent=`Entry ${names[1]} connected`;
+    $('trace-wire-a').setAttribute('opacity',a?'1':'.12');$('trace-wire-b').setAttribute('opacity',b?'1':'.12');
+    const result = a && b ? 'Two links: neither entry is uniquely identified by this connection.' : a || b ? `One link: it identifies entry ${a ? names[0] : names[1]}. Swapping names keeps the link attached to the same entry.` : 'No link: this input does not identify either entry.';
+    $('trace-status').textContent=result;$('trace-drawing').setAttribute('aria-label',result);
   }
   $('trace-a').addEventListener('change', trace);
   $('trace-b').addEventListener('change', trace);
+  $('trace-rename').addEventListener('click',()=>{traceRenamed=!traceRenamed;trace();});
   function revealSource(target) {
     let opened = false;
     for (let parent = target.parentElement; parent; parent = parent.parentElement) {
@@ -88,7 +70,8 @@
   document.querySelectorAll('a[href^="#"]').forEach(link => link.addEventListener('click', event => {
     if (event.ctrlKey || event.metaKey || event.shiftKey || event.altKey) return;
     const target = document.getElementById(link.hash.slice(1));
-    if (!target || !revealSource(target)) return;
+    if (!target) return;
+    revealSource(target);
     event.preventDefault();
     history.pushState(null, '', link.hash);
     requestAnimationFrame(() => { target.scrollIntoView({block:'start',behavior:matchMedia('(prefers-reduced-motion: reduce)').matches ? 'auto' : 'smooth'}); if(!target.hasAttribute('tabindex')) target.setAttribute('tabindex','-1'); target.focus({preventScroll:true}); });
@@ -99,8 +82,10 @@
   let scheduled = false;
   function progress() {
     scheduled = false;
+    const navHeight = document.querySelector('.chapter-nav').getBoundingClientRect().height;
+    document.documentElement.style.setProperty('--foundation-nav-height',`${navHeight}px`);
     let active = chapters[0];
-    chapters.forEach(link => { if (document.querySelector(link.hash).getBoundingClientRect().top <= 130) active = link; });
+    chapters.forEach(link => { if (document.querySelector(link.hash).getBoundingClientRect().top <= navHeight + 35) active = link; });
     chapters.forEach(link => { if (link === active) link.setAttribute('aria-current','step'); else link.removeAttribute('aria-current'); });
     const first = $('same-journey'), last = $('papers');
     const start = first.getBoundingClientRect().top + scrollY;

@@ -145,3 +145,11 @@
   .foundation-opening .text-link { font-size: .84rem; margin-top: 18px; }
 }
 @media (prefers-reduced-motion: reduce) { html:has(.foundation-tour) { scroll-behavior: auto !important; } }
+
+/* The introductory sequence stays concrete; formal details remain expandable. */
+.foundation-tour .chapter-nav .wrap{grid-template-columns:repeat(6,minmax(0,1fr))}
+.foundation-tour section[id],.foundation-tour .paper-entry{scroll-margin-top:calc(var(--foundation-nav-height,85px) + 20px)}
+.foundation-tour .chapter-heading h2{max-width:900px}.foundation-tour .lead-copy{max-width:850px}
+.trace-drawing{display:grid;grid-template-columns:1.2fr .8fr .65fr;align-items:center;gap:8px;margin:15px 0 24px;min-height:145px}
+.trace-source{font-size:.83rem;color:#d9c9d2;border-bottom:1px solid #b9a9b4;padding:9px 0}.trace-drawing svg{width:100%;height:125px;overflow:visible}.trace-drawing path{fill:none;stroke:#b9cdb3;stroke-width:2}.trace-drawing>div{display:grid;gap:30px}.trace-drawing>div span{display:grid;place-items:center;width:42px;height:42px;border:1px solid #b9a9b4;border-radius:50%;font:1.2rem Georgia,serif;color:#e6d9e2}.trace-exhibit #trace-rename{margin-top:20px;font-size:.8rem;min-height:44px}.trace-exhibit .trace-options{gap:10px}.trace-exhibit .trace-options label{min-height:44px}.foundation-tour .foundation-conclusion>p{max-width:810px;line-height:1.75}
+@media(max-width:650px){.sm-tour.foundation-tour .chapter-nav .wrap{display:grid;grid-template-columns:repeat(3,minmax(0,1fr));overflow:visible}.sm-tour.foundation-tour .chapter-nav a{min-width:0;min-height:43px;padding:9px 5px;font-size:.75rem;line-height:1.3}.foundation-tour .kernel-roles{margin-top:30px}}
