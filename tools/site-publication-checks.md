@@ -25,10 +25,12 @@ The vectorlike exhibit uses `vectorlike.css` and `vectorlike.js`. The missing-we
 
 Run the shared preparation step after edits. The compact card and sharing artwork are built by `node tools/build-neutrino-assets.cjs` with Sharp available.
 
-For foundations edits, check the bridge teaching model with:
+For foundations edits, check the Lorentz teaching model with:
 
 ```sh
-node tools/check-foundation-reuse.cjs
+node tools/check-foundation-frame.cjs
 ```
 
-The bridge activities in `foundations/` use `reuse-lab.css` and `reuse-lab.js`, with `reuse-model.js` loaded before the controller. The model follows the four-state example in *The Structure of Admissibility*, §9.1, pp31–32. Preserve the 4 → 3 → 2 → 2 sequence, the distinction between a current pass and repeat behavior, and both errors in a claimed complete answer: an unsafe addition or an omitted safe bridge. Check both information modes, every guided step and challenge, keyboard operation, narrow-screen feedback, reduced motion, and reset. Excluded configurations remain visible. Without JavaScript, the complete example must remain readable and inactive controls hidden; `reuse-lab-ready` is added only after successful initialization.
+The origin tour follows the author's recalled questions, then introduces the formal results. `experience-lab.css` and `experience-lab.js` show lived moments, a spacetime history and Everett-style observer records. Inspection changes the highlighted record, never a physical outcome or a preferred observer. `frame-model.js` must load before `frame-lab.js`; the Lorentz exhibit preserves event identities, proper time and the spacetime interval while changing coordinates. Check presets, slider keyboard operation, reset, reciprocal boosts, and grid/readout consistency. The coordinate-hiding activity in `tour.js` retains the same identified watch events; hiding the display does not remove physical structure or demonstrate an equality-only regime. Check all views, record choices, nearby mobile feedback, source links, keyboard operation and reduced motion. With JavaScript disabled, complete static explanations remain readable and inactive controls are hidden. Keep the origin recollection distinct from the formal derivations, and retain the exact paper DOI targets.
+
+The origin illustration is "assets/foundation-origin.svg". Rebuild its 1200 × 630 sharing image with "node tools/build-foundation-origin-assets.cjs" and Sharp available.

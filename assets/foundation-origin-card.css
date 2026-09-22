@@ -1,0 +1,87 @@
+#foundation-arc {
+  grid-template-columns: minmax(300px, .95fr) minmax(0, 1.15fr);
+}
+#foundation-arc h3 {
+  max-width: 13ch;
+  font-size: clamp(2.15rem, 3.2vw, 3rem);
+  line-height: 1.13;
+  overflow-wrap: normal;
+  word-break: normal;
+  hyphens: none;
+}
+#foundation-arc .foundation-origin-invitation {
+  grid-column: 2;
+  grid-row: 1;
+  align-self: center;
+  min-width: 0;
+}
+#foundation-arc .foundation-origin-link {
+  display: block;
+  border-block: 1px solid #c3a8b65e;
+}
+#foundation-arc .foundation-origin-art {
+  overflow: hidden;
+  padding: 14px 0 20px;
+  background: radial-gradient(ellipse at 19% 48%, #c4acbd0b, transparent 47%), #211e23;
+}
+#foundation-arc .foundation-origin-art svg {
+  display: block;
+  width: 100%;
+  height: auto;
+}
+#foundation-arc .origin-guide { stroke: #b2b4c01c; stroke-width: 1; }
+#foundation-arc .origin-question-links { stroke: #b6a4b575; stroke-width: 1.5; stroke-dasharray: 3 7; }
+#foundation-arc .origin-self-ring { fill: #cebbc30b; stroke: #d8becf9c; stroke-width: 1.5; }
+#foundation-arc .origin-self-core { fill: #e6d0dc; }
+#foundation-arc .origin-me { fill: #efe0e8; font: italic 37px Georgia, serif; }
+#foundation-arc .origin-worldline { stroke: #c1d3c0; stroke-width: 2.5; }
+#foundation-arc .origin-worldline-nodes { fill: #211e23; stroke: #c1d3c0; stroke-width: 2.5; }
+#foundation-arc .origin-branches { stroke: #b9c4df; stroke-width: 2.5; }
+#foundation-arc .origin-branch-nodes { fill: #211e23; stroke: #b9c4df; stroke-width: 2.5; }
+#foundation-arc .origin-diagram-label { fill: #cfc2cc; font: 25px system-ui, sans-serif; }
+#foundation-arc .foundation-origin-entry {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 18px;
+  padding: 19px 14px;
+  background: #d8b4c108;
+}
+#foundation-arc .foundation-origin-entry > span { min-width: 0; }
+#foundation-arc .foundation-origin-entry strong {
+  display: block;
+  color: #ecdfdc;
+  font-size: 1.06rem;
+  line-height: 1.4;
+}
+#foundation-arc .foundation-origin-entry small {
+  display: block;
+  margin-top: 5px;
+  color: #c7b8c0;
+  font-size: .81rem;
+  line-height: 1.6;
+}
+#foundation-arc .foundation-origin-entry > svg { width: 23px; height: 23px; flex: 0 0 auto; color: #bed3c2; }
+#foundation-arc .foundation-origin-link:hover .foundation-origin-entry { background: #d8b4c11a; }
+#foundation-arc .foundation-origin-link:focus-visible { outline: 2px solid #bad5cb; outline-offset: 4px; }
+#foundation-arc .foundation-card-papers {
+  grid-column: 1 / -1;
+  grid-row: 2;
+  padding-top: 22px;
+  border-top: 1px solid #c3a8b645;
+}
+@media (max-width: 860px) {
+  #foundation-arc { grid-template-columns: minmax(0, 1fr); }
+  #foundation-arc h3 { max-width: 17ch; }
+  #foundation-arc .foundation-origin-invitation,
+  #foundation-arc .foundation-card-papers { grid-column: 1; grid-row: auto; }
+}
+@media (max-width: 650px) {
+  #foundation-arc h3 { font-size: 2rem; }
+  #foundation-arc .foundation-origin-entry { padding-inline: 10px; }
+  #foundation-arc .foundation-origin-entry strong { font-size: 1rem; }
+  #foundation-arc .origin-diagram-label { font-size: 29px; }
+}
+@media (max-width: 360px) {
+  #foundation-arc h3 { font-size: 1.75rem; }
+}
