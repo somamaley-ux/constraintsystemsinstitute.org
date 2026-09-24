@@ -2,7 +2,7 @@
 
 The overview tour connects the existing Foundations, General relativity/quantum, Standard Model and measurement work. Its branch label is **General relativity**. Existing paper titles and the established Gravity & Quantum tour title remain authoritative.
 
-Primary new manuscript: Amos Jay Maley, *Special Relativity from AASC: The Necessary Kernel of Physical Objecthood and Its Lorentzian Realization*, Reference Edition, 102-page PDF supplied by the author on 2026-09-24. The local source path is not a public citation URL; never invent a DOI. Add the author's public record when supplied.
+Primary new manuscript: Amos Jay Maley, *Special Relativity from AASC: The Necessary Kernel of Physical Objecthood and Its Lorentzian Realization*, Reference Edition, 102-page PDF supplied by the author on 2026-09-24. The author supplied the public DOI https://doi.org/10.5281/zenodo.22934088 for the tour. Preserve this exact target; do not substitute an inferred record or version.
 
 ## Recovery order
 
