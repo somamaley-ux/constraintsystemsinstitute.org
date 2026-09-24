@@ -4,19 +4,21 @@
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <title>Where the Familiar Laws Come From | Constraint Systems Institute</title>
-  <meta name="description" content="An interactive AASC tour from a common premetric foundation to special relativity, general relativity, quantum dynamics, and the Standard Model. Build comparisons from signals and follow the recovery of familiar physics.">
+  <meta name="description" content="What must physical reality support before distance and duration can describe it? Explore AASC’s premetric foundation, common physical sources, and the recovery of relativity, quantum dynamics and matter.">
   <meta name="author" content="Amos Jay Maley">
   <meta name="theme-color" content="#201e21">
   <link rel="canonical" href="https://constraintsystemsinstitute.org/physics-from-below/">
   <link rel="stylesheet" href="../styles.css">
   <link rel="stylesheet" href="../standard-model/tour.css">
-  <link rel="stylesheet" href="tour.css?v=recovery-20260924">
+  <link rel="stylesheet" href="tour.css?v=premetric-20260924">
   <link rel="stylesheet" href="sr-lab.css?v=recovery-20260924">
-  <link rel="stylesheet" href="routes.css?v=recovery-20260924">
+  <link rel="stylesheet" href="routes.css?v=premetric-20260924">
   <script defer src="../assets/vendor/lucide.min.js"></script>
   <script defer src="sr-model.js?v=recovery-20260924"></script>
   <script defer src="sr-lab.js?v=recovery-20260924"></script>
-  <script defer src="routes.js?v=recovery-20260924"></script>
+  <script defer src="routes.js?v=premetric-20260924"></script>
+  <link rel="stylesheet" href="premetric.css?v=premetric-20260924">
+  <script defer src="premetric.js?v=premetric-20260924"></script>
   <script defer src="tour.js?v=recovery-20260924"></script>
   <script data-goatcounter="https://constraintsystemsinstitute.goatcounter.com/count" async src="https://gc.zgo.at/count.js"></script>
   <script type="application/ld+json">{"@context":"https://schema.org","@type":"LearningResource","name":"Where the familiar laws come from","url":"https://constraintsystemsinstitute.org/physics-from-below/","inLanguage":"en","learningResourceType":"Interactive guided tour","author":{"@type":"Person","name":"Amos Jay Maley"},"about":["AASC","Special relativity","General relativity","Quantum dynamics","Standard Model","Premetric structural unification"],"isPartOf":{"@type":"WebSite","name":"Constraint Systems Institute","url":"https://constraintsystemsinstitute.org/"},"citation":{"@type":"ScholarlyArticle","name":"Special Relativity from AASC: The Necessary Kernel of Physical Objecthood and Its Lorentzian Realization","author":{"@type":"Person","name":"Amos Jay Maley"},"url":"https://doi.org/10.5281/zenodo.22934088","identifier":"10.5281/zenodo.22934088"}}</script>
@@ -25,7 +27,7 @@
 <meta property="og:type" content="website">
 <meta property="og:site_name" content="Constraint Systems Institute">
 <meta property="og:title" content="Where the Familiar Laws Come From | Constraint Systems Institute">
-<meta property="og:description" content="An interactive AASC tour from a common premetric foundation to special relativity, general relativity, quantum dynamics, and the Standard Model. Build comparisons from signals and follow the recovery of familiar physics.">
+<meta property="og:description" content="What must physical reality support before distance and duration can describe it? Explore AASC’s premetric foundation, common physical sources, and the recovery of relativity, quantum dynamics and matter.">
 <meta property="og:url" content="https://constraintsystemsinstitute.org/physics-from-below/">
 <meta property="og:image" content="https://constraintsystemsinstitute.org/assets/social/physics-from-below.jpg">
 <meta property="og:image:width" content="1200">
@@ -34,7 +36,7 @@
 <meta property="og:image:alt" content="Where the Familiar Laws Come From — a guided tour from Constraint Systems Institute">
 <meta name="twitter:card" content="summary_large_image">
 <meta name="twitter:title" content="Where the Familiar Laws Come From | Constraint Systems Institute">
-<meta name="twitter:description" content="An interactive AASC tour from a common premetric foundation to special relativity, general relativity, quantum dynamics, and the Standard Model. Build comparisons from signals and follow the recovery of familiar physics.">
+<meta name="twitter:description" content="What must physical reality support before distance and duration can describe it? Explore AASC’s premetric foundation, common physical sources, and the recovery of relativity, quantum dynamics and matter.">
 <meta name="twitter:image" content="https://constraintsystemsinstitute.org/assets/social/physics-from-below.jpg">
 <meta name="twitter:image:alt" content="Where the Familiar Laws Come From — a guided tour from Constraint Systems Institute">
 <link rel="stylesheet" href="/assets/site-quality.css">
@@ -49,11 +51,11 @@
     <section class="pr-opening" aria-labelledby="tour-title">
       <div class="wrap pr-opening-grid">
         <div class="pr-opening-copy">
-          <p class="kicker">AASC / The recovery of familiar physics</p>
+          <p class="kicker">AASC / The premetric connection</p>
           <h1 id="tour-title">Where the familiar<br>laws come from.</h1>
-          <p class="pr-opening-lead">Different equations.<br>One physical world.</p>
-          <p class="pr-opening-intro">Relativity, quantum dynamics and the Standard Model describe different aspects of the same world. Follow how AASC develops their familiar forms from a common foundation.</p>
-          <a class="text-link pr-start" href="#same-world">Begin with a physical event <i data-lucide="arrow-down" aria-hidden="true"></i></a>
+          <p class="pr-opening-lead">Before metres and seconds,<br>what makes a physical world?</p>
+          <p class="pr-opening-intro">AASC begins with what makes an object, relation or event physically definite. Follow the construction from that premetric foundation to spacetime geometry, quantum dynamics, and the structure of matter.</p>
+          <a class="text-link pr-start" href="#same-world">Explore the deeper starting point <i data-lucide="arrow-down" aria-hidden="true"></i></a>
         </div>
         <figure class="pr-opening-figure" aria-labelledby="pr-figure-caption">
           <div class="pr-formalisms">
@@ -63,37 +65,168 @@
             <div class="pr-formalism pr-sm-symbol"><svg viewBox="0 0 200 130" aria-hidden="true"><path class="pr-faint" d="M55 35L145 35L100 103Z M55 35L45 94M145 35L155 94M45 94L155 94"/><circle cx="55" cy="35" r="13"/><circle cx="145" cy="35" r="13"/><circle cx="100" cy="103" r="13"/><circle cx="100" cy="61" r="18"/><circle cx="45" cy="94" r="7"/><circle cx="155" cy="94" r="7"/></svg><span>Matter &amp; interactions</span></div>
           </div>
           <div class="pr-root-stem" aria-hidden="true"></div>
-          <figcaption id="pr-figure-caption"><span>A common premetric foundation</span><small>Identified objects. Physical relations. Retained events.</small></figcaption>
+          <figcaption id="pr-figure-caption"><span>A common premetric foundation</span><small>Physical identity and relations precede their numerical geometry.</small></figcaption>
         </figure>
       </div>
     </section>
     <nav class="chapter-nav" aria-label="Chapters"><div class="wrap">
-      <a href="#same-world" aria-current="step"><span>01</span> Before the numbers</a>
-      <a href="#special-relativity"><span>02</span> Build a comparison</a>
-      <a href="#relativistic-effects"><span>03</span> Familiar effects</a>
-      <a href="#recovering-physics"><span>04</span> Follow the branches</a>
-      <a href="#one-world"><span>05</span> Bring them together</a>
+      <a href="#same-world" aria-current="step"><span>01</span> Before the metric</a>
+      <a href="#one-world"><span>02</span> One physical source</a>
+      <a href="#recovering-physics"><span>03</span> Four constructions</a>
+      <a href="#special-relativity"><span>04</span> Work through SR</a>
+      <a href="#relativistic-effects"><span>05</span> Familiar effects</a>
     </div><div class="reading-progress" aria-hidden="true"><span id="reading-progress"></span></div></nav>
     <section class="chapter wrap" id="same-world" aria-labelledby="pr-start-title">
       <div class="pr-introduction">
-        <div><p class="kicker">01 / Before the numbers</p><h2 id="pr-start-title">A signal leaves.<br>A signal returns.<br><em>What happened?</em></h2></div>
-        <div class="pr-intro-copy"><p>You send a pulse toward a mirror and record its return. You want to know how far away the mirror is.</p><p>Before calculating a distance, the comparison already concerns <strong>this clock, this pulse and these particular events</strong>. Its readings have to belong to the experiment you actually performed.</p><p>AASC begins with the requirements that make those physical subjects definite. It follows that same work through the construction of comparisons, geometry and familiar laws.</p></div>
+        <div><p class="kicker">01 / The deeper starting point</p><h2 id="pr-start-title">If spacetime needs explaining,<br><em>what can physics start with?</em></h2></div>
+        <div class="pr-intro-copy"><p>We picture things living in space and changing through time. But what makes something a definite physical thing in the first place?</p><p>It must be this object, with these relations and these possible changes. To follow it through change, we must establish what makes it the same object. A description has to answer to what physically obtains of that object.</p><p><strong>AASC takes these as necessary features of physical reality.</strong> They apply to an unobserved object just as much as to a laboratory measurement. The argument begins here, before supplying a spacetime metric: the structure that assigns distances and durations.</p></div>
       </div>
-      <div class="pr-questions" aria-label="Four requirements already present in the experiment">
-        <article><span>Reference</span><h3>Which clock?<br>Which events?</h3><p>A description keeps its connection to the physical things it describes.</p></article>
-        <article><span>Standing</span><h3>Does this comparison<br>actually qualify?</h3><p>The working device, signal and calibration support the use being made of them.</p></article>
-        <article><span>Irreversibility</span><h3>Which occurrence<br>made this record?</h3><p>A later reading or correction does not become the original departure or return.</p></article>
-        <article><span>Admissibility</span><h3>Do the pieces<br>work together?</h3><p>Combining the records must preserve the objects, conditions and uses they concern.</p></article>
+      <p class="pr-thesis">The starting point is what makes a physical world definite.<br><em>Geometry must then earn its place as a description of that world.</em></p>
+      <div class="pr-questions" aria-label="The necessary Kernel of physical objecthood">
+        <article><span>Reference</span><h3>What makes this<br>the same thing?</h3><p>Faithful descriptions keep track of which object they concern, and whether a change preserves its identity.</p></article>
+        <article><span>Standing</span><h3>What actually<br>obtains of it?</h3><p>A relation or proposed use must qualify under the actual conditions. Giving it a name cannot make it qualify.</p></article>
+        <article><span>Admissibility</span><h3>Can these things<br>fit together?</h3><p>A combination must preserve the identities, relations and conditions that give its parts physical meaning.</p></article>
+        <article><span>Irreversibility</span><h3>Which occurrence<br>was it?</h3><p>A later change cannot replace the original occurrence. This holds even for systems with reversible dynamics.</p></article>
       </div>
-      <p class="pr-premetric"><strong>Premetric</strong> means that these physical relations are established before a numerical spacetime metric is supplied. “From below” follows what a description depends on.</p>
-      <details class="technical-note"><summary>Why the common foundation still matters when more physics is added</summary><div><p>The Kernel argument applies to every non-degenerate determinate physical object and incidence, including objects never measured. A clock, a calibration, a propagation law and a more elaborate physical construction each incur the same four necessary functions. Their implementation can be implicit or distributed.</p><p>The new physical content of a branch specifies which comparisons and dynamics it supports. The construction must then show how that content yields the claimed result while retaining its original source. Kernel necessity, faithful description and the realization of a particular law have distinct jobs in the argument.</p><p>Source: <a href="#sr-paper">Special Relativity from AASC</a>, §§1–4, Theorem 2.1 and Proposition 2.4. <a href="../foundations/">Explore the Foundations tour.</a></p></div></details>
+      <p class="pr-premetric">These four functions form AASC’s <strong>Kernel</strong>. The necessity argument says that removing any of them loses part of the definite physical content one was claiming. Every richer construction, including a clock, a geometry or a physical law, incurs the same requirements.</p>
+      <div class="pr-boundary" id="premetric-boundary">
+        <div><p class="kicker">Why the AMetric boundary matters</p><h3>A calculation cannot create<br>its own physical authority.</h3></div>
+        <div><p>The Kernel leads to the <strong>AMetric boundary</strong>: a constraint on which distinctions, selections and descriptions can qualify. A description cannot supply a physical distinction that its starting point does not support. A later successful calculation cannot decide which original object or event it was supposed to describe.</p><p>This boundary uses no primitive distance, order, probability or passage of time. The physical constructions governed by it can then establish persistence, connections and ordered change before receiving a numerical geometry.</p><p class="pr-boundary-order"><strong>“Before” means an order of dependence.</strong> This is about what spacetime descriptions require, rather than an earlier era of the universe.</p></div>
+      </div>
+      <details class="technical-note"><summary>How fixation and bivalence fit into this starting point</summary><div><p><strong>Fixation</strong> keeps the physical subject and conditions of the question fixed. <strong>Bivalence</strong> says that, for that complete, evaluated question, the proposed construction qualifies or it does not. Whether an observer can decide which is a separate matter.</p><p>AASC permits many faithful descriptions of the same physical content. Their vocabulary or coordinates can differ, but they cannot silently substitute another object, change the question, or erase a physical distinction. The foundational uniqueness argument is developed in the <a href="../foundations/">Foundations tour</a>.</p><p>The AMetric boundary and the richer premetric physical structures do different work. A sequence of connected events already has physical ordering; the boundary itself does not supply a primitive time order.</p><p>Source: <a href="#sr-paper">Special Relativity from AASC</a>, §§1–3 and §16.1; Theorem 2.1 and Proposition 2.4. The foundational papers are linked in the <a href="../foundations/#papers">Foundations research section</a>.</p></div></details>
+      <!-- PREMETRIC_EXHIBIT -->
+      <div class="pr-premetric-lab" data-pr-premetric aria-labelledby="pr-premetric-title">
+        <h3 id="pr-premetric-title">Connections first. Metres and seconds later.</h3>
+        <p class="pr-pm-intro">Now consider a premetric physical construction: <strong>a definite sequence of connected events</strong>. Which events occur and how they connect can be established before assigning distances and durations. Change the diagram layout, then see what a metric description adds.</p>
+        <div class="pr-pm-controls" role="group" aria-label="Compare physical relations and a metric realization" data-pr-pm-controls hidden>
+          <button type="button" data-pr-pm-mode="relations" aria-pressed="true">Physical relations</button>
+          <button type="button" data-pr-pm-mode="metric" aria-pressed="false">One metric realization</button>
+        </div>
+        <div class="pr-pm-layout">
+          <figure class="pr-pm-figure">
+            <svg viewBox="0 0 360 350" role="img" aria-labelledby="pr-pm-svg-title pr-pm-svg-desc">
+              <title id="pr-pm-svg-title">One physical experiment, with and without metric labels</title>
+              <desc id="pr-pm-svg-desc" data-pr-pm-svg-desc>Three named events linked E1 to E2 to E3. E1 is emission at A, E2 reflection at B, and E3 return to the same A. Their positions on the page are only a layout and have no metre or second values.</desc>
+              <defs>
+                <marker id="pr-pm-arrow" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="6" markerHeight="6" orient="auto"><path class="pr-pm-arrow" d="M1 1L9 5L1 9Z"/></marker>
+                <marker id="pr-pm-axis-arrow" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="5" markerHeight="5" orient="auto"><path class="pr-pm-axis-arrow" d="M1 1L9 5L1 9Z"/></marker>
+              </defs>
+              <g data-pr-pm-grid hidden>
+                <path class="pr-pm-grid" d="M76 55H315M76 171H315M178 40V287M280 40V287"/>
+                <path class="pr-pm-axis" d="M76 287H332" marker-end="url(#pr-pm-axis-arrow)"/>
+                <path class="pr-pm-axis" d="M76 287V28" marker-end="url(#pr-pm-axis-arrow)"/>
+                <text class="pr-pm-axis-title" x="20" y="19">t (µs)</text>
+                <text class="pr-pm-axis-title" x="334" y="337" text-anchor="end">x (m)</text>
+                <text class="pr-pm-tick" x="43" y="292" text-anchor="middle">0</text>
+                <text class="pr-pm-tick" x="43" y="176" text-anchor="middle">1</text>
+                <text class="pr-pm-tick" x="43" y="60" text-anchor="middle">2</text>
+                <text class="pr-pm-tick" x="76" y="325" text-anchor="middle">0</text>
+                <text class="pr-pm-tick" x="280" y="325" text-anchor="middle">299.79</text>
+              </g>
+              <path class="pr-pm-edge" d="M91.85 93.14L246.15 154.86" marker-end="url(#pr-pm-arrow)" data-pr-pm-edge/>
+              <path class="pr-pm-edge" d="M247.34 179.75L112.66 249.25" marker-end="url(#pr-pm-arrow)" data-pr-pm-edge/>
+              <g class="pr-pm-node" data-pr-pm-event="1"><circle cx="64" cy="82" r="23"/><text class="pr-pm-node-id" x="64" y="82">E1</text><text class="pr-pm-node-label" x="64" y="44">A emits</text></g>
+              <g class="pr-pm-node" data-pr-pm-event="2"><circle cx="274" cy="166" r="23"/><text class="pr-pm-node-id" x="274" y="166">E2</text><text class="pr-pm-node-label" x="274" y="128">B reflects</text></g>
+              <g class="pr-pm-node" data-pr-pm-event="3"><circle cx="86" cy="263" r="23"/><text class="pr-pm-node-id" x="86" y="263">E3</text><text class="pr-pm-node-label" x="86" y="307">A receives</text></g>
+            </svg>
+            <figcaption data-pr-pm-caption>A schematic of physical relations, not a map of distances. The page layout does not measure space or elapsed time.</figcaption>
+            <div class="pr-pm-redraw" data-pr-pm-controls hidden><button type="button" data-pr-pm-redraw aria-describedby="pr-pm-redraw-note">Rearrange the drawing <span aria-hidden="true">↻</span></button><p id="pr-pm-redraw-note" data-pr-pm-redraw-note>Move the marks and see what stays the same.</p></div>
+          </figure>
+          <div class="pr-pm-copy">
+            <p class="pr-pm-eyebrow" data-pr-pm-eyebrow>Physical relations before a metric</p>
+            <h4 class="pr-pm-copy-title" data-pr-pm-title>Same events. No distance scale yet.</h4>
+            <p class="pr-pm-copy-body" data-pr-pm-body>A emits a signal; B reflects it; A receives it. We must keep track of which events occur, how they are connected and which endpoint remains A. Those relations do not yet supply a metre or a second.</p>
+            <div class="pr-pm-feedback" role="status" aria-live="polite" aria-atomic="true"><strong data-pr-pm-feedback-title>Drawing positions are not distances.</strong><span data-pr-pm-feedback-body>E1 → E2 → E3 and the identity of A are definite physical relations. The space between marks on this page is not a physical distance.</span></div>
+            <p class="pr-pm-example" data-pr-pm-example hidden>Example: a stationary, delay-free reflection and a two-microsecond round trip. This teaching diagram illustrates the distinction; it is not a derivation of the metric.</p>
+          </div>
+        </div>
+        <div class="pr-pm-retained">
+          <p class="pr-pm-retained-heading">The physical facts retained in both views</p>
+          <ol class="pr-pm-events"><li><strong>E1</strong><span>Emission at A.</span></li><li><strong>E2</strong><span>Reflection at B.</span></li><li><strong>E3</strong><span>Return to the same A.</span></li></ol>
+          <p class="pr-pm-fixed-fact">E1 leads to E2, E2 leads to E3. A remains the same endpoint at departure and return.</p>
+        </div>
+        <div class="pr-pm-static"><strong>What a metric realization adds.</strong> A physical clock and calibrated signal comparisons assign intervals to these relations. In a stationary, delay-free radar example, a two-microsecond round trip gives a reflection time of one microsecond and a distance of about 299.79 metres. AASC develops the metric from a completed physical comparison structure with finite isotropic propagation and common clock calibration. The three events pictured here illustrate the distinction; they do not alone determine that structure.</div>
+      </div>
+      <!-- /PREMETRIC_EXHIBIT -->
     </section>
+    <section class="chapter pr-unity" id="one-world" aria-labelledby="pr-unity-title"><div class="wrap">
+      <div class="chapter-heading"><p class="kicker">02 / Where the theories connect</p><h2 id="pr-unity-title">One physical source.<br>Different questions about it.</h2></div>
+      <div class="pr-unity-grid">
+        <div class="pr-unity-copy"><p>If spacetime geometry and a quantum state describe physical reality, what ties them to the same reality?</p><p>Sharing a foundational vocabulary is the first connection. AASC goes further by constructing <strong>a common physical source and history</strong>, then showing how its spacetime and quantum descriptions preserve their connection to it.</p><p>Here, <strong>“source” means the physical system with its actual state, relations and allowed changes</strong>. Its descriptions inherit their physical meaning from that common construction. Their connection has to survive as the system changes.</p></div>
+        <div class="pr-source-figure" role="figure" aria-label="The AASC common-source construction: one physical system and history supports connected spacetime and quantum descriptions.">
+          <div class="pr-source-root"><span>The common physical source</span><strong>The system, its state<br>and its allowed history</strong><small>Identity · standing · relations · continuation</small></div>
+          <div class="pr-source-fork" aria-hidden="true"></div>
+          <div class="pr-source-views"><div><span>Spacetime description</span><strong>Geometry &amp;<br>source response</strong><small>General relativity</small></div><div><span>Quantum description</span><strong>State comparisons<br>&amp; evolution</strong><small>Quantum dynamics</small></div></div>
+          <p>Both descriptions must remain attached to the same constructed history.</p>
+        </div>
+      </div>
+      <div class="pr-connection-example"><p class="kicker">What this demands in practice</p><h3>Follow the system, then describe it.<br>Describe it, then follow its evolution.<br><em>The accounts must agree.</em></h3><p>A common starting label is insufficient. If a source change has a spacetime description and a quantum description, their respective evolution rules must still describe that same change. The common-history construction supplies this compatibility on its stated physical domains.</p></div>
+      <div class="pr-source-links"><article><span>Special relativity joins here</span><h3>Whose events? Whose clocks?</h3><p>The relativistic comparisons must concern the events, clock readings and motion of that same physical source. The paper constructs this connection as well as its route to Lorentzian geometry.</p></article><article><span>The Standard Model arc joins here</span><h3>What persists through the responses?</h3><p>The matter and interaction roles are reconstructed through a common persistence bearer: what retains its identity while supporting distinct matter, gauge and Higgs responses.</p></article></div>
+      <p class="pr-closing-line">This is AASC’s structural approach to unification: establish the common physical content, then construct the connected forms in which it appears.</p>
+      <p class="pr-scope-line">The papers establish these connections for specified physical constructions. Each branch retains the conditions that support its geometry, state space and dynamics.</p>
+      <details class="technical-note"><summary>Which common-source connections the papers establish</summary><div><p>The special-relativity manuscript gives two connected routes: construction of the Lorentzian form from completed physical comparisons, and its matching to the metric and continuation of an already occupied common source. Corollary 12.7 relates Einstein, Schrödinger and Lorentz-path descriptions through a common history. Theorems 15.9–15.10 supply a joint fixed-background example with actual clock, signal and response records.</p><p>In that example, the Einstein projection has a vacuum source. The positive laboratory response and quantum-state evolution remain attached to their own physical uses. Proposition 15.11 proves the obstruction to treating that laboratory response as the same complete gravitational source on unchanged flat geometry. The coupled Wheeler–DeWitt and Standard Model constructions have their own source identifications and domains (§§15.3–15.4).</p><p>The Einstein result fixes the minimal local first-curvature response in its stated Lorentzian realization. The Schrödinger result fixes the closed scalar nonrelativistic normal form under its state-space, domain and calibration conditions. These common-source results do not assert a universal interacting quantum-gravity law.</p><a class="source-ref" href="../gravity-quantum/#unity">Explore the common-source construction <i data-lucide="arrow-up-right" aria-hidden="true"></i></a></div></details>
+    </div></section>
+    <!-- RECOVERY_ROUTE_EXHIBIT -->
+<section class="chapter wrap pr-route" id="recovering-physics" data-pr-route aria-labelledby="pr-route-heading">
+  <div class="pr-route-intro">
+    <p class="kicker">03 / From the shared foundation</p>
+    <h2 id="pr-route-heading">One foundation.<br>Four physical constructions.</h2>
+    <p>Choose a physical question. Begin with the identity and relations it already requires, then follow how AASC constructs the structure expressed by its familiar equation.</p>
+  </div>
+  <div class="pr-route-choices" data-pr-route-controls role="group" aria-label="Choose a physical branch" hidden>
+    <button class="pr-route-choice" type="button" data-pr-route-choice="sr" aria-pressed="true"><strong>Special relativity</strong><span>How can different observers describe the same events?</span></button>
+    <button class="pr-route-choice" type="button" data-pr-route-choice="gr" aria-pressed="false"><strong>General relativity</strong><span>How are matter and spacetime connected?</span></button>
+    <button class="pr-route-choice" type="button" data-pr-route-choice="qm" aria-pressed="false"><strong>Quantum dynamics</strong><span>How does a quantum state change?</span></button>
+    <button class="pr-route-choice" type="button" data-pr-route-choice="sm" aria-pressed="false"><strong>Matter and interactions</strong><span>How do matter and its interactions fit together?</span></button>
+  </div>
+  <div class="pr-route-foundation">
+    <p class="pr-route-foundation-label">Present in every route</p>
+    <h3>Physical identity comes before its numerical description.</h3>
+    <p>Every branch must preserve what physically exists, what relations qualify and what changes are admitted. Its specific construction then supplies the geometry or dynamics needed to express that content.</p>
+  </div>
+  <div class="pr-route-workbench" data-pr-route-panel hidden>
+    <p class="pr-route-instruction">The three steps show logical dependence, not a sequence in time. Select any step or use the buttons below.</p>
+    <div class="pr-route-steps" role="group" aria-label="Choose a stage of the construction">
+      <button class="pr-route-step" type="button" data-pr-route-step="0" aria-current="step"><span class="pr-route-step-number" aria-hidden="true">1</span><span>Shared premetric foundation</span></button>
+      <button class="pr-route-step" type="button" data-pr-route-step="1"><span class="pr-route-step-number" aria-hidden="true">2</span><span>Physical construction</span></button>
+      <button class="pr-route-step" type="button" data-pr-route-step="2"><span class="pr-route-step-number" aria-hidden="true">3</span><span>Familiar form</span></button>
+    </div>
+    <div class="pr-route-explanation">
+      <div>
+        <p class="pr-route-stage-label" data-pr-route-label></p>
+        <h3 data-pr-route-title></h3>
+        <p class="pr-route-copy" data-pr-route-copy></p>
+        <p class="pr-route-added" data-pr-route-added></p>
+      </div>
+      <figure class="pr-route-visual">
+        <div data-pr-route-graphic></div>
+        <p class="pr-route-equation" data-pr-route-equation></p>
+        <figcaption data-pr-route-caption></figcaption>
+      </figure>
+    </div>
+    <div class="pr-route-actions">
+      <button class="pr-route-action" type="button" data-pr-route-back><span aria-hidden="true">←</span><span>What does this depend on?</span></button>
+      <button class="pr-route-action" type="button" data-pr-route-forward><span>Recover the familiar description</span><span aria-hidden="true">→</span></button>
+    </div>
+    <a class="pr-route-source" data-pr-route-source></a>
+    <details class="pr-route-scope"><summary>What this route establishes</summary><p data-pr-route-scope></p></details>
+    <p class="pr-route-note">The diagrams show the relationships being retained. They are illustrations of the construction, not numerical simulations of these theories.</p>
+  </div>
+  <div class="pr-route-fallback" data-pr-route-fallback>
+    <article><h3>Special relativity</h3><ol><li><strong>Shared foundation:</strong> establish definite physical objects and admitted relations before describing their distances and durations.</li><li><strong>Physical construction:</strong> complete the physical comparisons, recover a causal cone from finite isotropic propagation, and establish a common clock calibration.</li><li><strong>Familiar form:</strong> different observer readings preserve the spacetime interval.</li></ol><a class="pr-route-source" href="#sr-paper">Special relativity: manuscript and scope</a></article>
+    <article><h3>General relativity</h3><ol><li><strong>Shared foundation:</strong> identify the physical source and its actual responses before giving those relations a geometry.</li><li><strong>Physical construction:</strong> a faithful Lorentzian metric, an attached source and a minimal local curvature response.</li><li><strong>Familiar form:</strong> the Einstein equation, with the appropriate scale and calibration anchors.</li></ol><a class="pr-route-source" href="../gravity-quantum/#gravity">Follow the general-relativity construction</a></article>
+    <article><h3>Quantum dynamics</h3><ol><li><strong>Shared foundation:</strong> establish physical state identity and allowed change before a wavefunction represents them.</li><li><strong>Physical construction:</strong> establish the spatial Hilbert representation and the operator requirements of the closed scalar branch.</li><li><strong>Familiar form:</strong> Schrödinger evolution with its kinetic-plus-potential Hamiltonian. Measurement has its own construction.</li></ol><a class="pr-route-source" href="../gravity-quantum/#quantum">Follow the quantum-dynamics construction</a></article>
+    <article><h3>Matter and interactions</h3><ol><li><strong>Shared foundation:</strong> establish what retains its identity through admitted changes, before assigning its response labels.</li><li><strong>Physical construction:</strong> distinguish matter, gauge and Higgs responses while retaining their common physical inputs.</li><li><strong>Familiar form:</strong> the source-qualified Standard Model structure and its shared Einstein response.</li></ol><a class="pr-route-source" href="../standard-model/#physical">Follow the Standard Model construction</a></article>
+  </div>
+  <p class="pr-route-status" data-pr-route-status role="status" aria-live="polite" aria-atomic="true"></p>
+</section>
+    <!-- /RECOVERY_ROUTE_EXHIBIT -->
     <!-- RECOVERY_SR_EXHIBITS -->
 <section class="chapter pr-sr-chapter" id="special-relativity" aria-labelledby="pr-sr-title">
   <div class="wrap">
-    <p class="kicker">02 · Special relativity</p>
+    <p class="kicker">04 / Worked example: special relativity</p>
     <h2 id="pr-sr-title">Build a ruler<br>from signals.</h2>
-    <p class="lead-copy">Before asking how far apart two things are, keep track of what happened: a signal left one endpoint, reached the other, and came back. Now build the comparison, one step at a time.</p>
+    <p class="lead-copy">Now follow one branch in more detail. The departure, reflection and return keep their physical identities while clock comparison, propagation structure and calibration establish their spacetime description. The familiar relativistic results are the endpoint of this construction.</p>
     <div class="pr-sr-panel" data-pr-sr-signals>
       <div class="pr-sr-controls pr-sr-steps" role="group" aria-label="Build a ruler from signals">
         <button type="button" data-pr-sr-step="0" aria-pressed="true"><span class="pr-sr-number">01</span>Keep the events</button>
@@ -151,7 +284,7 @@
 </section>
 <section class="chapter pr-sr-chapter" id="relativistic-effects" aria-labelledby="pr-sr-effects-title">
   <div class="wrap">
-    <p class="kicker">03 · The familiar results return</p>
+    <p class="kicker">05 / What the construction recovers</p>
     <h2 id="pr-sr-effects-title">Different readings.<br>The same physical reference.</h2>
     <p class="lead-copy">Time dilation, length contraction, relativity of simultaneity and mass–energy equivalence return as precise results. Each answers a different physical question.</p>
     <div class="pr-sr-panel" data-pr-sr-effects>
@@ -214,79 +347,11 @@
   </div>
 </section>
     <!-- /RECOVERY_SR_EXHIBITS -->
-    <!-- RECOVERY_ROUTE_EXHIBIT -->
-<section class="chapter wrap pr-route" id="recovering-physics" data-pr-route aria-labelledby="pr-route-heading">
-  <div class="pr-route-intro">
-    <p class="kicker">04 / Follow the construction</p>
-    <h2 id="pr-route-heading">Start with the physics you know.<br>Find what it rests on.</h2>
-    <p>Choose a familiar branch, then trace its description back to the structure it needs. Follow the same route upward to see where the familiar form returns.</p>
-  </div>
-  <div class="pr-route-choices" data-pr-route-controls role="group" aria-label="Choose a physical branch" hidden>
-    <button class="pr-route-choice" type="button" data-pr-route-choice="sr" aria-pressed="true"><strong>Special relativity</strong><span>How can different observers describe the same events?</span></button>
-    <button class="pr-route-choice" type="button" data-pr-route-choice="gr" aria-pressed="false"><strong>General relativity</strong><span>How are matter and spacetime connected?</span></button>
-    <button class="pr-route-choice" type="button" data-pr-route-choice="qm" aria-pressed="false"><strong>Quantum dynamics</strong><span>How does a quantum state change?</span></button>
-    <button class="pr-route-choice" type="button" data-pr-route-choice="sm" aria-pressed="false"><strong>Matter and interactions</strong><span>How do matter and its interactions fit together?</span></button>
-  </div>
-  <div class="pr-route-foundation">
-    <p class="pr-route-foundation-label">Present in every route</p>
-    <h3>The same object. Meaningful comparisons. Consistent continuation.</h3>
-    <p>The shared foundation stays in place when you switch branches. Each branch then supplies the physical construction needed for its own description.</p>
-  </div>
-  <div class="pr-route-workbench" data-pr-route-panel hidden>
-    <p class="pr-route-instruction">The three steps show logical dependence, not a sequence in time. Select any step or use the buttons below.</p>
-    <div class="pr-route-steps" role="group" aria-label="Choose a stage of the construction">
-      <button class="pr-route-step" type="button" data-pr-route-step="0"><span class="pr-route-step-number" aria-hidden="true">1</span><span>Shared premetric foundation</span></button>
-      <button class="pr-route-step" type="button" data-pr-route-step="1"><span class="pr-route-step-number" aria-hidden="true">2</span><span>Physical construction</span></button>
-      <button class="pr-route-step" type="button" data-pr-route-step="2" aria-current="step"><span class="pr-route-step-number" aria-hidden="true">3</span><span>Familiar form</span></button>
-    </div>
-    <div class="pr-route-explanation">
-      <div>
-        <p class="pr-route-stage-label" data-pr-route-label></p>
-        <h3 data-pr-route-title></h3>
-        <p class="pr-route-copy" data-pr-route-copy></p>
-        <p class="pr-route-added" data-pr-route-added></p>
-      </div>
-      <figure class="pr-route-visual">
-        <div data-pr-route-graphic></div>
-        <p class="pr-route-equation" data-pr-route-equation></p>
-        <figcaption data-pr-route-caption></figcaption>
-      </figure>
-    </div>
-    <div class="pr-route-actions">
-      <button class="pr-route-action" type="button" data-pr-route-back><span aria-hidden="true">←</span><span>What does this depend on?</span></button>
-      <button class="pr-route-action" type="button" data-pr-route-forward><span>Recover the familiar description</span><span aria-hidden="true">→</span></button>
-    </div>
-    <a class="pr-route-source" data-pr-route-source></a>
-    <details class="pr-route-scope"><summary>What this route establishes</summary><p data-pr-route-scope></p></details>
-    <p class="pr-route-note">The diagrams show the relationships being retained. They are illustrations of the construction, not numerical simulations of these theories.</p>
-  </div>
-  <div class="pr-route-fallback" data-pr-route-fallback>
-    <article><h3>Special relativity</h3><ol><li><strong>Shared foundation:</strong> keep hold of the same physical objects, comparisons and continuations.</li><li><strong>Physical construction:</strong> complete the physical comparisons, recover a causal cone from finite isotropic propagation, and establish a common clock calibration.</li><li><strong>Familiar form:</strong> different observer readings preserve the spacetime interval.</li></ol><a class="pr-route-source" href="#sr-paper">Special relativity: manuscript and scope</a></article>
-    <article><h3>General relativity</h3><ol><li><strong>Shared foundation:</strong> retain determinate physical identity and consistent continuation.</li><li><strong>Physical construction:</strong> a faithful Lorentzian metric, an attached source and a minimal local curvature response.</li><li><strong>Familiar form:</strong> the Einstein equation, with the appropriate scale and calibration anchors.</li></ol><a class="pr-route-source" href="../gravity-quantum/#gravity">Follow the general-relativity construction</a></article>
-    <article><h3>Quantum dynamics</h3><ol><li><strong>Shared foundation:</strong> preserve meaningful state identity, comparisons and continuation.</li><li><strong>Physical construction:</strong> establish the spatial Hilbert representation and the operator requirements of the closed scalar branch.</li><li><strong>Familiar form:</strong> Schrödinger evolution with its kinetic-plus-potential Hamiltonian. Measurement has its own construction.</li></ol><a class="pr-route-source" href="../gravity-quantum/#quantum">Follow the quantum-dynamics construction</a></article>
-    <article><h3>Matter and interactions</h3><ol><li><strong>Shared foundation:</strong> something persists through admitted physical changes.</li><li><strong>Physical construction:</strong> distinguish matter, gauge and Higgs responses while retaining their common physical inputs.</li><li><strong>Familiar form:</strong> the source-qualified Standard Model structure and its shared Einstein response.</li></ol><a class="pr-route-source" href="../standard-model/#physical">Follow the Standard Model construction</a></article>
-  </div>
-  <p class="pr-route-status" data-pr-route-status role="status" aria-live="polite" aria-atomic="true"></p>
-</section>
-    <!-- /RECOVERY_ROUTE_EXHIBIT -->
-    <section class="chapter pr-unity" id="one-world" aria-labelledby="pr-unity-title"><div class="wrap">
-      <div class="chapter-heading"><p class="kicker">05 / Bring the descriptions together</p><h2 id="pr-unity-title">The same world has to<br>survive every description.</h2></div>
-      <div class="pr-unity-grid">
-        <div class="pr-unity-copy"><p>Recovering a familiar equation is one part of the task. The next is to establish how the descriptions belong together.</p><p>A spacetime account and a quantum account must keep their connection to the physical source they describe. Where their uses overlap, their records and allowed changes have to agree.</p><p><strong>This is the structural unification developed by AASC:</strong> a common foundation, constructed physical sources, and compatible descriptions whose connection is preserved through their use.</p></div>
-        <ol class="pr-continuity">
-          <li><span>01</span><div><h3>Keep the source.</h3><p>Retain which physical system, state and occurrence the description concerns.</p></div></li>
-          <li><span>02</span><div><h3>Keep the physical uses.</h3><p>Preserve the actual records and the conditions under which an operation is available.</p></div></li>
-          <li><span>03</span><div><h3>Keep the connection as it changes.</h3><p>A continuation in one description must remain compatible with the corresponding continuation in the other.</p></div></li>
-        </ol>
-      </div>
-      <p class="pr-closing-line">The familiar formalisms become connected ways of describing a physical world whose structure is established more fundamentally.</p>
-      <details class="technical-note"><summary>What the common-source construction establishes</summary><div><p>The special-relativity manuscript gives two connected routes: construction of the Lorentzian form from completed physical comparisons, and its matching to the metric and continuation of an already occupied common source. Corollary 12.7 relates Einstein, Schrödinger and Lorentz-path descriptions through a common history. Theorems 15.9–15.10 supply a joint fixed-background example with actual clock, signal and response records.</p><p>In that example, the Einstein projection has a vacuum source. The positive laboratory response and quantum-state evolution remain attached to their own physical uses. Proposition 15.11 proves the obstruction to treating that laboratory response as the same complete gravitational source on unchanged flat geometry. The coupled Wheeler–DeWitt and Standard Model constructions have their own source identifications and domains (§§15.3–15.4).</p><p>The Einstein result fixes the minimal local first-curvature response in its stated Lorentzian realization. The Schrödinger result fixes the closed scalar nonrelativistic normal form under its state-space, domain and calibration conditions. The tour follows those particular recoveries and their common-source connections.</p><a class="source-ref" href="../gravity-quantum/#unity">Explore the common-source construction <i data-lucide="arrow-up-right" aria-hidden="true"></i></a></div></details>
-    </div></section>
     <section class="chapter wrap pr-research" id="research" aria-labelledby="pr-research-title">
       <div class="chapter-heading"><p class="kicker">Follow the research</p><h2 id="pr-research-title">From the picture<br>to the arguments.</h2></div>
       <article class="pr-featured-paper" id="sr-paper">
         <div><span class="pr-paper-label">The new special-relativity work</span><h3>Special Relativity from AASC</h3><p class="pr-paper-subtitle">The Necessary Kernel of Physical Objecthood and Its Lorentzian Realization</p><p>Amos Jay Maley · Reference Edition</p></div>
-        <div><p>The manuscript constructs the comparison, geometry, clock and response machinery used in this tour, and connects its relativistic realization to the wider AASC corpus.</p><p class="pr-paper-locations">Construction: §§3–8 · Relativistic effects: §§9–11 · Common-source realization: §§12–15 · Dependency map: Table 2.</p><a class="text-link" href="https://doi.org/10.5281/zenodo.22934088" target="_blank" rel="noopener noreferrer">Read the paper on Zenodo <i data-lucide="arrow-up-right" aria-hidden="true"></i></a></div>
+        <div><p>The manuscript develops the necessary foundation of physical objecthood, constructs its Lorentzian realization, and connects that realization to the common-source and matter constructions in the wider AASC corpus.</p><p class="pr-paper-locations">Premetric foundation: §§1–3, §16.1 · Geometry: §§4–8 · Effects: §§9–11 · Common source: §§12–15.</p><a class="text-link" href="https://doi.org/10.5281/zenodo.22934088" target="_blank" rel="noopener noreferrer">Read the paper on Zenodo <i data-lucide="arrow-up-right" aria-hidden="true"></i></a></div>
       </article>
       <div class="pr-next-tours">
         <a href="../foundations/"><span>Begin at the root</span><strong>The Foundations</strong><small>The questions, the Kernel and the AMetric boundary.</small><i data-lucide="arrow-up-right" aria-hidden="true"></i></a>

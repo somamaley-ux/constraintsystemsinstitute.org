@@ -27,3 +27,14 @@ The recovery map's General relativity branch follows the minimal local first-cur
 ## Verification
 
 Run `node tools/prepare-site.mjs` after changes and `node tools/check-physics-recovery-model.cjs` for the numerical exhibits. Review all guided steps and effect modes at narrow, tablet and desktop widths, using keyboard input, reduced motion, and JavaScript disabled. Check that the visible response explains every input change. Confirm homepage placement immediately after Foundations, sitemap registration, source links, and sharing artwork.
+
+
+## Premetric narrative revision
+
+The main reading order is now physical objecthood and the derived AMetric boundary, common-source connection, four forward constructions, then the SR worked example and its familiar effects. The foundation is a physical necessity claim, including unobserved systems, rather than only rules for tracking laboratory records. Source: §§1–2, Theorem 2.1, Proposition 2.4, §16.1 (pp. 5–11, 84–86).
+
+The AMetric boundary has no primitive metric, order, probability or temporal authorization. Richer premetric physical constructions can already have locality, comparisons, witnessed paths and ordered continuation (§§2.6–2.8, 3.3–3.5). The relation exhibit illustrates the latter. Rearranging its nodes changes the page layout only: it does not derive a physical geometry by hiding an existing grid. Its calibrated SR view declares the propagation, device and calibration content needed for that richer realization.
+
+The common-source figure depicts the specified gravity–quantum common history and its compatible projections (§12.1, Corollary 12.7). SR matching and the Standard Model persistence/response reconstruction are identified separately. Shared Kernel necessity alone does not prove two sources are the same source. Preserve the visible branch conditions and the detailed joint fixed-background / coupled-source distinction.
+
+Bivalence concerns actual qualification of a fixed question, not knowledge of it or a selected outcome of an incompletely specified future experiment. Multiple descriptions and admissible possibilities are not thereby eliminated. The new first section links to the foundational uniqueness discussion rather than claiming a unique numerical metric or universal history.

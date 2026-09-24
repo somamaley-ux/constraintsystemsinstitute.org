@@ -73,3 +73,36 @@
 @media(max-width:950px){.pr-opening-grid{gap:30px;}.pr-tour .pr-opening h1{font-size:3.4rem;}.pr-introduction{gap:35px;}.pr-questions{grid-template-columns:repeat(2,minmax(0,1fr));}.pr-unity-grid{gap:35px;}.pr-featured-paper{gap:30px;}}
 @media(max-width:700px){.pr-opening-grid{grid-template-columns:1fr;padding-block:35px 40px;gap:20px;}.pr-tour .pr-opening h1{font-size:clamp(2.9rem,10vw,3.65rem);}.pr-opening-figure{width:min(390px,100%);justify-self:center;padding-top:0;}.pr-formalism{padding:12px 14px 16px;}.pr-formalism svg{max-width:140px;}.pr-formalism span{font-size:.75rem;}.pr-opening-lead{font-size:1.45rem;}.pr-tour .chapter{padding-block:52px;}.pr-introduction,.pr-unity-grid,.pr-featured-paper{grid-template-columns:1fr;gap:25px;}.pr-tour .pr-introduction h2{font-size:2.35rem;}.pr-questions{gap:22px;}.pr-tour .pr-questions h3{font-size:1.18rem;}.pr-questions h3 br{display:none;}.pr-tour .pr-closing-line{font-size:1.45rem;}.pr-next-tours{grid-template-columns:1fr;}.pr-next-tours a{padding-block:21px;}.pr-featured-paper{gap:10px;}.pr-premetric{padding:16px 18px;}.pr-tour .chapter-nav a{white-space:nowrap;}.pr-tour .pr-paper-locations{line-height:1.8;}}
 @media(max-width:380px){.pr-tour .pr-opening h1{font-size:2.7rem;}.pr-questions{grid-template-columns:1fr;}.pr-questions h3 br{display:none;}}
+
+/* The premetric argument leads; relativity is the worked example. */
+.pr-thesis { border-block:1px solid #c4b3c43d; padding:28px 0; margin:0 0 36px; font:1.55rem/1.55 Georgia,serif; color:#e6d9df; }
+.pr-thesis em { color:#bbccbb; font-style:normal; }
+.pr-boundary { display:grid; grid-template-columns:.9fr 1.1fr; gap:55px; margin-top:48px; padding:32px 0 8px; border-top:1px solid #b7c9b15e; }
+.pr-tour .pr-boundary h3 { font:1.75rem/1.35 Georgia,serif; margin:15px 0; }
+.pr-boundary p { color:#c9bdc6; font-size:.95rem; }
+.pr-boundary p:first-child { margin-top:0; }
+.pr-boundary strong { color:#e3d9de; }
+.pr-boundary-order { padding-left:16px; border-left:2px solid #b7c9b170; }
+.pr-source-figure { padding:24px 0 0; text-align:center; }
+.pr-source-root { padding:24px; background:#b7c9b109; border:1px solid #b7c9b15c; border-radius:50% 50% 3px 3px / 22% 22% 3px 3px; }
+.pr-source-figure span { display:block; color:#b6c9b0; font-size:.76rem; }
+.pr-source-figure strong { display:block; font:1.4rem/1.5 Georgia,serif; color:#e5dcdf; margin:10px 0; }
+.pr-source-figure small { display:block; font-size:.74rem; color:#bbadb7; line-height:1.65; }
+.pr-source-fork { width:51%; height:28px; border:1px solid #b7c9b16b; border-bottom:0; margin:24px auto 0; position:relative; }
+.pr-source-fork:before { content:''; position:absolute; height:25px; bottom:100%; left:50%; width:1px; background:#b7c9b16b; }
+.pr-source-views { display:grid; grid-template-columns:1fr 1fr; gap:16px; }
+.pr-source-views>div { border-block:1px solid #d0b4c44f; padding:18px 9px; }
+.pr-source-views strong { font-size:1.13rem; }
+.pr-source-views span { color:#d0b4c4; }
+.pr-source-figure>p { color:#c3b7c0; font-size:.83rem; max-width:360px; margin:20px auto 0; }
+.pr-connection-example { margin:45px 0; padding:30px 35px; border-left:2px solid #b7c9b173; background:#b7c9b106; }
+.pr-tour .pr-connection-example h3 { font:1.6rem/1.5 Georgia,serif; margin:12px 0 20px; }
+.pr-connection-example h3 em { color:#b7c9b1; font-style:normal; }
+.pr-connection-example>p:last-child { max-width:780px; color:#c9bdc6; margin-bottom:0; }
+.pr-source-links { display:grid; grid-template-columns:1fr 1fr; gap:45px; }
+.pr-source-links article { border-top:1px solid #d0b4c445; padding-top:20px; }
+.pr-source-links span { font-size:.77rem; color:#b7c9b1; }
+.pr-tour .pr-source-links h3 { font:1.3rem/1.4 Georgia,serif; margin:12px 0; }
+.pr-source-links p,.pr-scope-line { color:#c3b5c0; font-size:.93rem; }
+.pr-scope-line { max-width:870px; }
+@media(max-width:700px){.pr-boundary{grid-template-columns:1fr;gap:12px;margin-top:30px;}.pr-thesis{font-size:1.3rem;padding:23px 0;}.pr-source-figure{padding-top:0;}.pr-source-views{gap:10px;}.pr-source-views strong{font-size:1.04rem;}.pr-source-root{padding:25px 16px;}.pr-connection-example{padding:23px 18px;margin:30px 0;}.pr-tour .pr-connection-example h3{font-size:1.3rem;}.pr-source-links{grid-template-columns:1fr;gap:22px;}}

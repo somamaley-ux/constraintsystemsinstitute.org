@@ -20,7 +20,7 @@
 .pr-route-choice[aria-pressed="true"] strong { color: var(--pr-route-sage); }
 .pr-route :is(button, a, summary):focus-visible { outline: 2px solid var(--pr-route-sage); outline-offset: 5px; }
 .pr-route-choice:hover, .pr-route-step:hover, .pr-route-action:not(:disabled):hover { border-color: var(--pr-route-mauve); background: rgba(197, 173, 201, .09); }
-.pr-route-foundation { padding: 20px 24px; border: 1px solid rgba(190, 203, 178, .3); border-radius: 10px 10px 0 0; background: rgba(190, 203, 178, .05); }
+.pr-route-foundation { position: relative; padding: 20px 24px; border: 1px solid rgba(190, 203, 178, .3); border-radius: 10px 10px 0 0; background: rgba(190, 203, 178, .05); }
 .pr-route-foundation-label { color: var(--pr-route-sage); font-size: 11px; letter-spacing: .09em; text-transform: uppercase; margin: 0 0 9px; }
 .pr-route-foundation h3 { margin: 0 0 9px; font-size: clamp(18px, 2.3vw, 23px); font-weight: 450; line-height: 1.4; }
 .pr-route-foundation p:last-child { color: var(--pr-route-muted); font-size: 13px; line-height: 1.65; margin: 0; max-width: 850px; }
@@ -84,3 +84,15 @@
 @media (prefers-reduced-motion: reduce) {
   .pr-route * { transition: none !important; }
 }
+
+/* Keep the physical source visible while the representation changes. */
+.pr-route-foundation { border-left: 3px solid var(--pr-route-sage); }
+.pr-route-visual .pr-route-relation { fill: #29292a; stroke: rgba(190, 203, 178, .5); stroke-width: 1.4; }
+.pr-route-visual .pr-route-diagram-label { fill: #dfd9df; font: 12px system-ui, sans-serif; }
+.pr-route-visual .pr-route-source-label { fill: var(--pr-route-sage); font-size: 12px; }
+.pr-route-retained { display: flex; align-items: center; justify-content: center; gap: 9px; max-width: 280px; margin: 4px auto 17px; padding: 10px 6px; border-top: 1px solid rgba(190, 203, 178, .22); border-bottom: 1px solid rgba(190, 203, 178, .22); color: var(--pr-route-sage); font-size: 11px; line-height: 1.55; text-align: left; }
+.pr-route-retained span { flex: 0 0 10px; width: 10px; height: 10px; border-radius: 50%; background: #394138; border: 1.5px solid var(--pr-route-sage); }
+.pr-route[data-pr-route-stage="0"] .pr-route-visual { background: rgba(190, 203, 178, .045); }
+.pr-route[data-pr-route-stage="0"] .pr-route-stage-label { color: var(--pr-route-sage); }
+.pr-route[data-pr-route-stage="0"] .pr-route-step[aria-current="step"] { border-color: var(--pr-route-sage); background: rgba(190, 203, 178, .08); }
+.pr-route[data-pr-route-stage="0"] .pr-route-step[aria-current="step"] .pr-route-step-number { background: var(--pr-route-sage); border-color: var(--pr-route-sage); }
