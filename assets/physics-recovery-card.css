@@ -1,0 +1,63 @@
+#physics-from-below-arc {
+  scroll-margin-top: 120px;
+  grid-template-columns: minmax(280px, .9fr) minmax(0, 1.15fr);
+  align-items: center;
+  border-color: #b8c9be66;
+  background: radial-gradient(ellipse at 87% 55%, #b6cdb313, transparent 64%), linear-gradient(145deg, #ffffff0e, #ffffff04), #1d1c20;
+}
+#physics-from-below-arc h3 {
+  max-width: 16ch;
+  font-size: clamp(2.2rem, 3.2vw, 3.25rem);
+  line-height: 1.12;
+  overflow-wrap: normal;
+  word-break: normal;
+  hyphens: none;
+}
+#physics-from-below-arc .physics-recovery-fields {
+  max-width: 28ch;
+  color: #d8d8cf;
+  font-size: 1.04rem;
+  line-height: 1.7;
+}
+#physics-from-below-arc .physics-recovery-link {
+  display: block;
+  min-width: 0;
+  border-block: 1px solid #b8c9be66;
+}
+#physics-from-below-arc .physics-recovery-art {
+  display: block;
+  width: 100%;
+  height: auto;
+  aspect-ratio: 720 / 510;
+}
+#physics-from-below-arc .physics-recovery-entry {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 18px;
+  padding: 19px 15px;
+  background: #b5c9bd0a;
+  color: #e5dfd7;
+  font-size: 1rem;
+  line-height: 1.5;
+}
+#physics-from-below-arc .physics-recovery-entry svg {
+  width: 23px;
+  height: 23px;
+  flex: 0 0 auto;
+  color: #bdd1c2;
+}
+#physics-from-below-arc .physics-recovery-link:hover .physics-recovery-entry { background: #b5c9bd1a; }
+#physics-from-below-arc .physics-recovery-link:focus-visible { outline: 2px solid #c4d6c9; outline-offset: 5px; }
+@media (max-width: 860px) {
+  #physics-from-below-arc { grid-template-columns: minmax(0, 1fr); }
+  #physics-from-below-arc h3 { max-width: 22ch; }
+  #physics-from-below-arc .physics-recovery-fields { max-width: 40ch; }
+}
+@media (max-width: 650px) {
+  #physics-from-below-arc h3 { font-size: 2rem; }
+  #physics-from-below-arc .physics-recovery-entry { padding-inline: 11px; }
+}
+@media (max-width: 360px) {
+  #physics-from-below-arc h3 { font-size: 1.75rem; }
+}

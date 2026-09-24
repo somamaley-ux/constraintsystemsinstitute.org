@@ -1,0 +1,54 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 510" role="img" aria-labelledby="title desc">
+  <title id="title">Familiar physics, a common structural foundation</title>
+  <desc id="desc">Four schematic views surround a shared foundation: the straight comparison grid of special relativity, a curved grid for general relativity, quantum evolution, and connected matter and interaction roles.</desc>
+  <defs>
+    <radialGradient id="paper-light"><stop stop-color="#354444" stop-opacity=".48"/><stop offset="1" stop-color="#222127" stop-opacity="0"/></radialGradient>
+    <linearGradient id="shared-line"><stop stop-color="#b7cfc3"/><stop offset=".5" stop-color="#d4c4b1"/><stop offset="1" stop-color="#b9beda"/></linearGradient>
+  </defs>
+  <rect width="720" height="510" fill="#222127"/>
+  <ellipse cx="360" cy="253" rx="333" ry="249" fill="url(#paper-light)"/>
+  <g fill="none" stroke="#bdc5c9" stroke-width="1.2" opacity=".15">
+    <path d="M44 22H676M44 490H676M360 27V175M360 340V485"/>
+  </g>
+  <g fill="none" stroke="#adc3bc" stroke-width="1.6" opacity=".36">
+    <path d="M175 177C175 220 245 250 302 250M545 177C545 220 475 250 418 250M175 349C175 306 245 276 302 276M545 349C545 306 475 276 418 276"/>
+  </g>
+  <g transform="translate(76 43)" fill="none" stroke="#b9d1c4" stroke-linecap="round">
+    <g stroke-width="1.1" opacity=".32"><path d="M0 14H206M0 47H206M0 80H206M0 113H206M8 2V124M53 2V124M98 2V124M143 2V124M188 2V124"/></g>
+    <path d="M19 112L93 20M93 112L167 20" stroke-width="2.4"/>
+    <path d="M54 107L128 24" stroke-width="2.8"/>
+    <circle cx="62" cy="98" r="5" fill="#222127" stroke-width="2.4"/>
+    <circle cx="118" cy="35" r="5" fill="#222127" stroke-width="2.4"/>
+  </g>
+  <g transform="translate(438 37)" fill="none" stroke="#c5b4c9" stroke-linecap="round">
+    <g stroke-width="1.4" opacity=".72">
+      <path d="M0 15Q103 16 206 15M0 44C68 44 76 68 103 68S138 44 206 44M0 73C62 73 77 111 103 111S144 73 206 73M0 102C54 102 77 133 103 133S152 102 206 102"/>
+      <path d="M18 4C18 69 23 87 31 123M59 4C59 65 70 91 78 132M103 4V137M147 4C147 65 136 91 128 132M188 4C188 69 183 87 175 123"/>
+    </g>
+    <circle cx="103" cy="54" r="7" fill="#c5b4c9" stroke="none"/>
+  </g>
+  <g fill="#e1d8d5" font-family="system-ui, sans-serif" font-size="28" text-anchor="middle">
+    <text x="179" y="201">Special relativity</text>
+    <text x="541" y="201">General relativity</text>
+  </g>
+  <g fill="none" stroke="url(#shared-line)" stroke-width="2">
+    <path d="M245 250H475M271 264H449M302 278H418"/>
+    <circle cx="360" cy="264" r="28" fill="#282c2e"/>
+    <path d="M348 264H372M360 252V276"/>
+  </g>
+  <text x="360" y="323" fill="#c8cfc6" font-family="system-ui, sans-serif" font-size="26" text-anchor="middle">A common structural foundation</text>
+  <g transform="translate(73 360)" fill="none" stroke="#bdc9e1" stroke-linecap="round">
+    <path d="M0 53H214" stroke-width="1" opacity=".3"/>
+    <path d="M0 53C18 53 20 28 35 28S53 78 70 78S88 9 107 9S126 94 143 94S162 30 179 30S196 53 214 53" stroke-width="2.6"/>
+    <path d="M0 53C35 51 62 26 107 26S179 51 214 53" stroke-width="1.2" stroke-dasharray="4 6" opacity=".4"/>
+  </g>
+  <g transform="translate(458 369)" fill="none" stroke="#d5c6aa" stroke-width="1.8">
+    <path d="M27 14L87 1L147 14L147 75L87 89L27 75ZM27 14L87 45L147 14M27 75L87 45L147 75M87 1V89" opacity=".7"/>
+    <g fill="#222127" stroke-width="2.3"><circle cx="27" cy="14" r="8"/><circle cx="87" cy="1" r="8"/><circle cx="147" cy="14" r="8"/><circle cx="27" cy="75" r="8"/><circle cx="87" cy="89" r="8"/><circle cx="147" cy="75" r="8"/></g>
+    <circle cx="87" cy="45" r="5" fill="#d5c6aa" stroke="none"/>
+  </g>
+  <g fill="#e1d8d5" font-family="system-ui, sans-serif" font-size="28" text-anchor="middle">
+    <text x="179" y="486">Quantum dynamics</text>
+    <text x="541" y="486">Matter &amp; interactions</text>
+  </g>
+</svg>

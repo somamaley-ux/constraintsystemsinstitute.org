@@ -1,0 +1,304 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Where the Familiar Laws Come From | Constraint Systems Institute</title>
+  <meta name="description" content="An interactive AASC tour from a common premetric foundation to special relativity, general relativity, quantum dynamics, and the Standard Model. Build comparisons from signals and follow the recovery of familiar physics.">
+  <meta name="author" content="Amos Jay Maley">
+  <meta name="theme-color" content="#201e21">
+  <link rel="canonical" href="https://constraintsystemsinstitute.org/physics-from-below/">
+  <link rel="stylesheet" href="../styles.css">
+  <link rel="stylesheet" href="../standard-model/tour.css">
+  <link rel="stylesheet" href="tour.css?v=recovery-20260924">
+  <link rel="stylesheet" href="sr-lab.css?v=recovery-20260924">
+  <link rel="stylesheet" href="routes.css?v=recovery-20260924">
+  <script defer src="../assets/vendor/lucide.min.js"></script>
+  <script defer src="sr-model.js?v=recovery-20260924"></script>
+  <script defer src="sr-lab.js?v=recovery-20260924"></script>
+  <script defer src="routes.js?v=recovery-20260924"></script>
+  <script defer src="tour.js?v=recovery-20260924"></script>
+  <script data-goatcounter="https://constraintsystemsinstitute.goatcounter.com/count" async src="https://gc.zgo.at/count.js"></script>
+  <script type="application/ld+json">{"@context":"https://schema.org","@type":"LearningResource","name":"Where the familiar laws come from","url":"https://constraintsystemsinstitute.org/physics-from-below/","inLanguage":"en","learningResourceType":"Interactive guided tour","author":{"@type":"Person","name":"Amos Jay Maley"},"about":["AASC","Special relativity","General relativity","Quantum dynamics","Standard Model","Premetric structural unification"],"isPartOf":{"@type":"WebSite","name":"Constraint Systems Institute","url":"https://constraintsystemsinstitute.org/"}}</script>
+<link rel="icon" href="/favicon.ico" sizes="any">
+<link rel="apple-touch-icon" href="/apple-touch-icon.png">
+<meta property="og:type" content="website">
+<meta property="og:site_name" content="Constraint Systems Institute">
+<meta property="og:title" content="Where the Familiar Laws Come From | Constraint Systems Institute">
+<meta property="og:description" content="An interactive AASC tour from a common premetric foundation to special relativity, general relativity, quantum dynamics, and the Standard Model. Build comparisons from signals and follow the recovery of familiar physics.">
+<meta property="og:url" content="https://constraintsystemsinstitute.org/physics-from-below/">
+<meta property="og:image" content="https://constraintsystemsinstitute.org/assets/social/physics-from-below.jpg">
+<meta property="og:image:width" content="1200">
+<meta property="og:image:height" content="630">
+<meta property="og:image:type" content="image/jpeg">
+<meta property="og:image:alt" content="Where the Familiar Laws Come From — a guided tour from Constraint Systems Institute">
+<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:title" content="Where the Familiar Laws Come From | Constraint Systems Institute">
+<meta name="twitter:description" content="An interactive AASC tour from a common premetric foundation to special relativity, general relativity, quantum dynamics, and the Standard Model. Build comparisons from signals and follow the recovery of familiar physics.">
+<meta name="twitter:image" content="https://constraintsystemsinstitute.org/assets/social/physics-from-below.jpg">
+<meta name="twitter:image:alt" content="Where the Familiar Laws Come From — a guided tour from Constraint Systems Institute">
+<link rel="stylesheet" href="/assets/site-quality.css">
+</head>
+<body class="sm-tour pr-tour">
+<a class="site-skip-link" href="#main-content">Skip to content</a>
+  <header class="site-header tour-header">
+    <a class="brand" href="../"><span class="brand-mark" aria-hidden="true"></span><span>Constraint Systems<br>Institute</span></a>
+    <nav class="tour-nav" aria-label="Tour navigation"><a href="#research">The research</a><a href="../#guided-tours">All tours <i data-lucide="arrow-up-right" aria-hidden="true"></i></a></nav>
+  </header>
+  <main id="main-content" tabindex="-1">
+    <section class="pr-opening" aria-labelledby="tour-title">
+      <div class="wrap pr-opening-grid">
+        <div class="pr-opening-copy">
+          <p class="kicker">AASC / The recovery of familiar physics</p>
+          <h1 id="tour-title">Where the familiar<br>laws come from.</h1>
+          <p class="pr-opening-lead">Different equations.<br>One physical world.</p>
+          <p class="pr-opening-intro">Relativity, quantum dynamics and the Standard Model describe different aspects of the same world. Follow how AASC develops their familiar forms from a common foundation.</p>
+          <a class="text-link pr-start" href="#same-world">Begin with a physical event <i data-lucide="arrow-down" aria-hidden="true"></i></a>
+        </div>
+        <figure class="pr-opening-figure" aria-labelledby="pr-figure-caption">
+          <div class="pr-formalisms">
+            <div class="pr-formalism pr-sr-symbol"><svg viewBox="0 0 200 130" aria-hidden="true"><path class="pr-faint" d="M20 105H180M100 15V115"/><path d="M40 108L100 22L160 108M54 96H146"/><circle cx="100" cy="80" r="18"/><path d="M100 65V80L112 86"/></svg><span>Special relativity</span></div>
+            <div class="pr-formalism pr-gr-symbol"><svg viewBox="0 0 200 130" aria-hidden="true"><path d="M15 34Q100 88 185 34M15 54Q100 110 185 54M15 77Q100 125 185 77M45 15Q65 100 45 115M78 15Q100 100 78 115M122 15Q100 100 122 115M155 15Q135 100 155 115"/><circle cx="100" cy="50" r="9"/></svg><span>General relativity</span></div>
+            <div class="pr-formalism pr-qm-symbol"><svg viewBox="0 0 200 130" aria-hidden="true"><path class="pr-faint" d="M15 90H185"/><path d="M15 87C35 87 29 80 44 78S55 110 68 69S76 26 91 82S109 109 117 45S129 55 137 81S159 88 185 87"/><path class="pr-faint" d="M15 77Q100 -20 185 77" stroke-dasharray="4 5"/></svg><span>Quantum dynamics</span></div>
+            <div class="pr-formalism pr-sm-symbol"><svg viewBox="0 0 200 130" aria-hidden="true"><path class="pr-faint" d="M55 35L145 35L100 103Z M55 35L45 94M145 35L155 94M45 94L155 94"/><circle cx="55" cy="35" r="13"/><circle cx="145" cy="35" r="13"/><circle cx="100" cy="103" r="13"/><circle cx="100" cy="61" r="18"/><circle cx="45" cy="94" r="7"/><circle cx="155" cy="94" r="7"/></svg><span>Matter &amp; interactions</span></div>
+          </div>
+          <div class="pr-root-stem" aria-hidden="true"></div>
+          <figcaption id="pr-figure-caption"><span>A common premetric foundation</span><small>Identified objects. Physical relations. Retained events.</small></figcaption>
+        </figure>
+      </div>
+    </section>
+    <nav class="chapter-nav" aria-label="Chapters"><div class="wrap">
+      <a href="#same-world" aria-current="step"><span>01</span> Before the numbers</a>
+      <a href="#special-relativity"><span>02</span> Build a comparison</a>
+      <a href="#relativistic-effects"><span>03</span> Familiar effects</a>
+      <a href="#recovering-physics"><span>04</span> Follow the branches</a>
+      <a href="#one-world"><span>05</span> Bring them together</a>
+    </div><div class="reading-progress" aria-hidden="true"><span id="reading-progress"></span></div></nav>
+    <section class="chapter wrap" id="same-world" aria-labelledby="pr-start-title">
+      <div class="pr-introduction">
+        <div><p class="kicker">01 / Before the numbers</p><h2 id="pr-start-title">A signal leaves.<br>A signal returns.<br><em>What happened?</em></h2></div>
+        <div class="pr-intro-copy"><p>You send a pulse toward a mirror and record its return. You want to know how far away the mirror is.</p><p>Before calculating a distance, the comparison already concerns <strong>this clock, this pulse and these particular events</strong>. Its readings have to belong to the experiment you actually performed.</p><p>AASC begins with the requirements that make those physical subjects definite. It follows that same work through the construction of comparisons, geometry and familiar laws.</p></div>
+      </div>
+      <div class="pr-questions" aria-label="Four requirements already present in the experiment">
+        <article><span>Reference</span><h3>Which clock?<br>Which events?</h3><p>A description keeps its connection to the physical things it describes.</p></article>
+        <article><span>Standing</span><h3>Does this comparison<br>actually qualify?</h3><p>The working device, signal and calibration support the use being made of them.</p></article>
+        <article><span>Irreversibility</span><h3>Which occurrence<br>made this record?</h3><p>A later reading or correction does not become the original departure or return.</p></article>
+        <article><span>Admissibility</span><h3>Do the pieces<br>work together?</h3><p>Combining the records must preserve the objects, conditions and uses they concern.</p></article>
+      </div>
+      <p class="pr-premetric"><strong>Premetric</strong> means that these physical relations are established before a numerical spacetime metric is supplied. “From below” follows what a description depends on.</p>
+      <details class="technical-note"><summary>Why the common foundation still matters when more physics is added</summary><div><p>The Kernel argument applies to every non-degenerate determinate physical object and incidence, including objects never measured. A clock, a calibration, a propagation law and a more elaborate physical construction each incur the same four necessary functions. Their implementation can be implicit or distributed.</p><p>The new physical content of a branch specifies which comparisons and dynamics it supports. The construction must then show how that content yields the claimed result while retaining its original source. Kernel necessity, faithful description and the realization of a particular law have distinct jobs in the argument.</p><p>Source: <a href="#sr-paper">Special Relativity from AASC</a>, §§1–4, Theorem 2.1 and Proposition 2.4. <a href="../foundations/">Explore the Foundations tour.</a></p></div></details>
+    </section>
+    <!-- RECOVERY_SR_EXHIBITS -->
+<section class="chapter pr-sr-chapter" id="special-relativity" aria-labelledby="pr-sr-title">
+  <div class="wrap">
+    <p class="kicker">02 · Special relativity</p>
+    <h2 id="pr-sr-title">Build a ruler<br>from signals.</h2>
+    <p class="lead-copy">Before asking how far apart two things are, keep track of what happened: a signal left one endpoint, reached the other, and came back. Now build the comparison, one step at a time.</p>
+    <div class="pr-sr-panel" data-pr-sr-signals>
+      <div class="pr-sr-controls pr-sr-steps" role="group" aria-label="Build a ruler from signals">
+        <button type="button" data-pr-sr-step="0" aria-pressed="true"><span class="pr-sr-number">01</span>Keep the events</button>
+        <button type="button" data-pr-sr-step="1" aria-pressed="false"><span class="pr-sr-number">02</span>Read the clock</button>
+        <button type="button" data-pr-sr-step="2" aria-pressed="false"><span class="pr-sr-number">03</span>Compare distance</button>
+        <button type="button" data-pr-sr-step="3" aria-pressed="false"><span class="pr-sr-number">04</span>Map possible reach</button>
+        <button type="button" data-pr-sr-step="4" aria-pressed="false"><span class="pr-sr-number">05</span>Change observer</button>
+      </div>
+      <div class="pr-sr-signal-layout">
+        <figure class="pr-sr-figure">
+          <svg class="pr-sr-svg" viewBox="0 0 640 360" role="img" aria-labelledby="pr-sr-signal-svg-title pr-sr-signal-svg-desc">
+            <title id="pr-sr-signal-svg-title">One signal, three retained events</title>
+            <desc id="pr-sr-signal-svg-desc">The signal leaves endpoint A at E1, reflects at endpoint B at E2, and returns to A at E3. A schematic layout precedes numerical clock and distance calibration.</desc>
+            <defs><marker id="pr-sr-arrow" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="6" markerHeight="6" orient="auto-start-reverse"><path d="M1 1L9 5L1 9" fill="none" stroke="#c5b0be" stroke-width="1.5"/></marker></defs>
+            <g data-pr-sr-layer="reach"><path class="pr-sr-cone" d="M320 300L32 60H608Z"/><path class="pr-sr-guide pr-sr-guide-dash" d="M176 180H464"/></g>
+            <path class="pr-sr-worldline" d="M320 38V320M464 38V320"/>
+            <path class="pr-sr-path" d="M328 294L456 186M456 174L328 66" marker-end="url(#pr-sr-arrow)"/>
+            <g data-pr-sr-layer="ticks" class="pr-sr-sage-line"><path d="M303 60H315M303 120H315M303 180H315M303 240H315M303 300H315"/></g>
+            <g data-pr-sr-layer="ruler"><path class="pr-sr-ruler" d="M320 336H464M320 329V343M464 329V343"/></g>
+            <g data-pr-sr-layer="observer"><path class="pr-sr-sage-line" d="M320 300L407 180L493 60"/><path class="pr-sr-guide pr-sr-guide-dash" d="M200 360L608 156"/></g>
+            <circle class="pr-sr-dot" cx="320" cy="300" r="9"/><circle class="pr-sr-mauve-dot" cx="464" cy="180" r="9"/><circle class="pr-sr-dot" cx="320" cy="60" r="9"/>
+            <text x="292" y="306" text-anchor="end">E1</text><text x="485" y="186">E2</text><text x="292" y="66" text-anchor="end">E3</text>
+            <text x="320" y="25" text-anchor="middle">A</text><text x="464" y="25" text-anchor="middle">B</text>
+          </svg>
+          <figcaption data-pr-sr-signal-caption>Schematic event layout: the positions on this page are not yet a physical ruler. The later cone depicts one spatial direction and elapsed time.</figcaption>
+        </figure>
+        <div class="pr-sr-stage-copy" aria-live="polite" aria-atomic="true">
+          <p class="pr-sr-eyebrow" data-pr-sr-stage-label>One chain of physical records</p>
+          <h3 data-pr-sr-stage-title>The signal must return to the same endpoint.</h3>
+          <p data-pr-sr-stage-text>A departure, a reflection and a return belong to one recorded experiment. Clock readings and coordinates can be added, but they must keep referring to those events.</p>
+          <div class="pr-sr-stage-output" data-pr-sr-stage-output>E1 → E2 → E3. The event identities stay fixed throughout.</div>
+        </div>
+      </div>
+      <ol class="pr-sr-event-list" aria-label="Retained event records">
+        <li><strong>E1 · departure at A</strong><span data-pr-sr-record="0">The signal leaves.</span></li>
+        <li><strong>E2 · reflection at B</strong><span data-pr-sr-record="1">The signal turns back.</span></li>
+        <li><strong>E3 · return to A</strong><span data-pr-sr-record="2">The same clock records its return.</span></li>
+      </ol>
+      <p class="pr-sr-identity"><strong>What stays fixed:</strong> the endpoints A and B, the three identified events, and the record connecting them.</p>
+      <div class="pr-sr-controls pr-sr-actions">
+        <button type="button" data-pr-sr-back disabled>← Previous</button>
+        <span class="pr-sr-counter" data-pr-sr-counter>Step 1 of 5</span>
+        <button type="button" class="pr-sr-next" data-pr-sr-next>Read the clock →</button>
+      </div>
+      <ol class="pr-sr-static">
+        <li><strong>Keep the events.</strong> Identify the same emission, reflection and reception before attaching numbers.</li>
+        <li><strong>Read the clock.</strong> A calibrated clock at A records emission at 0 microseconds and return at 2 microseconds.</li>
+        <li><strong>Compare distance.</strong> For this stationary, delay-free round trip, radar distance is c × (return − departure) / 2 = 299.8 metres. The reflection is assigned the midpoint time, 1 microsecond.</li>
+        <li><strong>Map possible reach.</strong> The paper uses a complete family of admissible propagation comparisons, not this one ray alone. With its completed causal order, clock and isotropy conditions, it constructs a spatial comparison and a finite round causal cone.</li>
+        <li><strong>Change observer.</strong> Preserving that cone and one common rest-clock calibration gives the Lorentz frame law. At relative speed 0.6c, the same departure and return are 2.5 microseconds apart in the moving network; A’s clock still records 2 microseconds.</li>
+      </ol>
+      <details class="technical-note"><summary>What the reconstruction uses</summary><p>The homogeneous comparison branch supplies four dimensions and composition of displacement comparisons. Theorem 5.2 constructs its affine structure. Completed causal order, clock comparison and rest-comparison properties give a finite bound (Proposition 5.6); full boundary isotropy constructs the spatial quadratic form (Theorem 5.7). A common rest-clock calibration then removes the remaining scale freedom, giving the Lorentz law (Theorem 6.5 and Corollary 6.6). Actual repeatable signals and endpoint records are needed for the clock and radar experiment; the cone alone does not supply a device.</p><p>This illustration uses c = 299,792,458 metres per second and a stationary reflector with no reflection delay. The final overlay uses a frame moving at 0.6c. It shows a time axis and simultaneity direction, not a new physical signal.</p><a href="#sr-paper">Special Relativity from AASC · pp. 24–41</a></details>
+    </div>
+  </div>
+</section>
+<section class="chapter pr-sr-chapter" id="relativistic-effects" aria-labelledby="pr-sr-effects-title">
+  <div class="wrap">
+    <p class="kicker">03 · The familiar results return</p>
+    <h2 id="pr-sr-effects-title">Different readings.<br>The same physical reference.</h2>
+    <p class="lead-copy">Time dilation, length contraction, relativity of simultaneity and mass–energy equivalence return as precise results. Each answers a different physical question.</p>
+    <div class="pr-sr-panel" data-pr-sr-effects>
+      <div class="pr-sr-controls pr-sr-tabs" role="tablist" aria-label="Choose a relativistic effect">
+        <button type="button" role="tab" id="pr-sr-tab-clock" aria-controls="pr-sr-effect-clock" aria-selected="true" tabindex="0" data-pr-sr-tab="clock">Time dilation</button>
+        <button type="button" role="tab" id="pr-sr-tab-rod" aria-controls="pr-sr-effect-rod" aria-selected="false" tabindex="-1" data-pr-sr-tab="rod">Length contraction</button>
+        <button type="button" role="tab" id="pr-sr-tab-simultaneity" aria-controls="pr-sr-effect-simultaneity" aria-selected="false" tabindex="-1" data-pr-sr-tab="simultaneity">Simultaneity</button>
+        <button type="button" role="tab" id="pr-sr-tab-energy" aria-controls="pr-sr-effect-energy" aria-selected="false" tabindex="-1" data-pr-sr-tab="energy">Energy &amp; inertia</button>
+      </div>
+      <div class="pr-sr-controls pr-sr-speed">
+        <label for="pr-sr-speed"><span data-pr-sr-speed-label>Clock speed relative to the observing network</span><output id="pr-sr-speed-output" for="pr-sr-speed">0.60c · γ = 1.25</output></label>
+        <input type="range" id="pr-sr-speed" min="0" max="90" step="1" value="60" aria-describedby="pr-sr-speed-help">
+        <div class="pr-sr-speed-scale" id="pr-sr-speed-help"><span>0 · no relative motion</span><span>0.90c · below light speed</span></div>
+        <p class="pr-sr-note">γ (gamma) is the factor relating the readings at the chosen relative speed.</p><button type="button" class="pr-sr-preset" data-pr-sr-reset>Return to the 0.60c example</button>
+      </div>
+      <div class="pr-sr-effect" id="pr-sr-effect-clock" role="tabpanel" aria-labelledby="pr-sr-tab-clock" tabindex="0" data-pr-sr-effect="clock">
+        <h3>One clock. One pair of ticks.</h3>
+        <p class="pr-sr-effect-intro">The clock records four seconds between two ticks. A network of synchronized clocks sees it moving and assigns a longer coordinate-time interval to those same events.</p>
+        <div class="pr-sr-effect-grid">
+          <div class="pr-sr-clock-visual" role="img" aria-label="The same two clock ticks span four seconds on the clock and five seconds in the observing network" data-pr-sr-clock-visual>
+            <div class="pr-sr-clock-row"><p><span>The clock’s own reading</span><strong>4.00 s</strong></p><div class="pr-sr-clock-track"><div class="pr-sr-clock-fill"></div></div></div>
+            <div class="pr-sr-clock-row"><p><span>The network’s assigned interval</span><strong data-pr-sr-clock-network>5.00 s</strong></p><div class="pr-sr-clock-track"><div class="pr-sr-clock-fill" data-pr-sr-clock-bar></div></div></div>
+            <p class="pr-sr-tick-key">Each line begins and ends at the same two identified ticks. Its length shows the duration assigned in that comparison.</p>
+          </div>
+          <div><dl class="pr-sr-values"><div class="pr-sr-retained"><dt>Clock elapsed time</dt><dd>4.00 s</dd></div><div><dt>Network interval</dt><dd data-pr-sr-clock-time>5.00 s</dd></div></dl><p class="pr-sr-formula">Δt = γ Δτ</p><p class="pr-sr-feedback" data-pr-sr-clock-feedback>At 0.60c, the network assigns 5 seconds to the interval the moving clock records as 4 seconds.</p></div>
+        </div>
+        <p class="pr-sr-identity"><strong>Retained:</strong> the same clock, the same two ticks, and its four seconds of elapsed time.</p>
+      </div>
+      <div class="pr-sr-effect" id="pr-sr-effect-rod" role="tabpanel" aria-labelledby="pr-sr-tab-rod" tabindex="0" data-pr-sr-effect="rod">
+        <h3>Keep the rod. Change the selected events.</h3>
+        <p class="pr-sr-effect-intro">Measuring length means recording both ends “at the same time.” A moving frame selects a different pair of events on the same persistent endpoints.</p>
+        <div class="pr-sr-effect-grid">
+          <figure class="pr-sr-figure"><svg class="pr-sr-svg" viewBox="0 0 640 310" role="img" aria-labelledby="pr-sr-rod-svg-title pr-sr-rod-svg-desc"><title id="pr-sr-rod-svg-title">A different simultaneous slice of the same rod</title><desc id="pr-sr-rod-svg-desc">Vertical lines are the histories of the rod's endpoints in its rest frame. A grey horizontal line selects equal rest-frame times. The sage line selects equal times in the moving measurement frame.</desc><text x="190" y="35" text-anchor="middle">End A</text><text x="450" y="35" text-anchor="middle">End B</text><path class="pr-sr-worldline" d="M190 60V270M450 60V270"/><path class="pr-sr-guide pr-sr-guide-dash" d="M190 130H450"/><circle class="pr-sr-ghost-dot" cx="450" cy="130" r="8" data-pr-sr-rod-rest-dot/><text x="473" y="125" data-pr-sr-rod-rest-label>B0</text><path class="pr-sr-sage-line" d="M190 130L450 196" data-pr-sr-rod-slice/><circle class="pr-sr-dot" cx="190" cy="130" r="9"/><circle class="pr-sr-dot" cx="450" cy="196" r="9" data-pr-sr-rod-event/><text x="166" y="137" text-anchor="end">A0</text><text x="474" y="203" data-pr-sr-rod-event-label>B(v)</text><path class="pr-sr-guide" d="M92 254V72" marker-end="url(#pr-sr-arrow)"/><text x="72" y="52" text-anchor="middle">Later</text></svg><figcaption>The drawing stays in the rod’s rest frame. The endpoint histories do not move closer together; the selected event on B changes.</figcaption></figure>
+          <div><dl class="pr-sr-values"><div class="pr-sr-retained"><dt>Rest length</dt><dd>10.00 m</dd></div><div><dt>Moving-frame length</dt><dd data-pr-sr-rod-length>8.00 m</dd></div></dl><p class="pr-sr-formula">L = L₀ / γ</p><p class="pr-sr-feedback" data-pr-sr-rod-feedback>At 0.60c, the moving frame selects B’s event 20.01 nanoseconds earlier in the rod’s rest frame. Its simultaneous endpoint measurement is 8 metres.</p></div>
+        </div>
+        <p class="pr-sr-identity"><strong>Retained:</strong> the rod and its two endpoint identities. <strong>Changed:</strong> which event on B is paired with A0.</p>
+      </div>
+      <div class="pr-sr-effect" id="pr-sr-effect-simultaneity" role="tabpanel" aria-labelledby="pr-sr-tab-simultaneity" tabindex="0" data-pr-sr-effect="simultaneity">
+        <h3>Two fixed events. Different clock-network times.</h3>
+        <p class="pr-sr-effect-intro">Events C and D occur 300 metres apart and at the same time in the original frame. Keep both events fixed and compare their times in a moving frame.</p>
+        <div class="pr-sr-effect-grid">
+          <figure class="pr-sr-figure"><svg class="pr-sr-svg" viewBox="0 0 640 310" role="img" aria-labelledby="pr-sr-sim-svg-title pr-sr-sim-svg-desc"><title id="pr-sr-sim-svg-title">The assigned time of event D changes relative to C</title><desc id="pr-sr-sim-svg-desc">A horizontal grey reference marks equal original-frame times. The mauve position of D marks its earlier assigned time in the moving frame, while event C remains at the shared origin.</desc><path class="pr-sr-guide pr-sr-guide-dash" d="M125 100H505"/><path class="pr-sr-guide" d="M165 65V265M465 65V265"/><path class="pr-sr-path" d="M165 100L465 145" data-pr-sr-sim-join/><circle class="pr-sr-dot" cx="165" cy="100" r="11"/><circle class="pr-sr-mauve-dot" cx="465" cy="145" r="11" data-pr-sr-sim-event/><text x="165" y="78" text-anchor="middle">C</text><text x="465" y="175" text-anchor="middle" data-pr-sr-sim-label>D</text><text x="320" y="36" text-anchor="middle">Network time</text><text x="94" y="278">Earlier</text></svg><figcaption>This time-comparison sketch keeps the two event columns fixed. The full coordinate transformation also changes their spatial coordinate separation.</figcaption></figure>
+          <div><dl class="pr-sr-values"><div class="pr-sr-retained"><dt>Original time difference</dt><dd>0.000 µs</dd></div><div><dt>New time difference D − C</dt><dd data-pr-sr-sim-time>−0.751 µs</dd></div></dl><p class="pr-sr-formula">Δt′ = −γ v Δx / c²</p><p class="pr-sr-feedback" data-pr-sr-sim-feedback>The moving frame assigns D an earlier time. The pair remains spacelike: neither event becomes the cause of the other.</p></div>
+        </div>
+        <p class="pr-sr-identity"><strong>Retained:</strong> exactly the same events C and D and their spacelike separation. Only their coordinate description changes.</p>
+      </div>
+      <div class="pr-sr-effect" id="pr-sr-effect-energy" role="tabpanel" aria-labelledby="pr-sr-tab-energy" tabindex="0" data-pr-sr-effect="energy">
+        <h3>What does it take to change the motion?</h3>
+        <p class="pr-sr-effect-intro">A change of observer re-describes a body. A physical push delivers momentum to it. Keep those two operations distinct, then connect the body’s rest energy to its measured resistance to a change of motion.</p>
+        <div class="pr-sr-controls pr-sr-energy-modes" role="group" aria-label="Choose the physical operation"><button type="button" aria-pressed="true" data-pr-sr-mode="observer">Change the observer</button><button type="button" aria-pressed="false" data-pr-sr-mode="push">Deliver a controlled push</button></div>
+        <div class="pr-sr-effect-grid">
+          <div class="pr-sr-energy-card" data-pr-sr-body data-pr-sr-mode="observer"><p class="pr-sr-eyebrow" data-pr-sr-energy-operation>Observer comparison</p><div class="pr-sr-body-mark">Body A</div><p class="pr-sr-body-caption">Same bearer · same rest internal state</p><div class="pr-sr-motion"><svg viewBox="0 0 80 24" aria-hidden="true"><path d="M4 12H72M61 3L72 12L61 21" fill="none" stroke="#cbaabb" stroke-width="2"/></svg><span data-pr-sr-motion-label>Relative speed: 0.60c</span></div><p class="pr-sr-energy-context" data-pr-sr-energy-context>The observer changes. This comparison does not deliver a push to the body.</p></div>
+          <div><dl class="pr-sr-values"><div class="pr-sr-retained"><dt>Rest inertial mass</dt><dd>1.00 kg</dd></div><div><dt>Total energy</dt><dd data-pr-sr-energy-total>112.3 PJ</dd></div><div class="pr-sr-retained"><dt>Rest energy E₀</dt><dd>89.9 PJ</dd></div><div><dt data-pr-sr-transfer-title>Momentum in this frame</dt><dd data-pr-sr-energy-transfer>224.8 MN·s</dd></div></dl><p class="pr-sr-formula">E₀ = mᵢc² · E = γE₀ · p = γmᵢv</p><p class="pr-sr-feedback" data-pr-sr-energy-feedback>The same body has different energy and momentum readings in a moving frame. Its rest energy and rest inertial mass remain fixed.</p></div>
+        </div>
+        <p class="pr-sr-note">Example: a body with 1 kilogram of rest inertial mass. PJ means 10¹⁵ joules; MN·s means 10⁶ newton-seconds. For the push, the final internal state is unchanged and all exchange is accounted for.</p>
+        <p class="pr-sr-static">For an actual controlled push from rest to 0.60c, the impulse is 224.8 MN·s. In the paper, the small-speed ratio of delivered impulse to velocity change measures inertia; conservation and the source’s Lorentz response force that coefficient to equal E₀/c². A coordinate change alone does not supply this experiment.</p>
+      </div>
+      <details class="technical-note"><summary>What the effects assume, and where they are proved</summary><p>The clock is an ideal calibrated inertial device on a valid run. Length uses stable endpoints and the measuring frame’s synchronized equal-time rule. These are exact flat-target comparisons; curved regions and accelerated devices require their additional conditions. The duration law is Theorem 7.6 (p. 39); time dilation, length contraction and simultaneity are Theorems 9.1, 9.2 and 9.4 (pp. 42–43).</p><p>Rest-energy equivalence also requires dynamics: a complete attached total source, finite conserved charges, a stable rest branch, an active Lorentz action and controlled impulse records ending in the same internal state. Theorem 11.9 (p. 52) derives the inertial response and E₀ = mᵢc² without assuming a mass shell. The controls illustrate these results within those conditions.</p><a href="#sr-paper">Special Relativity from AASC · §§7–11</a></details>
+    </div>
+  </div>
+</section>
+    <!-- /RECOVERY_SR_EXHIBITS -->
+    <!-- RECOVERY_ROUTE_EXHIBIT -->
+<section class="chapter wrap pr-route" id="recovering-physics" data-pr-route aria-labelledby="pr-route-heading">
+  <div class="pr-route-intro">
+    <p class="kicker">04 / Follow the construction</p>
+    <h2 id="pr-route-heading">Start with the physics you know.<br>Find what it rests on.</h2>
+    <p>Choose a familiar branch, then trace its description back to the structure it needs. Follow the same route upward to see where the familiar form returns.</p>
+  </div>
+  <div class="pr-route-choices" data-pr-route-controls role="group" aria-label="Choose a physical branch" hidden>
+    <button class="pr-route-choice" type="button" data-pr-route-choice="sr" aria-pressed="true"><strong>Special relativity</strong><span>How can different observers describe the same events?</span></button>
+    <button class="pr-route-choice" type="button" data-pr-route-choice="gr" aria-pressed="false"><strong>General relativity</strong><span>How are matter and spacetime connected?</span></button>
+    <button class="pr-route-choice" type="button" data-pr-route-choice="qm" aria-pressed="false"><strong>Quantum dynamics</strong><span>How does a quantum state change?</span></button>
+    <button class="pr-route-choice" type="button" data-pr-route-choice="sm" aria-pressed="false"><strong>Matter and interactions</strong><span>How do matter and its interactions fit together?</span></button>
+  </div>
+  <div class="pr-route-foundation">
+    <p class="pr-route-foundation-label">Present in every route</p>
+    <h3>The same object. Meaningful comparisons. Consistent continuation.</h3>
+    <p>The shared foundation stays in place when you switch branches. Each branch then supplies the physical construction needed for its own description.</p>
+  </div>
+  <div class="pr-route-workbench" data-pr-route-panel hidden>
+    <p class="pr-route-instruction">The three steps show logical dependence, not a sequence in time. Select any step or use the buttons below.</p>
+    <div class="pr-route-steps" role="group" aria-label="Choose a stage of the construction">
+      <button class="pr-route-step" type="button" data-pr-route-step="0"><span class="pr-route-step-number" aria-hidden="true">1</span><span>Shared premetric foundation</span></button>
+      <button class="pr-route-step" type="button" data-pr-route-step="1"><span class="pr-route-step-number" aria-hidden="true">2</span><span>Physical construction</span></button>
+      <button class="pr-route-step" type="button" data-pr-route-step="2" aria-current="step"><span class="pr-route-step-number" aria-hidden="true">3</span><span>Familiar form</span></button>
+    </div>
+    <div class="pr-route-explanation">
+      <div>
+        <p class="pr-route-stage-label" data-pr-route-label></p>
+        <h3 data-pr-route-title></h3>
+        <p class="pr-route-copy" data-pr-route-copy></p>
+        <p class="pr-route-added" data-pr-route-added></p>
+      </div>
+      <figure class="pr-route-visual">
+        <div data-pr-route-graphic></div>
+        <p class="pr-route-equation" data-pr-route-equation></p>
+        <figcaption data-pr-route-caption></figcaption>
+      </figure>
+    </div>
+    <div class="pr-route-actions">
+      <button class="pr-route-action" type="button" data-pr-route-back><span aria-hidden="true">←</span><span>What does this depend on?</span></button>
+      <button class="pr-route-action" type="button" data-pr-route-forward><span>Recover the familiar description</span><span aria-hidden="true">→</span></button>
+    </div>
+    <a class="pr-route-source" data-pr-route-source></a>
+    <details class="pr-route-scope"><summary>What this route establishes</summary><p data-pr-route-scope></p></details>
+    <p class="pr-route-note">The diagrams show the relationships being retained. They are illustrations of the construction, not numerical simulations of these theories.</p>
+  </div>
+  <div class="pr-route-fallback" data-pr-route-fallback>
+    <article><h3>Special relativity</h3><ol><li><strong>Shared foundation:</strong> keep hold of the same physical objects, comparisons and continuations.</li><li><strong>Physical construction:</strong> complete the physical comparisons, recover a causal cone from finite isotropic propagation, and establish a common clock calibration.</li><li><strong>Familiar form:</strong> different observer readings preserve the spacetime interval.</li></ol><a class="pr-route-source" href="#sr-paper">Special relativity: manuscript and scope</a></article>
+    <article><h3>General relativity</h3><ol><li><strong>Shared foundation:</strong> retain determinate physical identity and consistent continuation.</li><li><strong>Physical construction:</strong> a faithful Lorentzian metric, an attached source and a minimal local curvature response.</li><li><strong>Familiar form:</strong> the Einstein equation, with the appropriate scale and calibration anchors.</li></ol><a class="pr-route-source" href="../gravity-quantum/#gravity">Follow the general-relativity construction</a></article>
+    <article><h3>Quantum dynamics</h3><ol><li><strong>Shared foundation:</strong> preserve meaningful state identity, comparisons and continuation.</li><li><strong>Physical construction:</strong> establish the spatial Hilbert representation and the operator requirements of the closed scalar branch.</li><li><strong>Familiar form:</strong> Schrödinger evolution with its kinetic-plus-potential Hamiltonian. Measurement has its own construction.</li></ol><a class="pr-route-source" href="../gravity-quantum/#quantum">Follow the quantum-dynamics construction</a></article>
+    <article><h3>Matter and interactions</h3><ol><li><strong>Shared foundation:</strong> something persists through admitted physical changes.</li><li><strong>Physical construction:</strong> distinguish matter, gauge and Higgs responses while retaining their common physical inputs.</li><li><strong>Familiar form:</strong> the source-qualified Standard Model structure and its shared Einstein response.</li></ol><a class="pr-route-source" href="../standard-model/#physical">Follow the Standard Model construction</a></article>
+  </div>
+  <p class="pr-route-status" data-pr-route-status role="status" aria-live="polite" aria-atomic="true"></p>
+</section>
+    <!-- /RECOVERY_ROUTE_EXHIBIT -->
+    <section class="chapter pr-unity" id="one-world" aria-labelledby="pr-unity-title"><div class="wrap">
+      <div class="chapter-heading"><p class="kicker">05 / Bring the descriptions together</p><h2 id="pr-unity-title">The same world has to<br>survive every description.</h2></div>
+      <div class="pr-unity-grid">
+        <div class="pr-unity-copy"><p>Recovering a familiar equation is one part of the task. The next is to establish how the descriptions belong together.</p><p>A spacetime account and a quantum account must keep their connection to the physical source they describe. Where their uses overlap, their records and allowed changes have to agree.</p><p><strong>This is the structural unification developed by AASC:</strong> a common foundation, constructed physical sources, and compatible descriptions whose connection is preserved through their use.</p></div>
+        <ol class="pr-continuity">
+          <li><span>01</span><div><h3>Keep the source.</h3><p>Retain which physical system, state and occurrence the description concerns.</p></div></li>
+          <li><span>02</span><div><h3>Keep the physical uses.</h3><p>Preserve the actual records and the conditions under which an operation is available.</p></div></li>
+          <li><span>03</span><div><h3>Keep the connection as it changes.</h3><p>A continuation in one description must remain compatible with the corresponding continuation in the other.</p></div></li>
+        </ol>
+      </div>
+      <p class="pr-closing-line">The familiar formalisms become connected ways of describing a physical world whose structure is established more fundamentally.</p>
+      <details class="technical-note"><summary>What the common-source construction establishes</summary><div><p>The special-relativity manuscript gives two connected routes: construction of the Lorentzian form from completed physical comparisons, and its matching to the metric and continuation of an already occupied common source. Corollary 12.7 relates Einstein, Schrödinger and Lorentz-path descriptions through a common history. Theorems 15.9–15.10 supply a joint fixed-background example with actual clock, signal and response records.</p><p>In that example, the Einstein projection has a vacuum source. The positive laboratory response and quantum-state evolution remain attached to their own physical uses. Proposition 15.11 proves the obstruction to treating that laboratory response as the same complete gravitational source on unchanged flat geometry. The coupled Wheeler–DeWitt and Standard Model constructions have their own source identifications and domains (§§15.3–15.4).</p><p>The Einstein result fixes the minimal local first-curvature response in its stated Lorentzian realization. The Schrödinger result fixes the closed scalar nonrelativistic normal form under its state-space, domain and calibration conditions. The tour follows those particular recoveries and their common-source connections.</p><a class="source-ref" href="../gravity-quantum/#unity">Explore the common-source construction <i data-lucide="arrow-up-right" aria-hidden="true"></i></a></div></details>
+    </div></section>
+    <section class="chapter wrap pr-research" id="research" aria-labelledby="pr-research-title">
+      <div class="chapter-heading"><p class="kicker">Follow the research</p><h2 id="pr-research-title">From the picture<br>to the arguments.</h2></div>
+      <article class="pr-featured-paper" id="sr-paper">
+        <div><span class="pr-paper-label">The new special-relativity work</span><h3>Special Relativity from AASC</h3><p class="pr-paper-subtitle">The Necessary Kernel of Physical Objecthood and Its Lorentzian Realization</p><p>Amos Jay Maley · Reference Edition</p></div>
+        <div><p>The manuscript constructs the comparison, geometry, clock and response machinery used in this tour, and connects its relativistic realization to the wider AASC corpus.</p><p class="pr-paper-locations">Construction: §§3–8 · Relativistic effects: §§9–11 · Common-source realization: §§12–15 · Dependency map: Table 2.</p><!-- SR_PUBLIC_LINK --></div>
+      </article>
+      <div class="pr-next-tours">
+        <a href="../foundations/"><span>Begin at the root</span><strong>The Foundations</strong><small>The questions, the Kernel and the AMetric boundary.</small><i data-lucide="arrow-up-right" aria-hidden="true"></i></a>
+        <a href="../gravity-quantum/"><span>Follow the paired descriptions</span><strong>General relativity &amp; quantum dynamics</strong><small>Einstein and Schrödinger recoveries, clocks and common sources.</small><i data-lucide="arrow-up-right" aria-hidden="true"></i></a>
+        <a href="../standard-model/"><span>Follow the physical roles</span><strong>The Standard Model</strong><small>Matter, gauge and Higgs responses from the persistence bearer.</small><i data-lucide="arrow-up-right" aria-hidden="true"></i></a>
+        <a href="../measurement/"><span>Follow the observed record</span><strong>Measurement &amp; entanglement</strong><small>Physical sources, joint standing, detectors and actual events.</small><i data-lucide="arrow-up-right" aria-hidden="true"></i></a>
+      </div>
+    </section>
+  </main>
+  <footer class="tour-footer wrap"><a href="../#guided-tours">All guided tours <i data-lucide="arrow-up-right" aria-hidden="true"></i></a><a href="mailto:amos@constraintsystemsinstitute.org">Contact the institute</a></footer>
+<!-- SITE_INFORMATION -->
+<nav class="site-information-footer" aria-label="Website information"><a href="/privacy/">Privacy</a><a href="/using-the-research/">Citation &amp; reuse</a><a href="mailto:amos@constraintsystemsinstitute.org">Contact</a></nav>
+<!-- /SITE_INFORMATION -->
+</body>
+</html>
