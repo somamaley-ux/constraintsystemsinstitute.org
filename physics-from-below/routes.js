@@ -134,6 +134,12 @@
   let branchKey = 'sr';
   let stageIndex = 0;
   const stageNames = ['Shared premetric foundation', 'Physical construction', 'Familiar form'];
+  const conditions = {
+    sr: 'Four dimensions; homogeneous completed comparisons; finite isotropic propagation; actual devices and common clock calibration.',
+    gr: 'A faithful four-dimensional Lorentzian description; an attached source; a local symmetric first-curvature response; scale and calibration anchors.',
+    qm: 'A faithful spatial Hilbert representation; continuity, operator-domain and self-adjointness conditions; a closed scalar nonrelativistic system; physical scale anchors.',
+    sm: 'A common persistence bearer; distinct matter, gauge and Higgs roles; source-qualified operations with their state, joint parameters, domains and action order retained.'
+  };
 
   function render(announce = true) {
     const branch = branches[branchKey];
@@ -152,6 +158,7 @@
     ui.equation.textContent = stage.equation;
     ui.caption.textContent = stage.caption;
     ui.scope.textContent = branch.scope;
+    get('conditions').textContent = "Physical conditions: " + conditions[branchKey];
     ui.source.textContent = branch.sourceLabel;
     ui.source.setAttribute('href', branch.source);
     ui.back.disabled = stageIndex === 0;
