@@ -1,0 +1,1290 @@
+{
+  "schemaVersion": 1,
+  "retrievedOn": "2026-10-03",
+  "entries": [
+    {
+      "doi": "10.5281/zenodo.22348528",
+      "page": "https://constraintsystemsinstitute.org/papers/anomalies-as-structural-obstructions-22348528/",
+      "displayTitle": "Anomalies as Structural Obstructions",
+      "registeredTitle": "Anomalies as Structural Obstructions",
+      "publisher": "Zenodo",
+      "sourceUrl": "https://api.datacite.org/dois/10.5281/zenodo.22348528",
+      "sourceLandingUrl": "https://zenodo.org/doi/10.5281/zenodo.22348528",
+      "sourceSha256": "73382d15fec204aa1ad9a563404c26e0a3cbaf3a857fab3cc284abf15edca06c",
+      "retrievedOn": "2026-10-03",
+      "description": "SYM-3 of Symmetry ARC\n\n \n\nGauge Inconsistency, Global Response, Inflow, Matching, and Normal-Form Closure in the Standard ModelA Fixed-Target Anomaly Reference for the Standard Model Symmetry Arc\n\nQuantum field theory uses the word “anomaly” for several physically distinct phenomena: failure of a dynamical gauge symmetry at the quantum level, anomalous nonconservation of a meaningful global current, obstruction to gauging a global symmetry, topology-sensitive determinant phases, mixed-background noninvariance, bulk–boundary inflow, ultraviolet–infrared matching constraints, and renormalized trace identities.\n\nThis volume develops a fixed-target classification of these phenomena within the Standard Model symmetry programme. It distinguishes their physical loci, causal ancestry, obstruction types, repair mechanisms, presentation freedoms, and target-update boundaries rather than collapsing them into a single exact/broken or conserved/nonconserved label.\n\nThe analysis is formulated under the Admissibility–Standing–Reference–Irreversibility kernel. A determinate anomaly claim already requires fixed identity, lawful comparison and transformation, consequence-bearing use, and irreversible fixation. Conventional anomaly theory then supplies the target-specific currents, measures, determinant phases, descent classes, index data, global obstructions, inflow relations, matching conditions, and renormalized operator identities.\n\nThe closed SYM-3 family contains ten reference-complete anomaly targets:\n\n\n\nthe one-generation Standard Model local gauge-anomaly ledger;\n\nvector/axial descent with Bardeen structure;\n\na symmetric vectorlike six-Weyl theory;\n\nthe ordinary and newer SU(2)SU(2) global anomalies;\n\nthe massless three-flavor QCD U(1)AU(1)_A anomaly;\n\nelectroweak B+LB+L;\n\na four-dimensional Weyl boundary with five-dimensional inflow;\n\nthree-flavor QCD gauged-Wess–Zumino–Witten matching;\n\nthe massless-QCD trace anomaly in a fixed MS‾\\overline{\\mathrm{MS}} operator target.\n\n\nAcross these targets, the construction contains:\n\n\n\n63 independently derived role positions;\n\n590 role-blind physical anomaly candidates;\n\n4,412 evaluated same-fiber pairs;\n\n91,695 complete candidate maps;\n\n91,597 physical-compatibility rejections;\n\n98 surviving compatible objects;\n\none lawful normal-form isomorphism class for each closed target.\n\n\nThe volume establishes a common anomaly grammar distinguishing:\n\n\n\ngauge inconsistency from anomalous global response;\n\nlocal descent from global determinant and bordism obstruction;\n\nconsistent, covariant, and Bardeen-shifted current representatives;\n\ncounterterm redistribution from genuine physical cancellation;\n\nanomaly inflow from retrospective repair;\n\n’t Hooft anomaly matching from uniqueness of infrared realization;\n\ntrace anomalies from gauge anomalies;\n\nclosed anomaly targets from generalized, higher-group, non-invertible, and global-form frontier interfaces.\n\n\nThe resulting normal-form groupoid retains nontrivial presentation morphisms, automorphisms, and stabilizers within a unique isomorphism class. Public anomaly coordinates and repair claims are admitted only when they preserve the fixed target and its invariant physical content.\n\nThe volume also provides explicit interfaces for later symmetry modules. Target-relative anomaly records are transported to SYM-4 through SYM-10 under target-preserving rules. Global-form, line-operator, monopole, higher-group, and non-invertible anomaly inventories remain explicit SYM-9 frontier interfaces, while whole-arc candidate exhaustion remains reserved for SYM-11.\n\nThe result does not claim that anomaly cancellation uniquely derives the Standard Model, fixes numerical couplings, or determines a unique infrared phase. It is complete only for the declared target and constructor grammars, and the executable audit layer does not rederive imported continuum results such as determinant-line theory, bordism classification, or renormalized quantum-field-theoretic theorems.\n\nPrincipal contributions\n\n\n\nA fixed-target anomaly-status calculus for the Standard Model symmetry arc.\n\nA typed separation of gauge, global, mixed, gravitational, topological, inflow, matching, and trace anomalies.\n\nA distinction between physical obstruction and presentation-dependent current or counterterm choices.\n\nA local anomaly-polynomial, Wess–Zumino, and relative BRST descent framework.\n\nA global-anomaly treatment using determinant lines, eta invariants, bordism, and faithful global form.\n\nA mixed-anomaly and discrete-anomaly classification.\n\nAn explicit ’t Hooft anomaly and infrared-matching boundary.\n\nA bulk–boundary inflow and repair-relation analysis.\n\nA generalized, higher-group, and non-invertible anomaly frontier interface.\n\nA trace-anomaly and renormalization-group transport handoff.\n\nExact Standard Model perturbative and global anomaly ledgers.\n\nA reproducible finite normal-form and compatibility audit architecture.",
+      "subjectTerms": [
+        "AASC",
+        "quantum anomalies",
+        "structural obstructions",
+        "gauge anomalies",
+        "Wess–Zumino consistency",
+        "BRST descent",
+        "covariant anomaly",
+        "Bardeen–Zumino polynomial",
+        "SU(2) global anomaly",
+        "gravitational anomaly",
+        "mixed anomaly",
+        "axial \\(U(1)_A\\)",
+        "electroweak B+L",
+        "bulk–boundary correspondence",
+        "Callan–Harvey mechanism",
+        "gauged Wess–Zumino–Witten model",
+        "non-invertible symmetry",
+        "Weyl anomaly",
+        "renormalization-group transport",
+        "normal-form theorem",
+        "mathematical physics"
+      ],
+      "rights": [
+        {
+          "rights": "Creative Commons Attribution 4.0 International",
+          "rightsUri": "https://creativecommons.org/licenses/by/4.0/legalcode",
+          "schemeUri": "https://spdx.org/licenses/",
+          "rightsIdentifier": "cc-by-4.0",
+          "rightsIdentifierScheme": "SPDX"
+        },
+        {
+          "rights": "Amos Jay Maley",
+          "rightsUri": "http://rightsstatements.org/vocab/InC/1.0/"
+        }
+      ],
+      "context": "Symmetry arc",
+      "path": "/papers/anomalies-as-structural-obstructions-22348528/index.html",
+      "overviewParagraphs": [
+        "Quantum field theory uses the word “anomaly” for several physically distinct phenomena: failure of a dynamical gauge symmetry at the quantum level, anomalous nonconservation of a meaningful global current, obstruction to gauging a global symmetry, topology-sensitive determinant phases, mixed-background noninvariance, bulk–boundary inflow, ultraviolet–infrared matching constraints, and renormalized trace identities.",
+        "This volume develops a fixed-target classification of these phenomena within the Standard Model symmetry programme. It distinguishes their physical loci, causal ancestry, obstruction types, repair mechanisms, presentation freedoms, and target-update boundaries rather than collapsing them into a single exact/broken or conserved/nonconserved label.",
+        "The analysis is formulated under the Admissibility–Standing–Reference–Irreversibility kernel. A determinate anomaly claim already requires fixed identity, lawful comparison and transformation, consequence-bearing use, and irreversible fixation. Conventional anomaly theory then supplies the target-specific currents, measures, determinant phases, descent classes, index data, global obstructions, inflow relations, matching conditions, and renormalized operator identities."
+      ],
+      "scopeParagraphs": [
+        "The result does not claim that anomaly cancellation uniquely derives the Standard Model, fixes numerical couplings, or determines a unique infrared phase. It is complete only for the declared target and constructor grammars, and the executable audit layer does not rederive imported continuum results such as determinant-line theory, bordism classification, or renormalized quantum-field-theoretic theorems."
+      ],
+      "related": [
+        {
+          "title": "Accidental Symmetry by Operator Dimension: Baryon, Lepton, and Their Remnants",
+          "url": "/papers/accidental-symmetry-by-operator-dimension-baryon-lepton-and-their-remnants-22591931/",
+          "doi": "10.5281/zenodo.22591931"
+        },
+        {
+          "title": "Chiral, Custodial, and Infrared Symmetries",
+          "url": "/papers/chiral-custodial-and-infrared-symmetries-22589866/",
+          "doi": "10.5281/zenodo.22589866"
+        },
+        {
+          "title": "Electroweak Vacuum Fixation and Residual-Spectrum Rigidity",
+          "url": "/papers/electroweak-vacuum-fixation-and-residual-spectrum-rigidity-22593311/",
+          "doi": "10.5281/zenodo.22593311"
+        },
+        {
+          "title": "Flavor Symmetry, Basis Skin, Spurion Structure, and Invariant Normal Form",
+          "url": "/papers/flavor-symmetry-basis-skin-spurion-structure-and-invariant-normal-form-22587689/",
+          "doi": "10.5281/zenodo.22587689"
+        }
+      ]
+    },
+    {
+      "doi": "10.5281/zenodo.19493077",
+      "page": "https://constraintsystemsinstitute.org/papers/companion-iii-reconstruction-non-triviality-and-faithful-wilson-universality-10-5281-z/",
+      "displayTitle": "Companion III: Reconstruction, Non-Triviality, and Faithful-Wilson Universality",
+      "registeredTitle": "Companion III: Reconstruction, Non-Triviality, and Faithful-Wilson Universality",
+      "publisher": "Zenodo",
+      "sourceUrl": "https://api.datacite.org/dois/10.5281/zenodo.19493077",
+      "sourceLandingUrl": "https://zenodo.org/doi/10.5281/zenodo.19493077",
+      "sourceSha256": "5a595dfb1ad0a3af43f52a95be88118ff87481f8659bdc9520ad35ebb7d2ed60",
+      "retrievedOn": "2026-10-03",
+      "description": "This document provides the complete proof home for the endpoint packet of the Yang–Mills mass-gap argument.\n\nIt establishes, in fully explicit theorem-level form:\n\n\n\nthe Euclidean Osterwalder–Schrader (OS) dossier for the sharp-local theory,\n\nthe OS/Wightman reconstruction and Haag–Kastler local net,\n\nthe field correspondence between constructed observables and local quantum fields,\n\nthe Minkowski vacuum spectral gap transfer,\n\nnon-triviality of the theory (nonzero spectral weight),\n\nand the exact bounded-region local-net endpoint.\n\n\nIt also proves qualitative faithful-Wilson universality: all faithful Wilson lattice regularizations of the same compact connected simple group GGG yield canonically isomorphic continuum local theories.\n\n\n\nRole in the Overall Proof\n\nThis companion supplies the final closure layer of the argument.\n\nWithin the global architecture:\n\n\n\nCompanion I establishes the lattice spectral gap and transport.\n\nCompanion II constructs the continuum sharp-local theory.\n\nCompanion III reconstructs the physical quantum field theory and identifies the endpoint object.\n\n\nThe full chain is:\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n \n\n\n\n\n\n\n\n\n\n\n\nRoute 1 gap (Companion I)→ Sharp-local construction (Companion II)→ Reconstruction and endpoint (this document)\n\n\n\n\n\n\n\n\n\n\n\n\n \n\n\n\n\n\n\n\nMain Technical Content\n\nThe endpoint packet consists of four tightly coupled components:\n\n\n\n1. Euclidean OS Dossier\n\n\n\nVerification of Euclidean invariance, symmetry, and reflection positivity\n\nEstablishment of tempered Schwinger distributions\n\nConstruction of the OS Hilbert space with dense positive-time algebra\n\n\n\n\n2. OS/Wightman Reconstruction\n\n\n\nAnalytic continuation to Minkowski space\n\nConstruction of Wightman fields and vacuum representation\n\nGeneration of the Haag–Kastler local net\n\nUniqueness of the reconstructed theory up to unitary equivalence\n\n\n\n\n3. Mass Gap Transfer and Non-Triviality\n\n\n\nTransfer of the spectral gap from the OS Hamiltonian to the Minkowski Hamiltonian\n\nProof of vacuum uniqueness\n\nExplicit non-triviality witness (nonzero spectral measure)\n\nExclusion of the trivial (identity) theory\n\n\n\n\n4. Exact Local-Net Endpoint\n\n\n\nIdentification of the continuum theory as a bounded-region local gauge-invariant net\n\nDemonstration that local observables are precisely gauge-invariant curvature polynomials\n\nProof that extended-support line and surface operators lie outside the theorem-level algebra\n\n\n\n\nFaithful-Wilson Universality\n\nThe document proves that:\n\n\n\nall faithful finite-dimensional Wilson regularizations of a fixed group GGG,\n\nwithin the admissible renormalization class and coherent normalization,\n\n\nproduce canonically isomorphic continuum local theories.\n\nThis universality is qualitative:\n\n\n\nthe local field algebra and vacuum structure are invariant,\n\nexplicit quantitative bounds remain indexed by the chosen regularization.\n\n\n\n\nFormal Verification Layer\n\nThe endpoint packet is integrated into a Lean4 verification framework that certifies:\n\n\n\nconsistency of the reconstruction pipeline,\n\ncorrect dependency of endpoint claims on Lane A and Route 1 inputs,\n\nnon-circularity of the reconstruction and gap-transfer chain,\n\nalignment between manuscript statements and theorem-level outputs.\n\n\nThe Lean layer operates relative to an explicitly imported Wilson QFT substrate, and verifies the closure structure of the endpoint assembly.\n\n\n\nScope and Boundaries\n\nThis document:\n\n\n\ncompletes the construction of the physical Yang–Mills quantum field theory,\n\nestablishes its local net structure and vacuum sector properties,\n\nand provides the final theorem-level identification of the model.\n\n\nThis document does not:\n\n\n\nprove the lattice spectral gap (Companion I),\n\nconstruct the sharp-local algebra (Companion II),\n\nor include nonlocal operator sectors in the theorem claim.\n\n\nAll results are confined to the bounded-region local gauge-invariant algebra.\n\n\n\nStructure\n\nThe proof is organized as a final theorem packet, where:\n\n\n\nall inputs are explicitly traced to earlier companions,\n\nall reconstruction steps are standard and isolated,\n\nand the endpoint object is uniquely identified.\n\n\nNo additional assumptions or hidden constructions are introduced at this stage.\n\n\n\nSignificance\n\nThis companion completes the program by showing that the constructed object is:\n\n\n\na non-trivial, local, relativistic quantum field theory with a strictly positive vacuum mass gap.\n\n\nIt provides the final bridge from constructive analysis to the standard axiomatic framework of quantum field theory.",
+      "subjectTerms": [
+        "Yang-Mills theory",
+        "mass gap",
+        "quantum field theory",
+        "spectral gap",
+        "vacuum structure",
+        "local net",
+        "field reconstruction",
+        "lattice gauge theory",
+        "mathematical physics"
+      ],
+      "rights": [
+        {
+          "rights": "Creative Commons Attribution 4.0 International",
+          "rightsUri": "https://creativecommons.org/licenses/by/4.0/legalcode",
+          "schemeUri": "https://spdx.org/licenses/",
+          "rightsIdentifier": "cc-by-4.0",
+          "rightsIdentifierScheme": "SPDX"
+        },
+        {
+          "rights": "Amos Jay Maley",
+          "rightsUri": "http://rightsstatements.org/vocab/InC/1.0/"
+        }
+      ],
+      "context": "Yang-Mills five-paper arc inside the Clay series",
+      "path": "/papers/companion-iii-reconstruction-non-triviality-and-faithful-wilson-universality-10-5281-z/index.html",
+      "overviewParagraphs": [
+        "This document provides the complete proof home for the endpoint packet of the Yang–Mills mass-gap argument.",
+        "It also proves qualitative faithful-Wilson universality: all faithful Wilson lattice regularizations of the same compact connected simple group GGG yield canonically isomorphic continuum local theories.",
+        "Companion III reconstructs the physical quantum field theory and identifies the endpoint object."
+      ],
+      "scopeParagraphs": [
+        "The Lean layer operates relative to an explicitly imported Wilson QFT substrate, and verifies the closure structure of the endpoint assembly.",
+        "All results are confined to the bounded-region local gauge-invariant algebra."
+      ],
+      "related": [
+        {
+          "title": "Companion I: Ultraviolet Gate and Route 1 Mass-Gap Chain",
+          "url": "/papers/companion-i-ultraviolet-gate-and-route-1-mass-gap-chain-10-5281-zenodo-19492934/",
+          "doi": "10.5281/zenodo.19492934"
+        },
+        {
+          "title": "Companion II: Lane A Sharp-Local Construction",
+          "url": "/papers/companion-ii-lane-a-sharp-local-construction-10-5281-zenodo-19492999/",
+          "doi": "10.5281/zenodo.19492999"
+        }
+      ]
+    },
+    {
+      "doi": "10.5281/zenodo.21616613",
+      "page": "https://constraintsystemsinstitute.org/papers/complete-certificate-closure-10-5281-zenodo-21616613/",
+      "displayTitle": "Complete Certificate Closure",
+      "registeredTitle": "Complete Certificate Closure for a Constraint-Native Gravity–Quantum Realization under AASC",
+      "publisher": "Zenodo",
+      "sourceUrl": "https://api.datacite.org/dois/10.5281/zenodo.21616613",
+      "sourceLandingUrl": "https://zenodo.org/doi/10.5281/zenodo.21616613",
+      "sourceSha256": "a94c161260529a81d5f1cc6b57038e4c86054792d612176f080ed5278d1bb222",
+      "retrievedOn": "2026-10-03",
+      "description": "Overview\n\nComplete Certificate Closure is the terminal FEP-1.0 capstone of the gravity–quantum unification ARC.\n\nThe preceding standalone modules discharge the constructive obligations left open by Structural Unification of Einstein and Schrödinger Dynamics:\n\n\n\nModule A constructs the operational metric–source attachment.\n\nModule B derives gravitational and inertial mass from one conserved Casimir charge.\n\nModule C constructs the common upstream continuation and proves the Einstein and Schrödinger projection intertwinings.\n\nModule D completes the exact target fibres and proves unique lawful occupancy modulo certificate-preserving equivalence.\n\n\nThe capstone imports these accepted endpoints and proves that they form one dependency-faithful, interface-complete realization certificate.\n\nIts task is not to replace the standalone proofs or manufacture missing occupants by integration. It establishes that the independently proved components retain their precise theorem content when assembled, share the same physical references, close every required interface, and jointly realize the frozen FEP-1.0 target.\n\nConceptual Significance\n\nThe capstone completes the transition from common-origin structure to certified joint realization.\n\nThe ARC begins from the claim that determinate physics already presupposes admissibility, standing, reference, and irreversible fixation. Within one admissible physical interior, Einstein and Schrödinger dynamics emerge as distinct first-response projections. The later modules then construct the structures required to turn that common origin into a complete realization:\n\none admissible interior⟶one operational source⟶one conserved mass charge⟶one upstream continuation\\text{one admissible interior} \\longrightarrow \\text{one operational source} \\longrightarrow \\text{one conserved mass charge} \\longrightarrow \\text{one upstream continuation}one admissible interior⟶one operational source⟶one conserved mass charge⟶one upstream continuation ⟶two lawful dynamical projections⟶complete target occupancy⟶one certificate orbit.\\longrightarrow \\text{two lawful dynamical projections} \\longrightarrow \\text{complete target occupancy} \\longrightarrow \\text{one certificate orbit}.⟶two lawful dynamical projections⟶complete target occupancy⟶one certificate orbit.\n\nThe result is neither an additive juxtaposition of gravity and quantum mechanics nor a declaration that one reduces to the other. It is a dependency-controlled common-origin construction in which both descriptions occupy distinct but coordinated roles inside one complete standing-bearing certificate.\n\nComplete Certificate Closure therefore supplies the terminal theorem of the gravity–quantum unification ARC: the accepted Einstein, Schrödinger, source, mass, continuation, record, boundary, and certificate structures integrate without dependency regression into one quotient-faithful FEP-1.0 realization.\n\nPlace in the Completed ARC\n\nThe completed gravity–quantum sequence is:\n\n\n\nGravity as Structural Necessity — establishes the necessary physical constraint role;\n\nEinstein Dynamics — derives the unique minimal first-response metric projection;\n\nSchrödinger Dynamics — derives the corresponding minimal Hamiltonian quantum projection;\n\nStructural Unification — proves that the gravitational and quantum descriptions are projections of one admissible physical interior;\n\nModule A — completes operational metric–source attachment.\n\nModule B — proves common mass–charge matching.\n\nModule C — constructs common upstream continuation and projection intertwining.\n\nModule D — establishes exact certificate-fibre exhaustion and unique lawful role occupancy.\n\nComplete Certificate Closure — integrates the full FEP-1.0 gravity–quantum realization certificate.\n\n\nThe capstone is therefore the endpoint of the completed ARC rather than another standalone local module.\n\nScope and Nonclaims\n\nThe manuscript does not claim:\n\n\n\nan independent rederivation of the universal AASC kernel;\n\nthat Einstein and Schrödinger dynamics are mathematically identical;\n\nreduction of gravity to quantum mechanics or quantum mechanics to gravity;\n\na new mixed Einstein–Schrödinger field equation;\n\nunrestricted uniqueness across different targets, source packages, sectors, topologies, boundary conditions, or calibrations;\n\nraw uniqueness of all mathematical presentations;\n\nquantization of the Einstein metric as a primitive step;\n\nconstruction of a Wheeler–DeWitt equation;\n\na nonzero interacting quantum-gravity field theory;\n\nrecovery of every conventional quantum-gravity formalism;\n\nderivation of all Standard Model fields, masses, or couplings;\n\nglobal existence through every singular or nonregular regime;\n\nelimination of gauge, phase, chart, or representative freedom;\n\nthat reversible evolution alone produces irreversible records;\n\nthat certificate integration can replace missing standalone proofs;\n\nclosure beyond the exact theorem interfaces and frozen FEP-1.0 comparison class.\n\n\nThe theorem is complete relative to its declared target, imports, regularity domain, calibration package, and certificate-equivalence relation.\n\n ",
+      "subjectTerms": [
+        "AASC",
+        "Complete Certificate Closure",
+        "gravity–quantum unification",
+        "Einstein dynamics",
+        "Schrödinger dynamics",
+        "operational source attachment",
+        "common mass charge",
+        "Poincaré Casimir",
+        "projection intertwining",
+        "certificate fibre exhaustion",
+        "theorem-import fidelity",
+        "evidence-graph closure",
+        "quotient-faithful uniqueness",
+        "irreversible record fixation",
+        "boundary synchronization",
+        "common-origin unification",
+        "realization certificate",
+        "foundations of physics"
+      ],
+      "rights": [
+        {
+          "rights": "Creative Commons Attribution 4.0 International",
+          "rightsUri": "https://creativecommons.org/licenses/by/4.0/legalcode",
+          "schemeUri": "https://spdx.org/licenses/",
+          "rightsIdentifier": "cc-by-4.0",
+          "rightsIdentifierScheme": "SPDX"
+        },
+        {
+          "rights": "Amos Jay Maley",
+          "rightsUri": "http://rightsstatements.org/vocab/InC/1.0/"
+        }
+      ],
+      "context": "Constructive physical realization",
+      "path": "/papers/complete-certificate-closure-10-5281-zenodo-21616613/index.html",
+      "overviewParagraphs": [
+        "Complete Certificate Closure is the terminal FEP-1.0 capstone of the gravity–quantum unification ARC.",
+        "The capstone imports these accepted endpoints and proves that they form one dependency-faithful, interface-complete realization certificate.",
+        "Its task is not to replace the standalone proofs or manufacture missing occupants by integration. It establishes that the independently proved components retain their precise theorem content when assembled, share the same physical references, close every required interface, and jointly realize the frozen FEP-1.0 target."
+      ],
+      "scopeParagraphs": [
+        "The theorem is complete relative to its declared target, imports, regularity domain, calibration package, and certificate-equivalence relation."
+      ],
+      "related": [
+        {
+          "title": "Module A: operational metric-source attachment",
+          "url": "/papers/module-a-operational-metric-source-attachment-10-5281-zenodo-21616142/",
+          "doi": "10.5281/zenodo.21616142"
+        },
+        {
+          "title": "Module B: common mass-charge matching",
+          "url": "/papers/module-b-common-mass-charge-matching-10-5281-zenodo-21616179/",
+          "doi": "10.5281/zenodo.21616179"
+        },
+        {
+          "title": "Module C: upstream continuation and projection intertwining",
+          "url": "/papers/module-c-upstream-continuation-and-projection-intertwining-10-5281-zenodo-21616213/",
+          "doi": "10.5281/zenodo.21616213"
+        },
+        {
+          "title": "Module D: certificate-fibre exhaustion and unique lawful role occupancy",
+          "url": "/papers/module-d-certificate-fibre-exhaustion-and-unique-lawful-role-occupancy-10-5281-zenodo/",
+          "doi": "10.5281/zenodo.21616427"
+        }
+      ]
+    },
+    {
+      "doi": "10.5281/zenodo.22587689",
+      "page": "https://constraintsystemsinstitute.org/papers/flavor-symmetry-basis-skin-spurion-structure-and-invariant-normal-form-22587689/",
+      "displayTitle": "Flavor Symmetry, Basis Skin, Spurion Structure, and Invariant Normal Form",
+      "registeredTitle": "Flavor Symmetry, Basis Skin, Spurion Structure, and Invariant Normal Form",
+      "publisher": "Zenodo",
+      "sourceUrl": "https://api.datacite.org/dois/10.5281/zenodo.22587689",
+      "sourceLandingUrl": "https://zenodo.org/doi/10.5281/zenodo.22587689",
+      "sourceSha256": "77c611496922d04c2f26cb0839eb032c297a9c3dbc73e577c4fd38f1cc15165c",
+      "retrievedOn": "2026-10-03",
+      "description": "SYM-5 of Symmetry ARC\n\n \n\nA Target-Fibered Orbit–Stabilizer–Invariant and Role-Occupancy Closure\n\nThis paper develops a target-indexed classification of Standard Model flavor structure that keeps distinct six objects often conflated in flavor physics:\n\n\n\nthe zero-Yukawa kinetic flavor action;\n\nweak-basis redescription;\n\nthe stabilizer of a fixed Yukawa or mass-tensor point;\n\nspurion covariance;\n\nquotient-stable mass, mixing, and CPCP invariants;\n\nanomaly and higher-group data.\n\n\nThe central mathematical object is the flavor action groupoid\n\nYD//GDbasis,\\mathcal{Y}_D // G_D^{\\mathrm{basis}},\n\nformed separately for the minimal zero-Yukawa Standard Model, generic and singular quark sectors, minimal massless-neutrino and Dirac-neutrino targets, Weinberg/Majorana targets, quark and minimal-lepton Minimal Flavor Violation effective theories, and a higher-flavor interface target.\n\nThe paper proves that the physical flavor symmetry at a fixed tensor point is the stabilizer of that point, not the complete covariance group. Generic parameter counts are derived from tensor-space dimension, basis-group dimension, and stabilizer dimension. Registered singular strata are recomputed independently rather than inherited from generic CKM or PMNS charts.\n\nThe analysis provides target-specific treatments of:\n\n\n\nthe maximal zero-Yukawa flavor action and its faithful global qualification;\n\nweak-basis transformations and presentation quotients;\n\nfixed-point stabilizers and factorization isotropy;\n\ngeneric and singular quark flavor structure;\n\nCKM mixing and quark-sector CPCP invariants;\n\nmassless, Dirac, and Majorana neutrino flavor targets;\n\ngeneralized CPCP conditions;\n\nspurion covariance and conditional Minimal Flavor Violation;\n\ninvariant algebras and completeness at generic and singular strata;\n\nrank loss, degeneracy, enhanced stabilizers, and phase survival;\n\nhigher-flavor and global-form interfaces.\n\n\nSpurions are treated as nondynamical backgrounds that encode symmetry-breaking ancestry and organize effective-operator structure. They are not promoted into primitive physical objects or independent dynamical symmetries. Likewise, bases, matrix entries, chart phases, and labels do not acquire physical authority merely by being recorded.\n\nThe AASC classification is applied only after the framework-neutral quantum-field-theoretic construction is complete. Target roles and physical residues are generated independently. The finite certificate contains:\n\n\n\n9 target fibers;\n\n25 registered results;\n\n12 generic and singular strata;\n\n82 independently constructed role positions;\n\n82 independently constructed QFT residues;\n\n778 evaluated same-target role–residue pairs;\n\n1 compatible complete assignment;\n\n1 lawful assignment orbit;\n\n12 successful mutation tests.\n\n\nThe result establishes a unique lawful integrated flavor normal form for the declared SYM-5 target family:\n\n∣OSYM5∣=1.\\left|\\mathcal{O}_{\\mathrm{SYM5}}\\right|=1.\n\nThis closure is relative to the registered sharp-local and effective-field-theory targets, their stated conventions, and their completeness certificates. It does not predict numerical Yukawa data, derive generation cardinality from matrix size, assert Minimal Flavor Violation as a fact of nature, or close the global-form, line-operator, monopole, defect, and generalized-symmetry sectors assigned to SYM-9. Whole-arc symmetry exhaustion remains reserved for SYM-11.\n\nPrincipal contributions\n\n\n\nA target-fibered Standard Model flavor-symmetry framework.\n\nA rigorous separation of flavor action, basis skin, stabilizer, spurion covariance, and physical invariants.\n\nAction-groupoid and orbit–stabilizer treatment of flavor structure.\n\nGeneric and singular quark-sector parameter-count and invariant analysis.\n\nSeparate massless, Dirac-neutrino, and Majorana flavor targets.\n\nTarget-specific generalized-CPCP criteria.\n\nSpurion no-promotion and conditional MFV theorems.\n\nInvariant-completeness discipline across orbit strata.\n\nHigher-flavor and global-form interface classification.\n\nIndependent role and residue construction.\n\nComplete finite role-occupancy closure with lawful automorphism quotient.\n\nReproducible audit, mutation testing, and explicit theorem boundaries.",
+      "subjectTerms": [
+        "AASC",
+        "Standard Model",
+        "flavor symmetry",
+        "orbit–stabilizer theory",
+        "Yukawa matrices",
+        "mass tensors",
+        "flavor quotient",
+        "CKM matrix",
+        "PMNS matrix",
+        "quark mixing",
+        "lepton mixing",
+        "physical parameter counting",
+        "flavor-breaking tensors",
+        "U(3) 5",
+        "global form",
+        "monopoles",
+        "lawful automorphism",
+        "role occupancy",
+        "normal-form theorem",
+        "mathematical physics"
+      ],
+      "rights": [
+        {
+          "rights": "Creative Commons Attribution 4.0 International",
+          "rightsUri": "https://creativecommons.org/licenses/by/4.0/legalcode",
+          "schemeUri": "https://spdx.org/licenses/",
+          "rightsIdentifier": "cc-by-4.0",
+          "rightsIdentifierScheme": "SPDX"
+        },
+        {
+          "rights": "Amos Jay Maley",
+          "rightsUri": "http://rightsstatements.org/vocab/InC/1.0/"
+        }
+      ],
+      "context": "Symmetry arc",
+      "path": "/papers/flavor-symmetry-basis-skin-spurion-structure-and-invariant-normal-form-22587689/index.html",
+      "overviewParagraphs": [
+        "The paper proves that the physical flavor symmetry at a fixed tensor point is the stabilizer of that point, not the complete covariance group. Generic parameter counts are derived from tensor-space dimension, basis-group dimension, and stabilizer dimension. Registered singular strata are recomputed independently rather than inherited from generic CKM or PMNS charts.",
+        "Spurions are treated as nondynamical backgrounds that encode symmetry-breaking ancestry and organize effective-operator structure. They are not promoted into primitive physical objects or independent dynamical symmetries. Likewise, bases, matrix entries, chart phases, and labels do not acquire physical authority merely by being recorded.",
+        "This closure is relative to the registered sharp-local and effective-field-theory targets, their stated conventions, and their completeness certificates. It does not predict numerical Yukawa data, derive generation cardinality from matrix size, assert Minimal Flavor Violation as a fact of nature, or close the global-form, line-operator, monopole, defect, and generalized-symmetry sectors assigned to SYM-9. Whole-arc symmetry exhaustion remains reserved for SYM-11."
+      ],
+      "scopeParagraphs": [],
+      "related": [
+        {
+          "title": "Chiral, Custodial, and Infrared Symmetries",
+          "url": "/papers/chiral-custodial-and-infrared-symmetries-22589866/",
+          "doi": "10.5281/zenodo.22589866"
+        },
+        {
+          "title": "Electroweak Vacuum Fixation and Residual-Spectrum Rigidity",
+          "url": "/papers/electroweak-vacuum-fixation-and-residual-spectrum-rigidity-22593311/",
+          "doi": "10.5281/zenodo.22593311"
+        },
+        {
+          "title": "Gauge Architecture and Gauge Skin in the Standard Model",
+          "url": "/papers/gauge-architecture-and-gauge-skin-in-the-standard-model-22338095/",
+          "doi": "10.5281/zenodo.22338095"
+        },
+        {
+          "title": "Global Form and Generalized Symmetry of the Standard Model",
+          "url": "/papers/global-form-and-generalized-symmetry-of-the-standard-model-22595005/",
+          "doi": "10.5281/zenodo.22595005"
+        }
+      ]
+    },
+    {
+      "doi": "10.5281/zenodo.21215285",
+      "page": "https://constraintsystemsinstitute.org/papers/generation-cardinality-as-a-forced-role-occupancy-endpoint-10-5281-zenodo-21215285/",
+      "displayTitle": "Generation Cardinality as a Forced Role-Occupancy Endpoint",
+      "registeredTitle": "Generation Cardinality as a Forced Role-Occupancy Endpoint",
+      "publisher": "Zenodo",
+      "sourceUrl": "https://api.datacite.org/dois/10.5281/zenodo.21215285",
+      "sourceLandingUrl": "https://zenodo.org/doi/10.5281/zenodo.21215285",
+      "sourceSha256": "2067cf3b0d5d51c09ef921e32c14629d9f3ebb476baf8918f00e2cb1dddce56a",
+      "retrievedOn": "2026-10-03",
+      "description": " \n\nPrimitive Necessity, Exact-Three Occupation, and Nonpromotion under Enrichment\n\nThis paper establishes an open-generation theorem for the cardinality of a primitive generation architecture.\n\nThe result is derived before empirical family matching, numerical mass values, mixing matrices, or preferred embedded substructures are introduced. The original primitive task is specified with multiplicity open and requires the joint realization of:\n\n\n\n\n\ninherited representation, charge, and weak-chiral compatibility;\n\n\n\n\ncompatible mass-response slots;\n\n\n\n\ndirect comparison of generation occurrences;\n\n\n\n\nboundary preparation, propagation, and endpoint reconstruction;\n\n\n\n\nnonvacuous holonomy or phase capacity;\n\n\n\n\nselector independence;\n\n\n\n\njoint realization of the complete duty package.\n\n\n\nThe central result is:\n\nComplete primitive generation standing at cardinality n ⇔ n = 3.\n\nThis is a theorem about primitive role occupancy within the declared open-generation domain. It is not an empirical count of observed families or a dimension count of a downstream matrix.\n\nPrimitive Capacity and the Exact-Three Endpoint\n\nThe comparison architecture is complete on the candidate occurrence set and is considered modulo vertex-local rephasing.\n\nThe paper proves that non-removable comparison capacity first appears on a triple of occurrences:\n\n\n\n\n\nfewer than three positions have only removable gradient-like comparison data;\n\n\n\n\nevery minimal live support is a triangle;\n\n\n\n\nevery larger capacity-bearing architecture contains a proper live three-position support;\n\n\n\n\nthe minimal bare architecture has one isomorphism type, the complete three-vertex graph;\n\n\n\n\nthe associated primitive comparison quotient has rank one.\n\n\n\nThe rank-one residue is therefore a consequence of the derived three-position architecture. It is not inserted as an independent premise and does not determine the cardinality by itself.\n\nThe argument distinguishes ordinary non-removable capacity from reversal-sensitive capacity. A particular realized parameter point may be CP-conserving while the architecture retains the capacity required by the primitive task. Architectural capacity and the status of an individual physical parameter point are separate questions.\n\nJoint Realization of Primitive Duties\n\nA nonzero comparison residue alone is not sufficient. The primitive work must be realized jointly.\n\nThe paper constructs a common receiving packet that simultaneously supports:\n\n\n\n\n\nthe inherited matter and charge representations;\n\n\n\n\nweak-chiral and bridge compatibility;\n\n\n\n\ncharged-response slots;\n\n\n\n\ndirect comparison and phase quotient data;\n\n\n\n\ncoherent boundary preparation and endpoint readout;\n\n\n\n\nnonvacuous holonomy;\n\n\n\n\nselector-independent role formation;\n\n\n\n\njoint compatibility and failure records.\n\n\n\nThe construction is uniform over the admitted finite phase classes. It uses one common parameter packet for the declared primitive duties rather than proving each duty separately in incompatible realizations.\n\nThis establishes both directions of the endpoint:\n\n\n\n\n\nno fewer than three positions can perform the complete primitive work;\n\n\n\n\na three-position architecture can perform it jointly.\n\n\n\nThe count is therefore a constructional minimum and a forced endpoint, not a fitted parameter or an observed multiplicity.\n\nRole Formation and Complete Occupation\n\nThe primitive role template is formed from the minimal adequate architecture before candidate residues, observed families, or downstream matching are considered.\n\nFor a live candidate architecture, all compatible minimal preassignments are retained. Their live union defines the primitive occupant set. Complete occupation requires:\n\n\n\n\n\na compatible assignment from the derived role template;\n\n\n\n\ncoverage of the entire live primitive union;\n\n\n\n\nno omitted live occupant;\n\n\n\n\nno added primitive role;\n\n\n\n\none joint physical receipt for the complete assignment;\n\n\n\n\nlawful transport under role-incidence permutations.\n\n\n\nThe paper proves:\n\nClosedGenCertₚ₀(n) ⇔ n = 3.\n\nAt the endpoint, the three primitive positions are homogeneous occurrences of one derived architecture. They are not three different unary work-types, and the theorem does not depend on choosing one preferred embedded triangle.\n\nAlternative role assignments form one lawful role-incidence orbit up to permutation. This gives uniqueness of the compatible role occupation at the architectural level without claiming that all physical parameter values, phase assignments, or microscopic realizations are identical.\n\nNonpromotion under Enrichment\n\nA central theorem excludes primitive promotion by downstream enlargement.\n\nAdditional responses, interactions, matrix entries, numerical values, executions, or physical inventories may carry legitimate standing within an enriched task. They do not acquire an additional primitive generation role for the unchanged primitive work merely by being present.\n\nFor an enlarged architecture with more than three positions, one of two things occurs:\n\n\n\n\n\nit fails one of the original primitive duties; or\n\n\n\n\nit contains a proper three-position support that already realizes the complete primitive task.\n\n\n\nIn the second case, the larger architecture is not primitive-minimal. It may represent a richer physical or mathematical system, but its additional positions are not forced primitive roles for the original generation problem.\n\nThis distinction is essential:\n\n\n\n\n\na primitive carrier is not the same as a downstream physical role carrier;\n\n\n\n\nprimitive architecture is not the same as field-copy count;\n\n\n\n\nprimitive role occupancy is not the same as matrix dimension;\n\n\n\n\nprimitive cardinality is not selected by masses, labels, or fitted textures.\n\n\n\nCount Descent without a Preferred Witness\n\nThe paper also gives a relational receiving theorem.\n\nAn enriched object may receive one or more licensed primitive constructions without containing a canonically selected embedded triangle. If the receipt relation is nonempty, every received primitive construction has the same count:\n\nNₚᵣᵢₘ = 3.\n\nThus the primitive cardinality descends through the receiving relation without requiring:\n\n\n\n\n\na preferred embedded triangle;\n\n\n\n\na selector for one witness;\n\n\n\n\na distinguished orientation;\n\n\n\n\na unique phase representative;\n\n\n\n\nor a function choosing one primitive receipt from all admissible receipts.\n\n\n\nFurther original answers descend only when they are constant on the actual receipt fibres. Primitive count has this property automatically; phase values, detailed histories, or other enriched outputs may not.\n\nGrounded Derived Authority\n\nThe paper proves that grounded derived constructions preserve the original primitive qualification closure when every added macro expands into an explicit derivation from the original rules.\n\nThis permits useful downstream constructions while excluding claims of new primitive authority arising solely from:\n\n\n\n\n\nlater-stage placement;\n\n\n\n\nreclassification;\n\n\n\n\na derived operator name;\n\n\n\n\na circular certificate;\n\n\n\n\nor a macro whose premises already contain the conclusion’s only support.\n\n\n\nNew independent premises may change the enriched task, but they require their own warrant. They do not retroactively alter the primitive count of the original construction.\n\nScope and Nonclaims\n\nThe theorem is established in an open-generation arena in which the primitive occurrence multiplicity is not fixed in advance.\n\nIt does not claim:\n\n\n\n\n\nthat the observed number of fermion families is itself an empirical proof of the theorem;\n\n\n\n\nthat masses, mixing angles, CKM or PMNS entries, oscillation data, anomaly data, or fitted textures select the count;\n\n\n\n\nthat the theorem derives every downstream Standard Model parameter;\n\n\n\n\nthat the primitive carrier is identical to every physical field or enriched receiver;\n\n\n\n\nthat a larger enriched theory is impossible;\n\n\n\n\nthat every larger carrier lacks legitimate physical roles;\n\n\n\n\nthat the theorem identifies a unique microscopic realization;\n\n\n\n\nthat a preferred embedded triangle or phase representative must exist;\n\n\n\n\nthat the paper replaces the domain-specific receiving proof required by a downstream application.\n\n\n\nA fourth generation or larger architecture would need to demonstrate a same-scope primitive role-occupancy certificate for the unchanged duty package. Merely adding downstream structure is not such a certificate.\n\nRole in the AASC Programme\n\nThis paper supplies the generation-cardinality endpoint of the AASC carrier and role-occupancy programme:\n\nkernel necessity → primitive duty package → non-removable comparison capacity → joint three-position realization → forced role template → complete occupation → nonpromotion under enrichment.\n\nIts conclusion is structural and constructional:\n\n\n\nThe complete primitive generation work has exactly three primitive role positions, and downstream enrichment cannot add further primitive authority for that unchanged work.\n\n\nThe result provides a governance-level generation endpoint for receiving constructions while preserving the distinction between primitive role occupancy, enriched physical content, and the detailed values realized within a particular physical system.\n\nKeywords\n\ngeneration cardinality; forced role occupancy; AASC; primitive carrier architecture; primitive standing; open-generation theorem; exact-three endpoint; CP/holonomy residue; rephasing quotient; cycle rank; joint realization; role-occupancy closure; nonpromotion under enrichment; fixed-domain exhaustion; Standard Model foundations",
+      "subjectTerms": [
+        "AASC",
+        "Standard Model",
+        "generation cardinality",
+        "three generations",
+        "role occupancy",
+        "role cardinality",
+        "forced role-occupancy endpoint",
+        "Standard Model carrier architecture",
+        "open-generation arena",
+        "rank matching",
+        "complete graph",
+        "cycle rank",
+        "rephasing quotient",
+        "CP holonomy",
+        "holonomy residue",
+        "flavor transition",
+        "CKM",
+        "PMNS",
+        "fixed-domain exhaustion",
+        "same-scope operator closure",
+        "primitive closure",
+        "derivative skin",
+        "Standard Model foundations",
+        "SM ARC",
+        "carrier exhaustion"
+      ],
+      "rights": [
+        {
+          "rights": "Creative Commons Attribution 4.0 International",
+          "rightsUri": "https://creativecommons.org/licenses/by/4.0/legalcode",
+          "schemeUri": "https://spdx.org/licenses/",
+          "rightsIdentifier": "cc-by-4.0",
+          "rightsIdentifierScheme": "SPDX"
+        },
+        {
+          "rights": "Amos Jay Maley",
+          "rightsUri": "http://rightsstatements.org/vocab/InC/1.0/"
+        }
+      ],
+      "context": "Standard Model ARC",
+      "path": "/papers/generation-cardinality-as-a-forced-role-occupancy-endpoint-10-5281-zenodo-21215285/index.html",
+      "overviewParagraphs": [
+        "This paper establishes an open-generation theorem for the cardinality of a primitive generation architecture.",
+        "This is a theorem about primitive role occupancy within the declared open-generation domain. It is not an empirical count of observed families or a dimension count of a downstream matrix.",
+        "The comparison architecture is complete on the candidate occurrence set and is considered modulo vertex-local rephasing."
+      ],
+      "scopeParagraphs": [
+        "Additional responses, interactions, matrix entries, numerical values, executions, or physical inventories may carry legitimate standing within an enriched task. They do not acquire an additional primitive generation role for the unchanged primitive work merely by being present.",
+        "New independent premises may change the enriched task, but they require their own warrant. They do not retroactively alter the primitive count of the original construction."
+      ],
+      "related": [
+        {
+          "title": "The Standalone Standard Model Structure from First Principles",
+          "url": "/papers/the-standalone-standard-model-structure-from-first-principles-10-5281-zenodo-20305720/",
+          "doi": "10.5281/zenodo.20305720"
+        },
+        {
+          "title": "The Standard Model Carrier Exhaustion Closure",
+          "url": "/papers/the-standard-model-carrier-exhaustion-closure-10-5281-zenodo-21214336/",
+          "doi": "10.5281/zenodo.21214336"
+        }
+      ]
+    },
+    {
+      "doi": "10.5281/zenodo.20129616",
+      "page": "https://constraintsystemsinstitute.org/papers/mass-inertia-and-persistence-compression-10-5281-zenodo-20129616/",
+      "displayTitle": "Mass, Inertia, and Persistence Compression",
+      "registeredTitle": "Mass, Inertia, and Persistence Compression",
+      "publisher": "Zenodo",
+      "sourceUrl": "https://api.datacite.org/dois/10.5281/zenodo.20129616",
+      "sourceLandingUrl": "https://zenodo.org/doi/10.5281/zenodo.20129616",
+      "sourceSha256": "a4e54fcfc0220204f26ce53d942495e50b1fe8663f699ec892dcf510aafe9f3c",
+      "retrievedOn": "2026-10-03",
+      "description": "Realized Physics Arc — Paper IX\n\nMass, Inertia, and Persistence CompressionThe Deformation-Resistance Role of Particle Identity under Field-Carrier Mediation\n\nBy Amos Jay Maley\n\nThis manuscript is the ninth paper in the Realized Physics Arc, deriving the minimal mass/inertia role from the previously established framework of field-carrier mediation, particle persistence classes, gauge-role structure, bounded perturbation transport, and quotient comparison structure.\n\nThe paper proves that mass and inertia first enter realized physics not as primitive scalar quantities, substances, energy ledgers, or measurement outputs, but as the operative deformation-response profile by which a localized particle persistence class preserves standing identity under admissible deformation and transport-state change.\n\nThe central result is the Mass-Inertia Role Induction Theorem:\n\n(ΦD,  ΠD,  GD,  BoundTransD,  CD)∧DefAdmD∧IdRetD⇒MassInertiaRoleD(\\Phi_D,\\; \\Pi_D,\\; G_D,\\; \\mathrm{BoundTrans}_D,\\; C_D) \\wedge \\mathrm{DefAdm}_D \\wedge \\mathrm{IdRet}_D \\Rightarrow \\mathrm{MassInertiaRole}_D(ΦD,ΠD,GD,BoundTransD,CD)∧DefAdmD∧IdRetD⇒MassInertiaRoleD\n\nwith induced profiles:\n\nμD(Π):ΔΠ⇀CD\\mu_D(\\Pi) : \\Delta_\\Pi \\rightharpoonup C_DμD(Π):ΔΠ⇀CD\n\nand\n\nιD(Π)=μD(Π)∣ΔΠtr\\iota_D(\\Pi) = \\mu_D(\\Pi)\\vert_{\\Delta_\\Pi^{tr}}ιD(Π)=μD(Π)∣ΔΠtr\n\nwhere μD\\mu_DμD is the mass-role profile and ιD\\iota_DιD is the transport-state restriction corresponding to inertia.\n\nThe manuscript develops:\n\n\n\nadmissible deformation,\n\nstanding-preserving deformation,\n\ncompression response,\n\nmass-role profiles,\n\ninertia-role profiles,\n\ndeformation mediation,\n\nand mass-class witnesses.\n\n\nA central structural claim of the paper is that mass is not primitive quantity but deformation resistance: the admissible carrier/restoration/transport adjustment required for a particle persistence class to remain the same under standing-threatening deformation.\n\nThe paper proves that:\n\n\n\nprimitive scalar mass assignments fail,\n\nprimitive substance amounts are insufficient,\n\nenergy ledgers alone cannot ground mass,\n\ngauge-presentation differences do not constitute mass,\n\nhidden mass reservoirs collapse,\n\nand measurement/extraction records are downstream rather than foundational.\n\n\nThe induced compression-response profile is represented through quotient comparison classes:\n\nμD(Π)(δ)=[cmp(δ,Π)]\\mu_D(\\Pi)(\\delta) = [\\mathrm{cmp}(\\delta,\\Pi)]μD(Π)(δ)=[cmp(δ,Π)]\n\nwhere admissible deformations are evaluated relative to preservation of:\n\n\n\nstanding signature,\n\ncarrier mediation,\n\nrestoration profile,\n\nperturbation burden,\n\nquotient comparison,\n\nboundary traces,\n\nand transport structure.\n\n\nThe manuscript further establishes:\n\n\n\ndeformation-response mediation,\n\nstable localization under deformation,\n\ngauge-compatible response preservation,\n\ntransport-state deformation structure,\n\nand quotient-stable compression-response comparison.\n\n\nA major consequence of the paper is that later mass-generating and inertial frameworks — including:\n\n\n\nHiggs/Yukawa mechanisms,\n\nrunning and effective masses,\n\nQCD mass generation,\n\nrelativistic mass-energy relations,\n\ninertial response laws,\n\nstress-energy coupling,\n\nand Standard Model mass structure —\n\n\nare interpreted as later mathematical and dynamical specializations of a more primitive deformation-response role already forced by persistence-class preservation under admissible deformation.\n\nThe analysis remains fully compatible with:\n\n\n\nquantum field theory,\n\nStandard Model mass generation,\n\ngauge theory,\n\nrelativistic dynamics,\n\nand stress-energy frameworks,\n\n\nwhile rejecting reduction of mass or inertia to primitive scalar labels, hidden substances, or purely descriptive energy bookkeeping.\n\nAs the ninth theorem in the Realized Physics Arc, the paper establishes the earliest admissible mass-facing structure from which later reconstructions of Higgs structure, running masses, inertial laws, stress-energy coupling, relativistic mass-energy relations, and Standard Model mass organization can proceed: mass first enters realized physics as the gauge-compatible, boundary-fixed, quotient-stable deformation-response profile of a localized particle persistence class, while inertia is its transport-state-change manifestation.\n\nThis paper is downstream of:\n\n\n\n\n\nMinimal Conditions for Admissible Construction\n\n\n\n\n The Structure of Admissibility",
+      "subjectTerms": [
+        "AASC",
+        "mass",
+        "inertia",
+        "persistence compression",
+        "particle persistence classes",
+        "field-carrier mediation",
+        "deformation response",
+        "quotient comparison",
+        "gauge compatibility",
+        "bounded perturbation transport",
+        "Standard Model",
+        "Higgs mechanism",
+        "structural realism",
+        "foundational physics",
+        "transport theory",
+        "persistence theory",
+        "quantum field theory",
+        "continuation theory",
+        "philosophy of physics"
+      ],
+      "rights": [
+        {
+          "rights": "Creative Commons Attribution 4.0 International",
+          "rightsUri": "https://creativecommons.org/licenses/by/4.0/legalcode",
+          "schemeUri": "https://spdx.org/licenses/",
+          "rightsIdentifier": "cc-by-4.0",
+          "rightsIdentifierScheme": "SPDX"
+        },
+        {
+          "rights": "Amos Jay Maley",
+          "rightsUri": "http://rightsstatements.org/vocab/InC/1.0/"
+        }
+      ],
+      "context": "A broader spine of major manuscripts across the archive.",
+      "path": "/papers/mass-inertia-and-persistence-compression-10-5281-zenodo-20129616/index.html",
+      "overviewParagraphs": [
+        "This manuscript is the ninth paper in the Realized Physics Arc, deriving the minimal mass/inertia role from the previously established framework of field-carrier mediation, particle persistence classes, gauge-role structure, bounded perturbation transport, and quotient comparison structure.",
+        "The paper proves that mass and inertia first enter realized physics not as primitive scalar quantities, substances, energy ledgers, or measurement outputs, but as the operative deformation-response profile by which a localized particle persistence class preserves standing identity under admissible deformation and transport-state change.",
+        "A central structural claim of the paper is that mass is not primitive quantity but deformation resistance: the admissible carrier/restoration/transport adjustment required for a particle persistence class to remain the same under standing-threatening deformation."
+      ],
+      "scopeParagraphs": [],
+      "related": [
+        {
+          "title": "Fields as Persistence Carriers",
+          "url": "/papers/fields-as-persistence-carriers-10-5281-zenodo-20129504/",
+          "doi": "10.5281/zenodo.20129504"
+        },
+        {
+          "title": "Gauge Structure from Boundary-Trace Fixation",
+          "url": "/papers/gauge-structure-from-boundary-trace-fixation-10-5281-zenodo-20129593/",
+          "doi": "10.5281/zenodo.20129593"
+        },
+        {
+          "title": "Matter–Antimatter Asymmetry as the Unique Admissible Reconstruction of Persistent Cosmological Identity",
+          "url": "/papers/matter-antimatter-asymmetry-as-the-unique-admissible-reconstruction-of-persistent-cosm/",
+          "doi": "10.5281/zenodo.18515505"
+        },
+        {
+          "title": "Neutrino Oscillation as the Unique Admissible Reconstruction of Flavor Under Noncommuting Propagation",
+          "url": "/papers/neutrino-oscillation-as-the-unique-admissible-reconstruction-of-flavor-under-noncommut/",
+          "doi": "10.5281/zenodo.20065053"
+        }
+      ]
+    },
+    {
+      "doi": "10.5281/zenodo.21616142",
+      "page": "https://constraintsystemsinstitute.org/papers/module-a-operational-metric-source-attachment-10-5281-zenodo-21616142/",
+      "displayTitle": "Module A: operational metric-source attachment",
+      "registeredTitle": "Operational Metric-Source Representation and Composite Ledger Closure under AASC",
+      "publisher": "Zenodo",
+      "sourceUrl": "https://api.datacite.org/dois/10.5281/zenodo.21616142",
+      "sourceLandingUrl": "https://zenodo.org/doi/10.5281/zenodo.21616142",
+      "sourceSha256": "69fe95546de45c8029451fbd3c8f4f22386c880aaf9154719a520271eb616f8c",
+      "retrievedOn": "2026-10-03",
+      "description": "Overview\n\nOperational Metric–Source Attachment is Module A of the post–structural-unification continuation of the gravity–quantum unification ARC.\n\nStructural Unification of Einstein and Schrödinger Dynamics establishes that the gravitational and quantum descriptions are lawful projections of one admissible physical interior. It also identifies a remaining obligation: the metric projection cannot be coupled to matter by merely inserting an independently postulated stress–energy tensor. The source must be constructed from admissible operational data and attached to the metric response through a standing-preserving bridge.\n\nModule A discharges that obligation. It constructs the operational metric–source interface required to turn structural unification into a source-complete gravitational realization.\n\nCentral Result\n\nThe manuscript establishes a dependency-preserving construction of the form\n\nadmissible operational probes⟶source-bearing local data⟶overlap-compatible source ledger⟶Tμν⟶metric response.\\text{admissible operational probes} \\longrightarrow \\text{source-bearing local data} \\longrightarrow \\text{overlap-compatible source ledger} \\longrightarrow T_{\\mu\\nu} \\longrightarrow \\text{metric response}.admissible operational probes⟶source-bearing local data⟶overlap-compatible source ledger⟶Tμν⟶metric response.\n\nThe resulting stress–energy source is not introduced as an arbitrary external tensor. It is reconstructed from the standing-bearing operational structure of the common physical interior and attached lawfully to the Einstein first-response equation,\n\nGμν+Λgμν=κTμν.G_{\\mu\\nu}+\\Lambda g_{\\mu\\nu} = \\kappa T_{\\mu\\nu}.Gμν+Λgμν=κTμν.\n\nWithin the manuscript’s declared regular local comparison class, the construction establishes that:\n\n\n\noperational source data are defined independently of the metric response they subsequently source;\n\nlocal source presentations satisfy the required overlap and descent conditions;\n\nrepresentative-dependent information is removed through the appropriate quotient;\n\nconserved source content survives as standing-bearing tensor structure;\n\nthe source attaches to the Einstein projection without circular backflow;\n\nequivalent operational presentations yield the same admissible metric–source relation.\n\n\nThe result is therefore an attachment theorem, not merely a restatement of the Einstein equation.\n\nPrincipal Contributions\n\n\n\nImports the common-interior and joint-ledger obligations established by Structural Unification.\n\nDefines the operational probe structure from which physically admissible source data are extracted.\n\nConstructs local source presentations without presupposing the completed metric response.\n\nSeparates standing-bearing source content from coordinate, gauge, representative, and normalization skin.\n\nEstablishes compatibility of local source data across overlaps.\n\nProves descent from representative-level presentations to an admissible source tensor.\n\nEnforces the symmetry and conservation properties required for attachment to the metric projection.\n\nPrevents the gravitational response from manufacturing or retrospectively validating its own source.\n\nExcludes illicit transfer of standing from the quantum projection to the gravitational projection.\n\nConstructs the lawful bridge between common-interior operational data and Einstein first-response dynamics.\n\nSupplies the metric–source input required by Module B’s common mass–charge theorem.\n\nProvides source-locked data later incorporated into the common continuation and final certificate ledgers.\n\n\nThe Attachment Problem\n\nThe Einstein equation contains a geometric side and a source side:\n\nGμν+Λgμν=κTμν.G_{\\mu\\nu}+\\Lambda g_{\\mu\\nu} = \\kappa T_{\\mu\\nu}.Gμν+Λgμν=κTμν.\n\nDeriving the admissible geometric response does not, by itself, establish that an arbitrarily supplied TμνT_{\\mu\\nu}Tμν belongs to the same physical construction. A complete attachment theorem must answer several distinct questions:\n\n\n\nWhat operational structure generates the source data?\n\nWhich parts of a local source presentation carry physical standing?\n\nHow do locally defined presentations agree on overlaps?\n\nWhat quotient removes merely representational differences?\n\nWhy is the descended tensor symmetric and conserved?\n\nHow does it attach to the metric response without circularity?\n\nWhy do equivalent presentations produce the same physical source?\n\n\nModule A resolves these questions within its fixed comparison class. The source tensor becomes an admitted output of the common architecture rather than an unexplained object placed beside the metric equation.\n\nIndependence and No-Backflow Discipline\n\nA load-bearing feature of the construction is the independence of source formation from metric response.\n\nThe lawful order is\n\noperational formation⟶source descent⟶metric attachment,\\text{operational formation} \\longrightarrow \\text{source descent} \\longrightarrow \\text{metric attachment},operational formation⟶source descent⟶metric attachment,\n\nnot\n\ndesired metric response⟶retrospectively selected source.\\text{desired metric response} \\longrightarrow \\text{retrospectively selected source}.desired metric response⟶retrospectively selected source.\n\nThis prevents several inadmissible constructions:\n\n\n\nBackflow: using the downstream metric solution to generate or validate the source that supposedly produces it.\n\nSource laundering: importing source authority from another projection without a standing-bearing bridge.\n\nRepresentative inflation: treating coordinate, gauge, or presentation multiplicity as additional physical source content.\n\nConservation by declaration: assuming the required compatibility identity without constructing the source within the appropriate lawful domain.\n\nScope concealment: introducing additional physical structure while presenting it as part of the original fixed target.\n\n\nThe module thereby supplies a genuinely constructed attachment rather than a formal pairing of independently chosen expressions.\n\nPlace in the Completed Unification ARC\n\nThe domain-general AASC kernel and Unus Solus Possibilis Est remain general machinery imported by this program. The arc-specific sequence is:\n\n\n\nGravity as Structural Necessity — establishes the necessary physical constraint role;\n\nEinstein Dynamics — derives the unique minimal first-response metric projection;\n\nSchrödinger Dynamics — derives the corresponding minimal Hamiltonian quantum projection;\n\nStructural Unification — proves that the gravitational and quantum descriptions are projections of one admissible physical interior;\n\nModule A — completes operational metric–source attachment.\n\nModule B — proves common mass–charge matching.\n\nModule C — constructs common upstream continuation and projection intertwining.\n\nModule D — establishes exact certificate-fibre exhaustion and unique lawful role occupancy.\n\nComplete Certificate Closure — integrates the full FEP-1.0 gravity–quantum realization certificate.\n\n\nModule A is therefore the first constructive work after the structural-unification capstone. It begins discharging the concrete realization obligations that the capstone identifies but deliberately leaves open.\n\nRelation to Common Mass–Charge Matching\n\nModule A establishes the source architecture needed by Module B, but it does not itself complete mass matching.\n\nThe division of labor is:\n\n\n\nModule A constructs and attaches the operational stress–energy source.\n\nModule B reconstructs the corresponding operator-valued total stress tensor from normalized-ray source presentations.\n\nModule B identifies its integrated Noether charge with the Poincaré translation generator.\n\nThe stable-sector Casimir mass then supplies both the gravitational monopole and the inertial Schrödinger coefficient.\n\nUnder common calibration, the later result yields\n\n\nmg=mi=mCasimir.m_g=m_i=m_{\\mathrm{Casimir}}.mg=mi=mCasimir.\n\nThus Module A establishes the source-bearing bridge on which the common mass–charge theorem depends.\n\nScope and Nonclaims\n\nThe manuscript does not claim:\n\n\n\nan independent derivation of the universal AASC kernel;\n\na new derivation of the Einstein or Schrödinger equations;\n\nthat every formally written stress–energy tensor has admissible physical standing;\n\nsource attachment outside the declared regular local comparison class;\n\nselection of a unique matter theory, state, potential, or global spacetime;\n\ngeneric curved-spacetime energy localization;\n\ncompletion of gravitational self-force or radiation-reaction theory;\n\nderivation of common gravitational and inertial mass within this module alone;\n\nconstruction of the complete common upstream history;\n\na nonzero interacting theory of quantum gravity;\n\nuniqueness across different source packages or target certificates;\n\ncompletion of the final certificate-orbit closure.\n\n\nThose obligations are either outside the fixed target or belong to Modules B–D and the integrated capstone.\n\nConceptual Significance\n\nModule A converts a formal source term into a constructed physical attachment.\n\nThis distinction is essential to the ARC. Structural unification establishes that Einstein and Schrödinger dynamics belong to one physical interior, but common origin alone does not authorize an arbitrary transfer of source content between their projections. A lawful bridge must identify what generates the source, what survives quotienting, how local presentations compose, and why the resulting tensor can act in the metric equation without circularity.\n\nThe manuscript provides that bridge. Matter does not appear merely as a tensor written on the opposite side of the Einstein equation; its source-bearing content is reconstructed from admissible operational structure and attached to the gravitational projection through the common interior.\n\nModule A therefore marks the transition from structural unification to constructive realization.",
+      "subjectTerms": [
+        "AASC",
+        "stress–energy tensor",
+        "Einstein equation",
+        "source construction",
+        "quotient descent",
+        "metric response",
+        "gravity–quantum unification",
+        "common physical interior",
+        "foundations of physics"
+      ],
+      "rights": [
+        {
+          "rights": "Creative Commons Attribution 4.0 International",
+          "rightsUri": "https://creativecommons.org/licenses/by/4.0/legalcode",
+          "schemeUri": "https://spdx.org/licenses/",
+          "rightsIdentifier": "cc-by-4.0",
+          "rightsIdentifierScheme": "SPDX"
+        },
+        {
+          "rights": "Amos Jay Maley",
+          "rightsUri": "http://rightsstatements.org/vocab/InC/1.0/"
+        }
+      ],
+      "context": "Constructive physical realization",
+      "path": "/papers/module-a-operational-metric-source-attachment-10-5281-zenodo-21616142/index.html",
+      "overviewParagraphs": [
+        "Operational Metric–Source Attachment is Module A of the post–structural-unification continuation of the gravity–quantum unification ARC.",
+        "Structural Unification of Einstein and Schrödinger Dynamics establishes that the gravitational and quantum descriptions are lawful projections of one admissible physical interior. It also identifies a remaining obligation: the metric projection cannot be coupled to matter by merely inserting an independently postulated stress–energy tensor. The source must be constructed from admissible operational data and attached to the metric response through a standing-preserving bridge.",
+        "Module A discharges that obligation. It constructs the operational metric–source interface required to turn structural unification into a source-complete gravitational realization."
+      ],
+      "scopeParagraphs": [
+        "This distinction is essential to the ARC. Structural unification establishes that Einstein and Schrödinger dynamics belong to one physical interior, but common origin alone does not authorize an arbitrary transfer of source content between their projections. A lawful bridge must identify what generates the source, what survives quotienting, how local presentations compose, and why the resulting tensor can act in the metric equation without circularity.",
+        "The manuscript provides that bridge. Matter does not appear merely as a tensor written on the opposite side of the Einstein equation; its source-bearing content is reconstructed from admissible operational structure and attached to the gravitational projection through the common interior."
+      ],
+      "related": [
+        {
+          "title": "Complete Certificate Closure",
+          "url": "/papers/complete-certificate-closure-10-5281-zenodo-21616613/",
+          "doi": "10.5281/zenodo.21616613"
+        },
+        {
+          "title": "Module B: common mass-charge matching",
+          "url": "/papers/module-b-common-mass-charge-matching-10-5281-zenodo-21616179/",
+          "doi": "10.5281/zenodo.21616179"
+        },
+        {
+          "title": "Module C: upstream continuation and projection intertwining",
+          "url": "/papers/module-c-upstream-continuation-and-projection-intertwining-10-5281-zenodo-21616213/",
+          "doi": "10.5281/zenodo.21616213"
+        },
+        {
+          "title": "Module D: certificate-fibre exhaustion and unique lawful role occupancy",
+          "url": "/papers/module-d-certificate-fibre-exhaustion-and-unique-lawful-role-occupancy-10-5281-zenodo/",
+          "doi": "10.5281/zenodo.21616427"
+        }
+      ]
+    },
+    {
+      "doi": "10.5281/zenodo.21616179",
+      "page": "https://constraintsystemsinstitute.org/papers/module-b-common-mass-charge-matching-10-5281-zenodo-21616179/",
+      "displayTitle": "Module B: common mass-charge matching",
+      "registeredTitle": "Common Mass-Charge Matching and Universal Inertial–Active Proportionality under AASC",
+      "publisher": "Zenodo",
+      "sourceUrl": "https://api.datacite.org/dois/10.5281/zenodo.21616179",
+      "sourceLandingUrl": "https://zenodo.org/doi/10.5281/zenodo.21616179",
+      "sourceSha256": "ee8f2fa7101ed6783dc34326cde7e93bb357fce9968aba270830fb7ed4494cf8",
+      "retrievedOn": "2026-10-03",
+      "description": "Overview\n\nCommon Mass–Charge Matching is Module B of the post–structural-unification gravity–quantum continuation of the AASC unification ARC.\n\nModule A, Operational Metric–Source Attachment, constructs the lawful source-bearing bridge from common-interior operational data to the Einstein metric projection. Module B addresses the next unresolved question:\n\n\n\nDo the gravitational source and the inertial coefficient in Schrödinger dynamics arise from one common standing-bearing quantity, or are they merely independent parameters identified by assumption?\n\n\nWithin the manuscript’s frozen stable-sector comparison class, Module B reconstructs the relevant total stress tensor, identifies its integrated conserved charge with the translation generator, and derives gravitational and inertial mass as two projections of the same Poincaré Casimir invariant.\n\nThe resulting equality is therefore not imposed as an empirical coincidence or primitive equivalence postulate. It follows from common source, generator, sector, and calibration structure.\n\nCentral Result\n\nThe manuscript establishes the chain\n\nnormalized-ray operational source⟶T^μν⟶P^μ⟶P^μP^μ⟶mCasimir⟶{mg,mi.\\text{normalized-ray operational source} \\longrightarrow \\widehat T_{\\mu\\nu} \\longrightarrow \\widehat P_\\mu \\longrightarrow \\widehat P^\\mu\\widehat P_\\mu \\longrightarrow m_{\\mathrm{Casimir}} \\longrightarrow \\begin{cases} m_g,\\\\ m_i. \\end{cases}normalized-ray operational source⟶Tμν⟶Pμ⟶PμPμ⟶mCasimir⟶{mg,mi.\n\nThe operator-valued total stress tensor determines the conserved translation generator through the appropriate hypersurface charge:\n\nP^ν=∫ΣT^μν dΣμ.\\widehat P_\\nu = \\int_{\\Sigma} \\widehat T_{\\mu\\nu}\\,d\\Sigma^\\mu .Pν=∫ΣTμνdΣμ.\n\nOn a stable massive sector, the Poincaré Casimir fixes the invariant mass:\n\nP^μP^μ=−mCasimir 2c2\\widehat P^\\mu\\widehat P_\\mu = -m_{\\mathrm{Casimir}}^{\\,2}c^{2}PμPμ=−mCasimir2c2\n\nwith sign and normalization understood according to the manuscript’s declared conventions.\n\nThe same invariant then appears in two lawful downstream roles:\n\n\n\nas the monopole charge sourcing the weak-field gravitational response;\n\nas the inertial coefficient governing the nonrelativistic Schrödinger kinetic term.\n\n\nUnder the common calibration fixed by the manuscript, the result is\n\nmg=mi=mCasimir.m_g=m_i=m_{\\mathrm{Casimir}}.mg=mi=mCasimir.\n\nThis is a common-origin matching theorem: the two masses agree because they are projections of one conserved standing-bearing charge.\n\nPrincipal Contributions\n\n\n\nImports the operational source architecture constructed in Module A.\n\nReconstructs the operator-valued total stress tensor from admissible normalized-ray source presentations.\n\nSeparates ray-invariant source content from phase, normalization, basis, coordinate, and representative skin.\n\nEstablishes the conserved hypersurface charge associated with translations.\n\nIdentifies that charge with the Poincaré four-momentum generator.\n\nRestricts the mass theorem to the declared stable massive sector in which the relevant Casimir is well defined.\n\nDerives invariant sector mass from the translation-generator Casimir.\n\nIdentifies the gravitational monopole charge as a projection of that invariant.\n\nIdentifies the Schrödinger inertial coefficient through the controlled nonrelativistic expansion of the same invariant energy.\n\nProves that gravitational and inertial mass are not independently standing-bearing quantities within the fixed construction.\n\nExcludes arbitrary rescaling or relabeling from creating a second physical mass charge.\n\nMakes the equality calibration-sensitive without reducing it to conventional notation.\n\nSupplies the common mass coordinate required by Module C’s upstream continuation construction.\n\nLocks the mass-bearing entries later used in the exact FEP-1.0 certificate.\n\n\nThe Matching Problem\n\nThe appearance of mass in the Einstein and Schrödinger projections does not by itself prove that both occurrences refer to the same physical quantity.\n\nThe gravitational branch contains a source charge governing metric response, while the quantum branch contains an inertial coefficient in the kinetic operator:\n\nH^NR=P^ 22mi+V.\\widehat H_{\\mathrm{NR}} = \\frac{\\widehat{\\mathbf P}^{\\,2}}{2m_i}+V.HNR=2miP2+V.\n\nA genuine matching theorem must establish:\n\n\n\nthat both quantities descend from the same admissible source construction;\n\nthat the relevant conserved charge is representation-independent;\n\nthat the translation generator belongs to the same stable physical sector;\n\nthat gravitational extraction and nonrelativistic reduction preserve the common reference;\n\nthat calibration is shared rather than adjusted independently after the fact;\n\nthat no additional standing-bearing mass parameter has been introduced.\n\n\nModule B closes these obligations within its declared comparison class.\n\nCommon Generator and Casimir Structure\n\nThe decisive bridge is not a bare numerical identification mg=mim_g=m_img=mi. It is the common generator architecture.\n\nThe source tensor supplies the translation charge. The translation charge fixes the four-momentum. The four-momentum Casimir fixes the stable-sector invariant mass. Gravitational and inertial mass then arise through different lawful projections of that same invariant.\n\nAccordingly, the theorem has the dependency order\n\nT^μν→P^μ→mCasimir→mg,  mi,\\widehat T_{\\mu\\nu} \\rightarrow \\widehat P_\\mu \\rightarrow m_{\\mathrm{Casimir}} \\rightarrow m_g,\\;m_i,Tμν→Pμ→mCasimir→mg,mi,\n\nrather than\n\nmg=postulatemi.m_g\\stackrel{\\text{postulate}}{=}m_i.mg=postulatemi.\n\nThis distinction is load-bearing. A numerical equality obtained by independently choosing two parameters would not establish common standing, common reference, or common physical origin.\n\nGravitational Projection\n\nIn the gravitational branch, the stable-sector invariant appears through the long-range monopole component of the operationally attached source.\n\nThe gravitational mass is therefore not an unrelated scalar appended to the Einstein equation. It is extracted from the same conserved source-and-generator structure already admitted by the common interior.\n\nWithin the module’s declared weak-field or asymptotic calibration regime, this yields\n\nmg=mCasimir.m_g=m_{\\mathrm{Casimir}}.mg=mCasimir.\n\nThe claim is deliberately confined to the exact source, sector, and calibration interface proved in the manuscript. It is not a claim of generic local gravitational-energy localization on arbitrary curved spacetimes.\n\nInertial Projection\n\nIn the quantum branch, the same Casimir invariant enters the stable-sector energy relation. Its controlled nonrelativistic expansion takes the form\n\nE=mCasimirc2+p22mCasimir+⋯ .E = m_{\\mathrm{Casimir}}c^2 + \\frac{\\mathbf p^2}{2m_{\\mathrm{Casimir}}} +\\cdots .E=mCasimirc2+2mCasimirp2+⋯.\n\nAfter removal of the common rest-energy phase, the surviving first-response Hamiltonian contains\n\nP^ 22mCasimir.\\frac{\\widehat{\\mathbf P}^{\\,2}} {2m_{\\mathrm{Casimir}}}.2mCasimirP2.\n\nComparison with the Schrödinger kinetic term identifies\n\nmi=mCasimir.m_i=m_{\\mathrm{Casimir}}.mi=mCasimir.\n\nThe inertial coefficient is therefore fixed by the same stable-sector invariant that determines the gravitational source charge.\n\nCalibration and No-Rescaling Discipline\n\nThe equality theorem requires common calibration. This is not a weakness or an arbitrary convention; it is what prevents two independently normalized projections from being compared as though their numerical coordinates already carried a shared reference.\n\nThe manuscript therefore distinguishes:\n\n\n\na change of units or representative presentation;\n\na lawful common recalibration preserving the shared charge;\n\nan independent rescaling that changes the relation between the two projections;\n\nthe introduction of a genuinely new coupling or source coordinate.\n\n\nOnly the first two preserve the fixed matching theorem. An independent projection-specific rescaling cannot create a new physical mass while leaving the original certificate unchanged.\n\nThus the equality\n\nmg=mi=mCasimirm_g=m_i=m_{\\mathrm{Casimir}}mg=mi=mCasimir\n\nis exact relative to the common source, stable sector, projection maps, and calibration package.\n\nPlace in the Completed Unification ARC\n\nThe domain-general AASC kernel and Unus Solus Possibilis Est remain upstream machinery used across the wider research program. The gravity–quantum sequence proceeds as follows:\n\n\n\nGravity as Structural Necessity — establishes the necessary physical constraint role;\n\nEinstein Dynamics — derives the unique minimal first-response metric projection;\n\nSchrödinger Dynamics — derives the corresponding minimal Hamiltonian quantum projection;\n\nStructural Unification — proves that the gravitational and quantum descriptions are projections of one admissible physical interior;\n\nModule A — completes operational metric–source attachment.\n\nModule B — proves common mass–charge matching.\n\nModule C — constructs common upstream continuation and projection intertwining.\n\nModule D — establishes exact certificate-fibre exhaustion and unique lawful role occupancy.\n\nComplete Certificate Closure — integrates the full FEP-1.0 gravity–quantum realization certificate.\n\n\nModule B therefore closes the common mass coordinate required by the remaining continuation and certificate stages.\n\nRelation to Modules A and C\n\nThe division of labor is exact:\n\n\n\nModule A constructs the operational source and attaches it to the metric projection.\n\nModule B lifts that source into the conserved generator architecture and proves common mass–charge matching.\n\nModule C uses the now-source-locked and mass-locked structures to construct a common upstream continuation whose projections reproduce the required gravitational and quantum developments.\n\n\nModule B cannot precede Module A because its conserved charge requires an admissibly constructed source. Module C, in turn, requires Module B because the two projected histories must preserve one common mass reference rather than merely carry numerically similar parameters.\n\nScope and Nonclaims\n\nThe manuscript does not claim:\n\n\n\nan independent derivation of the universal AASC kernel;\n\na new derivation of the Einstein or Schrödinger equations;\n\nmass equality without the declared common source and calibration structure;\n\na theorem covering unstable resonances as though they were exact massive sectors;\n\ngeneric mass definition on every curved spacetime;\n\nuniversal local gravitational-energy density;\n\nequivalence of arbitrary phenomenological gravitational and inertial parameters;\n\nderivation of all Standard Model masses;\n\nderivation of the Higgs mechanism or its coupling constants;\n\ntreatment of massless sectors as massive Casimir sectors;\n\ncompletion of self-force, radiation reaction, or strong-field many-body dynamics;\n\nconstruction of the common upstream continuation;\n\na nonzero interacting quantum-gravity law;\n\nuniqueness across different targets, sectors, or calibration packages;\n\ncompletion of the final realization certificate.\n\n\nThese matters either lie outside the frozen target or belong to downstream modules.\n\nConceptual Significance\n\nModule B replaces postulated equality with common-origin identity.\n\nThe gravitational and inertial roles are not treated as two primitive masses that happen to share a numerical value. They are two projections of one source-generated, translation-bearing, stable-sector invariant. Their equality follows because the common physical interior does not license two independently standing mass charges where one conserved Casimir already occupies the required role.\n\nThis establishes a stronger result than numerical agreement alone:\n\n\n\none operational source;\n\none translation generator;\n\none stable-sector Casimir;\n\ntwo lawful projections;\n\none shared mass reference.\n\n\nThe module thereby closes a central compatibility condition between Einstein and Schrödinger dynamics and prepares the construction of their common upstream continuation.",
+      "subjectTerms": [
+        "AASC",
+        "gravitational mass",
+        "inertial mass",
+        "equivalence principle",
+        "stress–energy tensor",
+        "translation generator",
+        "four-momentum",
+        "Poincaré Casimir",
+        "stable massive sector",
+        "nonrelativistic limit",
+        "Schrödinger kinetic term",
+        "gravity–quantum unification",
+        "common physical interior",
+        "foundations of physics"
+      ],
+      "rights": [
+        {
+          "rights": "Creative Commons Attribution 4.0 International",
+          "rightsUri": "https://creativecommons.org/licenses/by/4.0/legalcode",
+          "schemeUri": "https://spdx.org/licenses/",
+          "rightsIdentifier": "cc-by-4.0",
+          "rightsIdentifierScheme": "SPDX"
+        },
+        {
+          "rights": "Amos Jay Maley",
+          "rightsUri": "http://rightsstatements.org/vocab/InC/1.0/"
+        }
+      ],
+      "context": "Constructive physical realization",
+      "path": "/papers/module-b-common-mass-charge-matching-10-5281-zenodo-21616179/index.html",
+      "overviewParagraphs": [
+        "Common Mass–Charge Matching is Module B of the post–structural-unification gravity–quantum continuation of the AASC unification ARC.",
+        "Do the gravitational source and the inertial coefficient in Schrödinger dynamics arise from one common standing-bearing quantity, or are they merely independent parameters identified by assumption?",
+        "Within the manuscript’s frozen stable-sector comparison class, Module B reconstructs the relevant total stress tensor, identifies its integrated conserved charge with the translation generator, and derives gravitational and inertial mass as two projections of the same Poincaré Casimir invariant."
+      ],
+      "scopeParagraphs": [
+        "The claim is deliberately confined to the exact source, sector, and calibration interface proved in the manuscript. It is not a claim of generic local gravitational-energy localization on arbitrary curved spacetimes.",
+        "The gravitational and inertial roles are not treated as two primitive masses that happen to share a numerical value. They are two projections of one source-generated, translation-bearing, stable-sector invariant. Their equality follows because the common physical interior does not license two independently standing mass charges where one conserved Casimir already occupies the required role."
+      ],
+      "related": [
+        {
+          "title": "Complete Certificate Closure",
+          "url": "/papers/complete-certificate-closure-10-5281-zenodo-21616613/",
+          "doi": "10.5281/zenodo.21616613"
+        },
+        {
+          "title": "Module A: operational metric-source attachment",
+          "url": "/papers/module-a-operational-metric-source-attachment-10-5281-zenodo-21616142/",
+          "doi": "10.5281/zenodo.21616142"
+        },
+        {
+          "title": "Module C: upstream continuation and projection intertwining",
+          "url": "/papers/module-c-upstream-continuation-and-projection-intertwining-10-5281-zenodo-21616213/",
+          "doi": "10.5281/zenodo.21616213"
+        },
+        {
+          "title": "Module D: certificate-fibre exhaustion and unique lawful role occupancy",
+          "url": "/papers/module-d-certificate-fibre-exhaustion-and-unique-lawful-role-occupancy-10-5281-zenodo/",
+          "doi": "10.5281/zenodo.21616427"
+        }
+      ]
+    },
+    {
+      "doi": "10.5281/zenodo.21616213",
+      "page": "https://constraintsystemsinstitute.org/papers/module-c-upstream-continuation-and-projection-intertwining-10-5281-zenodo-21616213/",
+      "displayTitle": "Module C: upstream continuation and projection intertwining",
+      "registeredTitle": "Kernel-Native Upstream Continuation and Projection Intertwining under AASC",
+      "publisher": "Zenodo",
+      "sourceUrl": "https://api.datacite.org/dois/10.5281/zenodo.21616213",
+      "sourceLandingUrl": "https://zenodo.org/doi/10.5281/zenodo.21616213",
+      "sourceSha256": "8bc824b31952a4718ba0dddf2c5d765ddb215782e07f33fc4c220d2848c37285",
+      "retrievedOn": "2026-10-03",
+      "description": "Overview\n\nKernel-Native Upstream Continuation is Module C of the post–structural-unification continuation of the gravity–quantum unification ARC.\n\nThe preceding modules establish two essential common structures:\n\n\n\nModule A constructs the operational source and lawfully attaches it to the Einstein metric projection.\n\nModule B derives gravitational and inertial mass from one conserved source-generated Poincaré Casimir.\n\n\nModule C addresses the next constructive obligation:\n\n\n\nCan the gravitational and quantum developments be obtained as compatible projections of one standing-bearing upstream continuation, rather than merely aligned as separate histories after the fact?\n\n\nWithin the manuscript’s frozen regular local comparison class, the answer is affirmative. Module C constructs a common upstream history object, defines its gravitational and quantum projection maps, and proves the required projection intertwinings, overlap compatibility, reference preservation, and quotient stability.\n\nThe result converts common origin from a static structural claim into a dynamically realized continuation architecture.\n\nCentral Result\n\nThe manuscript constructs a common upstream continuation of the form\n\nHup⟶ΠGHG,Hup⟶ΠQHQ,\\mathfrak H_{\\mathrm{up}} \\overset{\\Pi_G}{\\longrightarrow} \\mathfrak H_G, \\qquad \\mathfrak H_{\\mathrm{up}} \\overset{\\Pi_Q}{\\longrightarrow} \\mathfrak H_Q,Hup⟶ΠGHG,Hup⟶ΠQHQ,\n\nwhere:\n\n\n\nHup\\mathfrak H_{\\mathrm{up}}Hup is the standing-bearing common history object;\n\nHG\\mathfrak H_GHG is the gravitational or Einstein history;\n\nHQ\\mathfrak H_QHQ is the quantum or Schrödinger history;\n\nΠG\\Pi_GΠG and ΠQ\\Pi_QΠQ are lawful projection maps preserving the relevant source, mass, reference, and continuation data.\n\n\nFor admissible upstream evolution UupU_{\\mathrm{up}}Uup, the projections satisfy the appropriate intertwining relations:\n\nΠG∘Uup=UG∘ΠG,\\Pi_G\\circ U_{\\mathrm{up}} = U_G\\circ\\Pi_G,ΠG∘Uup=UG∘ΠG,\n\nand\n\nΠQ∘Uup=UQ∘ΠQ,\\Pi_Q\\circ U_{\\mathrm{up}} = U_Q\\circ\\Pi_Q,ΠQ∘Uup=UQ∘ΠQ,\n\non the manuscript’s declared domains and regular local charts.\n\nThus, projecting after common continuation agrees with continuing after projection. The gravitational and quantum histories are not independently evolved objects subsequently declared compatible; they are lawful images of one prior continuation-bearing carrier.\n\nPrincipal Contributions\n\n\n\nImports the common-interior architecture established by Structural Unification of Einstein and Schrödinger Dynamics.\n\nImports the operationally attached source constructed in Module A.\n\nImports the common mass reference established in Module B.\n\nConstructs a common upstream history object independently of the downstream Einstein and Schrödinger evolutions.\n\nDefines the gravitational and quantum projection maps on the declared regular local domains.\n\nProves that each projection preserves the standing-bearing data appropriate to its target.\n\nEstablishes source preservation across upstream continuation and gravitational projection.\n\nEstablishes preservation of the common Casimir mass reference across both projections.\n\nProves the gravitational projection intertwining with Einstein first-response continuation.\n\nProves the quantum projection intertwining with Schrödinger Hamiltonian continuation.\n\nEstablishes overlap compatibility between local continuation charts.\n\nShows that changes of representative do not alter the descended physical histories.\n\nDistinguishes continuation-bearing tensor structure from coordinate, gauge, phase, normalization, and chart skin.\n\nPrevents either downstream projection from manufacturing or repairing the common upstream history.\n\nSupplies the continuation coordinates required by Module D’s exact certificate-fibre exhaustion.\n\nProvides the dynamically integrated carrier used by the final FEP-1.0 realization certificate.\n\n\nThe Upstream Continuation Problem\n\nStructural unification establishes that Einstein and Schrödinger dynamics descend from one admissible physical interior. That result alone does not yet construct a single history whose projections reproduce both developments.\n\nWithout an explicit common continuation, one could still have:\n\n\n\na gravitational history and quantum history formed independently;\n\na numerical correspondence between selected parameters;\n\na retrospective pairing of states at matching labels;\n\na projection-specific repair used to force compatibility;\n\nan unproved assumption that the two evolutions belong to one physical process.\n\n\nModule C closes this gap by constructing the continuation-bearing upstream object itself.\n\nA genuine common-history theorem must establish:\n\n\n\nformation of the upstream carrier independently of its projections;\n\nlawful gravitational and quantum projection maps;\n\npreservation of identity and reference through continuation;\n\ncompatibility of source and mass data across both branches;\n\ncommutation or intertwining of projection with the relevant evolution;\n\noverlap consistency across local charts;\n\nquotient invariance under nonphysical changes of representative;\n\nabsence of downstream backflow into upstream formation.\n\n\nThese obligations are discharged within the fixed target and regularity assumptions of the manuscript.\n\nIndependent Formation of the Upstream Carrier\n\nThe common history cannot be defined merely as an ordered pair of independently completed Einstein and Schrödinger solutions. Such a pairing would encode coexistence but would not prove common physical origin.\n\nThe manuscript instead follows the dependency order\n\ncommon admissible interior⟶source- and mass-locked upstream data⟶Hup⟶{HG,HQ.\\text{common admissible interior} \\longrightarrow \\text{source- and mass-locked upstream data} \\longrightarrow \\mathfrak H_{\\mathrm{up}} \\longrightarrow \\begin{cases} \\mathfrak H_G,\\\\ \\mathfrak H_Q. \\end{cases}common admissible interior⟶source- and mass-locked upstream data⟶Hup⟶{HG,HQ.\n\nThe upstream carrier is formed before either projection is granted completed standing. Its admissibility does not depend on whether a desired Einstein or Schrödinger trajectory can later be recovered.\n\nThis independence blocks circular constructions in which downstream solutions are chosen first and an alleged common origin is manufactured retrospectively to fit them.\n\nProjection Intertwining\n\nThe decisive dynamical requirement is not simply that maps ΠG\\Pi_GΠG and ΠQ\\Pi_QΠQ exist. They must preserve continuation.\n\nFor the gravitational branch, the manuscript proves the appropriate relation\n\nΠG∘Uup=UG∘ΠG.\\Pi_G\\circ U_{\\mathrm{up}} = U_G\\circ\\Pi_G.ΠG∘Uup=UG∘ΠG.\n\nFor the quantum branch, it proves\n\nΠQ∘Uup=UQ∘ΠQ.\\Pi_Q\\circ U_{\\mathrm{up}} = U_Q\\circ\\Pi_Q.ΠQ∘Uup=UQ∘ΠQ.\n\nThese relations certify that the projected histories are generated lawfully from the same upstream continuation.\n\nThey also exclude a weaker construction in which:\n\n\n\nthe same initial label is assigned to two unrelated evolutions;\n\nthe endpoints happen to agree but intermediate continuation does not;\n\na projection requires an additional hidden update;\n\nrepresentative choices change the physical projected history;\n\ncompatibility is imposed only after evolution has occurred.\n\n\nThe intertwinings therefore provide the dynamical content of the common-origin claim.\n\nSource and Mass Preservation\n\nModule C inherits two locked structures from the preceding modules:\n\n\n\nthe operational source attached in Module A;\n\nthe common Casimir mass established in Module B.\n\n\nThe upstream continuation must preserve both through the appropriate interfaces.\n\nAccordingly, the construction ensures that:\n\n\n\nthe gravitational projection receives the same admissibly formed source throughout its declared continuation;\n\nthe quantum projection retains the corresponding source and generator reference appropriate to its Hamiltonian development;\n\nthe gravitational monopole and inertial coefficient remain projections of one common mass charge;\n\nneither branch introduces an independent mass-bearing coordinate;\n\nchanges of chart or representative do not multiply source or mass standing.\n\n\nThis prevents the common history from fragmenting into projection-specific source or calibration packages.\n\nQuotient and Skin Discipline\n\nThe upstream history may admit multiple local or representative-level descriptions. These do not automatically correspond to distinct physical continuations.\n\nModule C therefore separates:\n\n\n\nstanding-bearing continuation data;\n\nsource- and mass-bearing tensor structure;\n\nadmissible projection relations;\n\nchart, gauge, phase, normalization, and labeling skin.\n\n\nRepresentative multiplicity is quotiented whenever it changes no admitted physical continuation or projection predicate. Conversely, a difference that alters source attachment, mass reference, continuation, projection compatibility, or endpoint standing cannot be dismissed as skin.\n\nThe common history is consequently defined by its lawful standing-bearing structure, not by the raw cardinality of its presentations.\n\nNo-Backflow and No-Repair Discipline\n\nThe lawful construction has the direction\n\nHup⟶HG,HQ.\\mathfrak H_{\\mathrm{up}} \\longrightarrow \\mathfrak H_G,\\mathfrak H_Q.Hup⟶HG,HQ.\n\nIt does not permit either downstream history to create, select, or repair the upstream carrier that is supposed to generate it.\n\nThe module excludes:\n\n\n\nGravitational backflow: using a desired Einstein history to define the common upstream continuation.\n\nQuantum backflow: using a desired Schrödinger trajectory to supply missing upstream standing.\n\nCross-projection laundering: transferring data from one projection to the other without mediation by the common carrier.\n\nEndpoint-only matching: identifying histories because selected endpoints agree while their continuation maps fail to intertwine.\n\nRepresentative inflation: treating multiple charts, phases, gauges, or labels as distinct physical histories.\n\nHidden scope expansion: introducing new dynamical structure without registering it as part of a richer target.\n\n\nThis ensures that common continuation is genuinely constructed rather than retrospectively declared.\n\nPlace in the Completed Unification ARC\n\nThe domain-general AASC kernel and Unus Solus Possibilis Est remain upstream machinery used across the wider research program. The gravity–quantum sequence proceeds as follows:\n\n\n\nGravity as Structural Necessity — establishes the necessary physical constraint role;\n\nEinstein Dynamics — derives the unique minimal first-response metric projection;\n\nSchrödinger Dynamics — derives the corresponding minimal Hamiltonian quantum projection;\n\nStructural Unification — proves that the gravitational and quantum descriptions are projections of one admissible physical interior;\n\nModule A — completes operational metric–source attachment.\n\nModule B — proves common mass–charge matching.\n\nModule C — constructs common upstream continuation and projection intertwining.\n\nModule D — establishes exact certificate-fibre exhaustion and unique lawful role occupancy.\n\nComplete Certificate Closure — integrates the full FEP-1.0 gravity–quantum realization certificate.\n\n\nModule C therefore transforms the structural and charge-level unity established upstream into an explicit common continuation.\n\nRelation to Modules B and D\n\nThe division of labor is precise:\n\n\n\nModule B fixes the common source-generated mass reference that both projected histories must preserve.\n\nModule C constructs the upstream history and proves that its projections reproduce the required gravitational and quantum continuations.\n\nModule D classifies and exhausts the remaining target certificate fibres, proving that every required role is lawfully occupied and that no inequivalent admissible assignment survives within the frozen target.\n\n\nModule C cannot complete its task without Module B, because a common continuation carrying independently normalized mass coordinates would not preserve the required shared reference.\n\nModule D, in turn, depends on Module C because exact certificate closure requires an actually constructed continuation-bearing carrier, not merely static source and mass correspondences.\n\nScope and Nonclaims\n\nThe manuscript does not claim:\n\n\n\nan independent derivation of the universal AASC kernel;\n\na new derivation of the Einstein or Schrödinger equations;\n\nthat every gravitational history admits a compatible quantum projection;\n\nthat every quantum history admits a compatible gravitational projection;\n\ncommon continuation outside the frozen target and declared regular local comparison class;\n\na unique global spacetime topology or quantum state;\n\na universal preferred time parameter;\n\nelimination of all gauge or chart freedom;\n\nconstruction of a Wheeler–DeWitt equation;\n\nprimitive quantization of the Einstein metric;\n\na nonzero interacting quantum-gravity field theory;\n\nresolution of every global constraint, singularity, or boundary problem;\n\nunique realization across different source, sector, boundary, or calibration packages;\n\ncompletion of exact certificate-fibre exhaustion within this module alone.\n\n\nThose matters are either outside the fixed target or belong to Module D and the integrated capstone.\n\nConceptual Significance\n\nModule C converts the claim of a common physical interior into a common dynamical construction.\n\nThe Einstein and Schrödinger histories are not merely compatible descriptions placed beside one another. Nor are they independently complete evolutions linked by a shared parameter after the fact. They are projections of one prior continuation-bearing object, and the projection intertwinings certify that their lawful developments remain coordinated.\n\nThe resulting architecture is:\n\none source⟶one common mass charge⟶one upstream continuation⟶{Einstein history,Schro¨dinger history.\\text{one source} \\longrightarrow \\text{one common mass charge} \\longrightarrow \\text{one upstream continuation} \\longrightarrow \\begin{cases} \\text{Einstein history},\\\\ \\text{Schrödinger history}. \\end{cases}one source⟶one common mass charge⟶one upstream continuation⟶{Einstein history,Schro¨dinger history.\n\nThis is the dynamical realization of common-origin unification. It supplies the last major constructive carrier required before the ARC can proceed to exact certificate-fibre exhaustion and final integrated closure.",
+      "subjectTerms": [
+        "AASC",
+        "common physical interior",
+        "Einstein dynamics",
+        "Schrödinger dynamics",
+        "projection intertwining",
+        "common source",
+        "common mass charge",
+        "Poincaré Casimir",
+        "quotient stability",
+        "overlap compatibility",
+        "gravity–quantum unification",
+        "dynamical unification",
+        "foundations of physics"
+      ],
+      "rights": [
+        {
+          "rights": "Creative Commons Attribution 4.0 International",
+          "rightsUri": "https://creativecommons.org/licenses/by/4.0/legalcode",
+          "schemeUri": "https://spdx.org/licenses/",
+          "rightsIdentifier": "cc-by-4.0",
+          "rightsIdentifierScheme": "SPDX"
+        },
+        {
+          "rights": "Amos Jay Maley",
+          "rightsUri": "http://rightsstatements.org/vocab/InC/1.0/"
+        }
+      ],
+      "context": "Constructive physical realization",
+      "path": "/papers/module-c-upstream-continuation-and-projection-intertwining-10-5281-zenodo-21616213/index.html",
+      "overviewParagraphs": [
+        "Kernel-Native Upstream Continuation is Module C of the post–structural-unification continuation of the gravity–quantum unification ARC.",
+        "Can the gravitational and quantum developments be obtained as compatible projections of one standing-bearing upstream continuation, rather than merely aligned as separate histories after the fact?",
+        "Within the manuscript’s frozen regular local comparison class, the answer is affirmative. Module C constructs a common upstream history object, defines its gravitational and quantum projection maps, and proves the required projection intertwinings, overlap compatibility, reference preservation, and quotient stability."
+      ],
+      "scopeParagraphs": [
+        "The upstream history may admit multiple local or representative-level descriptions. These do not automatically correspond to distinct physical continuations.",
+        "It does not permit either downstream history to create, select, or repair the upstream carrier that is supposed to generate it."
+      ],
+      "related": [
+        {
+          "title": "Complete Certificate Closure",
+          "url": "/papers/complete-certificate-closure-10-5281-zenodo-21616613/",
+          "doi": "10.5281/zenodo.21616613"
+        },
+        {
+          "title": "Module A: operational metric-source attachment",
+          "url": "/papers/module-a-operational-metric-source-attachment-10-5281-zenodo-21616142/",
+          "doi": "10.5281/zenodo.21616142"
+        },
+        {
+          "title": "Module B: common mass-charge matching",
+          "url": "/papers/module-b-common-mass-charge-matching-10-5281-zenodo-21616179/",
+          "doi": "10.5281/zenodo.21616179"
+        },
+        {
+          "title": "Module D: certificate-fibre exhaustion and unique lawful role occupancy",
+          "url": "/papers/module-d-certificate-fibre-exhaustion-and-unique-lawful-role-occupancy-10-5281-zenodo/",
+          "doi": "10.5281/zenodo.21616427"
+        }
+      ]
+    },
+    {
+      "doi": "10.5281/zenodo.20594895",
+      "page": "https://constraintsystemsinstitute.org/papers/p-np-by-exclusion-of-the-sat-separator-endpoint-10-5281-zenodo-20594895/",
+      "displayTitle": "P = NP by Exclusion of the SAT Separator Endpoint",
+      "registeredTitle": "P = NP by Exclusion of the SAT Separator Endpoint",
+      "publisher": "Zenodo",
+      "sourceUrl": "https://api.datacite.org/dois/10.5281/zenodo.20594895",
+      "sourceLandingUrl": "https://zenodo.org/doi/10.5281/zenodo.20594895",
+      "sourceSha256": "b64ffb011ef899d9fcffc2fb1afd544169e3cd332aa8669b87778e3a3b2d824d",
+      "retrievedOn": "2026-10-03",
+      "description": "Overview\n\nThis record contains the manuscript and project materials for (P=NP) by Exclusion of the SAT Separator Endpoint: An AASC Endpoint-Rigidity Proof for Arbitrary Finite CNF-SAT.\n\nThe manuscript presents an AASC endpoint-rigidity proof of the positive mathematical endpoint for the P versus NP problem. The official carrier used is unrestricted finite CNF-SAT. The positive raw branch is deterministic polynomial-time decidability of arbitrary finite CNF-SAT, and the bare negative branch is its raw complement on the same carrier.\n\nCentral Result\n\nThe central result is that the SAT separator endpoint is unavailable.\n\nThe proof establishes the chain:\n\n(\\SepBare \\Rightarrow \\SepImg \\Rightarrow \\SepDisc(model) \\Rightarrow \\bot).\n\nTherefore the bare negative branch is excluded. By raw complementarity, the positive branch follows. Since the positive branch is (\\CnfSATP), arbitrary finite CNF-SAT is decidable in deterministic polynomial time. The standard Cook–Levin/Karp endpoint correspondence then yields (P=NP).\n\nMethod\n\nThe proof is kernel-first and AASC-owned.\n\nAASC is not treated as an external classifier, optional foundational system, or source of theorem standing. The dependency order is the reverse: theorem-bearing endpoint use is governed construction; governed construction is possible only under the kernel of admissibility, standing, reference, and irreversibility; and the downstream AASC machinery records the fixed-domain consequence layer forced by that kernel.\n\nOrdinary theoremhood, positive or negative, is therefore kernel-internal when it is genuine theoremhood rather than raw trace.\n\nSAT Endpoint Asymmetry\n\nThe positive branch directly occupies the constructive endpoint carrier.\n\nThe negative SAT branch is different in role, not because negative theoremhood is defective, but because the SAT image-separator branch performs same-domain endpoint exclusion by separator classification. On the fixed CNF-SAT carrier, that separator route induces an independent same-domain endpoint-status discriminator.\n\nKernel-forced structural rigidity excludes independent same-domain endpoint-status discriminators. This excludes the SAT separator route and forces the positive endpoint.\n\nRelation to Cook–Levin/Karp\n\nClassical complexity theory is used only at the endpoint-correspondence layer.\n\nThe manuscript does not alter the standard definitions of (P), (NP), SAT, CNF-SAT, polynomial time, or NP-completeness. AASC supplies the proof of separator-endpoint exclusion. Cook–Levin/Karp supplies the standard correspondence from polynomial-time arbitrary finite CNF-SAT to (P=NP).\n\nLean4 Support\n\nThe record includes Lean4 appendix support for the SAT-operator bridge and negative-branch closure.\n\nThe Lean material formalizes the local proof spine connecting the bare negative branch, the SAT image-separator branch, the independent separator discriminator, and the contradiction under no-independent-discriminator closure. Lean is included as reproducibility and audit support; the manuscript proof remains primary.\n\nScope\n\nThe result is a mathematical endpoint claim for the official P versus NP problem. It is not a conventional diagonalization, circuit lower-bound, relativization, natural-proofs, proof-complexity, or algorithm-search argument. It is an AASC endpoint-structure proof on the unrestricted finite CNF-SAT carrier.\n\nRecord Contents\n\nThis record contains the manuscript PDF, LaTeX project source, verification notes, theorem and notation ledgers, Lean4 appendix-support material, and the associated SAT-operator Lean audit package.\n\n ",
+      "subjectTerms": [
+        "P versus NP",
+        "P=NP",
+        "CNF-SAT",
+        "SAT",
+        "NP-completeness",
+        "Cook–Levin theorem",
+        "Karp reductions",
+        "computational complexity",
+        "AASC",
+        "Admissibility And Standing Constraint",
+        "endpoint rigidity",
+        "SAT separator endpoint",
+        "kernel necessity",
+        "theorem-bearing endpoint",
+        "fixed-domain construction",
+        "Lean4",
+        "formal verification",
+        "mathematical foundations"
+      ],
+      "rights": [
+        {
+          "rights": "Creative Commons Attribution 4.0 International",
+          "rightsUri": "https://creativecommons.org/licenses/by/4.0/legalcode",
+          "schemeUri": "https://spdx.org/licenses/",
+          "rightsIdentifier": "cc-by-4.0",
+          "rightsIdentifierScheme": "SPDX"
+        },
+        {
+          "rights": "Amos Jay Maley",
+          "rightsUri": "http://rightsstatements.org/vocab/InC/1.0/"
+        }
+      ],
+      "context": "Seven Clay endpoints",
+      "path": "/papers/p-np-by-exclusion-of-the-sat-separator-endpoint-10-5281-zenodo-20594895/index.html",
+      "overviewParagraphs": [
+        "This record contains the manuscript and project materials for (P=NP) by Exclusion of the SAT Separator Endpoint: An AASC Endpoint-Rigidity Proof for Arbitrary Finite CNF-SAT.",
+        "The manuscript presents an AASC endpoint-rigidity proof of the positive mathematical endpoint for the P versus NP problem. The official carrier used is unrestricted finite CNF-SAT. The positive raw branch is deterministic polynomial-time decidability of arbitrary finite CNF-SAT, and the bare negative branch is its raw complement on the same carrier.",
+        "The central result is that the SAT separator endpoint is unavailable."
+      ],
+      "scopeParagraphs": [
+        "The manuscript does not alter the standard definitions of (P), (NP), SAT, CNF-SAT, polynomial time, or NP-completeness. AASC supplies the proof of separator-endpoint exclusion. Cook–Levin/Karp supplies the standard correspondence from polynomial-time arbitrary finite CNF-SAT to (P=NP)."
+      ],
+      "related": [
+        {
+          "title": "An AASC Constraint-Formalism Proof of the Poincare Endpoint by Fixed-Carrier Negative-Branch Exclusion",
+          "url": "/papers/an-aasc-constraint-formalism-proof-of-the-poincare-endpoint-by-fixed-carrier-negative/",
+          "doi": "10.5281/zenodo.20545179"
+        },
+        {
+          "title": "Carrier Universality and Global Smoothness for the Periodic 3D Navier–Stokes Equations",
+          "url": "/papers/carrier-universality-and-global-smoothness-for-the-periodic-3d-navier-stokes-equations/",
+          "doi": "10.5281/zenodo.19022917"
+        },
+        {
+          "title": "The Birch and Swinnerton-Dyer Endpoint by Exclusion of Analytic-Arithmetic Mismatch",
+          "url": "/papers/the-birch-and-swinnerton-dyer-endpoint-by-exclusion-of-analytic-arithmetic-mismatch-10/",
+          "doi": "10.5281/zenodo.20619224"
+        },
+        {
+          "title": "The Hodge Conjecture by Exclusion of the Empty Cycle-Fiber Endpoint",
+          "url": "/papers/the-hodge-conjecture-by-exclusion-of-the-empty-cycle-fiber-endpoint-10-5281-zenodo-205/",
+          "doi": "10.5281/zenodo.20534479"
+        }
+      ]
+    },
+    {
+      "doi": "10.5281/zenodo.19401432",
+      "page": "https://constraintsystemsinstitute.org/papers/quantum-entanglement-as-boundary-level-compatibility-10-5281-zenodo-19401432/",
+      "displayTitle": "Quantum Entanglement as Boundary-Level Compatibility",
+      "registeredTitle": "Bell-Nonlocal Quantum Entanglement as Boundary-Level Compatibility",
+      "publisher": "Zenodo",
+      "sourceUrl": "https://api.datacite.org/dois/10.5281/zenodo.19401432",
+      "sourceLandingUrl": "https://zenodo.org/doi/10.5281/zenodo.19401432",
+      "sourceSha256": "8a9aa566d3c2dea11b0c3f7fa039c84f1f55f705b0da9d9c2dedd7813c33fd20",
+      "retrievedOn": "2026-10-03",
+      "description": "A Kernel-Role Determinacy Theorem for Bell-Witness Fixation, No-Signaling, and Tensor-Level Compatibility\n\nThis manuscript develops a fixed-domain AASC analysis of Bell-nonlocal quantum entanglement as a theorem of reusable witness determinacy. It does not introduce hidden variables, modify quantum mechanics, derive Hilbert-space formalism from below, or propose a new signaling mechanism. Instead, it asks a prior structural question: once a Bell-type operational family is used as the same non-degenerate witness across settings, lawful transformations, retained records, comparison, and later classification, what admissible same-domain standing form is forced?\n\nThe governing claim is that AASC is not an optional interpretive overlay on physics. Once an operational Bell family is asserted as a determinate reusable witness, admissibility, standing, reference, and irreversibility are already active as minimal necessity conditions of same-witness objecthood. Target instantiation therefore carries governance occupancy: an alleged determinate Bell witness with no admissible governance realization is not an empty alternative, but a refusal or retyping of the target.\n\nThe manuscript defines finite operational Bell objects with explicit setting carriers, outcome families, channel/interface data, standing-token valuations, continuation and report/reuse structure, comparison profiles, and act-time status. It then defines object-indexed query sorts, dependent response families, exactly recoverable operational simulations, lawful Bell groupoids, six governance-effect functors, and target-active extensional governance equivalence. The result is a typed interface in which arbitrary native formalisms can be compared by their target-bearing governance effects rather than by their internal syntax.\n\nThe central Bell-specific theorem states that every same-target candidate-admissible Bell-governance construction is forced component by component into the certified boundary-compatible standing form on the complete target-active practice. Candidate admissibility does not assume the canonical form at the outset. Instead, target occupancy, lawful transport, standing-flow exclusion, compatibility certification, coordinate-deviation exhaustion, and componentwise closure force exact target-bearing realization and governance equivalence to the canonical representative CP∗C^{*}_{P}CP∗. The target-induced governance quotient therefore has exactly one element.\n\nThe Bell carrier is treated as a compatible empirical model on a finite measurement cover. Bell-local completion is identified with the existence of a global section, and Bell nonlocality is the obstruction to such a section. The manuscript separates operational marginal invariance, absence of controllable communication, and exclusion of same-domain standing transport. No-signaling is therefore preserved without retyping Bell nonlocality as superluminal communication, metric transport, distant repair, or hidden standing transfer.\n\nThe finite-dimensional quantum specialization uses the standard bipartite tensor-product and local-POVM carrier. Every separable realization in that carrier is Bell-local; therefore, if the fixed Bell-nonlocal empirical model has such a finite-dimensional quantum realization, every realizing state in that carrier is entangled. Post-quantum Bell-nonlocal no-signaling models remain within the general witness theorem but outside the quantum-entanglement corollary.\n\nThe accompanying Lean 4 development, release v0.8.0, directly verifies the finite Bell-side witness carrier: denominator-32 vector/Born weights, structural no-signaling, CHSH numerator 808080, all sixteen deterministic local extrema, finite denominator-32 Bell-local-envelope exclusion, and conditional endpoint routing. Its direct witness certificate is vectorBorn_flagship_spine, and its deepest released endpoint is reasonableDeepestFiniteEntanglement_spine. The manuscript-level typed governance interface, empirical lawful groupoid, compatibility equivalence, coordinate-deviation exhaustion, completed role collapse, candidate-to-canonical derivation, and finite-dimensional quantum specialization are not attributed to the released Lean layer.\n\nThis paper is the Bell-witness member of the paired AASC quantum determinacy arc. The record-side manuscript, Admissible Record Construction in Physically Non-Selective Quantum Regimes, fixes when local physical record occurrences stand as the same evidential record objects. The present manuscript fixes when the Bell operational family sampled by such records stands as the same reusable witness. The paired endpoint is therefore:\n\nrecord-role fixation+Bell-witness compatibility.\\text{record-role fixation} + \\text{Bell-witness compatibility}.record-role fixation+Bell-witness compatibility.\n\nThe manuscript is classificatory and eliminative rather than mechanistic. It does not claim that AASC generates the Bell probabilities or supplies a hidden physical influence. Its claim is that reusable Bell-witness determinacy strongly constrains how Bell-nonlocal correlations may be coherently classified on a fixed domain: not as independently complete local states later connected by a mechanism, not as Bell-local hidden-variable value assignments, not as superluminal signaling, and not as same-act repair, but as boundary-level compatibility carried by one standing-preserving Bell witness.",
+      "subjectTerms": [
+        "quantum entanglement",
+        "Bell nonlocality",
+        "quantum foundations",
+        "standing conservation",
+        "admissibility",
+        "Bell correlations"
+      ],
+      "rights": [
+        {
+          "rights": "Creative Commons Attribution 4.0 International",
+          "rightsUri": "https://creativecommons.org/licenses/by/4.0/legalcode",
+          "schemeUri": "https://spdx.org/licenses/",
+          "rightsIdentifier": "cc-by-4.0",
+          "rightsIdentifierScheme": "SPDX"
+        },
+        {
+          "rights": "Amos Jay Maley",
+          "rightsUri": "http://rightsstatements.org/vocab/InC/1.0/"
+        }
+      ],
+      "context": "Gravity / Quantum Unification",
+      "path": "/papers/quantum-entanglement-as-boundary-level-compatibility-10-5281-zenodo-19401432/index.html",
+      "overviewParagraphs": [
+        "This manuscript develops a fixed-domain AASC analysis of Bell-nonlocal quantum entanglement as a theorem of reusable witness determinacy. It does not introduce hidden variables, modify quantum mechanics, derive Hilbert-space formalism from below, or propose a new signaling mechanism. Instead, it asks a prior structural question: once a Bell-type operational family is used as the same non-degenerate witness across settings, lawful transformations, retained records, comparison, and later classification, what admissible same-domain standing form is forced?",
+        "The governing claim is that AASC is not an optional interpretive overlay on physics. Once an operational Bell family is asserted as a determinate reusable witness, admissibility, standing, reference, and irreversibility are already active as minimal necessity conditions of same-witness objecthood. Target instantiation therefore carries governance occupancy: an alleged determinate Bell witness with no admissible governance realization is not an empty alternative, but a refusal or retyping of the target.",
+        "The manuscript defines finite operational Bell objects with explicit setting carriers, outcome families, channel/interface data, standing-token valuations, continuation and report/reuse structure, comparison profiles, and act-time status. It then defines object-indexed query sorts, dependent response families, exactly recoverable operational simulations, lawful Bell groupoids, six governance-effect functors, and target-active extensional governance equivalence. The result is a typed interface in which arbitrary native formalisms can be compared by their target-bearing governance effects rather than by their internal syntax."
+      ],
+      "scopeParagraphs": [
+        "The manuscript is classificatory and eliminative rather than mechanistic. It does not claim that AASC generates the Bell probabilities or supplies a hidden physical influence. Its claim is that reusable Bell-witness determinacy strongly constrains how Bell-nonlocal correlations may be coherently classified on a fixed domain: not as independently complete local states later connected by a mechanism, not as Bell-local hidden-variable value assignments, not as superluminal signaling, and not as same-act repair, but as boundary-level compatibility carried by one standing-preserving Bell witness."
+      ],
+      "related": [
+        {
+          "title": "Admissible Record Construction in Physically Non-Selective Quantum Regimes (Measurement Problem)",
+          "url": "/papers/admissible-record-construction-in-physically-non-selective-quantum-regimes-measurement/",
+          "doi": "10.5281/zenodo.18514647"
+        },
+        {
+          "title": "Einstein Dynamics as the Unique Minimal First-Response Metric Projection of AASC Gravity",
+          "url": "/papers/einstein-dynamics-as-the-unique-minimal-first-response-metric-projection-of-aasc-gravi/",
+          "doi": "10.5281/zenodo.20538579"
+        },
+        {
+          "title": "Schrödinger Dynamics as the Unique Minimal First-Response Hamiltonian Projection of AASC Quantum Standing",
+          "url": "/papers/schr-dinger-dynamics-as-the-unique-minimal-first-response-hamiltonian-projection-of-aa/",
+          "doi": "10.5281/zenodo.21254589"
+        },
+        {
+          "title": "Structural Unification of Gravity and Quantum Dynamics under AASC",
+          "url": "/papers/structural-unification-of-gravity-and-quantum-dynamics-under-aasc-10-5281-zenodo-21255/",
+          "doi": "10.5281/zenodo.21255943"
+        }
+      ]
+    },
+    {
+      "doi": "10.5281/zenodo.18518587",
+      "page": "https://constraintsystemsinstitute.org/papers/the-ametric-boundary-admissibility-constraint-map-paper-ii-10-5281-zenodo-18518587/",
+      "displayTitle": "The AMetric Boundary Admissibility Constraint Map Paper II",
+      "registeredTitle": "The AMetric Boundary Admissibility Constraint Map Paper II",
+      "publisher": "Zenodo",
+      "sourceUrl": "https://api.datacite.org/dois/10.5281/zenodo.18518587",
+      "sourceLandingUrl": "https://zenodo.org/doi/10.5281/zenodo.18518587",
+      "sourceSha256": "ef3c513421e5a143221661b7ea80d46365318bc67719c6343110ea5b8b9fa4fd",
+      "retrievedOn": "2026-10-03",
+      "description": "This paper establishes the AMetric Boundary as a necessary division between admissible representational structure and illicit metric reanchoring. The boundary marks the point beyond which quantities, measures, probabilities, or gradients cannot be meaningfully introduced without violating admissibility.\n\nThe analysis demonstrates that attempts to ground admissibility in metric notions—such as information measures, probabilistic weights, distances, or optimization criteria—implicitly cross the AMetric Boundary and reintroduce structure that admissibility explicitly forbids. When these moves are excluded, admissibility remains strictly non-metric and fail-closed.\n\nThe result clarifies why admissibility cannot be quantified, tuned, or optimized, and why any metricization of foundational constraints leads to standing failure. The paper introduces no evaluative scales or formal metrics. It records the AMetric Boundary as a structural necessity governing the admissibility constraint map, not as a methodological convention or modeling choice.\n\n\n\n\n\n \n\n \n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n ",
+      "subjectTerms": [],
+      "rights": [
+        {
+          "rights": "Creative Commons Attribution 4.0 International",
+          "rightsUri": "https://creativecommons.org/licenses/by/4.0/legalcode",
+          "schemeUri": "https://spdx.org/licenses/",
+          "rightsIdentifier": "cc-by-4.0",
+          "rightsIdentifierScheme": "SPDX"
+        },
+        {
+          "rights": "Amos Jay Maley",
+          "rightsUri": "http://rightsstatements.org/vocab/InC/1.0/"
+        }
+      ],
+      "context": "The AMetric boundary invariant",
+      "path": "/papers/the-ametric-boundary-admissibility-constraint-map-paper-ii-10-5281-zenodo-18518587/index.html",
+      "overviewParagraphs": [
+        "This paper establishes the AMetric Boundary as a necessary division between admissible representational structure and illicit metric reanchoring. The boundary marks the point beyond which quantities, measures, probabilities, or gradients cannot be meaningfully introduced without violating admissibility.",
+        "The analysis demonstrates that attempts to ground admissibility in metric notions—such as information measures, probabilistic weights, distances, or optimization criteria—implicitly cross the AMetric Boundary and reintroduce structure that admissibility explicitly forbids. When these moves are excluded, admissibility remains strictly non-metric and fail-closed.",
+        "The result clarifies why admissibility cannot be quantified, tuned, or optimized, and why any metricization of foundational constraints leads to standing failure. The paper introduces no evaluative scales or formal metrics. It records the AMetric Boundary as a structural necessity governing the admissibility constraint map, not as a methodological convention or modeling choice."
+      ],
+      "scopeParagraphs": [],
+      "related": [
+        {
+          "title": "SA_2 The AMetric Boundary as Non Transmissive Interface",
+          "url": "/papers/sa-2-the-ametric-boundary-as-non-transmissive-interface-10-5281-zenodo-18522654/",
+          "doi": "10.5281/zenodo.18522654"
+        }
+      ]
+    },
+    {
+      "doi": "10.5281/zenodo.20534479",
+      "page": "https://constraintsystemsinstitute.org/papers/the-hodge-conjecture-by-exclusion-of-the-empty-cycle-fiber-endpoint-10-5281-zenodo-205/",
+      "displayTitle": "The Hodge Conjecture by Exclusion of the Empty Cycle-Fiber Endpoint",
+      "registeredTitle": "The Hodge Conjecture by Exclusion of the Empty Cycle-Fiber Endpoint",
+      "publisher": "Zenodo",
+      "sourceUrl": "https://api.datacite.org/dois/10.5281/zenodo.20534479",
+      "sourceLandingUrl": "https://zenodo.org/doi/10.5281/zenodo.20534479",
+      "sourceSha256": "3fc9f3f004b140a24c00408d3339de5f3531f07d9683d188a3c51b24a39a7d20",
+      "retrievedOn": "2026-10-03",
+      "description": "This record contains an audit-grade AASC endpoint-exclusion manuscript for the Hodge Conjecture:\n\nThe Hodge Conjecture by Exclusion of the Empty Cycle-Fiber EndpointAn AASC Endpoint-Rigidity Proof for Rational Hodge Classes via Cycle-Fiber Occupation\n\nThe manuscript works on the fixed classical Hodge/cycle carrier. For a smooth projective complex variety XXX, codimension ppp, and rational Hodge class\n\nα∈Hdgp(X),\\alpha \\in \\mathrm{Hdg}^p(X),α∈Hdgp(X),\n\nthe positive endpoint is the nonemptiness of the rational cycle-class fiber\n\nFX(α)={Z∈CHp(X)Q:cl⁡Q(Z)=α}.F_X(\\alpha)=\\{Z\\in CH^p(X)_{\\mathbb Q}: \\operatorname{cl}_{\\mathbb Q}(Z)=\\alpha\\}.FX(α)={Z∈CHp(X)Q:clQ(Z)=α}.\n\nThe proof does not introduce a new algebraic-geometric construction of cycles and does not redefine Hodge classes, Chow groups, rational coefficients, the cycle-class map, or algebraic cycles. Instead, it gives an AASC endpoint-rigidity argument showing that the empty cycle-fiber endpoint cannot be used as a same-carrier endpoint-defeating branch.\n\nProof Architecture\n\nThe manuscript separates raw mathematical content from endpoint-governing use.\n\nThe positive branch is:\n\nFX(α)≠∅.F_X(\\alpha)\\neq\\varnothing.FX(α)=∅.\n\nThe bare negative branch is:\n\nFX(α)=∅.F_X(\\alpha)=\\varnothing.FX(α)=∅.\n\nEmpty-fiber content is treated as lawful in ordinary mathematical roles: raw syntax, obstruction content, nonmembership content, support-level reasoning, hypothetical local content, or ordinary negative theoremhood. It becomes AASC-relevant only when used to defeat the official Hodge endpoint on the same fixed Hodge/cycle carrier.\n\nUnder such endpoint-defeating use, the proof route is:\n\n\n\nempty-fiber counterforce is classified as endpoint use;\n\nendpoint use instantiates the kernel of reference, standing, admissibility, and irreversibility;\n\nthe kernel forces the A+A^+A+ consequence layer;\n\nA+A^+A+ excludes independent same-domain endpoint-status discriminators;\n\nnative empty-fiber counterforce is exhausted into bridge-neutralized status, support-only status, bookkeeping, carrier/domain shift, or the independent cycle-fiber discriminator Dfib(X,p,α)D_{\\mathrm{fib}}(X,p,\\alpha)Dfib(X,p,α);\n\nin the live exact-complement reductio subproof, the first four routes are unavailable;\n\nthe local empty-fiber countercase therefore induces Dfib(X,p,α)D_{\\mathrm{fib}}(X,p,\\alpha)Dfib(X,p,α);\n\nendpoint use supplies Nfib(X,p,α)N_{\\mathrm{fib}}(X,p,\\alpha)Nfib(X,p,α), hence ¬Dfib(X,p,α)\\neg D_{\\mathrm{fib}}(X,p,\\alpha)¬Dfib(X,p,α);\n\nthe contradiction discharges the local assumption FX(α)=∅F_X(\\alpha)=\\varnothingFX(α)=∅;\n\nsince X,p,αX,p,\\alphaX,p,α were arbitrary, every rational Hodge class has nonempty rational cycle-class fiber.\n\n\nLean4 Audit Support\n\nThis record is paired with the Lean4 audit repository:\n\n\n\nGitHub: somamaley-ux/AASC-Hodge-Endpoint-Lean-Audit\n\nDOI: 10.5281/zenodo.20640238\n\n\nThe Lean layer is an audit support layer for the AASC/Hodge endpoint bridge and closeout surface. It is not presented as a first-principles formalization of all Hodge theory. Its intended role is to check the endpoint-role bridge, the empty-fiber counterforce exhaustion surface, the discriminator closure interface, and the final Hodge endpoint closeout, conditional on the declared Hodge/cycle model adequacy boundary.\n\nScope and Boundary\n\nThis manuscript should be read as an AASC endpoint-rigidity proof, not as a Lefschetz-type theorem, motivic construction, Abel–Jacobi or normal-function argument, standard-conjectures proof, deformation/spread argument, or explicit cycle-construction method.\n\nClassical Hodge-theoretic objects are used to identify the official carrier and endpoint. The branch-exclusion mechanism is AASC-internal: it concerns the admissibility of using the empty cycle-fiber branch as endpoint-defeating counterforce on the same fixed Hodge/cycle carrier.\n\nContents\n\nThis deposit includes:\n\n\n\nthe main Hodge endpoint-exclusion manuscript;\n\na Lean4 Hodge endpoint audit appendix;\n\ntheorem-ladder and dependency-audit material;\n\nanti-circularity and hostile-misreading audits;\n\nroute-locus exhaustion checks;\n\nfaithful-counterexample worksheets;\n\nstress-test capsules for endpoint-force, route-exhaustion, and report-preservation readings;\n\ncorpus support and notation ledgers.",
+      "subjectTerms": [
+        "Hodge Conjecture",
+        "algebraic geometry",
+        "Hodge theory",
+        "Chow groups",
+        "cycle-realization relation",
+        "role compression",
+        "structural solution",
+        "AASC",
+        "UEAP",
+        "realization bridge",
+        "no silent redescription",
+        "no post-selection repair",
+        "role-occupancy closure",
+        "counterexample force",
+        "Lean4 audit",
+        "mathematical foundations"
+      ],
+      "rights": [
+        {
+          "rights": "Creative Commons Attribution 4.0 International",
+          "rightsUri": "https://creativecommons.org/licenses/by/4.0/legalcode",
+          "schemeUri": "https://spdx.org/licenses/",
+          "rightsIdentifier": "cc-by-4.0",
+          "rightsIdentifierScheme": "SPDX"
+        },
+        {
+          "rights": "Amos Jay Maley",
+          "rightsUri": "http://rightsstatements.org/vocab/InC/1.0/"
+        }
+      ],
+      "context": "Seven Clay endpoints",
+      "path": "/papers/the-hodge-conjecture-by-exclusion-of-the-empty-cycle-fiber-endpoint-10-5281-zenodo-205/index.html",
+      "overviewParagraphs": [
+        "The proof does not introduce a new algebraic-geometric construction of cycles and does not redefine Hodge classes, Chow groups, rational coefficients, the cycle-class map, or algebraic cycles. Instead, it gives an AASC endpoint-rigidity argument showing that the empty cycle-fiber endpoint cannot be used as a same-carrier endpoint-defeating branch.",
+        "The manuscript separates raw mathematical content from endpoint-governing use.",
+        "Empty-fiber content is treated as lawful in ordinary mathematical roles: raw syntax, obstruction content, nonmembership content, support-level reasoning, hypothetical local content, or ordinary negative theoremhood. It becomes AASC-relevant only when used to defeat the official Hodge endpoint on the same fixed Hodge/cycle carrier."
+      ],
+      "scopeParagraphs": [
+        "The Lean layer is an audit support layer for the AASC/Hodge endpoint bridge and closeout surface. It is not presented as a first-principles formalization of all Hodge theory. Its intended role is to check the endpoint-role bridge, the empty-fiber counterforce exhaustion surface, the discriminator closure interface, and the final Hodge endpoint closeout, conditional on the declared Hodge/cycle model adequacy boundary."
+      ],
+      "related": [
+        {
+          "title": "Carrier Universality and Global Smoothness for the Periodic 3D Navier–Stokes Equations",
+          "url": "/papers/carrier-universality-and-global-smoothness-for-the-periodic-3d-navier-stokes-equations/",
+          "doi": "10.5281/zenodo.19022917"
+        },
+        {
+          "title": "P = NP by Exclusion of the SAT Separator Endpoint",
+          "url": "/papers/p-np-by-exclusion-of-the-sat-separator-endpoint-10-5281-zenodo-20594895/",
+          "doi": "10.5281/zenodo.20594895"
+        },
+        {
+          "title": "The Birch and Swinnerton-Dyer Endpoint by Exclusion of Analytic-Arithmetic Mismatch",
+          "url": "/papers/the-birch-and-swinnerton-dyer-endpoint-by-exclusion-of-analytic-arithmetic-mismatch-10/",
+          "doi": "10.5281/zenodo.20619224"
+        },
+        {
+          "title": "The Riemann Hypothesis by Exclusion of the Prime-Trace Amplitude Separator",
+          "url": "/papers/the-riemann-hypothesis-by-exclusion-of-the-prime-trace-amplitude-separator-10-5281-zen/",
+          "doi": "10.5281/zenodo.20473212"
+        }
+      ]
+    },
+    {
+      "doi": "10.5281/zenodo.19492854",
+      "page": "https://constraintsystemsinstitute.org/papers/vacuum-sector-mass-gap-for-the-local-gauge-invariant-sharp-local-yang-mills-net-10-528/",
+      "displayTitle": "Vacuum-sector mass gap for the local gauge-invariant sharp-local Yang–Mills net",
+      "registeredTitle": "Vacuum-sector mass gap for the local gauge-invariant sharp-local Yang–Mills net",
+      "publisher": "Zenodo",
+      "sourceUrl": "https://api.datacite.org/dois/10.5281/zenodo.19492854",
+      "sourceLandingUrl": "https://zenodo.org/doi/10.5281/zenodo.19492854",
+      "sourceSha256": "5a98a7b20822c8d5feda8b999e0da711e14b9e4e42bddad77c4ed90b05fe07a2",
+      "retrievedOn": "2026-10-03",
+      "description": "Description\n\nThis work presents a theorem establishing a vacuum-sector mass gap for the bounded-region local gauge-invariant sharp-local Yang–Mills net associated to any compact connected simple gauge group GGG.\n\nThe proof is organized through a finite packet reduction architecture consisting of:\n\n\n\na compact-simple ultraviolet gate,\n\na Route 1 lattice-to-continuum vacuum-gap chain,\n\na Lane A sharp-local constructive chain,\n\nand a theorem-level endpoint packet (OS/Wightman reconstruction and local-net identification).\n\n\nThe theorem-level object is explicitly local: the result applies to the bounded-region gauge-invariant sharp-local net generated by flowed curvature composites. Extended-support line and surface sectors are excluded from the theorem claim.\n\n\n\nFormal Verification Layer\n\nThe manuscript is accompanied by a Lean4 formal verification layer that certifies the theorem-level dependency structure and closure architecture.\n\n\n\nThe Lean development verifies:\n\n\n\npacket routing and reduction,\n\ndependency DAG and theorem ownership,\n\nclosure interfaces across Route 1, Lane A, and endpoint assembly,\n\nnon-circularity of the proof spine,\n\nconsistency between manuscript claims and proof structure.\n\n\n\nThe Lean layer operates relative to an explicitly declared imported substrate:\n\n\n\nstandard Wilson lattice Yang–Mills theory,\n\nstandard Osterwalder–Schrader reconstruction framework.\n\n\n\n\nFormalization of this standard substrate is outside the scope of the present verification layer.\n\n\n\nMain Result (informal summary)\n\nThe constructed sharp-local Yang–Mills theory satisfies:\n\n\n\nexistence of a continuum local gauge-invariant quantum field theory,\n\nOS/Wightman reconstruction,\n\nHaag–Kastler local net structure,\n\nnon-triviality (nonzero spectral weight),\n\nand a strictly positive vacuum mass gap:\n\n\nSpec(H)⊂{0}∪[m∗,∞),m∗>0.\\mathrm{Spec}(H) \\subset \\{0\\} \\cup [m^*, \\infty), \\quad m^* > 0.Spec(H)⊂{0}∪[m∗,∞),m∗>0.\n\nThe continuum local theory is faithful-Wilson universal at theorem level: all faithful ultraviolet Wilson regularizations of the same group GGG yield canonically isomorphic local theories (qualitatively).\n\nExplicit quantitative bounds remain indexed by the chosen ultraviolet regularization.\n\n\n\nScope Clarifications\n\nThis work does not claim:\n\n\n\na mass gap for nonlocal sectors (line/surface operators),\n\nuniform quantitative bounds across all faithful representations,\n\nformalization of the Wilson QFT substrate in Lean,\n\nresults outside the admissible gradient-flow renormalization class.\n\n\n\n\nStructure of the Archive\n\nThe Zenodo record includes:\n\n\n\nCore manuscript (theorem and proof spine)\n\nCompanion I: ultraviolet gate and Route 1 chain\n\nCompanion II: Lane A constructive chain\n\nCompanion III: reconstruction and endpoint packet\n\nLean4 verification layer (dependency and closure certification)\n\n\n\n\nSignificance\n\nThe contribution is twofold:\n\n\n\nA constructive Yang–Mills mass-gap proof framed at the level of local nets.\n\nA machine-verified proof architecture that eliminates hidden dependencies and enforces explicit theorem-level closure.",
+      "subjectTerms": [
+        "Yang-Mills theory",
+        "mass gap",
+        "quantum field theory",
+        "constructive field theory",
+        "lattice gauge theory",
+        "mathematical physics",
+        "Wilson action",
+        "Osterwalder-Schrader reconstruction",
+        "Wightman axioms"
+      ],
+      "rights": [
+        {
+          "rights": "Creative Commons Attribution 4.0 International",
+          "rightsUri": "https://creativecommons.org/licenses/by/4.0/legalcode",
+          "schemeUri": "https://spdx.org/licenses/",
+          "rightsIdentifier": "cc-by-4.0",
+          "rightsIdentifierScheme": "SPDX"
+        },
+        {
+          "rights": "Amos Jay Maley",
+          "rightsUri": "http://rightsstatements.org/vocab/InC/1.0/"
+        }
+      ],
+      "context": "Millennium / Mathematics",
+      "path": "/papers/vacuum-sector-mass-gap-for-the-local-gauge-invariant-sharp-local-yang-mills-net-10-528/index.html",
+      "overviewParagraphs": [
+        "This work presents a theorem establishing a vacuum-sector mass gap for the bounded-region local gauge-invariant sharp-local Yang–Mills net associated to any compact connected simple gauge group GGG.",
+        "The theorem-level object is explicitly local: the result applies to the bounded-region gauge-invariant sharp-local net generated by flowed curvature composites. Extended-support line and surface sectors are excluded from the theorem claim.",
+        "The manuscript is accompanied by a Lean4 formal verification layer that certifies the theorem-level dependency structure and closure architecture."
+      ],
+      "scopeParagraphs": [
+        "Formalization of this standard substrate is outside the scope of the present verification layer."
+      ],
+      "related": [
+        {
+          "title": "Admissibility and the Well-Definedness of Yang–Mills Endpoint Constructions",
+          "url": "/papers/admissibility-and-the-well-definedness-of-yang-mills-endpoint-constructions-10-5281-ze/",
+          "doi": "10.5281/zenodo.19646301"
+        },
+        {
+          "title": "Closure by Exhaustion for Same-Scope Operators under Admissibility (Mathematics)",
+          "url": "/papers/closure-by-exhaustion-for-same-scope-operators-under-admissibility-mathematics-10-5281/",
+          "doi": "10.5281/zenodo.19183407"
+        },
+        {
+          "title": "Sunflower Endpoint Rigidity and Kernel-Forced AASC Transfer",
+          "url": "/papers/sunflower-endpoint-rigidity-and-kernel-forced-aasc-transfer-10-5281-zenodo-21242672/",
+          "doi": "10.5281/zenodo.21242672"
+        }
+      ]
+    },
+    {
+      "doi": "10.5281/zenodo.21824991",
+      "page": "https://constraintsystemsinstitute.org/papers/wdw-3-normal-deformation-as-constrained-refoliation-10-5281-zenodo-21824991/",
+      "displayTitle": "WDW 3: Normal Deformation as Constrained Refoliation",
+      "registeredTitle": "Normal Deformation as Constrained Refoliation",
+      "publisher": "Zenodo",
+      "sourceUrl": "https://api.datacite.org/dois/10.5281/zenodo.21824991",
+      "sourceLandingUrl": "https://zenodo.org/doi/10.5281/zenodo.21824991",
+      "sourceSha256": "30db714abd8c8d16da1d58d826f03d06ae6f9c6bcd77e12d8c5d864e109a2504",
+      "retrievedOn": "2026-10-03",
+      "description": "Description\n\nNormal Deformation as Constrained Refoliation is the third paper in the Wheeler–DeWitt ARC. It establishes the normal-deformation and refoliation structure required for the representation-stable canonical gravity realization obtained through WDW‑1 and WDW‑2.\n\nIts central question is:\n\n\n\nWhen an authenticated Einstein–source realization is presented on different admissible hypersurfaces, under what conditions does normal deformation preserve one constrained physical realization rather than generate a slicing-dependent replacement?\n\n\nThe manuscript treats normal deformation as a constrained refoliation problem. Building on the connection-typed canonical projection of WDW‑1 and the proper-redescription groupoid descent of WDW‑2, it develops the lapse-directed normal and shift-directed tangential deformation roles together with the constraint relations required for their lawful composition.\n\nIts central passage is:\n\n[\\text{representation-stable canonical gravity realization}\\longrightarrow\\text{constrained normal deformation}\\longrightarrow\\text{refoliation-faithful canonical continuation}.]\n\nThe result distinguishes a genuine alteration of the realized Einstein–source structure from a lawful change of hypersurface presentation. Foliation, lapse, shift, canonical chart, and local representative may organize a presentation, but they do not acquire primitive authority to alter the inherited standing-bearing content, source attachment, boundary-standing data, or canonical constraint roles.\n\nWDW‑3 is therefore not a fixed-slice construction and does not make any preferred foliation physically fundamental. Its load-bearing contribution is to establish a controlled refoliation structure on the globally descended canonical realization, so that subsequent gravity–matter and quantum-constraint stages inherit lawful continuation rather than an uncontrolled collection of slice-labelled representatives.\n\nThe paper does not yet integrate classical matter occupancy, construct the configuration-space Wheeler–DeWitt candidate family, establish quantum constraint survival, or provide final physical realization. Those are obligations of the later WDW papers.\n\n ",
+      "subjectTerms": [
+        "Wheeler–DeWitt equation",
+        "canonical gravity",
+        "constrained refoliation",
+        "normal deformation",
+        "hypersurface deformation",
+        "ADM formalism",
+        "lapse and shift",
+        "Hamiltonian constraint",
+        "momentum constraint",
+        "Einstein–source realization",
+        "canonical continuation",
+        "foliation independence",
+        "representation independence",
+        "groupoid descent",
+        "quantum gravity",
+        "gravitational configuration space",
+        "constrained quantization",
+        "AASC",
+        "constraint-native formulation"
+      ],
+      "rights": [
+        {
+          "rights": "Creative Commons Attribution 4.0 International",
+          "rightsUri": "https://creativecommons.org/licenses/by/4.0/legalcode",
+          "schemeUri": "https://spdx.org/licenses/",
+          "rightsIdentifier": "cc-by-4.0",
+          "rightsIdentifierScheme": "SPDX"
+        },
+        {
+          "rights": "Amos Jay Maley",
+          "rightsUri": "http://rightsstatements.org/vocab/InC/1.0/"
+        }
+      ],
+      "context": "Wheeler-DeWitt ten-paper branch",
+      "path": "/papers/wdw-3-normal-deformation-as-constrained-refoliation-10-5281-zenodo-21824991/index.html",
+      "overviewParagraphs": [
+        "Normal Deformation as Constrained Refoliation is the third paper in the Wheeler–DeWitt ARC. It establishes the normal-deformation and refoliation structure required for the representation-stable canonical gravity realization obtained through WDW‑1 and WDW‑2.",
+        "When an authenticated Einstein–source realization is presented on different admissible hypersurfaces, under what conditions does normal deformation preserve one constrained physical realization rather than generate a slicing-dependent replacement?",
+        "The manuscript treats normal deformation as a constrained refoliation problem. Building on the connection-typed canonical projection of WDW‑1 and the proper-redescription groupoid descent of WDW‑2, it develops the lapse-directed normal and shift-directed tangential deformation roles together with the constraint relations required for their lawful composition."
+      ],
+      "scopeParagraphs": [
+        "WDW‑3 is therefore not a fixed-slice construction and does not make any preferred foliation physically fundamental. Its load-bearing contribution is to establish a controlled refoliation structure on the globally descended canonical realization, so that subsequent gravity–matter and quantum-constraint stages inherit lawful continuation rather than an uncontrolled collection of slice-labelled representatives.",
+        "The paper does not yet integrate classical matter occupancy, construct the configuration-space Wheeler–DeWitt candidate family, establish quantum constraint survival, or provide final physical realization. Those are obligations of the later WDW papers."
+      ],
+      "related": [
+        {
+          "title": "WDW 1: Connection-Typed Canonical Projection of the Frozen Einstein-Source Realization",
+          "url": "/papers/wdw-1-connection-typed-canonical-projection-of-the-frozen-einstein-source-realization/",
+          "doi": "10.5281/zenodo.21824424"
+        },
+        {
+          "title": "WDW 2: Groupoid-Faithful Proper-Redescription Descent of the AASC Canonical Gravity Realization",
+          "url": "/papers/wdw-2-groupoid-faithful-proper-redescription-descent-of-the-aasc-canonical-gravity-rea/",
+          "doi": "10.5281/zenodo.21824928"
+        },
+        {
+          "title": "WDW 4: Classical Matter Occupancy and Joint-Constraint Closure under AASC",
+          "url": "/papers/wdw-4-classical-matter-occupancy-and-joint-constraint-closure-under-aasc-10-5281-zenod/",
+          "doi": "10.5281/zenodo.21825104"
+        },
+        {
+          "title": "WDW 5: Configuration-Space Differentiation and the Constraint-Native Wheeler-DeWitt Candidate Family",
+          "url": "/papers/wdw-5-configuration-space-differentiation-and-the-constraint-native-wheeler-dewitt-can/",
+          "doi": "10.5281/zenodo.21825298"
+        }
+      ]
+    },
+    {
+      "doi": "10.5281/zenodo.21825104",
+      "page": "https://constraintsystemsinstitute.org/papers/wdw-4-classical-matter-occupancy-and-joint-constraint-closure-under-aasc-10-5281-zenod/",
+      "displayTitle": "WDW 4: Classical Matter Occupancy and Joint-Constraint Closure under AASC",
+      "registeredTitle": "Classical Matter Occupancy and Joint-Constraint Closure under AASC",
+      "publisher": "Zenodo",
+      "sourceUrl": "https://api.datacite.org/dois/10.5281/zenodo.21825104",
+      "sourceLandingUrl": "https://zenodo.org/doi/10.5281/zenodo.21825104",
+      "sourceSha256": "26cbf3b56196cafc655764b260ea72147bcdb15e60bfa9d3a9d3b7f84927ab4a",
+      "retrievedOn": "2026-10-03",
+      "description": "Description\n\nClassical Matter Occupancy and Joint-Constraint Closure under AASC is the fourth paper in the Wheeler–DeWitt ARC. It extends the refoliation-faithful canonical gravity realization established in WDW-1 through WDW-3 to include classical matter as an integrated, jointly constrained occupant.\n\nIts central question is:\n\n\n\nGiven a globally descended and refoliation-faithful canonical gravity realization, under what conditions can classical matter be incorporated without becoming an external attachment or disrupting the joint gravitational constraint system?\n\n\nThe manuscript carries matter configuration and momentum roles, source-bearing content, and their Hamiltonian and momentum-constraint contributions into the inherited canonical realization. The result is a joint gravity–matter constrained structure, rather than a gravity-only canonical skeleton to which matter is later appended informally.\n\nIts central passage is:\n\nrefoliation-faithful canonical gravity realization⟶classical matter occupancy⟶joint gravitational–matter constraint closure.\n\nMatter occupancy must preserve the connection-typed inheritance of WDW-1, the proper-redescription descent and boundary-standing protections of WDW-2, and the constrained-refoliation conditions of WDW-3. Field coordinates, foliation labels, canonical representatives, and chart-dependent expressions remain presentational structure; they cannot independently alter the standing-bearing Einstein–source realization or its constraint roles.\n\nWDW-4 thus supplies the completed classical gravity–matter input for the quantum stages of the ARC. It ensures that later configuration-space differentiation and Wheeler–DeWitt candidate construction act on a jointly closed constrained system, rather than quantizing an isolated gravitational sector.\n\nThe paper does not yet construct the Wheeler–DeWitt candidate family, establish quantum constraint survival, or prove renormalized physical realization. Its load-bearing role is the integration and closure of classical matter within the inherited canonical and refoliation-faithful realization.",
+      "subjectTerms": [
+        "Wheeler–DeWitt equation",
+        "canonical gravity",
+        "classical matter",
+        "matter occupancy",
+        "Einstein–matter system",
+        "Einstein–source realization",
+        "joint constraint closure",
+        "Hamiltonian constraint",
+        "momentum constraint",
+        "ADM formalism",
+        "constrained refoliation",
+        "normal deformation",
+        "lapse and shift",
+        "canonical matter variables",
+        "gravitational configuration space",
+        "constrained quantization",
+        "quantum gravity",
+        "AASC",
+        "constraint-native formulation"
+      ],
+      "rights": [
+        {
+          "rights": "Creative Commons Attribution 4.0 International",
+          "rightsUri": "https://creativecommons.org/licenses/by/4.0/legalcode",
+          "schemeUri": "https://spdx.org/licenses/",
+          "rightsIdentifier": "cc-by-4.0",
+          "rightsIdentifierScheme": "SPDX"
+        },
+        {
+          "rights": "Amos Jay Maley",
+          "rightsUri": "http://rightsstatements.org/vocab/InC/1.0/"
+        }
+      ],
+      "context": "Wheeler-DeWitt ten-paper branch",
+      "path": "/papers/wdw-4-classical-matter-occupancy-and-joint-constraint-closure-under-aasc-10-5281-zenod/index.html",
+      "overviewParagraphs": [
+        "Classical Matter Occupancy and Joint-Constraint Closure under AASC is the fourth paper in the Wheeler–DeWitt ARC. It extends the refoliation-faithful canonical gravity realization established in WDW-1 through WDW-3 to include classical matter as an integrated, jointly constrained occupant.",
+        "Given a globally descended and refoliation-faithful canonical gravity realization, under what conditions can classical matter be incorporated without becoming an external attachment or disrupting the joint gravitational constraint system?",
+        "The manuscript carries matter configuration and momentum roles, source-bearing content, and their Hamiltonian and momentum-constraint contributions into the inherited canonical realization. The result is a joint gravity–matter constrained structure, rather than a gravity-only canonical skeleton to which matter is later appended informally."
+      ],
+      "scopeParagraphs": [
+        "The paper does not yet construct the Wheeler–DeWitt candidate family, establish quantum constraint survival, or prove renormalized physical realization. Its load-bearing role is the integration and closure of classical matter within the inherited canonical and refoliation-faithful realization."
+      ],
+      "related": [
+        {
+          "title": "WDW 2: Groupoid-Faithful Proper-Redescription Descent of the AASC Canonical Gravity Realization",
+          "url": "/papers/wdw-2-groupoid-faithful-proper-redescription-descent-of-the-aasc-canonical-gravity-rea/",
+          "doi": "10.5281/zenodo.21824928"
+        },
+        {
+          "title": "WDW 3: Normal Deformation as Constrained Refoliation",
+          "url": "/papers/wdw-3-normal-deformation-as-constrained-refoliation-10-5281-zenodo-21824991/",
+          "doi": "10.5281/zenodo.21824991"
+        },
+        {
+          "title": "WDW 5: Configuration-Space Differentiation and the Constraint-Native Wheeler-DeWitt Candidate Family",
+          "url": "/papers/wdw-5-configuration-space-differentiation-and-the-constraint-native-wheeler-dewitt-can/",
+          "doi": "10.5281/zenodo.21825298"
+        },
+        {
+          "title": "WDW 6: Quantum Constraint Survival and Renormalized Physical Realization of the Wheeler-DeWitt Family",
+          "url": "/papers/wdw-6-quantum-constraint-survival-and-renormalized-physical-realization-of-the-wheeler/",
+          "doi": "10.5281/zenodo.21825794"
+        }
+      ]
+    },
+    {
+      "doi": "10.5281/zenodo.21825298",
+      "page": "https://constraintsystemsinstitute.org/papers/wdw-5-configuration-space-differentiation-and-the-constraint-native-wheeler-dewitt-can/",
+      "displayTitle": "WDW 5: Configuration-Space Differentiation and the Constraint-Native Wheeler-DeWitt Candidate Family",
+      "registeredTitle": "Configuration-Space Differentiation and the Constraint-Native Wheeler–DeWitt Candidate Family",
+      "publisher": "Zenodo",
+      "sourceUrl": "https://api.datacite.org/dois/10.5281/zenodo.21825298",
+      "sourceLandingUrl": "https://zenodo.org/doi/10.5281/zenodo.21825298",
+      "sourceSha256": "5bb36d0f58b4cf3afb98f58463b20bc9455d1845900946e81e2478bc610ed660",
+      "retrievedOn": "2026-10-03",
+      "description": "Description\n\nConfiguration-Space Differentiation and the Constraint-Native Wheeler–DeWitt Candidate Family is the fifth paper in the Wheeler–DeWitt ARC. It carries the source-attached, jointly constrained classical interior established by WDW‑4 across the next type boundary: to separately typed, regulator-indexed quantum-constraint candidate families.\n\nIts central question is:\n\n\n\nGiven the completed WDW‑4 classical gravity–matter constraint interior, what configuration carriers, differential structures, representations, and constraint actions can be constructed without silently claiming quantum closure that has not yet been earned?\n\n\nThe manuscript constructs two distinct branches:\n\n\n\n\n\na metric–scalar/clock core; and\n\n\n\n\na torsion-free tetrad–Standard-Model extension incorporating spin, gauge, Higgs, and chiral-fermion structure.\n\n\n\nFor each branch, it supplies local Sobolev configuration carriers; proper-redescription action and local descent; tangent, cotangent, and canonical normalization data; separating test algebras; independently defined first and second Fréchet differentials; regulated Hessian contractions; algebraic CCR/CAR representation seeds; and complete linear and Hamiltonian constraint actions on one algebraically invariant test domain.\n\nIts central passage is:\n\n[\\text{joint WDW-4 classical constraint interior}\\longrightarrow\\text{configuration-space differentiation and regulated representations}\\longrightarrow\\text{constraint-native Wheeler--DeWitt candidate families}.]\n\nThe paper does not insert a formal Wheeler–DeWitt expression as a primitive. Coincident second-order functional contractions are replaced by declared positive-regulator traces, and the resulting constraint families are classified within their stated compatibility class. Formal joint solutions are considered only in the algebraic dual, with no claim that this already provides a physical state space.\n\nThe endpoint is deliberately exact: WDW‑5 reaches the regulator-indexed algebraic candidate level. It does not prove regulator removal, quantum commutator closure or anomaly freedom, a Hilbert-space realization, physical inner product, nonzero physical states, rigging map, relational observables, or a separating observable algebra. Those are the expressly exported burdens of WDW‑6.\n\nWDW‑5 therefore supplies a source-faithful and technically typed quantum candidate input to the next ARC stage. It ensures that quantum-survival analysis begins from a jointly occupied gravity–matter configuration structure with defined differential, representation, and constraint data—not from an unregulated formal functional equation.\n\n ",
+      "subjectTerms": [
+        "Wheeler–DeWitt equation",
+        "configuration space",
+        "superspace",
+        "functional differentiation",
+        "canonical gravity",
+        "quantum gravity",
+        "constrained quantization",
+        "constraint-native candidate family",
+        "Hamiltonian constraint",
+        "momentum constraint",
+        "Einstein–matter system",
+        "integrated matter occupancy",
+        "canonical variables",
+        "ADM formalism",
+        "refoliation",
+        "normal deformation",
+        "representation independence",
+        "quantum constraint",
+        "gravitational wave functional",
+        "AASC",
+        "constraint-native formulation"
+      ],
+      "rights": [
+        {
+          "rights": "Creative Commons Attribution 4.0 International",
+          "rightsUri": "https://creativecommons.org/licenses/by/4.0/legalcode",
+          "schemeUri": "https://spdx.org/licenses/",
+          "rightsIdentifier": "cc-by-4.0",
+          "rightsIdentifierScheme": "SPDX"
+        },
+        {
+          "rights": "Amos Jay Maley",
+          "rightsUri": "http://rightsstatements.org/vocab/InC/1.0/"
+        }
+      ],
+      "context": "Wheeler-DeWitt ten-paper branch",
+      "path": "/papers/wdw-5-configuration-space-differentiation-and-the-constraint-native-wheeler-dewitt-can/index.html",
+      "overviewParagraphs": [
+        "Configuration-Space Differentiation and the Constraint-Native Wheeler–DeWitt Candidate Family is the fifth paper in the Wheeler–DeWitt ARC. It carries the source-attached, jointly constrained classical interior established by WDW‑4 across the next type boundary: to separately typed, regulator-indexed quantum-constraint candidate families.",
+        "Given the completed WDW‑4 classical gravity–matter constraint interior, what configuration carriers, differential structures, representations, and constraint actions can be constructed without silently claiming quantum closure that has not yet been earned?",
+        "For each branch, it supplies local Sobolev configuration carriers; proper-redescription action and local descent; tangent, cotangent, and canonical normalization data; separating test algebras; independently defined first and second Fréchet differentials; regulated Hessian contractions; algebraic CCR/CAR representation seeds; and complete linear and Hamiltonian constraint actions on one algebraically invariant test domain."
+      ],
+      "scopeParagraphs": [
+        "The paper does not insert a formal Wheeler–DeWitt expression as a primitive. Coincident second-order functional contractions are replaced by declared positive-regulator traces, and the resulting constraint families are classified within their stated compatibility class. Formal joint solutions are considered only in the algebraic dual, with no claim that this already provides a physical state space.",
+        "The endpoint is deliberately exact: WDW‑5 reaches the regulator-indexed algebraic candidate level. It does not prove regulator removal, quantum commutator closure or anomaly freedom, a Hilbert-space realization, physical inner product, nonzero physical states, rigging map, relational observables, or a separating observable algebra. Those are the expressly exported burdens of WDW‑6."
+      ],
+      "related": [
+        {
+          "title": "WDW 3: Normal Deformation as Constrained Refoliation",
+          "url": "/papers/wdw-3-normal-deformation-as-constrained-refoliation-10-5281-zenodo-21824991/",
+          "doi": "10.5281/zenodo.21824991"
+        },
+        {
+          "title": "WDW 4: Classical Matter Occupancy and Joint-Constraint Closure under AASC",
+          "url": "/papers/wdw-4-classical-matter-occupancy-and-joint-constraint-closure-under-aasc-10-5281-zenod/",
+          "doi": "10.5281/zenodo.21825104"
+        },
+        {
+          "title": "WDW 6: Quantum Constraint Survival and Renormalized Physical Realization of the Wheeler-DeWitt Family",
+          "url": "/papers/wdw-6-quantum-constraint-survival-and-renormalized-physical-realization-of-the-wheeler/",
+          "doi": "10.5281/zenodo.21825794"
+        },
+        {
+          "title": "WDW 7: Profile-Clock Exhaustion and Constraint-Induced Cauchy-Germ Evolution for the Wheeler-DeWitt Constraint",
+          "url": "/papers/wdw-7-profile-clock-exhaustion-and-constraint-induced-cauchy-germ-evolution-for-the-wh/",
+          "doi": "10.5281/zenodo.21825975"
+        }
+      ]
+    },
+    {
+      "doi": "10.5281/zenodo.21827310",
+      "page": "https://constraintsystemsinstitute.org/papers/wdw-9-complete-joint-constraint-kernel-realization-closure-for-the-wheeler-dewitt-syst/",
+      "displayTitle": "WDW 9: Complete Joint Constraint-Kernel Realization Closure for the Wheeler-DeWitt System",
+      "registeredTitle": "Complete Joint Constraint-Kernel Realization Closure for the Wheeler–DeWitt System",
+      "publisher": "Zenodo",
+      "sourceUrl": "https://api.datacite.org/dois/10.5281/zenodo.21827310",
+      "sourceLandingUrl": "https://zenodo.org/doi/10.5281/zenodo.21827310",
+      "sourceSha256": "52e12f3c3e248de30689733a1b0e91403bea2caa356efb2d639f4a15a1cd2065",
+      "retrievedOn": "2026-10-03",
+      "description": "Description\n\nComplete Joint Constraint-Kernel Realization Closure for the Wheeler–DeWitt System is the ninth paper in the Wheeler–DeWitt ARC. It brings the preceding canonical, quantum, temporal, covariant–canonical, and controlled semiclassical results into one jointly realized Wheeler–DeWitt constraint kernel.\n\nIts central question is:\n\n\n\nGiven the surviving Wheeler–DeWitt realization, its admissible profile-clock structure, and its controlled covariant–canonical and semiclassical recoveries, what joint constraint kernel must be realized for the system to count as a complete physical realization rather than a collection of separately compatible constructions?\n\n\nThe manuscript closes the relevant constraint roles together: the descended canonical gravity structure, refoliation conditions, integrated gravity–matter occupancy, differentiated quantum candidate data, renormalized quantum survival, and the qualified relational and semiclassical structures inherited from WDW‑7 and WDW‑8. The endpoint is not a formal conjunction of independently asserted conditions, but a jointly constrained realization in which the required roles coexist without loss of provenance, standing, or constraint compatibility.\n\nIts central passage is:\n\n[\\text{controlled Wheeler--DeWitt realization}\\longrightarrow\\text{joint constraint-kernel closure}\\longrightarrow\\text{complete physical realization of the Wheeler--DeWitt system}.]\n\nThe paper distinguishes the standing-bearing joint kernel from presentation-dependent representatives: a chosen foliation, clock profile, canonical chart, covariant presentation, semiclassical branch, or local solution form may support an admissible presentation, but cannot replace the jointly realized constraint system itself.\n\nWDW‑9 therefore does not treat a formal state satisfying one operator equation as sufficient for physical realization. Complete closure requires compatibility across the inherited gravitational, matter, redescription, refoliation, quantum-survival, and relational roles. The result supplies the completed joint-kernel input for the final global stage.\n\nWDW‑9 does not yet establish the global clock-neutral relational descent or universality closure of WDW‑10. Its load-bearing contribution is prior and narrower: it completes the joint realization closure of the Wheeler–DeWitt system on which that global result depends.\n\n ",
+      "subjectTerms": [
+        "Wheeler–DeWitt equation",
+        "quantum gravity",
+        "joint constraint kernel",
+        "physical realization",
+        "constraint closure"
+      ],
+      "rights": [
+        {
+          "rights": "Creative Commons Attribution 4.0 International",
+          "rightsUri": "https://creativecommons.org/licenses/by/4.0/legalcode",
+          "schemeUri": "https://spdx.org/licenses/",
+          "rightsIdentifier": "cc-by-4.0",
+          "rightsIdentifierScheme": "SPDX"
+        },
+        {
+          "rights": "Amos Jay Maley",
+          "rightsUri": "http://rightsstatements.org/vocab/InC/1.0/"
+        }
+      ],
+      "context": "Wheeler-DeWitt ten-paper branch",
+      "path": "/papers/wdw-9-complete-joint-constraint-kernel-realization-closure-for-the-wheeler-dewitt-syst/index.html",
+      "overviewParagraphs": [
+        "Complete Joint Constraint-Kernel Realization Closure for the Wheeler–DeWitt System is the ninth paper in the Wheeler–DeWitt ARC. It brings the preceding canonical, quantum, temporal, covariant–canonical, and controlled semiclassical results into one jointly realized Wheeler–DeWitt constraint kernel.",
+        "Given the surviving Wheeler–DeWitt realization, its admissible profile-clock structure, and its controlled covariant–canonical and semiclassical recoveries, what joint constraint kernel must be realized for the system to count as a complete physical realization rather than a collection of separately compatible constructions?",
+        "The manuscript closes the relevant constraint roles together: the descended canonical gravity structure, refoliation conditions, integrated gravity–matter occupancy, differentiated quantum candidate data, renormalized quantum survival, and the qualified relational and semiclassical structures inherited from WDW‑7 and WDW‑8. The endpoint is not a formal conjunction of independently asserted conditions, but a jointly constrained realization in which the required roles coexist without loss of provenance, standing, or constraint compatibility."
+      ],
+      "scopeParagraphs": [
+        "WDW‑9 therefore does not treat a formal state satisfying one operator equation as sufficient for physical realization. Complete closure requires compatibility across the inherited gravitational, matter, redescription, refoliation, quantum-survival, and relational roles. The result supplies the completed joint-kernel input for the final global stage.",
+        "WDW‑9 does not yet establish the global clock-neutral relational descent or universality closure of WDW‑10. Its load-bearing contribution is prior and narrower: it completes the joint realization closure of the Wheeler–DeWitt system on which that global result depends."
+      ],
+      "related": [
+        {
+          "title": "WDW 6: Quantum Constraint Survival and Renormalized Physical Realization of the Wheeler-DeWitt Family",
+          "url": "/papers/wdw-6-quantum-constraint-survival-and-renormalized-physical-realization-of-the-wheeler/",
+          "doi": "10.5281/zenodo.21825794"
+        },
+        {
+          "title": "WDW 7: Profile-Clock Exhaustion and Constraint-Induced Cauchy-Germ Evolution for the Wheeler-DeWitt Constraint",
+          "url": "/papers/wdw-7-profile-clock-exhaustion-and-constraint-induced-cauchy-germ-evolution-for-the-wh/",
+          "doi": "10.5281/zenodo.21825975"
+        },
+        {
+          "title": "WDW 8: Covariant-Canonical Reconciliation and Controlled Semiclassical Recovery for the Wheeler-DeWitt Constraint",
+          "url": "/papers/wdw-8-covariant-canonical-reconciliation-and-controlled-semiclassical-recovery-for-the/",
+          "doi": "10.5281/zenodo.21827063"
+        },
+        {
+          "title": "WDW 10: Global Clock-Neutral Relational Descent and Universality Closure",
+          "url": "/papers/wdw-10-global-clock-neutral-relational-descent-and-universality-closure-10-5281-zenodo/",
+          "doi": "10.5281/zenodo.21827349"
+        }
+      ]
+    }
+  ]
+}

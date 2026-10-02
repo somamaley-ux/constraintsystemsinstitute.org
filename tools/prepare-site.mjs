@@ -1,9 +1,20 @@
 import fs from 'node:fs';
 import path from 'node:path';
 import { fileURLToPath } from 'node:url';
+import { enrichPaperPages, cleanSearchSitemap } from './enrich-paper-pages.mjs';
 
 // Run after a tour or paper generator, before publishing GitHub Pages.
 const root = path.resolve(path.dirname(fileURLToPath(import.meta.url)), '..');
+const args = process.argv.slice(2);
+if (args.length && args[0] !== '--pages') throw new Error('Usage: node tools/prepare-site.mjs [--pages page.html ...]');
+const selectedFiles = args.length ? new Set(args.slice(1).map(file => {
+  const full = path.resolve(root,file);
+  if (!full.startsWith(root + path.sep) || !full.endsWith('.html') || !fs.existsSync(full)) throw new Error(`Invalid selected page: ${file}`);
+  return full;
+})) : null;
+if (selectedFiles?.size === 0) throw new Error('--pages requires at least one page');
+const enriched = enrichPaperPages(root,selectedFiles);
+const removedMetadataUrls = cleanSearchSitemap(root);
 const origin = 'https://constraintsystemsinstitute.org';
 const escape = value => String(value).replaceAll('&', '&amp;').replaceAll('"', '&quot;').replaceAll('<', '&lt;').replaceAll('>', '&gt;');
 const decode = value => value.replace(/&(#x[0-9a-f]+|#\d+|amp|quot|apos|lt|gt|nbsp);/gi, (whole, entity) => {
@@ -25,7 +36,7 @@ const walk = dir => fs.readdirSync(dir, {withFileTypes:true}).flatMap(entry => {
   const full = path.join(dir, entry.name);
   return entry.isDirectory() ? walk(full) : entry.name.endsWith('.html') ? [full] : [];
 });
-const records = JSON.parse(fs.readFileSync(path.join(root, 'papers.json'), 'utf8'));
+const records = JSON.parse(fs.readFileSync(path.join(root, 'papers.json'), 'utf8').replace(/^\uFEFF/,''));
 const tours = new Set(['foundations', 'physics-from-below', 'gravity-quantum', 'standard-model', 'symmetry', 'black-holes', 'time', 'mind-agency', 'measurement', 'neutrinos']);
 const variants = {
   'banner.jpg': [7680,2780,[480,960,1600]],
@@ -39,7 +50,7 @@ const variants = {
   'measurement-record.webp': [1672,941,[480,960,1600]]
 };
 let count = 0;
-for (const file of walk(root)) {
+for (const file of selectedFiles || walk(root)) {
   let html = fs.readFileSync(file, 'utf8');
   if (!html.includes('</head>') || !html.includes('</body>')) continue;
   const before = html;
@@ -107,8 +118,9 @@ for (const file of walk(root)) {
   }
   html = html.replace(/\s*<!-- SITE_INFORMATION -->[\s\S]*?<!-- \/SITE_INFORMATION -->/g, '');
   html = html.replace('</body>', '<!-- SITE_INFORMATION -->\n<nav class="site-information-footer" aria-label="Website information"><a href="/privacy/">Privacy</a><a href="/using-the-research/">Citation &amp; reuse</a><a href="mailto:amos@constraintsystemsinstitute.org">Contact</a></nav>\n<!-- /SITE_INFORMATION -->\n</body>');
-  // Remove whitespace left behind by replacing metadata on a second run.
-  html = html.replace(/\n(?:[\t ]*\n)+/g, '\n');
+  // Remove metadata whitespace while preserving the complete source description.
+  html = html.split(/(<div class="paper-description-text">[\s\S]*?<\/div>)/g).map(part => part.startsWith('<div class="paper-description-text">') ? part : part.replace(/\n(?:[\t ]*\n)+/g, '\n')).join('');
   if (html !== before) { fs.writeFileSync(file, html); count++; }
 }
 console.log(`Prepared metadata, responsive images and shared navigation on ${count} changed pages.`);
+console.log(`Enriched ${enriched} paper pages; removed ${removedMetadataUrls} machine-data URLs from the search sitemap.`);

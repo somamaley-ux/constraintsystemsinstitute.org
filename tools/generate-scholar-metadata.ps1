@@ -319,8 +319,7 @@ foreach ($paper in $papers) {
   $loc = EscapeXml $paper.url
   $urlRows.Add("  <url><loc>$loc</loc><lastmod>$today</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>")
 }
-$urlRows.Add("  <url><loc>$siteUrl/papers.json</loc><lastmod>$today</lastmod><changefreq>weekly</changefreq><priority>0.4</priority></url>")
-$urlRows.Add("  <url><loc>$siteUrl/oai.xml</loc><lastmod>$today</lastmod><changefreq>weekly</changefreq><priority>0.4</priority></url>")
+# Machine-readable resources remain available as alternate links, outside the search sitemap.
 $sitemap = @"
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
