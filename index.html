@@ -253,6 +253,8 @@
 <meta name="twitter:image" content="https://constraintsystemsinstitute.org/assets/social/site.jpg">
 <meta name="twitter:image:alt" content="Constraint Systems Institute research archive and guided tours">
 <link rel="stylesheet" href="/assets/site-quality.css">
+<link rel="stylesheet" href="/assets/archive-search.css">
+<script defer src="/assets/archive-search.js"></script>
 </head>
   <body class="archive-home">
 <a class="site-skip-link" href="#top">Skip to content</a>
@@ -284,6 +286,7 @@
           <div class="hero-actions">
             <a class="button primary" href="#guided-tours">Explore guided tours</a>
             <a class="button secondary" href="#manuscripts">Browse manuscripts</a>
+            <a class="button secondary" href="#corpus-search">Search the research</a>
           </div>
           <div class="hero-structure" aria-label="Archive structure">
             <a href="#manuscripts">
@@ -714,16 +717,29 @@
             <p class="eyebrow">Corpus Search</p>
             <h3 id="corpus-search-title">Find papers by concept, title, DOI, or repository.</h3>
             <p>
-              Search the visible archive surface for terms such as kernel, mass, charge,
-              covariant, sunflower, consciousness, or Lean.
+              Search the full manuscript catalogue and linked archive sources. Try a title,
+              a concept such as kernel or neutrino, a DOI, or a Lean repository.
             </p>
           </div>
           <div class="search-control">
             <label for="corpus-search-input">Search corpus papers</label>
-            <input id="corpus-search-input" type="search" autocomplete="off" placeholder="Search the corpus..." />
-            <div class="search-meta" id="corpus-search-meta">Start typing to surface matching papers.</div>
+            <div class="archive-search-field">
+              <input id="corpus-search-input" type="search" autocomplete="off" placeholder="Title, concept, DOI, or repository..." aria-describedby="corpus-search-help corpus-search-meta" />
+              <button id="corpus-search-clear" type="button" hidden>Clear</button>
+            </div>
+            <p class="archive-search-help" id="corpus-search-help">Press <kbd>/</kbd> to search. Press <kbd>Esc</kbd> to clear.</p>
+            <div class="archive-search-suggestions" aria-label="Suggested searches">
+              <button type="button" data-search-term="kernel">Kernel</button>
+              <button type="button" data-search-term="neutrino">Neutrinos</button>
+              <button type="button" data-search-term="gravity">Gravity</button>
+              <button type="button" data-search-term="consciousness">Consciousness</button>
+              <button type="button" data-search-term="lean">Lean audits</button>
+            </div>
+            <div class="search-meta" id="corpus-search-meta" role="status" aria-live="polite">Search papers and linked archive sources.</div>
           </div>
-          <div class="search-results" id="corpus-search-results" aria-live="polite"></div>
+          <div class="search-results" id="corpus-search-results"></div>
+          <button class="button secondary archive-search-more" id="corpus-search-more" type="button" hidden>Show more results</button>
+          <noscript><p><a href="/papers/">Open the complete manuscript index</a> to browse without JavaScript.</p></noscript>
         </div>
         <div class="foundation-order" aria-labelledby="foundation-order-title">
           <div class="section-heading compact-heading">
@@ -1465,85 +1481,7 @@
       <p>Constraint Systems Institute</p>
       <p>constraintsystemsinstitute.org</p>
     </footer>
-    <script>
-      (() => {
-        const input = document.querySelector("#corpus-search-input");
-        const results = document.querySelector("#corpus-search-results");
-        const meta = document.querySelector("#corpus-search-meta");
-        if (!input || !results || !meta) return;
-        const titleFrom = (link) => {
-          if (link.dataset.paperTitle) return link.dataset.paperTitle;
-          const articleTitle = link.closest("article")?.querySelector("h3")?.textContent;
-          const rowTitle = link.querySelector("span")?.textContent;
-          const linkText = link.textContent.replace(/\s+/g, " ").trim();
-          const genericLink = /^(read|open|view|add|submit|prepare)\b/i.test(linkText);
-          const doiOnly = /^10\.\d{4,9}\//.test(linkText);
-          const text = rowTitle || ((doiOnly || genericLink) && articleTitle ? articleTitle : linkText || articleTitle);
-          return text.replace(/\s+/g, " ").trim();
-        };
-        const contextFrom = (link) => {
-          const shelf = link.closest(".shelf");
-          if (shelf) return shelf.querySelector("summary")?.textContent.trim() || "Manuscript shelf";
-          const topic = link.closest(".topic-card");
-          if (topic) return topic.querySelector(".repo-type")?.textContent.trim() || "Topic route";
-          const doiCard = link.closest(".doi-card");
-          if (doiCard) return doiCard.querySelector(".repo-type")?.textContent.trim() || "DOI index";
-          const project = link.closest(".project-card");
-          if (project) return project.querySelector(".repo-type")?.textContent.trim() || "Lean project";
-          const arc = link.closest(".arc-focus-card");
-          if (arc) return arc.querySelector(".repo-type")?.textContent.trim() || "Research arc";
-          const table = link.closest(".paper-table");
-          if (table) return "Major Paper Catalogue";
-          return "Archive";
-        };
-        const links = [...document.querySelectorAll("main a[href]")].filter((link) => {
-          const href = link.getAttribute("href") || "";
-          return link.hasAttribute("data-paper-link") || href.includes("doi.org") || href.includes("zenodo.org") || href.includes("github.com");
-        });
-        const seen = new Set();
-        const entries = links.map((link) => {
-          const href = link.href;
-          const title = titleFrom(link);
-          const context = contextFrom(link);
-          const surrounding = link.dataset.paperDescription || link.closest("article, details, .topic-card, .paper-table")?.textContent || "";
-          if (seen.has(href) || title.length < 3) return null;
-          seen.add(href);
-          return {
-            title,
-            href,
-            context,
-            label: link.hasAttribute("data-paper-link") ? "Manuscript" : href.includes("doi.org") ? href.replace("https://doi.org/", "") : new URL(href).hostname,
-            haystack: `${title} ${href} ${link.dataset.paperDoi || ""} ${context} ${surrounding}`.toLowerCase()
-          };
-        }).filter(Boolean);
-        const render = (query) => {
-          const terms = query.toLowerCase().split(/\s+/).filter(Boolean);
-          results.innerHTML = "";
-          if (!terms.length) {
-            meta.textContent = "Start typing to surface matching papers.";
-            return;
-          }
-          const matches = entries
-            .map((entry) => ({
-              ...entry,
-              score: terms.reduce((score, term) => score + (entry.haystack.includes(term) ? 1 : 0), 0)
-            }))
-            .filter((entry) => entry.score === terms.length)
-            .slice(0, 12);
-          meta.textContent = matches.length
-            ? `${matches.length} match${matches.length === 1 ? "" : "es"} shown.`
-            : "No visible archive matches yet.";
-          for (const match of matches) {
-            const item = document.createElement("a");
-            item.href = match.href;
-            item.className = "search-result";
-            item.innerHTML = `<span>${match.context}</span><strong>${match.title}</strong><em>${match.label}</em>`;
-            results.appendChild(item);
-          }
-        };
-        input.addEventListener("input", () => render(input.value));
-      })();
-    </script>
+
 <!-- SITE_INFORMATION -->
 <nav class="site-information-footer" aria-label="Website information"><a href="/privacy/">Privacy</a><a href="/using-the-research/">Citation &amp; reuse</a><a href="mailto:amos@constraintsystemsinstitute.org">Contact</a></nav>
 <!-- /SITE_INFORMATION -->

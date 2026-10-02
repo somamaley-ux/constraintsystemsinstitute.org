@@ -1,0 +1,22 @@
+/* Extend the existing institute theme and keep these changes scoped to search. */
+.archive-search-field{display:flex;align-items:center;gap:10px;min-width:0}
+.archive-search-field input{min-width:0;flex:1}
+.archive-search-field button,.archive-search-suggestions button{font:inherit;font-size:.875rem;color:var(--ink);background:rgba(216,210,204,.07);border:1px solid rgba(216,210,204,.32);border-radius:6px;cursor:pointer;padding:.6rem .85rem;min-height:44px}
+.archive-search-field button:hover,.archive-search-suggestions button:hover{background:rgba(216,210,204,.16)}
+.archive-search-help{font-size:.875rem;margin:0;line-height:1.5}
+.archive-search-help kbd{font:inherit;border:1px solid rgba(216,210,204,.35);padding:0 .35rem;border-radius:3px}
+.archive-search-suggestions{display:flex;flex-wrap:wrap;gap:8px}
+.corpus-search .search-control label,.corpus-search .search-meta,.corpus-search .search-result span,.corpus-search .search-result em{font-size:.875rem;line-height:1.5}
+.corpus-search .search-result strong{font-size:1rem;line-height:1.5}
+.corpus-search .search-result{grid-template-columns:minmax(140px,.26fr) minmax(0,1fr) minmax(160px,.22fr)}
+.corpus-search .search-result>*{min-width:0;overflow-wrap:anywhere}
+.corpus-search .search-result a:hover{text-decoration:underline;text-underline-offset:.2em}
+.corpus-search .search-result a:focus-visible{outline:2px solid var(--silver);outline-offset:4px}
+.corpus-search .archive-search-more{grid-column:1/-1;justify-self:center;min-height:44px}
+.corpus-search [hidden]{display:none!important}
+.archive-search-empty{grid-column:1/-1;margin:0;line-height:1.6}
+.archive-search-field button:focus-visible,.archive-search-suggestions button:focus-visible,.archive-search-more:focus-visible,.corpus-search .search-result:focus-visible{outline:2px solid var(--silver);outline-offset:4px}
+.archive-home .nav{flex-wrap:wrap;font-size:.875rem;line-height:1.5}
+.archive-home #corpus-search{scroll-margin-top:140px}
+@media(max-width:860px){.corpus-search .search-result{grid-template-columns:1fr}.corpus-search .search-result em{text-align:left}.archive-home #corpus-search{scroll-margin-top:170px}}
+@media(prefers-reduced-motion:reduce){html{scroll-behavior:auto}}
