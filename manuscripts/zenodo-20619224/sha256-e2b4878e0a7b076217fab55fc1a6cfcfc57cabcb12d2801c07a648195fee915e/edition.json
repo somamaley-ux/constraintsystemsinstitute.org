@@ -1,0 +1,15 @@
+{
+  "work_doi": "10.5281/zenodo.20619224",
+  "exact_release_doi": "10.5281/zenodo.20673807",
+  "title": "The Birch and Swinnerton-Dyer Endpoint by Exclusion of Analytic-Arithmetic Mismatch",
+  "publisher_publication_date": "2026-06-13",
+  "publisher_version": null,
+  "sha256": "e2b4878e0a7b076217fab55fc1a6cfcfc57cabcb12d2801c07a648195fee915e",
+  "bytes": 429691,
+  "pages": 54,
+  "pdf_url": "https://constraintsystemsinstitute.org/manuscripts/zenodo-20619224/sha256-e2b4878e0a7b076217fab55fc1a6cfcfc57cabcb12d2801c07a648195fee915e/manuscript.pdf",
+  "canonical_work_url": "https://constraintsystemsinstitute.org/papers/the-birch-and-swinnerton-dyer-endpoint-by-exclusion-of-analytic-arithmetic-mismatch-10/",
+  "publisher_url": "https://zenodo.org/records/20673807",
+  "verification": "Publisher checksum and SHA256 checked; searchable original PDF, no independent proof audit.",
+  "conversion": "No complete manuscript HTML conversion. Repository descriptions are attributed reading aids or publisher metadata."
+}

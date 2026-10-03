@@ -1,0 +1,15 @@
+{
+  "work_doi": "10.5281/zenodo.21213753",
+  "exact_release_doi": "10.5281/zenodo.21222403",
+  "title": "Matter Carriers: Quarks, Leptons, and Neutrinos",
+  "publisher_publication_date": "2026-07-06",
+  "publisher_version": null,
+  "sha256": "be0016d5bfb860704bfdf58bcbf1f244f3b1baf41e065067fbd8bd01fc3155ec",
+  "bytes": 550159,
+  "pages": 45,
+  "pdf_url": "https://constraintsystemsinstitute.org/manuscripts/zenodo-21213753/sha256-be0016d5bfb860704bfdf58bcbf1f244f3b1baf41e065067fbd8bd01fc3155ec/manuscript.pdf",
+  "canonical_work_url": "https://constraintsystemsinstitute.org/papers/matter-carriers-quarks-leptons-and-neutrinos-10-5281-zenodo-21213753/",
+  "publisher_url": "https://zenodo.org/records/21222403",
+  "verification": "Publisher checksum and SHA256 checked; searchable original PDF, no independent proof audit.",
+  "conversion": "No complete manuscript HTML conversion. Repository descriptions are attributed reading aids or publisher metadata."
+}

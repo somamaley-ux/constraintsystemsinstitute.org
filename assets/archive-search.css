@@ -20,3 +20,8 @@
 .archive-home #corpus-search{scroll-margin-top:140px}
 @media(max-width:860px){.corpus-search .search-result{grid-template-columns:1fr}.corpus-search .search-result em{text-align:left}.archive-home #corpus-search{scroll-margin-top:170px}}
 @media(prefers-reduced-motion:reduce){html{scroll-behavior:auto}}
+
+/* UNIFIED_REPOSITORY */
+.repository-subjects{display:flex;flex-wrap:wrap;gap:10px}.repository-subject{display:inline-block;border:1px solid #536578;border-radius:20px;padding:6px 13px}.repository-controls{display:flex;gap:12px;align-items:center;flex-wrap:wrap;margin:22px 0}.repository-controls select{max-width:100%;font:inherit;color:inherit;background:#19283b;border:1px solid #7691ae;border-radius:5px;padding:8px}.repository-controls select:focus-visible{outline:3px solid #f6c764;outline-offset:3px}.repository-index-row p{margin:5px 0}.catalogue-legacy-anchor{display:block;scroll-margin-top:24px}.repository-discovery{margin-top:28px}.corpus-search{min-width:0}.search-result{overflow-wrap:anywhere}.repository-subjects a:focus-visible{outline:3px solid #f6c764;outline-offset:3px}[hidden]{display:none!important}
+
+body:not(.archive-home) .corpus-search{display:grid;gap:16px;padding:20px;border:1px solid #334259;border-radius:10px;margin:20px 0}body:not(.archive-home) .search-result{display:grid;gap:12px;border-top:1px solid #334259;padding:16px 0}body:not(.archive-home) .archive-search-field input{font:inherit;color:inherit;background:#152238;border:1px solid #7691ae;padding:10px;border-radius:5px}body:not(.archive-home) .search-result a:focus-visible{outline:3px solid #f6c764}.repository-controls{display:none}.repository-search-ready .repository-controls{display:flex}

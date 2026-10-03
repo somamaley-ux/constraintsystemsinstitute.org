@@ -1,0 +1,15 @@
+{
+  "work_doi": "10.5281/zenodo.20118354",
+  "exact_release_doi": "10.5281/zenodo.20118355",
+  "title": "A Classification Theorem for Physical Constants",
+  "publisher_publication_date": "2026-05-11",
+  "publisher_version": null,
+  "sha256": "bbc1d8025bde7c7bfc29491a89261e0393231b293a5aa52bfa1b6b452bc53d5d",
+  "bytes": 371664,
+  "pages": 34,
+  "pdf_url": "https://constraintsystemsinstitute.org/manuscripts/zenodo-20118354/sha256-bbc1d8025bde7c7bfc29491a89261e0393231b293a5aa52bfa1b6b452bc53d5d/manuscript.pdf",
+  "canonical_work_url": "https://constraintsystemsinstitute.org/papers/a-classification-theorem-for-physical-constants-10-5281-zenodo-20118354/",
+  "publisher_url": "https://zenodo.org/records/20118355",
+  "verification": "Publisher checksum and SHA256 checked; searchable original PDF, no independent proof audit.",
+  "conversion": "No complete manuscript HTML conversion. Repository descriptions are attributed reading aids or publisher metadata."
+}

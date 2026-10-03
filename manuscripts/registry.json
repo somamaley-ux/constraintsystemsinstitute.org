@@ -1,0 +1,567 @@
+{
+  "schema_version": "1.0",
+  "editions": [
+    {
+      "id": "kernel",
+      "title": "Non-Degenerate Construction and the Kernel of Admissibility",
+      "subtitle": "An Exhaustion Theorem for Standing, Reference, and Irreversibility",
+      "author": "Amos Jay Maley",
+      "edition_label": "Reference edition",
+      "manuscript_cover_date": "2026-09-26",
+      "publisher_publication_date": "2026-09-25",
+      "pages": 73,
+      "bytes": 659394,
+      "sha256": "4e1bafc4844d90ca7ba5268d1b6b5ee21bf92f082a2a61b4eea039faed0c037e",
+      "format": "application/pdf",
+      "doi": {
+        "work_all_versions": "10.5281/zenodo.19324199",
+        "exact_release": "10.5281/zenodo.22968658"
+      },
+      "publisher_url": "https://zenodo.org/records/22968658",
+      "edition_url": "https://constraintsystemsinstitute.org/manuscripts/kernel/sha256-4e1bafc4844d90ca7ba5268d1b6b5ee21bf92f082a2a61b4eea039faed0c037e/",
+      "pdf_url": "https://constraintsystemsinstitute.org/manuscripts/kernel/sha256-4e1bafc4844d90ca7ba5268d1b6b5ee21bf92f082a2a61b4eea039faed0c037e/manuscript.pdf",
+      "reading_aid_url": "https://constraintsystemsinstitute.org/manuscripts/kernel/sha256-4e1bafc4844d90ca7ba5268d1b6b5ee21bf92f082a2a61b4eea039faed0c037e/summary.md",
+      "verification": "PDF downloaded from the exact publisher release and SHA256 matched; no independent theorem proof audit.",
+      "conversion": "PDF is authoritative; HTML and Markdown are attributed reading aids, not a complete manuscript conversion.",
+      "citation": "Amos Jay Maley. Non-Degenerate Construction and the Kernel of Admissibility: An Exhaustion Theorem for Standing, Reference, and Irreversibility. Reference edition, 2026-09-26. SHA256 4e1bafc4844d90ca7ba5268d1b6b5ee21bf92f082a2a61b4eea039faed0c037e. DOI: 10.5281/zenodo.22968658."
+    },
+    {
+      "id": "structure",
+      "title": "The Structure of Admissibility",
+      "subtitle": "Bivalent Qualification, Exhaustion, and the Unique Admissible Interior",
+      "author": "Amos Jay Maley",
+      "edition_label": "Publication reference",
+      "manuscript_cover_date": "2026-09-21",
+      "publisher_publication_date": "2026-09-21",
+      "pages": 46,
+      "bytes": 612137,
+      "sha256": "065979305b2fc1593abb343e72a86d0ed9c967c089d1a9cbf91be650de25eff2",
+      "format": "application/pdf",
+      "doi": {
+        "work_all_versions": "10.5281/zenodo.19198249",
+        "exact_release": "10.5281/zenodo.22874934"
+      },
+      "publisher_url": "https://zenodo.org/records/22874934",
+      "edition_url": "https://constraintsystemsinstitute.org/manuscripts/structure/sha256-065979305b2fc1593abb343e72a86d0ed9c967c089d1a9cbf91be650de25eff2/",
+      "pdf_url": "https://constraintsystemsinstitute.org/manuscripts/structure/sha256-065979305b2fc1593abb343e72a86d0ed9c967c089d1a9cbf91be650de25eff2/manuscript.pdf",
+      "reading_aid_url": "https://constraintsystemsinstitute.org/manuscripts/structure/sha256-065979305b2fc1593abb343e72a86d0ed9c967c089d1a9cbf91be650de25eff2/summary.md",
+      "verification": "PDF downloaded from the exact publisher release and SHA256 matched; no independent theorem proof audit.",
+      "conversion": "PDF is authoritative; HTML and Markdown are attributed reading aids, not a complete manuscript conversion.",
+      "citation": "Amos Jay Maley. The Structure of Admissibility: Bivalent Qualification, Exhaustion, and the Unique Admissible Interior. Publication reference, 2026-09-21. SHA256 065979305b2fc1593abb343e72a86d0ed9c967c089d1a9cbf91be650de25eff2. DOI: 10.5281/zenodo.22874934."
+    },
+    {
+      "id": "ametric",
+      "title": "The AMetric Boundary as a Unique Regime-Invariant Constraint on Admissibility-Bearing Construction",
+      "subtitle": "Pre-fixational authority, non-transmissivity, and complete interfaces",
+      "author": "Amos Jay Maley",
+      "edition_label": "Reference edition",
+      "manuscript_cover_date": "2026-09-20",
+      "publisher_publication_date": "2026-09-19",
+      "pages": 67,
+      "bytes": 676133,
+      "sha256": "fd0da8feb70e61de9474cc459ca8de6af2619206d439e62425e88334161a535e",
+      "format": "application/pdf",
+      "doi": {
+        "work_all_versions": "10.5281/zenodo.18603144",
+        "exact_release": "10.5281/zenodo.22848051"
+      },
+      "publisher_url": "https://zenodo.org/records/22848051",
+      "edition_url": "https://constraintsystemsinstitute.org/manuscripts/ametric/sha256-fd0da8feb70e61de9474cc459ca8de6af2619206d439e62425e88334161a535e/",
+      "pdf_url": "https://constraintsystemsinstitute.org/manuscripts/ametric/sha256-fd0da8feb70e61de9474cc459ca8de6af2619206d439e62425e88334161a535e/manuscript.pdf",
+      "reading_aid_url": "https://constraintsystemsinstitute.org/manuscripts/ametric/sha256-fd0da8feb70e61de9474cc459ca8de6af2619206d439e62425e88334161a535e/summary.md",
+      "verification": "PDF downloaded from the exact publisher release and SHA256 matched; no independent theorem proof audit.",
+      "conversion": "PDF is authoritative; HTML and Markdown are attributed reading aids, not a complete manuscript conversion.",
+      "citation": "Amos Jay Maley. The AMetric Boundary as a Unique Regime-Invariant Constraint on Admissibility-Bearing Construction: Pre-fixational authority, non-transmissivity, and complete interfaces. Reference edition, 2026-09-20. SHA256 fd0da8feb70e61de9474cc459ca8de6af2619206d439e62425e88334161a535e. DOI: 10.5281/zenodo.22848051."
+    },
+    {
+      "id": "metricity",
+      "title": "Metricity as Licensed Description",
+      "subtitle": "The L-Metric Boundary and the Realized Physical Interior",
+      "author": "Amos Jay Maley",
+      "edition_label": "May 2026 manuscript",
+      "manuscript_cover_date": "2026-05",
+      "publisher_publication_date": "2026-05-22",
+      "pages": 45,
+      "bytes": 534152,
+      "sha256": "6d73b71c267ea80973994c18c669b338338280887b5a358396e8e05cb7a2801e",
+      "format": "application/pdf",
+      "doi": {
+        "work_all_versions": "10.5281/zenodo.20338474",
+        "exact_release": "10.5281/zenodo.20338475"
+      },
+      "publisher_url": "https://zenodo.org/records/20338475",
+      "edition_url": "https://constraintsystemsinstitute.org/manuscripts/metricity/sha256-6d73b71c267ea80973994c18c669b338338280887b5a358396e8e05cb7a2801e/",
+      "pdf_url": "https://constraintsystemsinstitute.org/manuscripts/metricity/sha256-6d73b71c267ea80973994c18c669b338338280887b5a358396e8e05cb7a2801e/manuscript.pdf",
+      "reading_aid_url": "https://constraintsystemsinstitute.org/manuscripts/metricity/sha256-6d73b71c267ea80973994c18c669b338338280887b5a358396e8e05cb7a2801e/summary.md",
+      "verification": "PDF downloaded from the exact publisher release and SHA256 matched; no independent theorem proof audit.",
+      "conversion": "PDF is authoritative; HTML and Markdown are attributed reading aids, not a complete manuscript conversion.",
+      "citation": "Amos Jay Maley. Metricity as Licensed Description: The L-Metric Boundary and the Realized Physical Interior. May 2026 manuscript, 2026-05. SHA256 6d73b71c267ea80973994c18c669b338338280887b5a358396e8e05cb7a2801e. DOI: 10.5281/zenodo.20338475."
+    },
+    {
+      "id": "ats",
+      "title": "Anchor, Tensor, and Skin",
+      "subtitle": "A Fixed-Domain Decomposition Theorem for Admissible Description",
+      "author": "Amos Jay Maley",
+      "edition_label": "Publication reference",
+      "manuscript_cover_date": "2026-09-21",
+      "publisher_publication_date": "2026-09-21",
+      "pages": 36,
+      "bytes": 538301,
+      "sha256": "1624eacd530dcdaaedec184414c8a7eab8d5096805aee9ffa5452b6f51638c7b",
+      "format": "application/pdf",
+      "doi": {
+        "work_all_versions": "10.5281/zenodo.18678041",
+        "exact_release": "10.5281/zenodo.22875011"
+      },
+      "publisher_url": "https://zenodo.org/records/22875011",
+      "edition_url": "https://constraintsystemsinstitute.org/manuscripts/ats/sha256-1624eacd530dcdaaedec184414c8a7eab8d5096805aee9ffa5452b6f51638c7b/",
+      "pdf_url": "https://constraintsystemsinstitute.org/manuscripts/ats/sha256-1624eacd530dcdaaedec184414c8a7eab8d5096805aee9ffa5452b6f51638c7b/manuscript.pdf",
+      "reading_aid_url": "https://constraintsystemsinstitute.org/manuscripts/ats/sha256-1624eacd530dcdaaedec184414c8a7eab8d5096805aee9ffa5452b6f51638c7b/summary.md",
+      "verification": "PDF downloaded from the exact publisher release and SHA256 matched; no independent theorem proof audit.",
+      "conversion": "PDF is authoritative; HTML and Markdown are attributed reading aids, not a complete manuscript conversion.",
+      "citation": "Amos Jay Maley. Anchor, Tensor, and Skin: A Fixed-Domain Decomposition Theorem for Admissible Description. Publication reference, 2026-09-21. SHA256 1624eacd530dcdaaedec184414c8a7eab8d5096805aee9ffa5452b6f51638c7b. DOI: 10.5281/zenodo.22875011."
+    },
+    {
+      "id": "exhaustion",
+      "title": "A Fixed-Domain Exhaustion Theorem",
+      "subtitle": "Standing, Consequence, and Compositional Closure",
+      "author": "Amos Jay Maley",
+      "edition_label": "Publication reference",
+      "manuscript_cover_date": "2026-09-21",
+      "publisher_publication_date": "2026-09-21",
+      "pages": 39,
+      "bytes": 574789,
+      "sha256": "d06d39b381edddaafe899f20769b0ba551802b23d7b83121530ecab346feece0",
+      "format": "application/pdf",
+      "doi": {
+        "work_all_versions": "10.5281/zenodo.18682423",
+        "exact_release": "10.5281/zenodo.22875070"
+      },
+      "publisher_url": "https://zenodo.org/records/22875070",
+      "edition_url": "https://constraintsystemsinstitute.org/manuscripts/exhaustion/sha256-d06d39b381edddaafe899f20769b0ba551802b23d7b83121530ecab346feece0/",
+      "pdf_url": "https://constraintsystemsinstitute.org/manuscripts/exhaustion/sha256-d06d39b381edddaafe899f20769b0ba551802b23d7b83121530ecab346feece0/manuscript.pdf",
+      "reading_aid_url": "https://constraintsystemsinstitute.org/manuscripts/exhaustion/sha256-d06d39b381edddaafe899f20769b0ba551802b23d7b83121530ecab346feece0/summary.md",
+      "verification": "PDF downloaded from the exact publisher release and SHA256 matched; no independent theorem proof audit.",
+      "conversion": "PDF is authoritative; HTML and Markdown are attributed reading aids, not a complete manuscript conversion.",
+      "citation": "Amos Jay Maley. A Fixed-Domain Exhaustion Theorem: Standing, Consequence, and Compositional Closure. Publication reference, 2026-09-21. SHA256 d06d39b381edddaafe899f20769b0ba551802b23d7b83121530ecab346feece0. DOI: 10.5281/zenodo.22875070."
+    }
+  ],
+  "consumer_grounded_reference_relationships": [
+    {
+      "source_work": "Non-Degenerate Construction and the Kernel of Admissibility",
+      "source_reference_label": "Version 49; blinded reference",
+      "source_reference_date": null,
+      "source_status": "Named by consumer; exact imported bytes unconfirmed; source PDF not hosted in this release.",
+      "consumer_edition_id": "structure",
+      "consumer_edition_sha256": "065979305b2fc1593abb343e72a86d0ed9c967c089d1a9cbf91be650de25eff2",
+      "relationship_type": "foundational_support_locally_reconstructed",
+      "description": "Consumer explicitly cites kernel version 49; the necessity foundation is not silently retargeted to the 26 September preferred reading PDF.",
+      "consumer_evidence": [
+        {
+          "edition_id": "structure",
+          "sha256": "065979305b2fc1593abb343e72a86d0ed9c967c089d1a9cbf91be650de25eff2",
+          "edition_label": "Publication reference",
+          "section": "Reference 8",
+          "pdf_page": 46,
+          "pdf_page_end": 46,
+          "url": "https://constraintsystemsinstitute.org/manuscripts/structure/sha256-065979305b2fc1593abb343e72a86d0ed9c967c089d1a9cbf91be650de25eff2/manuscript.pdf#page=46"
+        },
+        {
+          "edition_id": "structure",
+          "sha256": "065979305b2fc1593abb343e72a86d0ed9c967c089d1a9cbf91be650de25eff2",
+          "edition_label": "Publication reference",
+          "section": "Section 1.4",
+          "pdf_page": 6,
+          "pdf_page_end": 6,
+          "url": "https://constraintsystemsinstitute.org/manuscripts/structure/sha256-065979305b2fc1593abb343e72a86d0ed9c967c089d1a9cbf91be650de25eff2/manuscript.pdf#page=6"
+        }
+      ]
+    },
+    {
+      "source_work": "Non-Degenerate Construction and the Kernel of Admissibility",
+      "source_reference_label": "Version 49; blinded reference",
+      "source_reference_date": null,
+      "source_status": "Named by consumer; exact imported bytes unconfirmed; source PDF not hosted in this release.",
+      "consumer_edition_id": "ametric",
+      "consumer_edition_sha256": "fd0da8feb70e61de9474cc459ca8de6af2619206d439e62425e88334161a535e",
+      "relationship_type": "foundational_support_locally_reconstructed",
+      "description": "Consumer explicitly cites kernel version 49; the necessity foundation is not silently retargeted to the 26 September preferred reading PDF.",
+      "consumer_evidence": [
+        {
+          "edition_id": "ametric",
+          "sha256": "fd0da8feb70e61de9474cc459ca8de6af2619206d439e62425e88334161a535e",
+          "edition_label": "Reference edition",
+          "section": "Reference 13",
+          "pdf_page": 67,
+          "pdf_page_end": 67,
+          "url": "https://constraintsystemsinstitute.org/manuscripts/ametric/sha256-fd0da8feb70e61de9474cc459ca8de6af2619206d439e62425e88334161a535e/manuscript.pdf#page=67"
+        },
+        {
+          "edition_id": "ametric",
+          "sha256": "fd0da8feb70e61de9474cc459ca8de6af2619206d439e62425e88334161a535e",
+          "edition_label": "Reference edition",
+          "section": "Section 2",
+          "pdf_page": 8,
+          "pdf_page_end": 8,
+          "url": "https://constraintsystemsinstitute.org/manuscripts/ametric/sha256-fd0da8feb70e61de9474cc459ca8de6af2619206d439e62425e88334161a535e/manuscript.pdf#page=8"
+        }
+      ]
+    },
+    {
+      "source_work": "Non-Degenerate Construction and the Kernel of Admissibility",
+      "source_reference_label": "Version 49; blinded reference",
+      "source_reference_date": null,
+      "source_status": "Named by consumer; exact imported bytes unconfirmed; source PDF not hosted in this release.",
+      "consumer_edition_id": "ats",
+      "consumer_edition_sha256": "1624eacd530dcdaaedec184414c8a7eab8d5096805aee9ffa5452b6f51638c7b",
+      "relationship_type": "foundational_support",
+      "description": "Consumer explicitly cites kernel version 49; the necessity foundation is not silently retargeted to the 26 September preferred reading PDF.",
+      "consumer_evidence": [
+        {
+          "edition_id": "ats",
+          "sha256": "1624eacd530dcdaaedec184414c8a7eab8d5096805aee9ffa5452b6f51638c7b",
+          "edition_label": "Publication reference",
+          "section": "Reference 1",
+          "pdf_page": 36,
+          "pdf_page_end": 36,
+          "url": "https://constraintsystemsinstitute.org/manuscripts/ats/sha256-1624eacd530dcdaaedec184414c8a7eab8d5096805aee9ffa5452b6f51638c7b/manuscript.pdf#page=36"
+        },
+        {
+          "edition_id": "ats",
+          "sha256": "1624eacd530dcdaaedec184414c8a7eab8d5096805aee9ffa5452b6f51638c7b",
+          "edition_label": "Publication reference",
+          "section": "Section 1.4",
+          "pdf_page": 3,
+          "pdf_page_end": 3,
+          "url": "https://constraintsystemsinstitute.org/manuscripts/ats/sha256-1624eacd530dcdaaedec184414c8a7eab8d5096805aee9ffa5452b6f51638c7b/manuscript.pdf#page=3"
+        }
+      ]
+    },
+    {
+      "source_work": "Non-Degenerate Construction and the Kernel of Admissibility",
+      "source_reference_label": "Version 49; blinded reference",
+      "source_reference_date": null,
+      "source_status": "Named by consumer; exact imported bytes unconfirmed; source PDF not hosted in this release.",
+      "consumer_edition_id": "exhaustion",
+      "consumer_edition_sha256": "d06d39b381edddaafe899f20769b0ba551802b23d7b83121530ecab346feece0",
+      "relationship_type": "foundational_support_locally_reconstructed",
+      "description": "Consumer explicitly cites kernel version 49; the necessity foundation is not silently retargeted to the 26 September preferred reading PDF.",
+      "consumer_evidence": [
+        {
+          "edition_id": "exhaustion",
+          "sha256": "d06d39b381edddaafe899f20769b0ba551802b23d7b83121530ecab346feece0",
+          "edition_label": "Publication reference",
+          "section": "Reference 6",
+          "pdf_page": 39,
+          "pdf_page_end": 39,
+          "url": "https://constraintsystemsinstitute.org/manuscripts/exhaustion/sha256-d06d39b381edddaafe899f20769b0ba551802b23d7b83121530ecab346feece0/manuscript.pdf#page=39"
+        },
+        {
+          "edition_id": "exhaustion",
+          "sha256": "d06d39b381edddaafe899f20769b0ba551802b23d7b83121530ecab346feece0",
+          "edition_label": "Publication reference",
+          "section": "Section 1.4",
+          "pdf_page": 5,
+          "pdf_page_end": 5,
+          "url": "https://constraintsystemsinstitute.org/manuscripts/exhaustion/sha256-d06d39b381edddaafe899f20769b0ba551802b23d7b83121530ecab346feece0/manuscript.pdf#page=5"
+        }
+      ]
+    },
+    {
+      "source_work": "The AMetric Boundary as a Unique Regime-Invariant Constraint on Admissibility-Bearing Construction",
+      "source_reference_label": "Editorial reference",
+      "source_reference_date": "2026-09-20",
+      "source_status": "Named by consumer; exact imported bytes unconfirmed; source PDF not hosted in this release.",
+      "consumer_edition_id": "structure",
+      "consumer_edition_sha256": "065979305b2fc1593abb343e72a86d0ed9c967c089d1a9cbf91be650de25eff2",
+      "relationship_type": "boundary_support_locally_reproved",
+      "description": "Structure identifies AMetric editorial reference and provides local boundary arguments rather than importing its conclusion without proof.",
+      "consumer_evidence": [
+        {
+          "edition_id": "structure",
+          "sha256": "065979305b2fc1593abb343e72a86d0ed9c967c089d1a9cbf91be650de25eff2",
+          "edition_label": "Publication reference",
+          "section": "Section 1.4",
+          "pdf_page": 7,
+          "pdf_page_end": 7,
+          "url": "https://constraintsystemsinstitute.org/manuscripts/structure/sha256-065979305b2fc1593abb343e72a86d0ed9c967c089d1a9cbf91be650de25eff2/manuscript.pdf#page=7"
+        },
+        {
+          "edition_id": "structure",
+          "sha256": "065979305b2fc1593abb343e72a86d0ed9c967c089d1a9cbf91be650de25eff2",
+          "edition_label": "Publication reference",
+          "section": "Section 3",
+          "pdf_page": 10,
+          "pdf_page_end": 10,
+          "url": "https://constraintsystemsinstitute.org/manuscripts/structure/sha256-065979305b2fc1593abb343e72a86d0ed9c967c089d1a9cbf91be650de25eff2/manuscript.pdf#page=10"
+        },
+        {
+          "edition_id": "structure",
+          "sha256": "065979305b2fc1593abb343e72a86d0ed9c967c089d1a9cbf91be650de25eff2",
+          "edition_label": "Publication reference",
+          "section": "Appendix C",
+          "pdf_page": 42,
+          "pdf_page_end": 45,
+          "url": "https://constraintsystemsinstitute.org/manuscripts/structure/sha256-065979305b2fc1593abb343e72a86d0ed9c967c089d1a9cbf91be650de25eff2/manuscript.pdf#page=42"
+        },
+        {
+          "edition_id": "structure",
+          "sha256": "065979305b2fc1593abb343e72a86d0ed9c967c089d1a9cbf91be650de25eff2",
+          "edition_label": "Publication reference",
+          "section": "Reference 9",
+          "pdf_page": 46,
+          "pdf_page_end": 46,
+          "url": "https://constraintsystemsinstitute.org/manuscripts/structure/sha256-065979305b2fc1593abb343e72a86d0ed9c967c089d1a9cbf91be650de25eff2/manuscript.pdf#page=46"
+        }
+      ]
+    },
+    {
+      "source_work": "The Structure of Admissibility",
+      "source_reference_label": "Revised reference with explicit test examples",
+      "source_reference_date": "2026-09-20",
+      "source_status": "Named by consumer; exact imported bytes unconfirmed; source PDF not hosted in this release.",
+      "consumer_edition_id": "exhaustion",
+      "consumer_edition_sha256": "d06d39b381edddaafe899f20769b0ba551802b23d7b83121530ecab346feece0",
+      "relationship_type": "profile_and_interior_reuse_locally_reproved",
+      "description": "Exhaustion identifies the examples reference and reuses profile/interior machinery while adding compositional coverage.",
+      "consumer_evidence": [
+        {
+          "edition_id": "exhaustion",
+          "sha256": "d06d39b381edddaafe899f20769b0ba551802b23d7b83121530ecab346feece0",
+          "edition_label": "Publication reference",
+          "section": "Section 1.4",
+          "pdf_page": 6,
+          "pdf_page_end": 6,
+          "url": "https://constraintsystemsinstitute.org/manuscripts/exhaustion/sha256-d06d39b381edddaafe899f20769b0ba551802b23d7b83121530ecab346feece0/manuscript.pdf#page=6"
+        },
+        {
+          "edition_id": "exhaustion",
+          "sha256": "d06d39b381edddaafe899f20769b0ba551802b23d7b83121530ecab346feece0",
+          "edition_label": "Publication reference",
+          "section": "Section 3",
+          "pdf_page": 9,
+          "pdf_page_end": 9,
+          "url": "https://constraintsystemsinstitute.org/manuscripts/exhaustion/sha256-d06d39b381edddaafe899f20769b0ba551802b23d7b83121530ecab346feece0/manuscript.pdf#page=9"
+        },
+        {
+          "edition_id": "exhaustion",
+          "sha256": "d06d39b381edddaafe899f20769b0ba551802b23d7b83121530ecab346feece0",
+          "edition_label": "Publication reference",
+          "section": "Reference 8",
+          "pdf_page": 39,
+          "pdf_page_end": 39,
+          "url": "https://constraintsystemsinstitute.org/manuscripts/exhaustion/sha256-d06d39b381edddaafe899f20769b0ba551802b23d7b83121530ecab346feece0/manuscript.pdf#page=39"
+        }
+      ]
+    },
+    {
+      "source_work": "The Structure of Admissibility",
+      "source_reference_label": "Revised reference with explicit test examples",
+      "source_reference_date": "2026-09-20",
+      "source_status": "Named by consumer; exact imported bytes unconfirmed; source PDF not hosted in this release.",
+      "consumer_edition_id": "ats",
+      "consumer_edition_sha256": "1624eacd530dcdaaedec184414c8a7eab8d5096805aee9ffa5452b6f51638c7b",
+      "relationship_type": "semantic_interface_support",
+      "description": "ATS identifies the examples reference as part of the one-way support order for complete descriptions.",
+      "consumer_evidence": [
+        {
+          "edition_id": "ats",
+          "sha256": "1624eacd530dcdaaedec184414c8a7eab8d5096805aee9ffa5452b6f51638c7b",
+          "edition_label": "Publication reference",
+          "section": "Section 1.4",
+          "pdf_page": 3,
+          "pdf_page_end": 3,
+          "url": "https://constraintsystemsinstitute.org/manuscripts/ats/sha256-1624eacd530dcdaaedec184414c8a7eab8d5096805aee9ffa5452b6f51638c7b/manuscript.pdf#page=3"
+        },
+        {
+          "edition_id": "ats",
+          "sha256": "1624eacd530dcdaaedec184414c8a7eab8d5096805aee9ffa5452b6f51638c7b",
+          "edition_label": "Publication reference",
+          "section": "Section 2",
+          "pdf_page": 4,
+          "pdf_page_end": 4,
+          "url": "https://constraintsystemsinstitute.org/manuscripts/ats/sha256-1624eacd530dcdaaedec184414c8a7eab8d5096805aee9ffa5452b6f51638c7b/manuscript.pdf#page=4"
+        },
+        {
+          "edition_id": "ats",
+          "sha256": "1624eacd530dcdaaedec184414c8a7eab8d5096805aee9ffa5452b6f51638c7b",
+          "edition_label": "Publication reference",
+          "section": "Reference 3",
+          "pdf_page": 36,
+          "pdf_page_end": 36,
+          "url": "https://constraintsystemsinstitute.org/manuscripts/ats/sha256-1624eacd530dcdaaedec184414c8a7eab8d5096805aee9ffa5452b6f51638c7b/manuscript.pdf#page=36"
+        }
+      ]
+    },
+    {
+      "source_work": "A Fixed-Domain Exhaustion Theorem",
+      "source_reference_label": "Composition reference",
+      "source_reference_date": "2026-09-20",
+      "source_status": "Named by consumer; exact imported bytes unconfirmed; source PDF not hosted in this release.",
+      "consumer_edition_id": "ats",
+      "consumer_edition_sha256": "1624eacd530dcdaaedec184414c8a7eab8d5096805aee9ffa5452b6f51638c7b",
+      "relationship_type": "logical_dependency_and_certificate_assembly",
+      "description": "ATS uses the composition-reference finite-use basis and distinguishes constant readout from unique occupant. This does not make ATS a premise of general exhaustion.",
+      "consumer_evidence": [
+        {
+          "edition_id": "ats",
+          "sha256": "1624eacd530dcdaaedec184414c8a7eab8d5096805aee9ffa5452b6f51638c7b",
+          "edition_label": "Publication reference",
+          "section": "Section 1.4",
+          "pdf_page": 3,
+          "pdf_page_end": 3,
+          "url": "https://constraintsystemsinstitute.org/manuscripts/ats/sha256-1624eacd530dcdaaedec184414c8a7eab8d5096805aee9ffa5452b6f51638c7b/manuscript.pdf#page=3"
+        },
+        {
+          "edition_id": "ats",
+          "sha256": "1624eacd530dcdaaedec184414c8a7eab8d5096805aee9ffa5452b6f51638c7b",
+          "edition_label": "Publication reference",
+          "section": "Section 2.4",
+          "pdf_page": 6,
+          "pdf_page_end": 6,
+          "url": "https://constraintsystemsinstitute.org/manuscripts/ats/sha256-1624eacd530dcdaaedec184414c8a7eab8d5096805aee9ffa5452b6f51638c7b/manuscript.pdf#page=6"
+        },
+        {
+          "edition_id": "ats",
+          "sha256": "1624eacd530dcdaaedec184414c8a7eab8d5096805aee9ffa5452b6f51638c7b",
+          "edition_label": "Publication reference",
+          "section": "Section 3.4",
+          "pdf_page": 8,
+          "pdf_page_end": 8,
+          "url": "https://constraintsystemsinstitute.org/manuscripts/ats/sha256-1624eacd530dcdaaedec184414c8a7eab8d5096805aee9ffa5452b6f51638c7b/manuscript.pdf#page=8"
+        },
+        {
+          "edition_id": "ats",
+          "sha256": "1624eacd530dcdaaedec184414c8a7eab8d5096805aee9ffa5452b6f51638c7b",
+          "edition_label": "Publication reference",
+          "section": "Reference 4",
+          "pdf_page": 36,
+          "pdf_page_end": 36,
+          "url": "https://constraintsystemsinstitute.org/manuscripts/ats/sha256-1624eacd530dcdaaedec184414c8a7eab8d5096805aee9ffa5452b6f51638c7b/manuscript.pdf#page=36"
+        }
+      ]
+    },
+    {
+      "source_work": "The AMetric Boundary as a Unique Regime-Invariant Constraint on Admissibility-Bearing Construction",
+      "source_reference_label": "Editorial reference",
+      "source_reference_date": "2026-09-20",
+      "source_status": "Named by consumer; exact imported bytes unconfirmed; source PDF not hosted in this release.",
+      "consumer_edition_id": "ats",
+      "consumer_edition_sha256": "1624eacd530dcdaaedec184414c8a7eab8d5096805aee9ffa5452b6f51638c7b",
+      "relationship_type": "named_boundary_support",
+      "description": "Consumer identifies the editorial reference. This records named support, not a claim that every AMetric theorem is an unproved logical premise of the consumer.",
+      "consumer_evidence": [
+        {
+          "edition_id": "ats",
+          "sha256": "1624eacd530dcdaaedec184414c8a7eab8d5096805aee9ffa5452b6f51638c7b",
+          "edition_label": "Publication reference",
+          "section": "Reference 2",
+          "pdf_page": 36,
+          "pdf_page_end": 36,
+          "url": "https://constraintsystemsinstitute.org/manuscripts/ats/sha256-1624eacd530dcdaaedec184414c8a7eab8d5096805aee9ffa5452b6f51638c7b/manuscript.pdf#page=36"
+        },
+        {
+          "edition_id": "ats",
+          "sha256": "1624eacd530dcdaaedec184414c8a7eab8d5096805aee9ffa5452b6f51638c7b",
+          "edition_label": "Publication reference",
+          "section": "Section 1.4",
+          "pdf_page": 3,
+          "pdf_page_end": 3,
+          "url": "https://constraintsystemsinstitute.org/manuscripts/ats/sha256-1624eacd530dcdaaedec184414c8a7eab8d5096805aee9ffa5452b6f51638c7b/manuscript.pdf#page=3"
+        }
+      ]
+    },
+    {
+      "source_work": "The AMetric Boundary as a Unique Regime-Invariant Constraint on Admissibility-Bearing Construction",
+      "source_reference_label": "Editorial reference",
+      "source_reference_date": "2026-09-20",
+      "source_status": "Named by consumer; exact imported bytes unconfirmed; source PDF not hosted in this release.",
+      "consumer_edition_id": "exhaustion",
+      "consumer_edition_sha256": "d06d39b381edddaafe899f20769b0ba551802b23d7b83121530ecab346feece0",
+      "relationship_type": "named_boundary_support",
+      "description": "Consumer identifies the editorial reference. This records named support, not a claim that every AMetric theorem is an unproved logical premise of the consumer.",
+      "consumer_evidence": [
+        {
+          "edition_id": "exhaustion",
+          "sha256": "d06d39b381edddaafe899f20769b0ba551802b23d7b83121530ecab346feece0",
+          "edition_label": "Publication reference",
+          "section": "Reference 7",
+          "pdf_page": 39,
+          "pdf_page_end": 39,
+          "url": "https://constraintsystemsinstitute.org/manuscripts/exhaustion/sha256-d06d39b381edddaafe899f20769b0ba551802b23d7b83121530ecab346feece0/manuscript.pdf#page=39"
+        },
+        {
+          "edition_id": "exhaustion",
+          "sha256": "d06d39b381edddaafe899f20769b0ba551802b23d7b83121530ecab346feece0",
+          "edition_label": "Publication reference",
+          "section": "Section 1.4",
+          "pdf_page": 5,
+          "pdf_page_end": 5,
+          "url": "https://constraintsystemsinstitute.org/manuscripts/exhaustion/sha256-d06d39b381edddaafe899f20769b0ba551802b23d7b83121530ecab346feece0/manuscript.pdf#page=5"
+        }
+      ]
+    }
+  ],
+  "unresolved_imports": [
+    {
+      "consumer": "metricity",
+      "named_work": "kernel",
+      "exact_producer_edition": null,
+      "evidence": {
+        "edition_id": "metricity",
+        "sha256": "6d73b71c267ea80973994c18c669b338338280887b5a358396e8e05cb7a2801e",
+        "edition_label": "May 2026 manuscript",
+        "section": "Reference 1",
+        "pdf_page": 43,
+        "pdf_page_end": 43,
+        "url": "https://constraintsystemsinstitute.org/manuscripts/metricity/sha256-6d73b71c267ea80973994c18c669b338338280887b5a358396e8e05cb7a2801e/manuscript.pdf#page=43"
+      },
+      "reason": "Companion reference does not identify an exact edition; May 2026 consumer cannot be silently rebound to September reading PDFs."
+    },
+    {
+      "consumer": "metricity",
+      "named_work": "structure",
+      "exact_producer_edition": null,
+      "evidence": {
+        "edition_id": "metricity",
+        "sha256": "6d73b71c267ea80973994c18c669b338338280887b5a358396e8e05cb7a2801e",
+        "edition_label": "May 2026 manuscript",
+        "section": "Reference 2",
+        "pdf_page": 43,
+        "pdf_page_end": 43,
+        "url": "https://constraintsystemsinstitute.org/manuscripts/metricity/sha256-6d73b71c267ea80973994c18c669b338338280887b5a358396e8e05cb7a2801e/manuscript.pdf#page=43"
+      },
+      "reason": "Companion reference does not identify an exact edition; May 2026 consumer cannot be silently rebound to September reading PDFs."
+    },
+    {
+      "consumer": "metricity",
+      "named_work": "ametric",
+      "exact_producer_edition": null,
+      "evidence": {
+        "edition_id": "metricity",
+        "sha256": "6d73b71c267ea80973994c18c669b338338280887b5a358396e8e05cb7a2801e",
+        "edition_label": "May 2026 manuscript",
+        "section": "Reference 4",
+        "pdf_page": 43,
+        "pdf_page_end": 43,
+        "url": "https://constraintsystemsinstitute.org/manuscripts/metricity/sha256-6d73b71c267ea80973994c18c669b338338280887b5a358396e8e05cb7a2801e/manuscript.pdf#page=43"
+      },
+      "reason": "Companion reference does not identify an exact edition; May 2026 consumer cannot be silently rebound to September reading PDFs."
+    },
+    {
+      "consumer": "metricity",
+      "named_work": "ats",
+      "exact_producer_edition": null,
+      "evidence": {
+        "edition_id": "metricity",
+        "sha256": "6d73b71c267ea80973994c18c669b338338280887b5a358396e8e05cb7a2801e",
+        "edition_label": "May 2026 manuscript",
+        "section": "Reference 5",
+        "pdf_page": 43,
+        "pdf_page_end": 43,
+        "url": "https://constraintsystemsinstitute.org/manuscripts/metricity/sha256-6d73b71c267ea80973994c18c669b338338280887b5a358396e8e05cb7a2801e/manuscript.pdf#page=43"
+      },
+      "reason": "Companion reference does not identify an exact edition; May 2026 consumer cannot be silently rebound to September reading PDFs."
+    }
+  ]
+}

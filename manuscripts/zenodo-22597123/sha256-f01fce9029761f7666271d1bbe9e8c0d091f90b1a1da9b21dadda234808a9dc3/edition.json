@@ -1,0 +1,15 @@
+{
+  "work_doi": "10.5281/zenodo.22597123",
+  "exact_release_doi": "10.5281/zenodo.22597124",
+  "title": "Scale, Renormalization Group, and Emergent Symmetry",
+  "publisher_publication_date": "2026-09-07",
+  "publisher_version": null,
+  "sha256": "f01fce9029761f7666271d1bbe9e8c0d091f90b1a1da9b21dadda234808a9dc3",
+  "bytes": 480771,
+  "pages": 58,
+  "pdf_url": "https://constraintsystemsinstitute.org/manuscripts/zenodo-22597123/sha256-f01fce9029761f7666271d1bbe9e8c0d091f90b1a1da9b21dadda234808a9dc3/manuscript.pdf",
+  "canonical_work_url": "https://constraintsystemsinstitute.org/papers/scale-renormalization-group-and-emergent-symmetry-22597123/",
+  "publisher_url": "https://zenodo.org/records/22597124",
+  "verification": "Publisher checksum and SHA256 checked; searchable original PDF, no independent proof audit.",
+  "conversion": "No complete manuscript HTML conversion. Repository descriptions are attributed reading aids or publisher metadata."
+}

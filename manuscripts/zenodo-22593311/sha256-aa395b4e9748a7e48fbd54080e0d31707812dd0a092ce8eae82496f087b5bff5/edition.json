@@ -1,0 +1,15 @@
+{
+  "work_doi": "10.5281/zenodo.22593311",
+  "exact_release_doi": "10.5281/zenodo.22593312",
+  "title": "Electroweak Vacuum Fixation and Residual-Spectrum Rigidity",
+  "publisher_publication_date": "2026-09-07",
+  "publisher_version": null,
+  "sha256": "aa395b4e9748a7e48fbd54080e0d31707812dd0a092ce8eae82496f087b5bff5",
+  "bytes": 545386,
+  "pages": 73,
+  "pdf_url": "https://constraintsystemsinstitute.org/manuscripts/zenodo-22593311/sha256-aa395b4e9748a7e48fbd54080e0d31707812dd0a092ce8eae82496f087b5bff5/manuscript.pdf",
+  "canonical_work_url": "https://constraintsystemsinstitute.org/papers/electroweak-vacuum-fixation-and-residual-spectrum-rigidity-22593311/",
+  "publisher_url": "https://zenodo.org/records/22593312",
+  "verification": "Publisher checksum and SHA256 checked; searchable original PDF, no independent proof audit.",
+  "conversion": "No complete manuscript HTML conversion. Repository descriptions are attributed reading aids or publisher metadata."
+}

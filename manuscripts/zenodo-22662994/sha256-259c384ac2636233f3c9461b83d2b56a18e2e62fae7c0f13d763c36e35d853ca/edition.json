@@ -1,0 +1,15 @@
+{
+  "work_doi": "10.5281/zenodo.22662994",
+  "exact_release_doi": "10.5281/zenodo.22892234",
+  "title": "Electroweak and Higgs Realization from a Premetric Response Atlas",
+  "publisher_publication_date": "2026-09-22",
+  "publisher_version": null,
+  "sha256": "259c384ac2636233f3c9461b83d2b56a18e2e62fae7c0f13d763c36e35d853ca",
+  "bytes": 689552,
+  "pages": 56,
+  "pdf_url": "https://constraintsystemsinstitute.org/manuscripts/zenodo-22662994/sha256-259c384ac2636233f3c9461b83d2b56a18e2e62fae7c0f13d763c36e35d853ca/manuscript.pdf",
+  "canonical_work_url": "https://constraintsystemsinstitute.org/standard-model/papers/bcrs-2ewh/",
+  "publisher_url": "https://zenodo.org/records/22892234",
+  "verification": "Publisher checksum and SHA256 checked; searchable original PDF, no independent proof audit.",
+  "conversion": "No complete manuscript HTML conversion. Repository descriptions are attributed reading aids or publisher metadata."
+}

@@ -1,0 +1,24 @@
+{
+  "id": "exhaustion",
+  "title": "A Fixed-Domain Exhaustion Theorem",
+  "subtitle": "Standing, Consequence, and Compositional Closure",
+  "author": "Amos Jay Maley",
+  "edition_label": "Publication reference",
+  "manuscript_cover_date": "2026-09-21",
+  "publisher_publication_date": "2026-09-21",
+  "pages": 39,
+  "bytes": 574789,
+  "sha256": "d06d39b381edddaafe899f20769b0ba551802b23d7b83121530ecab346feece0",
+  "format": "application/pdf",
+  "doi": {
+    "work_all_versions": "10.5281/zenodo.18682423",
+    "exact_release": "10.5281/zenodo.22875070"
+  },
+  "publisher_url": "https://zenodo.org/records/22875070",
+  "edition_url": "https://constraintsystemsinstitute.org/manuscripts/exhaustion/sha256-d06d39b381edddaafe899f20769b0ba551802b23d7b83121530ecab346feece0/",
+  "pdf_url": "https://constraintsystemsinstitute.org/manuscripts/exhaustion/sha256-d06d39b381edddaafe899f20769b0ba551802b23d7b83121530ecab346feece0/manuscript.pdf",
+  "reading_aid_url": "https://constraintsystemsinstitute.org/manuscripts/exhaustion/sha256-d06d39b381edddaafe899f20769b0ba551802b23d7b83121530ecab346feece0/summary.md",
+  "verification": "PDF downloaded from the exact publisher release and SHA256 matched; no independent theorem proof audit.",
+  "conversion": "PDF is authoritative; HTML and Markdown are attributed reading aids, not a complete manuscript conversion.",
+  "citation": "Amos Jay Maley. A Fixed-Domain Exhaustion Theorem: Standing, Consequence, and Compositional Closure. Publication reference, 2026-09-21. SHA256 d06d39b381edddaafe899f20769b0ba551802b23d7b83121530ecab346feece0. DOI: 10.5281/zenodo.22875070."
+}

@@ -1,0 +1,15 @@
+{
+  "work_doi": "10.5281/zenodo.20065053",
+  "exact_release_doi": "10.5281/zenodo.20065054",
+  "title": "Neutrino Oscillation as the Unique Admissible Reconstruction of Flavor Under Noncommuting Propagation",
+  "publisher_publication_date": "2026-05-07",
+  "publisher_version": null,
+  "sha256": "75e9bc4effc7aa8cd01498338102031e91519b3db605030ed7c5443248627acd",
+  "bytes": 485199,
+  "pages": 35,
+  "pdf_url": "https://constraintsystemsinstitute.org/manuscripts/zenodo-20065053/sha256-75e9bc4effc7aa8cd01498338102031e91519b3db605030ed7c5443248627acd/manuscript.pdf",
+  "canonical_work_url": "https://constraintsystemsinstitute.org/papers/neutrino-oscillation-as-the-unique-admissible-reconstruction-of-flavor-under-noncommut/",
+  "publisher_url": "https://zenodo.org/records/20065054",
+  "verification": "Publisher checksum and SHA256 checked; searchable original PDF, no independent proof audit.",
+  "conversion": "No complete manuscript HTML conversion. Repository descriptions are attributed reading aids or publisher metadata."
+}

@@ -1,0 +1,15 @@
+{
+  "work_doi": "10.5281/zenodo.21213644",
+  "exact_release_doi": "10.5281/zenodo.21222391",
+  "title": "Gauge Carriers: Photon, Gluon, and Weak-Boson Standing",
+  "publisher_publication_date": "2026-07-06",
+  "publisher_version": null,
+  "sha256": "29be20f03a4f6f66b204699ea8127399cfa66e49b57328a4e8e97295c1fb0ac9",
+  "bytes": 688166,
+  "pages": 72,
+  "pdf_url": "https://constraintsystemsinstitute.org/manuscripts/zenodo-21213644/sha256-29be20f03a4f6f66b204699ea8127399cfa66e49b57328a4e8e97295c1fb0ac9/manuscript.pdf",
+  "canonical_work_url": "https://constraintsystemsinstitute.org/papers/gauge-carriers-photon-gluon-and-weak-boson-standing-10-5281-zenodo-21213644/",
+  "publisher_url": "https://zenodo.org/records/21222391",
+  "verification": "Publisher checksum and SHA256 checked; searchable original PDF, no independent proof audit.",
+  "conversion": "No complete manuscript HTML conversion. Repository descriptions are attributed reading aids or publisher metadata."
+}

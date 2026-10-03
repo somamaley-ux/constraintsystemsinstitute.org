@@ -1,0 +1,15 @@
+{
+  "work_doi": "10.5281/zenodo.21254589",
+  "exact_release_doi": "10.5281/zenodo.21824200",
+  "title": "Schrödinger Dynamics as the Unique Minimal First-Response Hamiltonian Projection of AASC Quantum Standing",
+  "publisher_publication_date": "2026-08-06",
+  "publisher_version": null,
+  "sha256": "a05b2c3c07d433caa0178b701b590bd5ff02aeacf3ccc6a936be4c59239e6cad",
+  "bytes": 575859,
+  "pages": 67,
+  "pdf_url": "https://constraintsystemsinstitute.org/manuscripts/zenodo-21254589/sha256-a05b2c3c07d433caa0178b701b590bd5ff02aeacf3ccc6a936be4c59239e6cad/manuscript.pdf",
+  "canonical_work_url": "https://constraintsystemsinstitute.org/papers/schr-dinger-dynamics-as-the-unique-minimal-first-response-hamiltonian-projection-of-aa/",
+  "publisher_url": "https://zenodo.org/records/21824200",
+  "verification": "Publisher checksum and SHA256 checked; searchable original PDF, no independent proof audit.",
+  "conversion": "No complete manuscript HTML conversion. Repository descriptions are attributed reading aids or publisher metadata."
+}

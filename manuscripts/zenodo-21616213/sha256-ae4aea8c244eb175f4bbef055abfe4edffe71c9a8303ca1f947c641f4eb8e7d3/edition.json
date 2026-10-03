@@ -1,0 +1,15 @@
+{
+  "work_doi": "10.5281/zenodo.21616213",
+  "exact_release_doi": "10.5281/zenodo.21616214",
+  "title": "Kernel-Native Upstream Continuation and Projection Intertwining under AASC",
+  "publisher_publication_date": "2026-07-27",
+  "publisher_version": null,
+  "sha256": "ae4aea8c244eb175f4bbef055abfe4edffe71c9a8303ca1f947c641f4eb8e7d3",
+  "bytes": 603486,
+  "pages": 54,
+  "pdf_url": "https://constraintsystemsinstitute.org/manuscripts/zenodo-21616213/sha256-ae4aea8c244eb175f4bbef055abfe4edffe71c9a8303ca1f947c641f4eb8e7d3/manuscript.pdf",
+  "canonical_work_url": "https://constraintsystemsinstitute.org/papers/module-c-upstream-continuation-and-projection-intertwining-10-5281-zenodo-21616213/",
+  "publisher_url": "https://zenodo.org/records/21616214",
+  "verification": "Publisher checksum and SHA256 checked; searchable original PDF, no independent proof audit.",
+  "conversion": "No complete manuscript HTML conversion. Repository descriptions are attributed reading aids or publisher metadata."
+}

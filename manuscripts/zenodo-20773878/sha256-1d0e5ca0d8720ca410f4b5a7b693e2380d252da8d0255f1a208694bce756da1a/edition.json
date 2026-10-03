@@ -1,0 +1,15 @@
+{
+  "work_doi": "10.5281/zenodo.20773878",
+  "exact_release_doi": "10.5281/zenodo.20773879",
+  "title": "The AASC Description of Consciousness",
+  "publisher_publication_date": "2026-06-20",
+  "publisher_version": null,
+  "sha256": "1d0e5ca0d8720ca410f4b5a7b693e2380d252da8d0255f1a208694bce756da1a",
+  "bytes": 871628,
+  "pages": 130,
+  "pdf_url": "https://constraintsystemsinstitute.org/manuscripts/zenodo-20773878/sha256-1d0e5ca0d8720ca410f4b5a7b693e2380d252da8d0255f1a208694bce756da1a/manuscript.pdf",
+  "canonical_work_url": "https://constraintsystemsinstitute.org/papers/the-aasc-description-of-consciousness-10-5281-zenodo-20773878/",
+  "publisher_url": "https://zenodo.org/records/20773879",
+  "verification": "Publisher checksum and SHA256 checked; searchable original PDF, no independent proof audit.",
+  "conversion": "No complete manuscript HTML conversion. Repository descriptions are attributed reading aids or publisher metadata."
+}

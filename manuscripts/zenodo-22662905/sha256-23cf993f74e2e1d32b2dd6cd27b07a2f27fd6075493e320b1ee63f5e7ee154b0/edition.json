@@ -1,0 +1,15 @@
+{
+  "work_doi": "10.5281/zenodo.22662905",
+  "exact_release_doi": "10.5281/zenodo.22892161",
+  "title": "Color Realization from a Premetric Response Atlas",
+  "publisher_publication_date": "2026-09-22",
+  "publisher_version": null,
+  "sha256": "23cf993f74e2e1d32b2dd6cd27b07a2f27fd6075493e320b1ee63f5e7ee154b0",
+  "bytes": 861806,
+  "pages": 67,
+  "pdf_url": "https://constraintsystemsinstitute.org/manuscripts/zenodo-22662905/sha256-23cf993f74e2e1d32b2dd6cd27b07a2f27fd6075493e320b1ee63f5e7ee154b0/manuscript.pdf",
+  "canonical_work_url": "https://constraintsystemsinstitute.org/standard-model/papers/bcrs-2c/",
+  "publisher_url": "https://zenodo.org/records/22892161",
+  "verification": "Publisher checksum and SHA256 checked; searchable original PDF, no independent proof audit.",
+  "conversion": "No complete manuscript HTML conversion. Repository descriptions are attributed reading aids or publisher metadata."
+}

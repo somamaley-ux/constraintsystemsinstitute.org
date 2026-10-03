@@ -1,0 +1,15 @@
+{
+  "work_doi": "10.5281/zenodo.18628354",
+  "exact_release_doi": "10.5281/zenodo.20055534",
+  "title": "Constraint Architectures for Coherent Evaluability (Mind Paper)",
+  "publisher_publication_date": "2026-05-04",
+  "publisher_version": null,
+  "sha256": "2eb9b18abb7dddc57c4ee808de5d92f1722b4d10828a696ec7d31457dc548dea",
+  "bytes": 405782,
+  "pages": 43,
+  "pdf_url": "https://constraintsystemsinstitute.org/manuscripts/zenodo-18628354/sha256-2eb9b18abb7dddc57c4ee808de5d92f1722b4d10828a696ec7d31457dc548dea/manuscript.pdf",
+  "canonical_work_url": "https://constraintsystemsinstitute.org/papers/constraint-architectures-for-coherent-evaluability-mind-paper-10-5281-zenodo-18628354/",
+  "publisher_url": "https://zenodo.org/records/20055534",
+  "verification": "Publisher checksum and SHA256 checked; searchable original PDF, no independent proof audit.",
+  "conversion": "No complete manuscript HTML conversion. Repository descriptions are attributed reading aids or publisher metadata."
+}

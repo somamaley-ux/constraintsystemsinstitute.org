@@ -1,0 +1,15 @@
+{
+  "work_doi": "10.5281/zenodo.18611122",
+  "exact_release_doi": "10.5281/zenodo.18627768",
+  "title": "Mentis Umbra",
+  "publisher_publication_date": "2026-02-13",
+  "publisher_version": null,
+  "sha256": "6397531ef64941c0d27b930c09b34477d560c349af96b5f5308efb69afc6b232",
+  "bytes": 240315,
+  "pages": 19,
+  "pdf_url": "https://constraintsystemsinstitute.org/manuscripts/zenodo-18611122/sha256-6397531ef64941c0d27b930c09b34477d560c349af96b5f5308efb69afc6b232/manuscript.pdf",
+  "canonical_work_url": "https://constraintsystemsinstitute.org/papers/mentis-umbra-10-5281-zenodo-18611122/",
+  "publisher_url": "https://zenodo.org/records/18627768",
+  "verification": "Publisher checksum and SHA256 checked; searchable original PDF, no independent proof audit.",
+  "conversion": "No complete manuscript HTML conversion. Repository descriptions are attributed reading aids or publisher metadata."
+}

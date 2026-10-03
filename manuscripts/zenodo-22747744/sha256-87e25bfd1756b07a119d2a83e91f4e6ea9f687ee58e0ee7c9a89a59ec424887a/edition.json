@@ -1,0 +1,15 @@
+{
+  "work_doi": "10.5281/zenodo.22747744",
+  "exact_release_doi": "10.5281/zenodo.22747745",
+  "title": "Observable Projection and Experimental Prediction Lock for the Neutrino Carrier",
+  "publisher_publication_date": "2026-09-14",
+  "publisher_version": null,
+  "sha256": "87e25bfd1756b07a119d2a83e91f4e6ea9f687ee58e0ee7c9a89a59ec424887a",
+  "bytes": 471847,
+  "pages": 55,
+  "pdf_url": "https://constraintsystemsinstitute.org/manuscripts/zenodo-22747744/sha256-87e25bfd1756b07a119d2a83e91f4e6ea9f687ee58e0ee7c9a89a59ec424887a/manuscript.pdf",
+  "canonical_work_url": "https://constraintsystemsinstitute.org/papers/observable-projection-and-experimental-prediction-lock-for-the-neutrino-carrier-22747744/",
+  "publisher_url": "https://zenodo.org/records/22747745",
+  "verification": "Publisher checksum and SHA256 checked; searchable original PDF, no independent proof audit.",
+  "conversion": "No complete manuscript HTML conversion. Repository descriptions are attributed reading aids or publisher metadata."
+}

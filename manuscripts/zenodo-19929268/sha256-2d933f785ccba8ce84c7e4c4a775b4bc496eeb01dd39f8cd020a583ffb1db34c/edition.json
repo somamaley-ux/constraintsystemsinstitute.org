@@ -1,0 +1,15 @@
+{
+  "work_doi": "10.5281/zenodo.19929268",
+  "exact_release_doi": "10.5281/zenodo.20807839",
+  "title": "Transport Closure in Cosmological Inference and the Hubble Tension (Parameters)",
+  "publisher_publication_date": "2026-06-23",
+  "publisher_version": null,
+  "sha256": "2d933f785ccba8ce84c7e4c4a775b4bc496eeb01dd39f8cd020a583ffb1db34c",
+  "bytes": 923070,
+  "pages": 43,
+  "pdf_url": "https://constraintsystemsinstitute.org/manuscripts/zenodo-19929268/sha256-2d933f785ccba8ce84c7e4c4a775b4bc496eeb01dd39f8cd020a583ffb1db34c/manuscript.pdf",
+  "canonical_work_url": "https://constraintsystemsinstitute.org/papers/transport-closure-in-cosmological-inference-and-the-hubble-tension-parameters-10-5281/",
+  "publisher_url": "https://zenodo.org/records/20807839",
+  "verification": "Publisher checksum and SHA256 checked; searchable original PDF, no independent proof audit.",
+  "conversion": "No complete manuscript HTML conversion. Repository descriptions are attributed reading aids or publisher metadata."
+}

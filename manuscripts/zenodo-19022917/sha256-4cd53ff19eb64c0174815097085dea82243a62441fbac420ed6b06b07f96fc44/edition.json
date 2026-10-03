@@ -1,0 +1,15 @@
+{
+  "work_doi": "10.5281/zenodo.19022917",
+  "exact_release_doi": "10.5281/zenodo.20673816",
+  "title": "Carrier Universality and Global Smoothness for the Periodic 3D Navier–Stokes Equations",
+  "publisher_publication_date": "2026-06-13",
+  "publisher_version": null,
+  "sha256": "4cd53ff19eb64c0174815097085dea82243a62441fbac420ed6b06b07f96fc44",
+  "bytes": 1007573,
+  "pages": 143,
+  "pdf_url": "https://constraintsystemsinstitute.org/manuscripts/zenodo-19022917/sha256-4cd53ff19eb64c0174815097085dea82243a62441fbac420ed6b06b07f96fc44/manuscript.pdf",
+  "canonical_work_url": "https://constraintsystemsinstitute.org/papers/carrier-universality-and-global-smoothness-for-the-periodic-3d-navier-stokes-equations/",
+  "publisher_url": "https://zenodo.org/records/20673816",
+  "verification": "Publisher checksum and SHA256 checked; searchable original PDF, no independent proof audit.",
+  "conversion": "No complete manuscript HTML conversion. Repository descriptions are attributed reading aids or publisher metadata."
+}

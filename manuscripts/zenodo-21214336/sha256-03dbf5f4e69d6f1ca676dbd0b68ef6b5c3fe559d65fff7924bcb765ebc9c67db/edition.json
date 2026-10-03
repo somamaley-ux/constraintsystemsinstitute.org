@@ -1,0 +1,15 @@
+{
+  "work_doi": "10.5281/zenodo.21214336",
+  "exact_release_doi": "10.5281/zenodo.22893043",
+  "title": "The Standard Model Carrier Exhaustion Closure",
+  "publisher_publication_date": "2026-09-22",
+  "publisher_version": null,
+  "sha256": "03dbf5f4e69d6f1ca676dbd0b68ef6b5c3fe559d65fff7924bcb765ebc9c67db",
+  "bytes": 732929,
+  "pages": 76,
+  "pdf_url": "https://constraintsystemsinstitute.org/manuscripts/zenodo-21214336/sha256-03dbf5f4e69d6f1ca676dbd0b68ef6b5c3fe559d65fff7924bcb765ebc9c67db/manuscript.pdf",
+  "canonical_work_url": "https://constraintsystemsinstitute.org/papers/the-standard-model-carrier-exhaustion-closure-10-5281-zenodo-21214336/",
+  "publisher_url": "https://zenodo.org/records/22893043",
+  "verification": "Publisher checksum and SHA256 checked; searchable original PDF, no independent proof audit.",
+  "conversion": "No complete manuscript HTML conversion. Repository descriptions are attributed reading aids or publisher metadata."
+}

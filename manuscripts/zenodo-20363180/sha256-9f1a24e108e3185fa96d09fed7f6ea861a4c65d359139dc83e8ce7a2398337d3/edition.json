@@ -1,0 +1,15 @@
+{
+  "work_doi": "10.5281/zenodo.20363180",
+  "exact_release_doi": "10.5281/zenodo.20363181",
+  "title": "Cross-Sector Extraction after the Standalone Standard Model Derivation",
+  "publisher_publication_date": "2026-05-24",
+  "publisher_version": null,
+  "sha256": "9f1a24e108e3185fa96d09fed7f6ea861a4c65d359139dc83e8ce7a2398337d3",
+  "bytes": 282252,
+  "pages": 21,
+  "pdf_url": "https://constraintsystemsinstitute.org/manuscripts/zenodo-20363180/sha256-9f1a24e108e3185fa96d09fed7f6ea861a4c65d359139dc83e8ce7a2398337d3/manuscript.pdf",
+  "canonical_work_url": "https://constraintsystemsinstitute.org/papers/cross-sector-extraction-after-the-standalone-standard-model-derivation-10-5281-zenodo/",
+  "publisher_url": "https://zenodo.org/records/20363181",
+  "verification": "Publisher checksum and SHA256 checked; searchable original PDF, no independent proof audit.",
+  "conversion": "No complete manuscript HTML conversion. Repository descriptions are attributed reading aids or publisher metadata."
+}

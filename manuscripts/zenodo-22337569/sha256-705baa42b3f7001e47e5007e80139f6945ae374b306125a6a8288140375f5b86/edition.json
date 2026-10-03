@@ -1,0 +1,15 @@
+{
+  "work_doi": "10.5281/zenodo.22337569",
+  "exact_release_doi": "10.5281/zenodo.22337570",
+  "title": "The Symmetry Status",
+  "publisher_publication_date": "2026-09-05",
+  "publisher_version": null,
+  "sha256": "705baa42b3f7001e47e5007e80139f6945ae374b306125a6a8288140375f5b86",
+  "bytes": 751152,
+  "pages": 122,
+  "pdf_url": "https://constraintsystemsinstitute.org/manuscripts/zenodo-22337569/sha256-705baa42b3f7001e47e5007e80139f6945ae374b306125a6a8288140375f5b86/manuscript.pdf",
+  "canonical_work_url": "https://constraintsystemsinstitute.org/papers/the-symmetry-status-22337569/",
+  "publisher_url": "https://zenodo.org/records/22337570",
+  "verification": "Publisher checksum and SHA256 checked; searchable original PDF, no independent proof audit.",
+  "conversion": "No complete manuscript HTML conversion. Repository descriptions are attributed reading aids or publisher metadata."
+}

@@ -1,0 +1,24 @@
+{
+  "id": "structure",
+  "title": "The Structure of Admissibility",
+  "subtitle": "Bivalent Qualification, Exhaustion, and the Unique Admissible Interior",
+  "author": "Amos Jay Maley",
+  "edition_label": "Publication reference",
+  "manuscript_cover_date": "2026-09-21",
+  "publisher_publication_date": "2026-09-21",
+  "pages": 46,
+  "bytes": 612137,
+  "sha256": "065979305b2fc1593abb343e72a86d0ed9c967c089d1a9cbf91be650de25eff2",
+  "format": "application/pdf",
+  "doi": {
+    "work_all_versions": "10.5281/zenodo.19198249",
+    "exact_release": "10.5281/zenodo.22874934"
+  },
+  "publisher_url": "https://zenodo.org/records/22874934",
+  "edition_url": "https://constraintsystemsinstitute.org/manuscripts/structure/sha256-065979305b2fc1593abb343e72a86d0ed9c967c089d1a9cbf91be650de25eff2/",
+  "pdf_url": "https://constraintsystemsinstitute.org/manuscripts/structure/sha256-065979305b2fc1593abb343e72a86d0ed9c967c089d1a9cbf91be650de25eff2/manuscript.pdf",
+  "reading_aid_url": "https://constraintsystemsinstitute.org/manuscripts/structure/sha256-065979305b2fc1593abb343e72a86d0ed9c967c089d1a9cbf91be650de25eff2/summary.md",
+  "verification": "PDF downloaded from the exact publisher release and SHA256 matched; no independent theorem proof audit.",
+  "conversion": "PDF is authoritative; HTML and Markdown are attributed reading aids, not a complete manuscript conversion.",
+  "citation": "Amos Jay Maley. The Structure of Admissibility: Bivalent Qualification, Exhaustion, and the Unique Admissible Interior. Publication reference, 2026-09-21. SHA256 065979305b2fc1593abb343e72a86d0ed9c967c089d1a9cbf91be650de25eff2. DOI: 10.5281/zenodo.22874934."
+}

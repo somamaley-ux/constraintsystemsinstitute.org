@@ -1,0 +1,15 @@
+{
+  "work_doi": "10.5281/zenodo.18518484",
+  "exact_release_doi": "10.5281/zenodo.22875044",
+  "title": "Unus Solus Possibilis Est: Uniqueness of the Admissible Interior",
+  "publisher_publication_date": "2026-09-21",
+  "publisher_version": null,
+  "sha256": "c66b90dc63718f50ea4b50b7a21ff128dbc195bef42dbeb1d78f73417d7c654d",
+  "bytes": 492738,
+  "pages": 30,
+  "pdf_url": "https://constraintsystemsinstitute.org/manuscripts/zenodo-18518484/sha256-c66b90dc63718f50ea4b50b7a21ff128dbc195bef42dbeb1d78f73417d7c654d/manuscript.pdf",
+  "canonical_work_url": "https://constraintsystemsinstitute.org/papers/unus-solus-possibilis-est-uniqueness-10-5281-zenodo-18518484/",
+  "publisher_url": "https://zenodo.org/records/22875044",
+  "verification": "Publisher checksum and SHA256 checked; searchable original PDF, no independent proof audit.",
+  "conversion": "No complete manuscript HTML conversion. Repository descriptions are attributed reading aids or publisher metadata."
+}

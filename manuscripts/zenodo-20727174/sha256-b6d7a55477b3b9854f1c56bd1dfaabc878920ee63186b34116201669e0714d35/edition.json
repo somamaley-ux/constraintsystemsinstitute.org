@@ -1,0 +1,15 @@
+{
+  "work_doi": "10.5281/zenodo.20727174",
+  "exact_release_doi": "10.5281/zenodo.21053625",
+  "title": "Black Holes as Licensed Limit Regimes (Black Hole ARC 0)",
+  "publisher_publication_date": "2026-06-30",
+  "publisher_version": null,
+  "sha256": "b6d7a55477b3b9854f1c56bd1dfaabc878920ee63186b34116201669e0714d35",
+  "bytes": 640716,
+  "pages": 81,
+  "pdf_url": "https://constraintsystemsinstitute.org/manuscripts/zenodo-20727174/sha256-b6d7a55477b3b9854f1c56bd1dfaabc878920ee63186b34116201669e0714d35/manuscript.pdf",
+  "canonical_work_url": "https://constraintsystemsinstitute.org/papers/black-holes-as-licensed-limit-regimes-black-hole-arc-0-10-5281-zenodo-20727174/",
+  "publisher_url": "https://zenodo.org/records/21053625",
+  "verification": "Publisher checksum and SHA256 checked; searchable original PDF, no independent proof audit.",
+  "conversion": "No complete manuscript HTML conversion. Repository descriptions are attributed reading aids or publisher metadata."
+}

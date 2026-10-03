@@ -1,0 +1,15 @@
+{
+  "work_doi": "10.5281/zenodo.21825104",
+  "exact_release_doi": "10.5281/zenodo.21825106",
+  "title": "Classical Matter Occupancy and Joint-Constraint Closure under AASC",
+  "publisher_publication_date": "2026-08-06",
+  "publisher_version": null,
+  "sha256": "aa8a3dedbf63e61b6889e24f8a7d1e179b8f7535e8b9a00fd48204f780296225",
+  "bytes": 1044364,
+  "pages": 86,
+  "pdf_url": "https://constraintsystemsinstitute.org/manuscripts/zenodo-21825104/sha256-aa8a3dedbf63e61b6889e24f8a7d1e179b8f7535e8b9a00fd48204f780296225/manuscript.pdf",
+  "canonical_work_url": "https://constraintsystemsinstitute.org/papers/wdw-4-classical-matter-occupancy-and-joint-constraint-closure-under-aasc-10-5281-zenod/",
+  "publisher_url": "https://zenodo.org/records/21825106",
+  "verification": "Publisher checksum and SHA256 checked; searchable original PDF, no independent proof audit.",
+  "conversion": "No complete manuscript HTML conversion. Repository descriptions are attributed reading aids or publisher metadata."
+}

@@ -1,0 +1,15 @@
+{
+  "work_doi": "10.5281/zenodo.19988044",
+  "exact_release_doi": "10.5281/zenodo.19988045",
+  "title": "Boundary-Trace Fixation under Admissibility",
+  "publisher_publication_date": "2026-05-02",
+  "publisher_version": null,
+  "sha256": "3344a3ec4c9094434ed73629db75d6e714192a3db3e199412ca41d25877f5a6d",
+  "bytes": 477994,
+  "pages": 25,
+  "pdf_url": "https://constraintsystemsinstitute.org/manuscripts/zenodo-19988044/sha256-3344a3ec4c9094434ed73629db75d6e714192a3db3e199412ca41d25877f5a6d/manuscript.pdf",
+  "canonical_work_url": "https://constraintsystemsinstitute.org/papers/boundary-trace-fixation-under-admissibility-10-5281-zenodo-19988044/",
+  "publisher_url": "https://zenodo.org/records/19988045",
+  "verification": "Publisher checksum and SHA256 checked; searchable original PDF, no independent proof audit.",
+  "conversion": "No complete manuscript HTML conversion. Repository descriptions are attributed reading aids or publisher metadata."
+}

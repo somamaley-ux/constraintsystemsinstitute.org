@@ -1,0 +1,15 @@
+{
+  "work_doi": "10.5281/zenodo.21242672",
+  "exact_release_doi": "10.5281/zenodo.21394149",
+  "title": "The AASC–Combinatorics Sunflower Endpoint Bridge",
+  "publisher_publication_date": "2026-07-16",
+  "publisher_version": null,
+  "sha256": "343cb09759187dabbb563d034bda0e8f4cb53006518c46d9f04d125a0adee2a6",
+  "bytes": 636194,
+  "pages": 49,
+  "pdf_url": "https://constraintsystemsinstitute.org/manuscripts/zenodo-21242672/sha256-343cb09759187dabbb563d034bda0e8f4cb53006518c46d9f04d125a0adee2a6/manuscript.pdf",
+  "canonical_work_url": "https://constraintsystemsinstitute.org/papers/sunflower-endpoint-rigidity-and-kernel-forced-aasc-transfer-10-5281-zenodo-21242672/",
+  "publisher_url": "https://zenodo.org/records/21394149",
+  "verification": "Publisher checksum and SHA256 checked; searchable original PDF, no independent proof audit.",
+  "conversion": "No complete manuscript HTML conversion. Repository descriptions are attributed reading aids or publisher metadata."
+}

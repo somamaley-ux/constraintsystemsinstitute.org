@@ -1,0 +1,24 @@
+{
+  "id": "metricity",
+  "title": "Metricity as Licensed Description",
+  "subtitle": "The L-Metric Boundary and the Realized Physical Interior",
+  "author": "Amos Jay Maley",
+  "edition_label": "May 2026 manuscript",
+  "manuscript_cover_date": "2026-05",
+  "publisher_publication_date": "2026-05-22",
+  "pages": 45,
+  "bytes": 534152,
+  "sha256": "6d73b71c267ea80973994c18c669b338338280887b5a358396e8e05cb7a2801e",
+  "format": "application/pdf",
+  "doi": {
+    "work_all_versions": "10.5281/zenodo.20338474",
+    "exact_release": "10.5281/zenodo.20338475"
+  },
+  "publisher_url": "https://zenodo.org/records/20338475",
+  "edition_url": "https://constraintsystemsinstitute.org/manuscripts/metricity/sha256-6d73b71c267ea80973994c18c669b338338280887b5a358396e8e05cb7a2801e/",
+  "pdf_url": "https://constraintsystemsinstitute.org/manuscripts/metricity/sha256-6d73b71c267ea80973994c18c669b338338280887b5a358396e8e05cb7a2801e/manuscript.pdf",
+  "reading_aid_url": "https://constraintsystemsinstitute.org/manuscripts/metricity/sha256-6d73b71c267ea80973994c18c669b338338280887b5a358396e8e05cb7a2801e/summary.md",
+  "verification": "PDF downloaded from the exact publisher release and SHA256 matched; no independent theorem proof audit.",
+  "conversion": "PDF is authoritative; HTML and Markdown are attributed reading aids, not a complete manuscript conversion.",
+  "citation": "Amos Jay Maley. Metricity as Licensed Description: The L-Metric Boundary and the Realized Physical Interior. May 2026 manuscript, 2026-05. SHA256 6d73b71c267ea80973994c18c669b338338280887b5a358396e8e05cb7a2801e. DOI: 10.5281/zenodo.20338475."
+}

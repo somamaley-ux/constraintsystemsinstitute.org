@@ -1,0 +1,15 @@
+{
+  "work_doi": "10.5281/zenodo.22337280",
+  "exact_release_doi": "10.5281/zenodo.22337281",
+  "title": "Standing Carrier Identity Closure",
+  "publisher_publication_date": "2026-09-05",
+  "publisher_version": null,
+  "sha256": "1d6d988abd5b89aee374e554091932a26ae7cbfe535a42efe8cf805c10168121",
+  "bytes": 304952,
+  "pages": 21,
+  "pdf_url": "https://constraintsystemsinstitute.org/manuscripts/zenodo-22337280/sha256-1d6d988abd5b89aee374e554091932a26ae7cbfe535a42efe8cf805c10168121/manuscript.pdf",
+  "canonical_work_url": "https://constraintsystemsinstitute.org/papers/standing-carrier-identity-closure-22337280/",
+  "publisher_url": "https://zenodo.org/records/22337281",
+  "verification": "Publisher checksum and SHA256 checked; searchable original PDF, no independent proof audit.",
+  "conversion": "No complete manuscript HTML conversion. Repository descriptions are attributed reading aids or publisher metadata."
+}

@@ -1,0 +1,15 @@
+{
+  "work_doi": "10.5281/zenodo.21824424",
+  "exact_release_doi": "10.5281/zenodo.21824425",
+  "title": "Connection-Typed Canonical Projection of the Frozen Einstein–Source Realization",
+  "publisher_publication_date": "2026-08-06",
+  "publisher_version": null,
+  "sha256": "427d371b310197507cd01a549a07daec4c769ca4e39c0a30c808283f57a13a72",
+  "bytes": 713098,
+  "pages": 58,
+  "pdf_url": "https://constraintsystemsinstitute.org/manuscripts/zenodo-21824424/sha256-427d371b310197507cd01a549a07daec4c769ca4e39c0a30c808283f57a13a72/manuscript.pdf",
+  "canonical_work_url": "https://constraintsystemsinstitute.org/papers/wdw-1-connection-typed-canonical-projection-of-the-frozen-einstein-source-realization/",
+  "publisher_url": "https://zenodo.org/records/21824425",
+  "verification": "Publisher checksum and SHA256 checked; searchable original PDF, no independent proof audit.",
+  "conversion": "No complete manuscript HTML conversion. Repository descriptions are attributed reading aids or publisher metadata."
+}

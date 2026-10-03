@@ -1,0 +1,15 @@
+{
+  "work_doi": "10.5281/zenodo.19492854",
+  "exact_release_doi": "10.5281/zenodo.19640681",
+  "title": "Vacuum-sector mass gap for the local gauge-invariant sharp-local Yang–Mills net",
+  "publisher_publication_date": "2026-04-18",
+  "publisher_version": null,
+  "sha256": "643ccc64dc0fa79f20fbf6ddacd38166d9e8530b66ab53d1a0bc8ea70ee204ed",
+  "bytes": 601842,
+  "pages": 57,
+  "pdf_url": "https://constraintsystemsinstitute.org/manuscripts/zenodo-19492854/sha256-643ccc64dc0fa79f20fbf6ddacd38166d9e8530b66ab53d1a0bc8ea70ee204ed/manuscript.pdf",
+  "canonical_work_url": "https://constraintsystemsinstitute.org/papers/vacuum-sector-mass-gap-for-the-local-gauge-invariant-sharp-local-yang-mills-net-10-528/",
+  "publisher_url": "https://zenodo.org/records/19640681",
+  "verification": "Publisher checksum and SHA256 checked; searchable original PDF, no independent proof audit.",
+  "conversion": "No complete manuscript HTML conversion. Repository descriptions are attributed reading aids or publisher metadata."
+}

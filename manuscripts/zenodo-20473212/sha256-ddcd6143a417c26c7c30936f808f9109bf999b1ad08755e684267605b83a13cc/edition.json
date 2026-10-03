@@ -1,0 +1,15 @@
+{
+  "work_doi": "10.5281/zenodo.20473212",
+  "exact_release_doi": "10.5281/zenodo.20673768",
+  "title": "The Riemann Hypothesis by Exclusion of the Prime-Trace Amplitude Separator",
+  "publisher_publication_date": "2026-06-13",
+  "publisher_version": null,
+  "sha256": "ddcd6143a417c26c7c30936f808f9109bf999b1ad08755e684267605b83a13cc",
+  "bytes": 702506,
+  "pages": 73,
+  "pdf_url": "https://constraintsystemsinstitute.org/manuscripts/zenodo-20473212/sha256-ddcd6143a417c26c7c30936f808f9109bf999b1ad08755e684267605b83a13cc/manuscript.pdf",
+  "canonical_work_url": "https://constraintsystemsinstitute.org/papers/the-riemann-hypothesis-by-exclusion-of-the-prime-trace-amplitude-separator-10-5281-zen/",
+  "publisher_url": "https://zenodo.org/records/20673768",
+  "verification": "Publisher checksum and SHA256 checked; searchable original PDF, no independent proof audit.",
+  "conversion": "No complete manuscript HTML conversion. Repository descriptions are attributed reading aids or publisher metadata."
+}

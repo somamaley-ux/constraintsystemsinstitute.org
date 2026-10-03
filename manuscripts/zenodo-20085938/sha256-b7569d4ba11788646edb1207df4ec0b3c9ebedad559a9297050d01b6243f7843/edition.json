@@ -1,0 +1,15 @@
+{
+  "work_doi": "10.5281/zenodo.20085938",
+  "exact_release_doi": "10.5281/zenodo.20085939",
+  "title": "Constraint-Bundle Forcing under Fixed-Domain Evaluability",
+  "publisher_publication_date": "2026-05-08",
+  "publisher_version": null,
+  "sha256": "b7569d4ba11788646edb1207df4ec0b3c9ebedad559a9297050d01b6243f7843",
+  "bytes": 354603,
+  "pages": 27,
+  "pdf_url": "https://constraintsystemsinstitute.org/manuscripts/zenodo-20085938/sha256-b7569d4ba11788646edb1207df4ec0b3c9ebedad559a9297050d01b6243f7843/manuscript.pdf",
+  "canonical_work_url": "https://constraintsystemsinstitute.org/papers/constraint-bundle-forcing-under-fixed-domain-evaluability-10-5281-zenodo-20085938/",
+  "publisher_url": "https://zenodo.org/records/20085939",
+  "verification": "Publisher checksum and SHA256 checked; searchable original PDF, no independent proof audit.",
+  "conversion": "No complete manuscript HTML conversion. Repository descriptions are attributed reading aids or publisher metadata."
+}

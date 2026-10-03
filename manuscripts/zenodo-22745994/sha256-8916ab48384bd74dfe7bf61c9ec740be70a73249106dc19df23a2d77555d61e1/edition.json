@@ -1,0 +1,15 @@
+{
+  "work_doi": "10.5281/zenodo.22745994",
+  "exact_release_doi": "10.5281/zenodo.22745995",
+  "title": "Joint Standing-Carrier Closure for the Neutrino Sector",
+  "publisher_publication_date": "2026-09-14",
+  "publisher_version": null,
+  "sha256": "8916ab48384bd74dfe7bf61c9ec740be70a73249106dc19df23a2d77555d61e1",
+  "bytes": 625959,
+  "pages": 86,
+  "pdf_url": "https://constraintsystemsinstitute.org/manuscripts/zenodo-22745994/sha256-8916ab48384bd74dfe7bf61c9ec740be70a73249106dc19df23a2d77555d61e1/manuscript.pdf",
+  "canonical_work_url": "https://constraintsystemsinstitute.org/papers/joint-standing-carrier-closure-for-the-neutrino-sector-22745994/",
+  "publisher_url": "https://zenodo.org/records/22745995",
+  "verification": "Publisher checksum and SHA256 checked; searchable original PDF, no independent proof audit.",
+  "conversion": "No complete manuscript HTML conversion. Repository descriptions are attributed reading aids or publisher metadata."
+}

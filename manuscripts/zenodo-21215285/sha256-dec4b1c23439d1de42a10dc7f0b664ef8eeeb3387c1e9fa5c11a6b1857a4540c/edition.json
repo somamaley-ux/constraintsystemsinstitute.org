@@ -1,0 +1,15 @@
+{
+  "work_doi": "10.5281/zenodo.21215285",
+  "exact_release_doi": "10.5281/zenodo.22877229",
+  "title": "Generation Cardinality as a Forced Role-Occupancy Endpoint",
+  "publisher_publication_date": "2026-09-21",
+  "publisher_version": null,
+  "sha256": "dec4b1c23439d1de42a10dc7f0b664ef8eeeb3387c1e9fa5c11a6b1857a4540c",
+  "bytes": 506472,
+  "pages": 30,
+  "pdf_url": "https://constraintsystemsinstitute.org/manuscripts/zenodo-21215285/sha256-dec4b1c23439d1de42a10dc7f0b664ef8eeeb3387c1e9fa5c11a6b1857a4540c/manuscript.pdf",
+  "canonical_work_url": "https://constraintsystemsinstitute.org/papers/generation-cardinality-as-a-forced-role-occupancy-endpoint-10-5281-zenodo-21215285/",
+  "publisher_url": "https://zenodo.org/records/22877229",
+  "verification": "Publisher checksum and SHA256 checked; searchable original PDF, no independent proof audit.",
+  "conversion": "No complete manuscript HTML conversion. Repository descriptions are attributed reading aids or publisher metadata."
+}

@@ -1,0 +1,15 @@
+{
+  "work_doi": "10.5281/zenodo.18582766",
+  "exact_release_doi": "10.5281/zenodo.20322687",
+  "title": "Null Propagation as the Causal-Limit Invariant: Why the Speed of Light Is a Metric Representative",
+  "publisher_publication_date": "2026-05-21",
+  "publisher_version": null,
+  "sha256": "d4ec22f4e44188856367a437ca3380082416dbe009a93afe31400ca2e54b33c5",
+  "bytes": 252621,
+  "pages": 9,
+  "pdf_url": "https://constraintsystemsinstitute.org/manuscripts/zenodo-18582766/sha256-d4ec22f4e44188856367a437ca3380082416dbe009a93afe31400ca2e54b33c5/manuscript.pdf",
+  "canonical_work_url": "https://constraintsystemsinstitute.org/papers/null-propagation-as-the-causal-limit-invariant-why-the-speed-of-light-is-a-metric-repr/",
+  "publisher_url": "https://zenodo.org/records/20322687",
+  "verification": "Publisher checksum and SHA256 checked; searchable original PDF, no independent proof audit.",
+  "conversion": "No complete manuscript HTML conversion. Repository descriptions are attributed reading aids or publisher metadata."
+}

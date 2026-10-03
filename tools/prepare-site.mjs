@@ -1,4 +1,5 @@
 import fs from 'node:fs';
+import { routeRepositoryLinks } from './repository-links.mjs';
 import path from 'node:path';
 import { fileURLToPath } from 'node:url';
 import { enrichPaperPages, cleanSearchSitemap } from './enrich-paper-pages.mjs';
@@ -54,6 +55,7 @@ for (const file of selectedFiles || walk(root)) {
   let html = fs.readFileSync(file, 'utf8');
   if (!html.includes('</head>') || !html.includes('</body>')) continue;
   const before = html;
+  html = routeRepositoryLinks(root,html,path.relative(root,file).replaceAll('\\','/'));
   html = html.replace(/\r\n?/g, '\n');
   const rel = path.relative(root, file).replaceAll('\\', '/');
   const isHome = rel === 'index.html';
@@ -103,7 +105,7 @@ for (const file of selectedFiles || walk(root)) {
     });
     if (mainId) html = html.replace(/<body\b[^>]*>/i, tag => `${tag}\n<a class="site-skip-link" href="#${mainId}">Skip to content</a>`);
   }
-  if (paper) {
+  if (paper && !/data-paper-layout=["']repository["']/.test(html)) {
     // Reuse a source record already on the page; do not add duplicate links.
     html = html.replace(/\s*<!-- VERSION_GUIDANCE -->[\s\S]*?<!-- \/VERSION_GUIDANCE -->/g, '');
     const record = paper.zenodo_record;

@@ -1,0 +1,15 @@
+{
+  "work_doi": "10.5281/zenodo.22724292",
+  "exact_release_doi": "10.5281/zenodo.22892799",
+  "title": "Compatible Role-Occupancy Closure for the Neutrino Propagation Role Complex",
+  "publisher_publication_date": "2026-09-22",
+  "publisher_version": null,
+  "sha256": "0af9c1455e689ec4cc03c6f465e5363b5b639c40b0dc28c2b7a4a14ba1dcf6c0",
+  "bytes": 721233,
+  "pages": 62,
+  "pdf_url": "https://constraintsystemsinstitute.org/manuscripts/zenodo-22724292/sha256-0af9c1455e689ec4cc03c6f465e5363b5b639c40b0dc28c2b7a4a14ba1dcf6c0/manuscript.pdf",
+  "canonical_work_url": "https://constraintsystemsinstitute.org/papers/compatible-role-occupancy-closure-for-the-neutrino-propagation-role-complex-22724292/",
+  "publisher_url": "https://zenodo.org/records/22892799",
+  "verification": "Publisher checksum and SHA256 checked; searchable original PDF, no independent proof audit.",
+  "conversion": "No complete manuscript HTML conversion. Repository descriptions are attributed reading aids or publisher metadata."
+}

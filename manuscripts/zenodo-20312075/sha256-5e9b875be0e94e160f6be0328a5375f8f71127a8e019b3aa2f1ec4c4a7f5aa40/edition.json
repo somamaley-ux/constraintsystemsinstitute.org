@@ -1,0 +1,15 @@
+{
+  "work_doi": "10.5281/zenodo.20312075",
+  "exact_release_doi": "10.5281/zenodo.20425101",
+  "title": "Claim Standing and Legitimacy",
+  "publisher_publication_date": "2026-05-27",
+  "publisher_version": null,
+  "sha256": "5e9b875be0e94e160f6be0328a5375f8f71127a8e019b3aa2f1ec4c4a7f5aa40",
+  "bytes": 641745,
+  "pages": 60,
+  "pdf_url": "https://constraintsystemsinstitute.org/manuscripts/zenodo-20312075/sha256-5e9b875be0e94e160f6be0328a5375f8f71127a8e019b3aa2f1ec4c4a7f5aa40/manuscript.pdf",
+  "canonical_work_url": "https://constraintsystemsinstitute.org/papers/claim-standing-and-legitimacy-10-5281-zenodo-20312075/",
+  "publisher_url": "https://zenodo.org/records/20425101",
+  "verification": "Publisher checksum and SHA256 checked; searchable original PDF, no independent proof audit.",
+  "conversion": "No complete manuscript HTML conversion. Repository descriptions are attributed reading aids or publisher metadata."
+}

@@ -1,0 +1,15 @@
+{
+  "work_doi": "10.5281/zenodo.20129593",
+  "exact_release_doi": "10.5281/zenodo.20129594",
+  "title": "Gauge Structure from Boundary-Trace Fixation",
+  "publisher_publication_date": "2026-05-12",
+  "publisher_version": null,
+  "sha256": "5fd817156e3539804686455ea0bfb81a97b53384ed01269c4da49dd54aa8bdff",
+  "bytes": 334314,
+  "pages": 13,
+  "pdf_url": "https://constraintsystemsinstitute.org/manuscripts/zenodo-20129593/sha256-5fd817156e3539804686455ea0bfb81a97b53384ed01269c4da49dd54aa8bdff/manuscript.pdf",
+  "canonical_work_url": "https://constraintsystemsinstitute.org/papers/gauge-structure-from-boundary-trace-fixation-10-5281-zenodo-20129593/",
+  "publisher_url": "https://zenodo.org/records/20129594",
+  "verification": "Publisher checksum and SHA256 checked; searchable original PDF, no independent proof audit.",
+  "conversion": "No complete manuscript HTML conversion. Repository descriptions are attributed reading aids or publisher metadata."
+}

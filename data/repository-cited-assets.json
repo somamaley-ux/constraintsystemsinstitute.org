@@ -1,0 +1,138 @@
+{
+  "/black-holes/pdf/bh-0.pdf": {
+    "url": "/papers/black-holes-as-licensed-limit-regimes-black-hole-arc-0-10-5281-zenodo-20727174/",
+    "work_doi": "10.5281/zenodo.20727174",
+    "title": "Black Holes as Licensed Limit Regimes (Black Hole ARC 0)",
+    "sha256": "b6d7a55477b3b9854f1c56bd1dfaabc878920ee63186b34116201669e0714d35",
+    "legacy_pdf_url": "/black-holes/pdf/bh-0.pdf",
+    "same_as_current_published_pdf": true
+  },
+  "/black-holes/pdf/bh-1.pdf": {
+    "url": "/papers/horizon-instability-as-an-admissible-reconstruction-obstruction-black-hole-arc-1-10-52/",
+    "work_doi": "10.5281/zenodo.20073764",
+    "title": "Horizon Instability as an Admissible Reconstruction Obstruction (Black Hole ARC 1)",
+    "sha256": "82eb5f23fed4a165675871473ecec9aa4c77cfc7a361dc54f943b6dc6e19d27c",
+    "legacy_pdf_url": "/black-holes/pdf/bh-1.pdf",
+    "same_as_current_published_pdf": true
+  },
+  "/black-holes/pdf/bh-2.pdf": {
+    "url": "/papers/standingless-interiors-and-residual-coherence-black-hole-arc-2-10-5281-zenodo-20727246/",
+    "work_doi": "10.5281/zenodo.20727246",
+    "title": "Standingless Interiors and Residual Coherence (Black Hole ARC 2)",
+    "sha256": "eadcf09b5d86e9184568e333c10b0c56a3654dbb0bf7624a9bcb41e3f26900db",
+    "legacy_pdf_url": "/black-holes/pdf/bh-2.pdf",
+    "same_as_current_published_pdf": true
+  },
+  "/black-holes/pdf/bh-3.pdf": {
+    "url": "/papers/ametric-normal-form-homology-black-hole-arc-3-10-5281-zenodo-20835451/",
+    "work_doi": "10.5281/zenodo.20835451",
+    "title": "AMetric Normal-Form Homology (Black Hole ARC 3)",
+    "sha256": "7c0864b0fec733dd09a54096f3f2cca184d2ca0fc8a8b738749dbe9d16a54690",
+    "legacy_pdf_url": "/black-holes/pdf/bh-3.pdf",
+    "same_as_current_published_pdf": true
+  },
+  "/black-holes/pdf/bh-4.pdf": {
+    "url": "/papers/black-holes-as-constraint-forced-origins-black-hole-arc-4-10-5281-zenodo-21053982/",
+    "work_doi": "10.5281/zenodo.21053982",
+    "title": "Black Holes as Constraint-Forced Origins (Black Hole ARC 4)",
+    "sha256": "1f5103797d597a71beb6f8e7ac57ca4094e4cb54333e87d2416be9c0ecc7f78a",
+    "legacy_pdf_url": "/black-holes/pdf/bh-4.pdf",
+    "same_as_current_published_pdf": true
+  },
+  "/papers/quantum-measurement-under-aasc/quantum-measurement-under-aasc.pdf": {
+    "url": "/papers/quantum-measurement-under-aasc/",
+    "work_doi": "10.5281/zenodo.22693784",
+    "title": "Quantum Measurement under AASC: Physical Sources, Finite Detectors, Persistent Records and Actual Events",
+    "sha256": "2ac6b35e9db0134f912435bb35082ac9d25751f952c817424308017e52aa4096",
+    "legacy_pdf_url": "/papers/quantum-measurement-under-aasc/quantum-measurement-under-aasc.pdf",
+    "same_as_current_published_pdf": true
+  },
+  "/standard-model/pdf/bcrs-1.pdf": {
+    "url": "/standard-model/papers/bcrs-1/",
+    "work_doi": "10.5281/zenodo.22662358",
+    "title": "Premetric Bosonic Response Structure in the Standard Model",
+    "sha256": "f6d8ca32260c6023d91763c4489bb9f424221159ded5aaee532e4eb75285d456",
+    "legacy_pdf_url": "/standard-model/pdf/bcrs-1.pdf",
+    "same_as_current_published_pdf": false
+  },
+  "/standard-model/pdf/bcrs-2c.pdf": {
+    "url": "/standard-model/papers/bcrs-2c/",
+    "work_doi": "10.5281/zenodo.22662905",
+    "title": "Color Realization from a Premetric Response Atlas",
+    "sha256": "0e7de1382abc36797cb3d3d4a678be9efc3dbb086e1e9c99d26b6f596af76a3a",
+    "legacy_pdf_url": "/standard-model/pdf/bcrs-2c.pdf",
+    "same_as_current_published_pdf": false
+  },
+  "/standard-model/pdf/bcrs-2ewh.pdf": {
+    "url": "/standard-model/papers/bcrs-2ewh/",
+    "work_doi": "10.5281/zenodo.22662994",
+    "title": "Electroweak and Higgs Realization from a Premetric Response Atlas",
+    "sha256": "7c21882fefbf36abe795b2a8d8cf4ed925c54da7574e93bc826b0a82db1a68fd",
+    "legacy_pdf_url": "/standard-model/pdf/bcrs-2ewh.pdf",
+    "same_as_current_published_pdf": false
+  },
+  "/standard-model/pdf/bcrs-3.pdf": {
+    "url": "/standard-model/papers/bcrs-3/",
+    "work_doi": "10.5281/zenodo.22663085",
+    "title": "The Bosonic Carrier–Response–Projection Atlas",
+    "sha256": "701e5ef78a503d1706da64857456a27db6a5f7d6b7fd1c377ad14c8295f59255",
+    "legacy_pdf_url": "/standard-model/pdf/bcrs-3.pdf",
+    "same_as_current_published_pdf": false
+  },
+  "/standard-model/pdf/csp-c.pdf": {
+    "url": "/standard-model/papers/csp-c/",
+    "work_doi": "10.5281/zenodo.22663416",
+    "title": "Classical Standard Model and Gravity from a Common Constraint-Governed Source",
+    "sha256": "3e2da988e2d044585cd9eabb283fe8f678c7439bda36be743c96491f2ff68729",
+    "legacy_pdf_url": "/standard-model/pdf/csp-c.pdf",
+    "same_as_current_published_pdf": false
+  },
+  "/standard-model/pdf/csp-p.pdf": {
+    "url": "/standard-model/papers/csp-p/",
+    "work_doi": "10.5281/zenodo.22663481",
+    "title": "Common Physical Sources for a Constraint-Derived Standard Model",
+    "sha256": "80d5a8a15ac59a3be5fc9cc8f8dd746ea02d4b8a9b40cc4add7187a1ea6f14d9",
+    "legacy_pdf_url": "/standard-model/pdf/csp-p.pdf",
+    "same_as_current_published_pdf": false
+  },
+  "/standard-model/pdf/csp-r.pdf": {
+    "url": "/standard-model/papers/csp-r/",
+    "work_doi": "10.5281/zenodo.22663541",
+    "title": "The Persistence Bearer and the Reconstruction of Standard-Model Roles",
+    "sha256": "cb06b4aa309b5cb2ca9409bf37f4c1ee8579077b7c14ae1904b2b8269e1185b0",
+    "legacy_pdf_url": "/standard-model/pdf/csp-r.pdf",
+    "same_as_current_published_pdf": false
+  },
+  "/standard-model/pdf/csp-s.pdf": {
+    "url": "/standard-model/papers/csp-s/",
+    "work_doi": "10.5281/zenodo.22663327",
+    "title": "The Standard Model as a Constraint-Derived Carrier–Response Structure",
+    "sha256": "39608c7aecd62e48d31b2c70d8be2dea78e9d40e87fccb69c27f70a567594952",
+    "legacy_pdf_url": "/standard-model/pdf/csp-s.pdf",
+    "same_as_current_published_pdf": false
+  },
+  "/standard-model/pdf/fcgs-1.pdf": {
+    "url": "/standard-model/papers/fcgs-1/",
+    "work_doi": "10.5281/zenodo.22661742",
+    "title": "Premetric Exact-Three Root Structure and the Generation-Governed Standard-Model Matter Bundle",
+    "sha256": "71ed38a71402e7ce79d1cd216ec1e0d473d9ba422de0b917846cf8d21822b1cc",
+    "legacy_pdf_url": "/standard-model/pdf/fcgs-1.pdf",
+    "same_as_current_published_pdf": false
+  },
+  "/standard-model/pdf/fcgs-2.pdf": {
+    "url": "/standard-model/papers/fcgs-2/",
+    "work_doi": "10.5281/zenodo.22661888",
+    "title": "Terminal Nonpromotion and Target-Relative Factorization in Charged and Colored Matter",
+    "sha256": "b51125c297e495076d518d7917c52b0f0404a5420948d6bc037eaa55f20b9bc7",
+    "legacy_pdf_url": "/standard-model/pdf/fcgs-2.pdf",
+    "same_as_current_published_pdf": false
+  },
+  "/standard-model/pdf/fcgs-3.pdf": {
+    "url": "/standard-model/papers/fcgs-3/",
+    "work_doi": "10.5281/zenodo.22662083",
+    "title": "Structural Universality and Exact Terminal Bifurcation",
+    "sha256": "7bbbf335be2084a230dfbb2219ca58ae983cd93b0c9ce7a94cf2ffef98940b12",
+    "legacy_pdf_url": "/standard-model/pdf/fcgs-3.pdf",
+    "same_as_current_published_pdf": false
+  }
+}

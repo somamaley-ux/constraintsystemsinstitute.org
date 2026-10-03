@@ -1,0 +1,15 @@
+{
+  "work_doi": "10.5281/zenodo.21825975",
+  "exact_release_doi": "10.5281/zenodo.21825976",
+  "title": "Profile-Clock Exhaustion and Constraint-Induced Cauchy-Germ Evolution for the Wheeler–DeWitt Constraint",
+  "publisher_publication_date": "2026-08-06",
+  "publisher_version": null,
+  "sha256": "0bea3f4493089ff782b4d6ba8e44ba5154b491c8dfd411430321371ede86628a",
+  "bytes": 629282,
+  "pages": 39,
+  "pdf_url": "https://constraintsystemsinstitute.org/manuscripts/zenodo-21825975/sha256-0bea3f4493089ff782b4d6ba8e44ba5154b491c8dfd411430321371ede86628a/manuscript.pdf",
+  "canonical_work_url": "https://constraintsystemsinstitute.org/papers/wdw-7-profile-clock-exhaustion-and-constraint-induced-cauchy-germ-evolution-for-the-wh/",
+  "publisher_url": "https://zenodo.org/records/21825976",
+  "verification": "Publisher checksum and SHA256 checked; searchable original PDF, no independent proof audit.",
+  "conversion": "No complete manuscript HTML conversion. Repository descriptions are attributed reading aids or publisher metadata."
+}

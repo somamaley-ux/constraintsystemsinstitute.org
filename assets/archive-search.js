@@ -1,85 +1,33 @@
 (() => {
-  'use strict';
-  const input = document.querySelector('#corpus-search-input');
-  const results = document.querySelector('#corpus-search-results');
-  const meta = document.querySelector('#corpus-search-meta');
-  const clear = document.querySelector('#corpus-search-clear');
-  const more = document.querySelector('#corpus-search-more');
-  if (!input || !results || !meta || !clear || !more) return;
-  const normalize = text => String(text || '').normalize('NFKD').replace(/[\u0300-\u036f]/g, '').toLocaleLowerCase('en');
-  const clean = text => String(text || '').replace(/\s+/g, ' ').trim();
-  const entries = new Map();
-  let visible = 12; let catalogueCount = 0; let catalogueLoaded = false;
-  const safeUrl = href => { try { const url = new URL(href, location.href); return ['http:','https:'].includes(url.protocol) ? url.href : null; } catch { return null; } };
-  const titleFrom = link => {
-    if (link.dataset.paperTitle) return clean(link.dataset.paperTitle);
-    const text = clean(link.textContent);
-    const articleTitle = link.closest('article')?.querySelector('h3')?.textContent;
-    return clean(link.querySelector('span')?.textContent || ((/^(read|open|view|add|submit|prepare)\b/i.test(text) || /^10\.\d{4,9}\//.test(text)) && articleTitle ? articleTitle : text || articleTitle));
-  };
-  const contextFrom = link => {
-    const shelf = link.closest('.shelf'); if (shelf) return clean(shelf.querySelector('summary')?.textContent || 'Manuscript shelf');
-    const container = link.closest('.topic-card,.doi-card,.project-card,.arc-focus-card');
-    return clean(container?.querySelector('.repo-type')?.textContent || (link.closest('.paper-table') ? 'Major Paper Catalogue' : 'Archive'));
-  };
-  for (const link of document.querySelectorAll('main a[href]')) {
-    const raw = link.getAttribute('href') || '';
-    if (!link.hasAttribute('data-paper-link') && !/doi\.org|zenodo\.org|github\.com/.test(raw)) continue;
-    const href = safeUrl(raw); const title = titleFrom(link);
-    const key = link.dataset.paperDoi ? safeUrl('https://doi.org/' + link.dataset.paperDoi) : href;
-    if (!href || !key || title.length < 3) continue;
-    const context = contextFrom(link);
-    const surrounding = link.dataset.paperDescription || link.closest('article, .topic-card')?.querySelector('p')?.textContent || '';
-    const label = link.hasAttribute('data-paper-link') ? 'Manuscript' : href.includes('doi.org') ? href.replace('https://doi.org/', '') : new URL(href).hostname;
-    const previous = entries.get(key);
-    entries.set(key, {href:key,title:previous?.title || title,context:previous?.context || context,label:link.dataset.paperDoi || previous?.label || label,manuscriptUrl:link.hasAttribute('data-paper-link') ? href : previous?.manuscriptUrl,search:normalize(`${previous?.search || ''} ${title} ${href} ${link.dataset.paperDoi || ''} ${context} ${surrounding}`)});
-  }
-  function render() {
-    const query = input.value.trim(); const terms = normalize(query).split(/\s+/).filter(Boolean);
-    results.replaceChildren(); clear.hidden = !input.value;
-    if (!terms.length) {
-      meta.textContent = catalogueLoaded ? `Search ${catalogueCount} catalogue papers and linked archive sources.` : 'Search linked archive sources. The full catalogue is loading.';
-      more.hidden = true; return;
-    }
-    const matches = [...entries.values()].filter(entry => terms.every(term => entry.search.includes(term))).map(entry => ({...entry,score:terms.reduce((score,term) => score + (normalize(entry.title).includes(term) ? 4 : 0) + (normalize(entry.label).includes(term) ? 3 : 0),0)})).sort((a,b) => b.score-a.score || a.title.localeCompare(b.title,'en'));
-    const shown = matches.slice(0,visible);
-    meta.textContent = matches.length ? `${matches.length} archive ${matches.length === 1 ? 'result' : 'results'} · showing ${shown.length}${catalogueLoaded ? '' : ' · linked sources only'}` : `No ${catalogueLoaded ? 'archive' : 'linked source'} results. Try a broader term or a DOI.`;
-    for (const match of shown) {
-      const item = document.createElement('article'); item.className = 'search-result';
-      const context = document.createElement('span'); context.textContent = match.context;
-      const title = document.createElement('strong'); const primary = document.createElement('a'); primary.href = match.manuscriptUrl || match.href; primary.textContent = match.title; title.append(primary);
-      const label = document.createElement('em');
-      if (match.manuscriptUrl) {const doi=document.createElement('a');doi.href=match.href;doi.textContent=match.label;doi.setAttribute('aria-label',`DOI for ${match.title}`);label.append(doi);} else label.textContent = match.label;
-      item.append(context,title,label); results.append(item);
-    }
-    if (!matches.length) { const note = document.createElement('p'); note.className = 'archive-search-empty'; note.textContent = 'You can also browse the '; const link = document.createElement('a'); link.href = '/papers/'; link.textContent = 'complete manuscript index'; note.append(link, '.'); results.append(note); }
-    more.hidden = matches.length <= visible;
-  }
-  function search(term) { input.value = term; visible = 12; render(); }
-  input.addEventListener('input', () => {visible=12;render();});
-  clear.addEventListener('click', () => {search('');input.focus({preventScroll:true});});
-  for (const button of document.querySelectorAll('[data-search-term]')) button.addEventListener('click', () => {search(button.dataset.searchTerm);input.focus({preventScroll:true});});
-  more.addEventListener('click', () => {const firstNew=results.children.length;visible+=12;render();results.children[firstNew]?.querySelector('a')?.focus({preventScroll:true});});
-  document.addEventListener('keydown', event => {
-    if (event.ctrlKey || event.altKey || event.metaKey || event.isComposing) return;
-    const editing = event.target instanceof Element && (event.target.matches('input,textarea,select') || event.target.isContentEditable);
-    if (event.key === '/' && !editing) {event.preventDefault();input.focus();}
-    if (event.key === 'Escape' && event.target === input) {event.preventDefault();search('');}
-  });
-  render();
-  fetch('/papers.json').then(response => {if(!response.ok) throw new Error('Catalogue unavailable');return response.json();}).then(data => {
-    if(!Array.isArray(data)) throw new Error('Invalid catalogue');
-    for(const paper of data) {
-      const href = safeUrl(paper.doi_url); const title = clean(paper.title);
-      if(!href || !title) continue;
-      const existing = entries.get(href);
-      const context = clean(paper.context || 'Manuscript catalogue'); const label = clean(paper.doi || 'All-version DOI');
-      entries.set(href, {href,title,context,label,manuscriptUrl:safeUrl(paper.url) || existing?.manuscriptUrl,search:normalize(`${title} ${label} ${paper.url || ''} ${context} ${paper.keywords || ''} ${paper.description || ''}`)});
-      catalogueCount++;
-    }
-    catalogueLoaded=true;render();
-  }).catch(() => {
-    render();
-    if(!input.value.trim()) meta.textContent='The full catalogue is unavailable. You can still search linked archive sources.';
-  });
+ 'use strict';
+ const input=document.querySelector('#corpus-search-input'),results=document.querySelector('#corpus-search-results'),meta=document.querySelector('#corpus-search-meta'),clear=document.querySelector('#corpus-search-clear'),more=document.querySelector('#corpus-search-more');
+ if(!input||!results||!meta||!clear||!more)return;
+ const subject=document.querySelector('#corpus-subject'),order=document.querySelector('#corpus-order'),list=document.querySelector('#repository-list');
+ const normal=value=>String(value||'').normalize('NFKD').replace(/[\u0300-\u036f]/g,'').toLocaleLowerCase('en');
+ const safe=href=>{try{const u=new URL(href,location.href);return ['http:','https:'].includes(u.protocol)?u.href:null}catch{return null}};
+ const entries=new Map();let visible=12,loaded=false,count=0;
+ const params=new URLSearchParams(location.search);if(subject&&[...subject.options].some(o=>o.value===params.get('subject')))subject.value=params.get('subject');if(order&&params.get('sort')==='recent')order.value='recent';input.value=params.get('q')||'';
+ for(const link of document.querySelectorAll('main a[href*="github.com/"]')){
+  const href=safe(link.href),title=(link.closest('article')?.querySelector('h3')?.textContent||link.textContent||'').trim();if(href&&title.length>3&&!entries.has(href))entries.set(href,{href,title,label:'GitHub repository',context:'Formalization and reference releases',subjects:['Formalization and reference releases'],search:normal(title+' '+href+' lean repository')});
+ }
+ function render(){
+  const terms=normal(input.value.trim()).split(/\s+/).filter(Boolean),filter=subject?.value||'',recent=order?.value==='recent';results.replaceChildren();clear.hidden=!input.value;
+  const active=terms.length||filter||recent;if(list)list.hidden=!!active;
+  if(!active){meta.textContent=loaded?`${count} repository records. Search by title, concept or DOI.`:'Loading the repository catalogue.';more.hidden=true;return}
+  const matches=[...entries.values()].filter(e=>(!filter||e.subjects.includes(filter))&&terms.every(t=>e.search.includes(t))).map(e=>({...e,score:terms.reduce((n,t)=>n+(normal(e.title).includes(t)?4:0)+(normal(e.label).includes(t)?3:0),0)})).sort((a,b)=>recent?(b.date||'').localeCompare(a.date||'')||a.title.localeCompare(b.title):b.score-a.score||a.title.localeCompare(b.title));
+  const shown=matches.slice(0,visible);meta.textContent=matches.length?`${matches.length} ${matches.length===1?'result':'results'} - showing ${shown.length}`:'No results. Try a broader term or another subject.';
+  for(const e of shown){const row=document.createElement('article');row.className='search-result';const context=document.createElement('span');context.textContent=e.context;const strong=document.createElement('strong'),a=document.createElement('a');a.href=e.href;a.textContent=e.title;strong.append(a);const label=document.createElement('em');label.textContent=e.label+(e.withdrawn?' - publisher withdrawn':'');row.append(context,strong,label);results.append(row)}
+  more.hidden=matches.length<=visible;
+ }
+ function change(){visible=12;render()}
+ input.addEventListener('input',change);subject?.addEventListener('change',change);order?.addEventListener('change',change);
+ clear.addEventListener('click',()=>{input.value='';change();input.focus({preventScroll:true})});
+ for(const button of document.querySelectorAll('[data-search-term]'))button.addEventListener('click',()=>{input.value=button.dataset.searchTerm;change();input.focus({preventScroll:true})});
+ more.addEventListener('click',()=>{const first=results.children.length;visible+=12;render();results.children[first]?.querySelector('a')?.focus({preventScroll:true})});
+ document.addEventListener('keydown',event=>{if(event.ctrlKey||event.altKey||event.metaKey||event.isComposing)return;const editing=event.target instanceof Element&&(event.target.matches('input,textarea,select')||event.target.isContentEditable);if(event.key==='/'&&!editing){event.preventDefault();input.focus()}if(event.key==='Escape'&&event.target===input){event.preventDefault();input.value='';change()}});
+ render();fetch('/papers.json').then(r=>{if(!r.ok)throw Error('Catalogue unavailable');return r.json()}).then(papers=>{
+  if(!Array.isArray(papers))throw Error('Invalid catalogue');
+  for(const p of papers){const href=safe(p.url);if(!href||!p.title)continue;const labels=p.subjects||['Other research'],exact=p.preferred_edition?.doi||p.preferred_release?.doi;entries.set(p.doi,{href,title:p.title,label:p.doi,context:labels.join(' / '),subjects:labels,date:p.preferred_edition?.publisher_publication_date||p.preferred_release?.publisher_publication_date||p.date,withdrawn:p.release_status==='publisher_withdrawn',search:normal(`${p.title} ${p.doi} ${exact||''} ${p.url} ${p.keywords||''} ${p.description||''} ${labels.join(' ')} ${(p.research_groups||[]).join(' ')}`)});count++}
+  document.body.classList.add('repository-search-ready');loaded=true;render();
+ }).catch(()=>{if(list)list.hidden=false;meta.textContent='Search is temporarily unavailable. Browse the complete repository below.';more.hidden=true});
 })();

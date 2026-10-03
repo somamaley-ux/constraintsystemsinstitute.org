@@ -1,0 +1,15 @@
+{
+  "work_doi": "10.5281/zenodo.21827063",
+  "exact_release_doi": "10.5281/zenodo.21827064",
+  "title": "Covariant–Canonical Reconciliation and Controlled Semiclassical Recovery for the Wheeler–DeWitt Constraint",
+  "publisher_publication_date": "2026-08-06",
+  "publisher_version": null,
+  "sha256": "3aa6a2658ee98e00e8fa364685a316dbd036692992dc4f891ee63b6fffaf7b26",
+  "bytes": 712323,
+  "pages": 50,
+  "pdf_url": "https://constraintsystemsinstitute.org/manuscripts/zenodo-21827063/sha256-3aa6a2658ee98e00e8fa364685a316dbd036692992dc4f891ee63b6fffaf7b26/manuscript.pdf",
+  "canonical_work_url": "https://constraintsystemsinstitute.org/papers/wdw-8-covariant-canonical-reconciliation-and-controlled-semiclassical-recovery-for-the/",
+  "publisher_url": "https://zenodo.org/records/21827064",
+  "verification": "Publisher checksum and SHA256 checked; searchable original PDF, no independent proof audit.",
+  "conversion": "No complete manuscript HTML conversion. Repository descriptions are attributed reading aids or publisher metadata."
+}

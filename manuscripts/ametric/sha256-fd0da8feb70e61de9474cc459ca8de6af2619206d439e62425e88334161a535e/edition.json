@@ -1,0 +1,24 @@
+{
+  "id": "ametric",
+  "title": "The AMetric Boundary as a Unique Regime-Invariant Constraint on Admissibility-Bearing Construction",
+  "subtitle": "Pre-fixational authority, non-transmissivity, and complete interfaces",
+  "author": "Amos Jay Maley",
+  "edition_label": "Reference edition",
+  "manuscript_cover_date": "2026-09-20",
+  "publisher_publication_date": "2026-09-19",
+  "pages": 67,
+  "bytes": 676133,
+  "sha256": "fd0da8feb70e61de9474cc459ca8de6af2619206d439e62425e88334161a535e",
+  "format": "application/pdf",
+  "doi": {
+    "work_all_versions": "10.5281/zenodo.18603144",
+    "exact_release": "10.5281/zenodo.22848051"
+  },
+  "publisher_url": "https://zenodo.org/records/22848051",
+  "edition_url": "https://constraintsystemsinstitute.org/manuscripts/ametric/sha256-fd0da8feb70e61de9474cc459ca8de6af2619206d439e62425e88334161a535e/",
+  "pdf_url": "https://constraintsystemsinstitute.org/manuscripts/ametric/sha256-fd0da8feb70e61de9474cc459ca8de6af2619206d439e62425e88334161a535e/manuscript.pdf",
+  "reading_aid_url": "https://constraintsystemsinstitute.org/manuscripts/ametric/sha256-fd0da8feb70e61de9474cc459ca8de6af2619206d439e62425e88334161a535e/summary.md",
+  "verification": "PDF downloaded from the exact publisher release and SHA256 matched; no independent theorem proof audit.",
+  "conversion": "PDF is authoritative; HTML and Markdown are attributed reading aids, not a complete manuscript conversion.",
+  "citation": "Amos Jay Maley. The AMetric Boundary as a Unique Regime-Invariant Constraint on Admissibility-Bearing Construction: Pre-fixational authority, non-transmissivity, and complete interfaces. Reference edition, 2026-09-20. SHA256 fd0da8feb70e61de9474cc459ca8de6af2619206d439e62425e88334161a535e. DOI: 10.5281/zenodo.22848051."
+}

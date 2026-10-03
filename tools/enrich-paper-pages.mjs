@@ -17,6 +17,9 @@ export function enrichPaperPages(root, selectedFiles = null) {
     const paper = catalogue.find(p => p.url === entry.page && p.doi === entry.doi);
     if (!paper || !fs.existsSync(file)) throw new Error(`Source page/DOI mismatch: ${entry.doi}`);
     let html = fs.readFileSync(file,'utf8');
+    // Exact-release repository pages own current publisher descriptions; keep the
+    // all-version source manifest without injecting it as a different edition.
+    if (/data-paper-layout=["']repository["']/.test(html)) continue;
     const before = html;
     html = html.replace(/\r\n?/g,'\n').replace(/\s*<!-- PAPER_CONTENT -->[\s\S]*?<!-- \/PAPER_CONTENT -->/g,'');
     const metaList = /<dl\b[^>]*class=["'][^"']*\bpaper-meta-list\b[^"']*["'][^>]*>/i;

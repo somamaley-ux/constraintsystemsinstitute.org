@@ -1,0 +1,15 @@
+{
+  "work_doi": "10.5281/zenodo.21825298",
+  "exact_release_doi": "10.5281/zenodo.21825299",
+  "title": "Configuration-Space Differentiation and the Constraint-Native Wheeler–DeWitt Candidate Family",
+  "publisher_publication_date": "2026-08-06",
+  "publisher_version": null,
+  "sha256": "f86f5d5608eae5351d6cf540a0007e3a5c81b7d5c3651ceca23644b2e85ec1fa",
+  "bytes": 331453,
+  "pages": 45,
+  "pdf_url": "https://constraintsystemsinstitute.org/manuscripts/zenodo-21825298/sha256-f86f5d5608eae5351d6cf540a0007e3a5c81b7d5c3651ceca23644b2e85ec1fa/manuscript.pdf",
+  "canonical_work_url": "https://constraintsystemsinstitute.org/papers/wdw-5-configuration-space-differentiation-and-the-constraint-native-wheeler-dewitt-can/",
+  "publisher_url": "https://zenodo.org/records/21825299",
+  "verification": "Publisher checksum and SHA256 checked; searchable original PDF, no independent proof audit.",
+  "conversion": "No complete manuscript HTML conversion. Repository descriptions are attributed reading aids or publisher metadata."
+}

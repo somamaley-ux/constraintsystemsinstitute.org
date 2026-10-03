@@ -1,0 +1,15 @@
+{
+  "work_doi": "10.5281/zenodo.21616179",
+  "exact_release_doi": "10.5281/zenodo.21616180",
+  "title": "Common Mass-Charge Matching and Universal Inertial–Active Proportionality under AASC",
+  "publisher_publication_date": "2026-07-27",
+  "publisher_version": null,
+  "sha256": "5e70e62a9a7c93900d927baa09f8b2af7d04dd1eda47ddef2dc25dcd02d916b3",
+  "bytes": 722283,
+  "pages": 63,
+  "pdf_url": "https://constraintsystemsinstitute.org/manuscripts/zenodo-21616179/sha256-5e70e62a9a7c93900d927baa09f8b2af7d04dd1eda47ddef2dc25dcd02d916b3/manuscript.pdf",
+  "canonical_work_url": "https://constraintsystemsinstitute.org/papers/module-b-common-mass-charge-matching-10-5281-zenodo-21616179/",
+  "publisher_url": "https://zenodo.org/records/21616180",
+  "verification": "Publisher checksum and SHA256 checked; searchable original PDF, no independent proof audit.",
+  "conversion": "No complete manuscript HTML conversion. Repository descriptions are attributed reading aids or publisher metadata."
+}

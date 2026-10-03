@@ -1,0 +1,15 @@
+{
+  "work_doi": "10.5281/zenodo.19977506",
+  "exact_release_doi": "10.5281/zenodo.19977507",
+  "title": "Gauge-Coupling Parameters and Forced Uniqueness under Admissible Redescription (Constants)",
+  "publisher_publication_date": "2026-05-02",
+  "publisher_version": null,
+  "sha256": "2ee4e840c904843f75f274a9039725554d84d19e59e413ccd4fa85f26f9042c1",
+  "bytes": 378281,
+  "pages": 29,
+  "pdf_url": "https://constraintsystemsinstitute.org/manuscripts/zenodo-19977506/sha256-2ee4e840c904843f75f274a9039725554d84d19e59e413ccd4fa85f26f9042c1/manuscript.pdf",
+  "canonical_work_url": "https://constraintsystemsinstitute.org/papers/gauge-coupling-parameters-and-forced-uniqueness-under-admissible-redescription-constan/",
+  "publisher_url": "https://zenodo.org/records/19977507",
+  "verification": "Publisher checksum and SHA256 checked; searchable original PDF, no independent proof audit.",
+  "conversion": "No complete manuscript HTML conversion. Repository descriptions are attributed reading aids or publisher metadata."
+}

@@ -1,0 +1,15 @@
+{
+  "work_doi": "10.5281/zenodo.20039309",
+  "exact_release_doi": "10.5281/zenodo.20039310",
+  "title": "A Classification Theorem for Admissible Standard-Model Structures",
+  "publisher_publication_date": "2026-05-05",
+  "publisher_version": null,
+  "sha256": "3aa37d699c266fd5a4cdc2a806c67ec162ae5066b4a9d38e5c3e2275bbbb9ea6",
+  "bytes": 444388,
+  "pages": 41,
+  "pdf_url": "https://constraintsystemsinstitute.org/manuscripts/zenodo-20039309/sha256-3aa37d699c266fd5a4cdc2a806c67ec162ae5066b4a9d38e5c3e2275bbbb9ea6/manuscript.pdf",
+  "canonical_work_url": "https://constraintsystemsinstitute.org/papers/a-classification-theorem-for-admissible-standard-model-structures-10-5281-zenodo-20039/",
+  "publisher_url": "https://zenodo.org/records/20039310",
+  "verification": "Publisher checksum and SHA256 checked; searchable original PDF, no independent proof audit.",
+  "conversion": "No complete manuscript HTML conversion. Repository descriptions are attributed reading aids or publisher metadata."
+}

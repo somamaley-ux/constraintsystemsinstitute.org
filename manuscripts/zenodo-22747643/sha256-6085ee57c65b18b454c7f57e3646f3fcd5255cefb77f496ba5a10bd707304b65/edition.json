@@ -1,0 +1,15 @@
+{
+  "work_doi": "10.5281/zenodo.22747643",
+  "exact_release_doi": "10.5281/zenodo.22747644",
+  "title": "Physical Nature and Minimal Identity of the Neutrino Carrier",
+  "publisher_publication_date": "2026-09-14",
+  "publisher_version": null,
+  "sha256": "6085ee57c65b18b454c7f57e3646f3fcd5255cefb77f496ba5a10bd707304b65",
+  "bytes": 614980,
+  "pages": 50,
+  "pdf_url": "https://constraintsystemsinstitute.org/manuscripts/zenodo-22747643/sha256-6085ee57c65b18b454c7f57e3646f3fcd5255cefb77f496ba5a10bd707304b65/manuscript.pdf",
+  "canonical_work_url": "https://constraintsystemsinstitute.org/papers/physical-nature-and-minimal-identity-of-the-neutrino-carrier-22747643/",
+  "publisher_url": "https://zenodo.org/records/22747644",
+  "verification": "Publisher checksum and SHA256 checked; searchable original PDF, no independent proof audit.",
+  "conversion": "No complete manuscript HTML conversion. Repository descriptions are attributed reading aids or publisher metadata."
+}

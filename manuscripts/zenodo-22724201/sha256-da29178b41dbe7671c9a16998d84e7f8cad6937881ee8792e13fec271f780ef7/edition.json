@@ -1,0 +1,15 @@
+{
+  "work_doi": "10.5281/zenodo.22724201",
+  "exact_release_doi": "10.5281/zenodo.22724202",
+  "title": "Simultaneous Physical Constraint Collapse of the Neutrino Carrier Universe",
+  "publisher_publication_date": "2026-09-12",
+  "publisher_version": null,
+  "sha256": "da29178b41dbe7671c9a16998d84e7f8cad6937881ee8792e13fec271f780ef7",
+  "bytes": 573871,
+  "pages": 67,
+  "pdf_url": "https://constraintsystemsinstitute.org/manuscripts/zenodo-22724201/sha256-da29178b41dbe7671c9a16998d84e7f8cad6937881ee8792e13fec271f780ef7/manuscript.pdf",
+  "canonical_work_url": "https://constraintsystemsinstitute.org/papers/simultaneous-physical-constraint-collapse-of-the-neutrino-carrier-universe-22724201/",
+  "publisher_url": "https://zenodo.org/records/22724202",
+  "verification": "Publisher checksum and SHA256 checked; searchable original PDF, no independent proof audit.",
+  "conversion": "No complete manuscript HTML conversion. Repository descriptions are attributed reading aids or publisher metadata."
+}

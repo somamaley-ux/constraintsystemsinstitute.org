@@ -1,0 +1,24 @@
+{
+  "id": "kernel",
+  "title": "Non-Degenerate Construction and the Kernel of Admissibility",
+  "subtitle": "An Exhaustion Theorem for Standing, Reference, and Irreversibility",
+  "author": "Amos Jay Maley",
+  "edition_label": "Reference edition",
+  "manuscript_cover_date": "2026-09-26",
+  "publisher_publication_date": "2026-09-25",
+  "pages": 73,
+  "bytes": 659394,
+  "sha256": "4e1bafc4844d90ca7ba5268d1b6b5ee21bf92f082a2a61b4eea039faed0c037e",
+  "format": "application/pdf",
+  "doi": {
+    "work_all_versions": "10.5281/zenodo.19324199",
+    "exact_release": "10.5281/zenodo.22968658"
+  },
+  "publisher_url": "https://zenodo.org/records/22968658",
+  "edition_url": "https://constraintsystemsinstitute.org/manuscripts/kernel/sha256-4e1bafc4844d90ca7ba5268d1b6b5ee21bf92f082a2a61b4eea039faed0c037e/",
+  "pdf_url": "https://constraintsystemsinstitute.org/manuscripts/kernel/sha256-4e1bafc4844d90ca7ba5268d1b6b5ee21bf92f082a2a61b4eea039faed0c037e/manuscript.pdf",
+  "reading_aid_url": "https://constraintsystemsinstitute.org/manuscripts/kernel/sha256-4e1bafc4844d90ca7ba5268d1b6b5ee21bf92f082a2a61b4eea039faed0c037e/summary.md",
+  "verification": "PDF downloaded from the exact publisher release and SHA256 matched; no independent theorem proof audit.",
+  "conversion": "PDF is authoritative; HTML and Markdown are attributed reading aids, not a complete manuscript conversion.",
+  "citation": "Amos Jay Maley. Non-Degenerate Construction and the Kernel of Admissibility: An Exhaustion Theorem for Standing, Reference, and Irreversibility. Reference edition, 2026-09-26. SHA256 4e1bafc4844d90ca7ba5268d1b6b5ee21bf92f082a2a61b4eea039faed0c037e. DOI: 10.5281/zenodo.22968658."
+}

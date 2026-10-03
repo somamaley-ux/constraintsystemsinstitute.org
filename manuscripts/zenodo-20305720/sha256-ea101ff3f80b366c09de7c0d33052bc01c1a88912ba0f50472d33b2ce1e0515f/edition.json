@@ -1,0 +1,15 @@
+{
+  "work_doi": "10.5281/zenodo.20305720",
+  "exact_release_doi": "10.5281/zenodo.20323596",
+  "title": "The Standalone Standard Model Structure from First Principles",
+  "publisher_publication_date": "2026-05-21",
+  "publisher_version": null,
+  "sha256": "ea101ff3f80b366c09de7c0d33052bc01c1a88912ba0f50472d33b2ce1e0515f",
+  "bytes": 697477,
+  "pages": 59,
+  "pdf_url": "https://constraintsystemsinstitute.org/manuscripts/zenodo-20305720/sha256-ea101ff3f80b366c09de7c0d33052bc01c1a88912ba0f50472d33b2ce1e0515f/manuscript.pdf",
+  "canonical_work_url": "https://constraintsystemsinstitute.org/papers/the-standalone-standard-model-structure-from-first-principles-10-5281-zenodo-20305720/",
+  "publisher_url": "https://zenodo.org/records/20323596",
+  "verification": "Publisher checksum and SHA256 checked; searchable original PDF, no independent proof audit.",
+  "conversion": "No complete manuscript HTML conversion. Repository descriptions are attributed reading aids or publisher metadata."
+}

@@ -1,0 +1,15 @@
+{
+  "work_doi": "10.5281/zenodo.22661888",
+  "exact_release_doi": "10.5281/zenodo.22892608",
+  "title": "Terminal Nonpromotion and Target-Relative Factorization in Charged and Colored Matter",
+  "publisher_publication_date": "2026-09-22",
+  "publisher_version": null,
+  "sha256": "bbb51ad6be304512479353f6c033d20b1f034afc1b6167e4fd27fb6ec1c26229",
+  "bytes": 766486,
+  "pages": 45,
+  "pdf_url": "https://constraintsystemsinstitute.org/manuscripts/zenodo-22661888/sha256-bbb51ad6be304512479353f6c033d20b1f034afc1b6167e4fd27fb6ec1c26229/manuscript.pdf",
+  "canonical_work_url": "https://constraintsystemsinstitute.org/standard-model/papers/fcgs-2/",
+  "publisher_url": "https://zenodo.org/records/22892608",
+  "verification": "Publisher checksum and SHA256 checked; searchable original PDF, no independent proof audit.",
+  "conversion": "No complete manuscript HTML conversion. Repository descriptions are attributed reading aids or publisher metadata."
+}

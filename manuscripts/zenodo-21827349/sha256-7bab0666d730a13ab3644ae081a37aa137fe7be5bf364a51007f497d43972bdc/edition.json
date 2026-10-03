@@ -1,0 +1,15 @@
+{
+  "work_doi": "10.5281/zenodo.21827349",
+  "exact_release_doi": "10.5281/zenodo.21827350",
+  "title": "Global Clock-Neutral Relational Descent and Universality Closure",
+  "publisher_publication_date": "2026-08-06",
+  "publisher_version": null,
+  "sha256": "7bab0666d730a13ab3644ae081a37aa137fe7be5bf364a51007f497d43972bdc",
+  "bytes": 960264,
+  "pages": 59,
+  "pdf_url": "https://constraintsystemsinstitute.org/manuscripts/zenodo-21827349/sha256-7bab0666d730a13ab3644ae081a37aa137fe7be5bf364a51007f497d43972bdc/manuscript.pdf",
+  "canonical_work_url": "https://constraintsystemsinstitute.org/papers/wdw-10-global-clock-neutral-relational-descent-and-universality-closure-10-5281-zenodo/",
+  "publisher_url": "https://zenodo.org/records/21827350",
+  "verification": "Publisher checksum and SHA256 checked; searchable original PDF, no independent proof audit.",
+  "conversion": "No complete manuscript HTML conversion. Repository descriptions are attributed reading aids or publisher metadata."
+}

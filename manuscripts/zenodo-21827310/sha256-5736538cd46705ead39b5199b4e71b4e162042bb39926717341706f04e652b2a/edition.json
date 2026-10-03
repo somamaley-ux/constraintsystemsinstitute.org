@@ -1,0 +1,15 @@
+{
+  "work_doi": "10.5281/zenodo.21827310",
+  "exact_release_doi": "10.5281/zenodo.21827311",
+  "title": "Complete Joint Constraint-Kernel Realization Closure for the Wheeler–DeWitt System",
+  "publisher_publication_date": "2026-08-06",
+  "publisher_version": null,
+  "sha256": "5736538cd46705ead39b5199b4e71b4e162042bb39926717341706f04e652b2a",
+  "bytes": 742334,
+  "pages": 44,
+  "pdf_url": "https://constraintsystemsinstitute.org/manuscripts/zenodo-21827310/sha256-5736538cd46705ead39b5199b4e71b4e162042bb39926717341706f04e652b2a/manuscript.pdf",
+  "canonical_work_url": "https://constraintsystemsinstitute.org/papers/wdw-9-complete-joint-constraint-kernel-realization-closure-for-the-wheeler-dewitt-syst/",
+  "publisher_url": "https://zenodo.org/records/21827311",
+  "verification": "Publisher checksum and SHA256 checked; searchable original PDF, no independent proof audit.",
+  "conversion": "No complete manuscript HTML conversion. Repository descriptions are attributed reading aids or publisher metadata."
+}

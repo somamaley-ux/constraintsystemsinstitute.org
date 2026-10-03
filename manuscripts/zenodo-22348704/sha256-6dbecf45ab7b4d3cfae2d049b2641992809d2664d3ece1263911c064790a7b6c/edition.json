@@ -1,0 +1,15 @@
+{
+  "work_doi": "10.5281/zenodo.22348704",
+  "exact_release_doi": "10.5281/zenodo.22348705",
+  "title": "The Discrete Symmetry Ledger of the Standard Model",
+  "publisher_publication_date": "2026-09-05",
+  "publisher_version": null,
+  "sha256": "6dbecf45ab7b4d3cfae2d049b2641992809d2664d3ece1263911c064790a7b6c",
+  "bytes": 515606,
+  "pages": 106,
+  "pdf_url": "https://constraintsystemsinstitute.org/manuscripts/zenodo-22348704/sha256-6dbecf45ab7b4d3cfae2d049b2641992809d2664d3ece1263911c064790a7b6c/manuscript.pdf",
+  "canonical_work_url": "https://constraintsystemsinstitute.org/papers/the-discrete-symmetry-ledger-of-the-standard-model-22348704/",
+  "publisher_url": "https://zenodo.org/records/22348705",
+  "verification": "Publisher checksum and SHA256 checked; searchable original PDF, no independent proof audit.",
+  "conversion": "No complete manuscript HTML conversion. Repository descriptions are attributed reading aids or publisher metadata."
+}

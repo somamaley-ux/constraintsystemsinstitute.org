@@ -1,0 +1,15 @@
+{
+  "work_doi": "10.5281/zenodo.18514647",
+  "exact_release_doi": "10.5281/zenodo.21306603",
+  "title": "Admissible Record Construction in Physically Non-Selective Quantum Regimes (Measurement Problem)",
+  "publisher_publication_date": "2026-07-11",
+  "publisher_version": null,
+  "sha256": "578d3af3a1e1fc4fa64049d42dba4883aea25cf89f642fc46cfcb4acb07d4f16",
+  "bytes": 963919,
+  "pages": 121,
+  "pdf_url": "https://constraintsystemsinstitute.org/manuscripts/zenodo-18514647/sha256-578d3af3a1e1fc4fa64049d42dba4883aea25cf89f642fc46cfcb4acb07d4f16/manuscript.pdf",
+  "canonical_work_url": "https://constraintsystemsinstitute.org/papers/admissible-record-construction-in-physically-non-selective-quantum-regimes-measurement/",
+  "publisher_url": "https://zenodo.org/records/21306603",
+  "verification": "Publisher checksum and SHA256 checked; searchable original PDF, no independent proof audit.",
+  "conversion": "No complete manuscript HTML conversion. Repository descriptions are attributed reading aids or publisher metadata."
+}

@@ -1,0 +1,15 @@
+{
+  "work_doi": "10.5281/zenodo.22747926",
+  "exact_release_doi": "10.5281/zenodo.22747927",
+  "title": "A Neutrino Carrier Prediction: Robustness and a Framework for Experimental Testing",
+  "publisher_publication_date": "2026-09-14",
+  "publisher_version": null,
+  "sha256": "1a01c10eebe1047c710977349ac473f403d6f561985d8094a3b103ddd2159de3",
+  "bytes": 547764,
+  "pages": 46,
+  "pdf_url": "https://constraintsystemsinstitute.org/manuscripts/zenodo-22747926/sha256-1a01c10eebe1047c710977349ac473f403d6f561985d8094a3b103ddd2159de3/manuscript.pdf",
+  "canonical_work_url": "https://constraintsystemsinstitute.org/papers/a-neutrino-carrier-prediction-robustness-and-a-framework-for-experimental-testing-22747926/",
+  "publisher_url": "https://zenodo.org/records/22747927",
+  "verification": "Publisher checksum and SHA256 checked; searchable original PDF, no independent proof audit.",
+  "conversion": "No complete manuscript HTML conversion. Repository descriptions are attributed reading aids or publisher metadata."
+}
