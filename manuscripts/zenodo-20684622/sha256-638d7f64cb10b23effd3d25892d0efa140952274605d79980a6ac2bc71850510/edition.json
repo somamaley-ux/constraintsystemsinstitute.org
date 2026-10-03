@@ -1,0 +1,16 @@
+{
+  "work_doi": "10.5281/zenodo.20684622",
+  "exact_release_doi": "10.5281/zenodo.20684623",
+  "title": "Early Metric-Interior Transport Closure",
+  "manuscript_date": "June 2026",
+  "publisher_publication_date": "2026-06-14",
+  "publisher_version": null,
+  "sha256": "638d7f64cb10b23effd3d25892d0efa140952274605d79980a6ac2bc71850510",
+  "bytes": 674461,
+  "pages": 47,
+  "pdf_url": "https://constraintsystemsinstitute.org/manuscripts/zenodo-20684622/sha256-638d7f64cb10b23effd3d25892d0efa140952274605d79980a6ac2bc71850510/manuscript.pdf",
+  "canonical_work_url": "https://constraintsystemsinstitute.org/papers/early-metric-interior-transport-closure-20684622/",
+  "publisher_url": "https://zenodo.org/records/20684623",
+  "verification": "Publisher checksum and SHA256 byte identity checked; complete searchable PDF circulation/completion marker contexts reviewed. No independent proof verification.",
+  "conversion": "Repository reading summary; no full-text HTML conversion."
+}

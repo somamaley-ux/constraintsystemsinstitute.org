@@ -4850,5 +4850,63 @@
     "research_groups": [
       "Continuation and Persistence"
     ]
+  },
+  {
+    "title": "The Higgs Bridge and the Metric Envelope",
+    "doi": "10.5281/zenodo.20727088",
+    "doi_url": "https://doi.org/10.5281/zenodo.20727088",
+    "url": "https://constraintsystemsinstitute.org/papers/higgs-bridge-and-metric-envelope-20727088/",
+    "slug": "higgs-bridge-and-metric-envelope-20727088",
+    "date": "2026-06-17",
+    "scholar_date": "2026/06/17",
+    "context": "Metric-envelope and Higgs carrier-order reading pair",
+    "report_number": "CSI-ZENODO-20727088",
+    "description": "The manuscript constructs a carrier-order witness in its fixed Higgs/electroweak/gravity comparison scope. The Higgs bridge/fixation carrier is standing-subordinate to the metric-envelope carrier imported from early metric-interior closure. A faithful positive closure-scale projection displays the resulting strict order as a ratio between zero and one; this requires the stated projection conditions. Monotone reparameterization preserves order while generally changing ratios. The result does not derive a numerical electroweak/Planck ratio, finite suppression class, unique projection or Higgs-sector parameters. Certificate assembly is a manuscript construction, not independent formal verification.",
+    "keywords": "AASC, metric envelope, carrier order, standing, early transport closure, projection",
+    "zenodo_record": "https://zenodo.org/records/20727089",
+    "preferred_edition": {
+      "pdf_url": "https://constraintsystemsinstitute.org/manuscripts/zenodo-20727088/sha256-f96607f4fe3a29a316f35ec6f56e14b8c16831f713ecf0367fdc00f39928c016/manuscript.pdf",
+      "doi": "10.5281/zenodo.20727089",
+      "publisher_publication_date": "2026-06-17",
+      "manuscript_date": "June 2026",
+      "sha256": "f96607f4fe3a29a316f35ec6f56e14b8c16831f713ecf0367fdc00f39928c016",
+      "pages": 39
+    },
+    "repository_layout": "current-paper-with-collapsed-history",
+    "subjects": [
+      "Standard Model"
+    ],
+    "research_groups": [
+      "Metric Envelope and Carrier Order"
+    ]
+  },
+  {
+    "title": "Early Metric-Interior Transport Closure",
+    "doi": "10.5281/zenodo.20684622",
+    "doi_url": "https://doi.org/10.5281/zenodo.20684622",
+    "url": "https://constraintsystemsinstitute.org/papers/early-metric-interior-transport-closure-20684622/",
+    "slug": "early-metric-interior-transport-closure-20684622",
+    "date": "2026-06-14",
+    "scholar_date": "2026/06/14",
+    "context": "Metric-envelope and Higgs carrier-order reading pair",
+    "report_number": "CSI-ZENODO-20684622",
+    "description": "The manuscript classifies support for later coherent witness families in a fixed admissible realized interior. If independent local trajectory continuation is insufficient, its necessity theorem allows early transport/closure, a declared boundary anchor or a declared richer scope; it also identifies forbidden support routes. Only the same-scope corollary with those alternatives excluded forces an early transport/closure certificate. The inflationary role is a declared metric-field-vacuum projection of that structural certificate. Closure stress means successor-neighborhood thinness, not stress-energy. The result neither selects an inflation model nor derives empirical inflation parameters, and explicitly permits richer-scope alternatives.",
+    "keywords": "AASC, metric envelope, carrier order, standing, early transport closure, projection",
+    "zenodo_record": "https://zenodo.org/records/20684623",
+    "preferred_edition": {
+      "pdf_url": "https://constraintsystemsinstitute.org/manuscripts/zenodo-20684622/sha256-638d7f64cb10b23effd3d25892d0efa140952274605d79980a6ac2bc71850510/manuscript.pdf",
+      "doi": "10.5281/zenodo.20684623",
+      "publisher_publication_date": "2026-06-14",
+      "manuscript_date": "June 2026",
+      "sha256": "638d7f64cb10b23effd3d25892d0efa140952274605d79980a6ac2bc71850510",
+      "pages": 47
+    },
+    "repository_layout": "current-paper-with-collapsed-history",
+    "subjects": [
+      "Time and cosmology"
+    ],
+    "research_groups": [
+      "Metric Envelope and Carrier Order"
+    ]
   }
 ]

@@ -1,0 +1,16 @@
+{
+  "work_doi": "10.5281/zenodo.20727088",
+  "exact_release_doi": "10.5281/zenodo.20727089",
+  "title": "The Higgs Bridge and the Metric Envelope",
+  "manuscript_date": "June 2026",
+  "publisher_publication_date": "2026-06-17",
+  "publisher_version": null,
+  "sha256": "f96607f4fe3a29a316f35ec6f56e14b8c16831f713ecf0367fdc00f39928c016",
+  "bytes": 381878,
+  "pages": 39,
+  "pdf_url": "https://constraintsystemsinstitute.org/manuscripts/zenodo-20727088/sha256-f96607f4fe3a29a316f35ec6f56e14b8c16831f713ecf0367fdc00f39928c016/manuscript.pdf",
+  "canonical_work_url": "https://constraintsystemsinstitute.org/papers/higgs-bridge-and-metric-envelope-20727088/",
+  "publisher_url": "https://zenodo.org/records/20727089",
+  "verification": "Publisher checksum and SHA256 byte identity checked; complete searchable PDF circulation/completion marker contexts reviewed. No independent proof verification.",
+  "conversion": "Repository reading summary; no full-text HTML conversion."
+}

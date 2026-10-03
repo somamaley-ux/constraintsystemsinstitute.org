@@ -1931,5 +1931,25 @@
     "url": "/papers/standing-admissibility-identity-closure-18521918/",
     "work_doi": "10.5281/zenodo.18521918",
     "title": "Standing–Admissibility Identity Closure (Equivalence)"
+  },
+  "10.5281/zenodo.20727088": {
+    "url": "/papers/higgs-bridge-and-metric-envelope-20727088/",
+    "work_doi": "10.5281/zenodo.20727088",
+    "title": "The Higgs Bridge and the Metric Envelope"
+  },
+  "10.5281/zenodo.20727089": {
+    "url": "/papers/higgs-bridge-and-metric-envelope-20727088/",
+    "work_doi": "10.5281/zenodo.20727088",
+    "title": "The Higgs Bridge and the Metric Envelope"
+  },
+  "10.5281/zenodo.20684622": {
+    "url": "/papers/early-metric-interior-transport-closure-20684622/",
+    "work_doi": "10.5281/zenodo.20684622",
+    "title": "Early Metric-Interior Transport Closure"
+  },
+  "10.5281/zenodo.20684623": {
+    "url": "/papers/early-metric-interior-transport-closure-20684622/",
+    "work_doi": "10.5281/zenodo.20684622",
+    "title": "Early Metric-Interior Transport Closure"
   }
 }
