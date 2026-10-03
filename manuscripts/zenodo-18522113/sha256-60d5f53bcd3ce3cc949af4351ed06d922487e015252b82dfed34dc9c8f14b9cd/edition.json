@@ -1,0 +1,18 @@
+{
+  "work_doi": "10.5281/zenodo.18522113",
+  "exact_release_doi": "10.5281/zenodo.20782793",
+  "title": "Eadem Natura Duo Spectra",
+  "manuscript_date": null,
+  "publisher_publication_date": "2026-06-21",
+  "publisher_version": null,
+  "sha256": "60d5f53bcd3ce3cc949af4351ed06d922487e015252b82dfed34dc9c8f14b9cd",
+  "bytes": 475908,
+  "pages": 42,
+  "pdf_url": "https://constraintsystemsinstitute.org/manuscripts/zenodo-18522113/sha256-60d5f53bcd3ce3cc949af4351ed06d922487e015252b82dfed34dc9c8f14b9cd/manuscript.pdf",
+  "canonical_work_url": "https://constraintsystemsinstitute.org/papers/eadem-natura-duo-spectra-18522113/",
+  "publisher_url": "https://zenodo.org/records/20782793",
+  "license": "CC BY 4.0",
+  "edition_role": "preferred",
+  "verification": "Current official release identity and publisher checksum checked against retained exact PDF bytes; searchable-text notice contexts reviewed. Manuscript claims not independently verified.",
+  "conversion": "Repository reading summary; no full-text HTML conversion."
+}

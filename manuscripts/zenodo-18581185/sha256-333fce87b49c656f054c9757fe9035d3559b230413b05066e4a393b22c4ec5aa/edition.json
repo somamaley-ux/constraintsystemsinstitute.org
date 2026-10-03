@@ -1,0 +1,18 @@
+{
+  "work_doi": "10.5281/zenodo.18581185",
+  "exact_release_doi": "10.5281/zenodo.20034621",
+  "title": "Rigidity of the Black–Scholes Valuation Operator",
+  "manuscript_date": null,
+  "publisher_publication_date": "2026-05-05",
+  "publisher_version": null,
+  "sha256": "333fce87b49c656f054c9757fe9035d3559b230413b05066e4a393b22c4ec5aa",
+  "bytes": 410060,
+  "pages": 23,
+  "pdf_url": "https://constraintsystemsinstitute.org/manuscripts/zenodo-18581185/sha256-333fce87b49c656f054c9757fe9035d3559b230413b05066e4a393b22c4ec5aa/manuscript.pdf",
+  "canonical_work_url": "https://constraintsystemsinstitute.org/papers/rigidity-of-the-black-scholes-valuation-operator-18581185/",
+  "publisher_url": "https://zenodo.org/records/20034621",
+  "license": "CC BY 4.0",
+  "edition_role": "preferred",
+  "verification": "Current official release identity and publisher checksum checked against retained exact PDF bytes; searchable-text notice contexts reviewed. Manuscript claims not independently verified.",
+  "conversion": "Repository reading summary; no full-text HTML conversion."
+}

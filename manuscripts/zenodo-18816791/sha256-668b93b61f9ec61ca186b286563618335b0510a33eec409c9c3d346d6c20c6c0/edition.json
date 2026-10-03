@@ -1,0 +1,18 @@
+{
+  "work_doi": "10.5281/zenodo.18816791",
+  "exact_release_doi": "10.5281/zenodo.18890304",
+  "title": "Yang–Mills Mass Gap for SU (2) in Four Dimensions",
+  "manuscript_date": null,
+  "publisher_publication_date": "2026-03-06",
+  "publisher_version": null,
+  "sha256": "668b93b61f9ec61ca186b286563618335b0510a33eec409c9c3d346d6c20c6c0",
+  "bytes": 1936298,
+  "pages": 243,
+  "pdf_url": "https://constraintsystemsinstitute.org/manuscripts/zenodo-18816791/sha256-668b93b61f9ec61ca186b286563618335b0510a33eec409c9c3d346d6c20c6c0/manuscript.pdf",
+  "canonical_work_url": "https://constraintsystemsinstitute.org/papers/yang-mills-mass-gap-for-su-2-in-four-dimensions-18816791/",
+  "publisher_url": "https://zenodo.org/records/18890304",
+  "license": "CC BY 4.0",
+  "edition_role": "preferred",
+  "verification": "Current official release identity and publisher checksum checked against retained exact PDF bytes; searchable-text notice contexts reviewed. Manuscript claims not independently verified.",
+  "conversion": "Repository reading summary; no full-text HTML conversion."
+}

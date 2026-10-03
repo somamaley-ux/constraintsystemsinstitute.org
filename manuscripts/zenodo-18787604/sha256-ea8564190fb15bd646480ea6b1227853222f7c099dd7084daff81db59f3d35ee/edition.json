@@ -1,0 +1,18 @@
+{
+  "work_doi": "10.5281/zenodo.18787604",
+  "exact_release_doi": "10.5281/zenodo.18787605",
+  "title": "Sharp Local Fields as an Ultraviolet Scope Enlargement",
+  "manuscript_date": null,
+  "publisher_publication_date": "2026-02-26",
+  "publisher_version": null,
+  "sha256": "ea8564190fb15bd646480ea6b1227853222f7c099dd7084daff81db59f3d35ee",
+  "bytes": 279011,
+  "pages": 7,
+  "pdf_url": "https://constraintsystemsinstitute.org/manuscripts/zenodo-18787604/sha256-ea8564190fb15bd646480ea6b1227853222f7c099dd7084daff81db59f3d35ee/manuscript.pdf",
+  "canonical_work_url": "https://constraintsystemsinstitute.org/papers/sharp-local-fields-as-an-ultraviolet-scope-enlargement-18787604/",
+  "publisher_url": "https://zenodo.org/records/18787605",
+  "license": "CC BY 4.0",
+  "edition_role": "preferred",
+  "verification": "Current official release identity and publisher checksum checked against retained exact PDF bytes; searchable-text notice contexts reviewed. Manuscript claims not independently verified.",
+  "conversion": "Repository reading summary; no full-text HTML conversion."
+}

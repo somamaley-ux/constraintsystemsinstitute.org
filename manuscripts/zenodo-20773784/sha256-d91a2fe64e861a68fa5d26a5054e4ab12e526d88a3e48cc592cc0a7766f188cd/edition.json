@@ -1,0 +1,18 @@
+{
+  "work_doi": "10.5281/zenodo.20773784",
+  "exact_release_doi": "10.5281/zenodo.20777671",
+  "title": "The New AMetric Boundary Endpoint of Black Holes",
+  "manuscript_date": null,
+  "publisher_publication_date": "2026-06-20",
+  "publisher_version": null,
+  "sha256": "d91a2fe64e861a68fa5d26a5054e4ab12e526d88a3e48cc592cc0a7766f188cd",
+  "bytes": 774816,
+  "pages": 127,
+  "pdf_url": "https://constraintsystemsinstitute.org/manuscripts/zenodo-20773784/sha256-d91a2fe64e861a68fa5d26a5054e4ab12e526d88a3e48cc592cc0a7766f188cd/manuscript.pdf",
+  "canonical_work_url": "https://constraintsystemsinstitute.org/papers/the-new-ametric-boundary-endpoint-of-black-holes-20773784/",
+  "publisher_url": "https://zenodo.org/records/20777671",
+  "license": "CC BY 4.0",
+  "edition_role": "preferred",
+  "verification": "Current official release identity and publisher checksum checked against retained exact PDF bytes; searchable-text notice contexts reviewed. Manuscript claims not independently verified.",
+  "conversion": "Repository reading summary; no full-text HTML conversion."
+}

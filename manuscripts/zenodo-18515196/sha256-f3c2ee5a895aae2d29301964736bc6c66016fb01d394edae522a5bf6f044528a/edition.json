@@ -1,0 +1,18 @@
+{
+  "work_doi": "10.5281/zenodo.18515196",
+  "exact_release_doi": "10.5281/zenodo.18543209",
+  "title": "L1 Paper 10 Absence of Tree Level Flavor Changing Neutral Currents",
+  "manuscript_date": null,
+  "publisher_publication_date": "2026-02-07",
+  "publisher_version": null,
+  "sha256": "f3c2ee5a895aae2d29301964736bc6c66016fb01d394edae522a5bf6f044528a",
+  "bytes": 102982,
+  "pages": 2,
+  "pdf_url": "https://constraintsystemsinstitute.org/manuscripts/zenodo-18515196/sha256-f3c2ee5a895aae2d29301964736bc6c66016fb01d394edae522a5bf6f044528a/manuscript.pdf",
+  "canonical_work_url": "https://constraintsystemsinstitute.org/papers/l1-paper-10-absence-of-tree-level-flavor-changing-neutral-currents-18515196/",
+  "publisher_url": "https://zenodo.org/records/18543209",
+  "license": "CC BY 4.0",
+  "edition_role": "preferred",
+  "verification": "Current official release identity and publisher checksum checked against retained exact PDF bytes; searchable-text notice contexts reviewed. Manuscript claims not independently verified.",
+  "conversion": "Repository reading summary; no full-text HTML conversion."
+}

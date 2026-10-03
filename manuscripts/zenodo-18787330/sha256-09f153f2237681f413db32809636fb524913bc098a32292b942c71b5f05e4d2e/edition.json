@@ -1,0 +1,18 @@
+{
+  "work_doi": "10.5281/zenodo.18787330",
+  "exact_release_doi": "10.5281/zenodo.18787331",
+  "title": "Finite depth majorant mixing and a continuum mass gap for four dimensional Yang Mills",
+  "manuscript_date": null,
+  "publisher_publication_date": "2026-02-26",
+  "publisher_version": null,
+  "sha256": "09f153f2237681f413db32809636fb524913bc098a32292b942c71b5f05e4d2e",
+  "bytes": 408792,
+  "pages": 16,
+  "pdf_url": "https://constraintsystemsinstitute.org/manuscripts/zenodo-18787330/sha256-09f153f2237681f413db32809636fb524913bc098a32292b942c71b5f05e4d2e/manuscript.pdf",
+  "canonical_work_url": "https://constraintsystemsinstitute.org/papers/finite-depth-majorant-mixing-and-a-continuum-mass-gap-for-four-dimensional-yang-mills-18787330/",
+  "publisher_url": "https://zenodo.org/records/18787331",
+  "license": "CC BY 4.0",
+  "edition_role": "preferred",
+  "verification": "Current official release identity and publisher checksum checked against retained exact PDF bytes; searchable-text notice contexts reviewed. Manuscript claims not independently verified.",
+  "conversion": "Repository reading summary; no full-text HTML conversion."
+}

@@ -1,0 +1,18 @@
+{
+  "work_doi": "10.5281/zenodo.18787375",
+  "exact_release_doi": "10.5281/zenodo.18787376",
+  "title": "Finite Depth Entrance versus Stable Manifold Renormalization Group Control",
+  "manuscript_date": null,
+  "publisher_publication_date": "2026-02-26",
+  "publisher_version": null,
+  "sha256": "91a820eff28ac7ab25f487e642df76de59699f0491392008a16f8904fa305f41",
+  "bytes": 319692,
+  "pages": 12,
+  "pdf_url": "https://constraintsystemsinstitute.org/manuscripts/zenodo-18787375/sha256-91a820eff28ac7ab25f487e642df76de59699f0491392008a16f8904fa305f41/manuscript.pdf",
+  "canonical_work_url": "https://constraintsystemsinstitute.org/papers/finite-depth-entrance-versus-stable-manifold-renormalization-group-control-18787375/",
+  "publisher_url": "https://zenodo.org/records/18787376",
+  "license": "CC BY 4.0",
+  "edition_role": "preferred",
+  "verification": "Current official release identity and publisher checksum checked against retained exact PDF bytes; searchable-text notice contexts reviewed. Manuscript claims not independently verified.",
+  "conversion": "Repository reading summary; no full-text HTML conversion."
+}

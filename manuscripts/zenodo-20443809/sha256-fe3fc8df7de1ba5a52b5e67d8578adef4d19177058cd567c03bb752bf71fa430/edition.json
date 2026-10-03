@@ -1,0 +1,18 @@
+{
+  "work_doi": "10.5281/zenodo.20443809",
+  "exact_release_doi": "10.5281/zenodo.20443810",
+  "title": "The Standing Neutrino Splitting Ratio from First-Principles Standing Admission",
+  "manuscript_date": null,
+  "publisher_publication_date": "2026-05-29",
+  "publisher_version": null,
+  "sha256": "fe3fc8df7de1ba5a52b5e67d8578adef4d19177058cd567c03bb752bf71fa430",
+  "bytes": 406845,
+  "pages": 25,
+  "pdf_url": "https://constraintsystemsinstitute.org/manuscripts/zenodo-20443809/sha256-fe3fc8df7de1ba5a52b5e67d8578adef4d19177058cd567c03bb752bf71fa430/manuscript.pdf",
+  "canonical_work_url": "https://constraintsystemsinstitute.org/papers/the-standing-neutrino-splitting-ratio-from-first-principles-standing-admission-20443809/",
+  "publisher_url": "https://zenodo.org/records/20443810",
+  "license": "CC BY 4.0",
+  "edition_role": "preferred",
+  "verification": "Current official release identity and publisher checksum checked against retained exact PDF bytes; searchable-text notice contexts reviewed. Manuscript claims not independently verified.",
+  "conversion": "Repository reading summary; no full-text HTML conversion."
+}

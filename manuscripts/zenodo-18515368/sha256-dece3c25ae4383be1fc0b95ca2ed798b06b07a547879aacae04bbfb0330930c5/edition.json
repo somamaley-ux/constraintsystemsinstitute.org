@@ -1,0 +1,18 @@
+{
+  "work_doi": "10.5281/zenodo.18515368",
+  "exact_release_doi": "10.5281/zenodo.18515369",
+  "title": "L1 Paper 2 Equivalence Completion in the QCD CP Odd Sector",
+  "manuscript_date": null,
+  "publisher_publication_date": "2026-02-07",
+  "publisher_version": null,
+  "sha256": "dece3c25ae4383be1fc0b95ca2ed798b06b07a547879aacae04bbfb0330930c5",
+  "bytes": 125995,
+  "pages": 2,
+  "pdf_url": "https://constraintsystemsinstitute.org/manuscripts/zenodo-18515368/sha256-dece3c25ae4383be1fc0b95ca2ed798b06b07a547879aacae04bbfb0330930c5/manuscript.pdf",
+  "canonical_work_url": "https://constraintsystemsinstitute.org/papers/l1-paper-2-equivalence-completion-in-the-qcd-cp-odd-sector-18515368/",
+  "publisher_url": "https://zenodo.org/records/18515369",
+  "license": "CC BY 4.0",
+  "edition_role": "preferred",
+  "verification": "Current official release identity and publisher checksum checked against retained exact PDF bytes; searchable-text notice contexts reviewed. Manuscript claims not independently verified.",
+  "conversion": "Repository reading summary; no full-text HTML conversion."
+}

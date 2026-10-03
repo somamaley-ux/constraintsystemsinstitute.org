@@ -1,0 +1,18 @@
+{
+  "work_doi": "10.5281/zenodo.18664019",
+  "exact_release_doi": "10.5281/zenodo.18671728",
+  "title": "Clausura Ex Necessitate Structurae",
+  "manuscript_date": null,
+  "publisher_publication_date": "2026-02-17",
+  "publisher_version": null,
+  "sha256": "57782dbd7812b424b09e91f5639c6cc34feb48d3892527e7820ec3025d11ceb6",
+  "bytes": 615936,
+  "pages": 56,
+  "pdf_url": "https://constraintsystemsinstitute.org/manuscripts/zenodo-18664019/sha256-57782dbd7812b424b09e91f5639c6cc34feb48d3892527e7820ec3025d11ceb6/manuscript.pdf",
+  "canonical_work_url": "https://constraintsystemsinstitute.org/papers/clausura-ex-necessitate-structurae-18664019/",
+  "publisher_url": "https://zenodo.org/records/18671728",
+  "license": "CC BY 4.0",
+  "edition_role": "preferred",
+  "verification": "Current official release identity and publisher checksum checked against retained exact PDF bytes; searchable-text notice contexts reviewed. Manuscript claims not independently verified.",
+  "conversion": "Repository reading summary; no full-text HTML conversion."
+}

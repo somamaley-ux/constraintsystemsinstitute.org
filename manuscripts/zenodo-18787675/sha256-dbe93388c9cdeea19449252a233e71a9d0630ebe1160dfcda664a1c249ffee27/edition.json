@@ -1,0 +1,18 @@
+{
+  "work_doi": "10.5281/zenodo.18787675",
+  "exact_release_doi": "10.5281/zenodo.18787676",
+  "title": "Constraint-Driven Closure and the Yang–Mills Mass Gap",
+  "manuscript_date": null,
+  "publisher_publication_date": "2026-02-26",
+  "publisher_version": null,
+  "sha256": "dbe93388c9cdeea19449252a233e71a9d0630ebe1160dfcda664a1c249ffee27",
+  "bytes": 352105,
+  "pages": 9,
+  "pdf_url": "https://constraintsystemsinstitute.org/manuscripts/zenodo-18787675/sha256-dbe93388c9cdeea19449252a233e71a9d0630ebe1160dfcda664a1c249ffee27/manuscript.pdf",
+  "canonical_work_url": "https://constraintsystemsinstitute.org/papers/constraint-driven-closure-and-the-yang-mills-mass-gap-18787675/",
+  "publisher_url": "https://zenodo.org/records/18787676",
+  "license": "CC BY 4.0",
+  "edition_role": "preferred",
+  "verification": "Current official release identity and publisher checksum checked against retained exact PDF bytes; searchable-text notice contexts reviewed. Manuscript claims not independently verified.",
+  "conversion": "Repository reading summary; no full-text HTML conversion."
+}

@@ -1,0 +1,18 @@
+{
+  "work_doi": "10.5281/zenodo.18515318",
+  "exact_release_doi": "10.5281/zenodo.18515319",
+  "title": "L1 Paper 4 EW QED EM coupling collapse",
+  "manuscript_date": null,
+  "publisher_publication_date": "2026-02-07",
+  "publisher_version": null,
+  "sha256": "0d2dd02d76d6894f6c2f065aaa88f3476e9c514a291afc26ace4aeed3cb1a309",
+  "bytes": 116944,
+  "pages": 2,
+  "pdf_url": "https://constraintsystemsinstitute.org/manuscripts/zenodo-18515318/sha256-0d2dd02d76d6894f6c2f065aaa88f3476e9c514a291afc26ace4aeed3cb1a309/manuscript.pdf",
+  "canonical_work_url": "https://constraintsystemsinstitute.org/papers/l1-paper-4-ew-qed-em-coupling-collapse-18515318/",
+  "publisher_url": "https://zenodo.org/records/18515319",
+  "license": "CC BY 4.0",
+  "edition_role": "preferred",
+  "verification": "Current official release identity and publisher checksum checked against retained exact PDF bytes; searchable-text notice contexts reviewed. Manuscript claims not independently verified.",
+  "conversion": "Repository reading summary; no full-text HTML conversion."
+}

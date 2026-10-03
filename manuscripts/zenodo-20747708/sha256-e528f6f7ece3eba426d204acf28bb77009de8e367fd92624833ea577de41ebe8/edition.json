@@ -1,0 +1,18 @@
+{
+  "work_doi": "10.5281/zenodo.20747708",
+  "exact_release_doi": "10.5281/zenodo.20747709",
+  "title": "When Claims Become Auditable: Distributed AASC/UEAP Claim-Status Audit and the Game Theory of Scientific Authority",
+  "manuscript_date": null,
+  "publisher_publication_date": "2026-06-18",
+  "publisher_version": null,
+  "sha256": "e528f6f7ece3eba426d204acf28bb77009de8e367fd92624833ea577de41ebe8",
+  "bytes": 876115,
+  "pages": 119,
+  "pdf_url": "https://constraintsystemsinstitute.org/manuscripts/zenodo-20747708/sha256-e528f6f7ece3eba426d204acf28bb77009de8e367fd92624833ea577de41ebe8/manuscript.pdf",
+  "canonical_work_url": "https://constraintsystemsinstitute.org/papers/when-claims-become-auditable-distributed-aasc-ueap-claim-status-audit-and-the-game-theory-of-scientific-authority-20747708/",
+  "publisher_url": "https://zenodo.org/records/20747709",
+  "license": "CC BY 4.0",
+  "edition_role": "preferred",
+  "verification": "Current official release identity and publisher checksum checked against retained exact PDF bytes; searchable-text notice contexts reviewed. Manuscript claims not independently verified.",
+  "conversion": "Repository reading summary; no full-text HTML conversion."
+}

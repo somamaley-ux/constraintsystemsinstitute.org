@@ -1,0 +1,18 @@
+{
+  "work_doi": "10.5281/zenodo.18515152",
+  "exact_release_doi": "10.5281/zenodo.18515153",
+  "title": "L1 Paper 12 Exhaustion and Closure of the Equivalence Space",
+  "manuscript_date": null,
+  "publisher_publication_date": "2026-02-07",
+  "publisher_version": null,
+  "sha256": "70e17286d4f3516a7053854245ebbc181fa88f7325b17d5b315da14e5f14bd70",
+  "bytes": 86354,
+  "pages": 1,
+  "pdf_url": "https://constraintsystemsinstitute.org/manuscripts/zenodo-18515152/sha256-70e17286d4f3516a7053854245ebbc181fa88f7325b17d5b315da14e5f14bd70/manuscript.pdf",
+  "canonical_work_url": "https://constraintsystemsinstitute.org/papers/l1-paper-12-exhaustion-and-closure-of-the-equivalence-space-18515152/",
+  "publisher_url": "https://zenodo.org/records/18515153",
+  "license": "CC BY 4.0",
+  "edition_role": "preferred",
+  "verification": "Current official release identity and publisher checksum checked against retained exact PDF bytes; searchable-text notice contexts reviewed. Manuscript claims not independently verified.",
+  "conversion": "Repository reading summary; no full-text HTML conversion."
+}

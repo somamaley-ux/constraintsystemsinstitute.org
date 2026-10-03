@@ -1,0 +1,18 @@
+{
+  "work_doi": "10.5281/zenodo.18984273",
+  "exact_release_doi": "10.5281/zenodo.19205054",
+  "title": "Local Gauge-Invariant Yang–Mills QFT and Vacuum Mass Gap in Four Dimensions for Compact Connected Simple Gauge Groups",
+  "manuscript_date": null,
+  "publisher_publication_date": "2026-03-24",
+  "publisher_version": null,
+  "sha256": "43ca46cefd795e705650ac2b7053a5e4f3d2ef04d21b7c697d72fff29329f060",
+  "bytes": 2813513,
+  "pages": 380,
+  "pdf_url": "https://constraintsystemsinstitute.org/manuscripts/zenodo-18984273/sha256-43ca46cefd795e705650ac2b7053a5e4f3d2ef04d21b7c697d72fff29329f060/manuscript.pdf",
+  "canonical_work_url": "https://constraintsystemsinstitute.org/papers/local-gauge-invariant-yang-mills-qft-and-vacuum-mass-gap-in-four-dimensions-for-compact-connected-simple-gauge-groups-18984273/",
+  "publisher_url": "https://zenodo.org/records/19205054",
+  "license": "CC BY 4.0",
+  "edition_role": "preferred",
+  "verification": "Current official release identity and publisher checksum checked against retained exact PDF bytes; searchable-text notice contexts reviewed. Manuscript claims not independently verified.",
+  "conversion": "Repository reading summary; no full-text HTML conversion."
+}

@@ -1,0 +1,18 @@
+{
+  "work_doi": "10.5281/zenodo.19981880",
+  "exact_release_doi": "10.5281/zenodo.19981881",
+  "title": "Standing-Preserving Self-Improvement",
+  "manuscript_date": null,
+  "publisher_publication_date": "2026-05-02",
+  "publisher_version": null,
+  "sha256": "060ee207b4689aa509f8306e6ac04bd9f89e5eb4719cd11097335daeb5e802d3",
+  "bytes": 514303,
+  "pages": 36,
+  "pdf_url": "https://constraintsystemsinstitute.org/manuscripts/zenodo-19981880/sha256-060ee207b4689aa509f8306e6ac04bd9f89e5eb4719cd11097335daeb5e802d3/manuscript.pdf",
+  "canonical_work_url": "https://constraintsystemsinstitute.org/papers/standing-preserving-self-improvement-19981880/",
+  "publisher_url": "https://zenodo.org/records/19981881",
+  "license": "CC BY 4.0",
+  "edition_role": "preferred",
+  "verification": "Current official release identity and publisher checksum checked against retained exact PDF bytes; searchable-text notice contexts reviewed. Manuscript claims not independently verified.",
+  "conversion": "Repository reading summary; no full-text HTML conversion."
+}

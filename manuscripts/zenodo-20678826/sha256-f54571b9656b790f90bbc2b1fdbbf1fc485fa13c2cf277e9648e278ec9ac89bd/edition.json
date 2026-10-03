@@ -1,0 +1,18 @@
+{
+  "work_doi": "10.5281/zenodo.20678826",
+  "exact_release_doi": "10.5281/zenodo.20678827",
+  "title": "Self-Adjoint Extension Selection Under Quadratic Form Order In Quantum Mechanics",
+  "manuscript_date": null,
+  "publisher_publication_date": "2026-06-13",
+  "publisher_version": null,
+  "sha256": "f54571b9656b790f90bbc2b1fdbbf1fc485fa13c2cf277e9648e278ec9ac89bd",
+  "bytes": 582621,
+  "pages": 40,
+  "pdf_url": "https://constraintsystemsinstitute.org/manuscripts/zenodo-20678826/sha256-f54571b9656b790f90bbc2b1fdbbf1fc485fa13c2cf277e9648e278ec9ac89bd/manuscript.pdf",
+  "canonical_work_url": "https://constraintsystemsinstitute.org/papers/self-adjoint-extension-selection-under-quadratic-form-order-in-quantum-mechanics-20678826/",
+  "publisher_url": "https://zenodo.org/records/20678827",
+  "license": "CC BY 4.0",
+  "edition_role": "preferred",
+  "verification": "Current official release identity and publisher checksum checked against retained exact PDF bytes; searchable-text notice contexts reviewed. Manuscript claims not independently verified.",
+  "conversion": "Repository reading summary; no full-text HTML conversion."
+}

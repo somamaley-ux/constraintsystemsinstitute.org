@@ -1,0 +1,18 @@
+{
+  "work_doi": "10.5281/zenodo.20712752",
+  "exact_release_doi": "10.5281/zenodo.20712753",
+  "title": "Proton Stability from Occupant Uniqueness",
+  "manuscript_date": null,
+  "publisher_publication_date": "2026-06-16",
+  "publisher_version": null,
+  "sha256": "5aea4a700dc04a6961ec93d63437606a263d6ded8334e6c03ce75c4c406ab18c",
+  "bytes": 461359,
+  "pages": 64,
+  "pdf_url": "https://constraintsystemsinstitute.org/manuscripts/zenodo-20712752/sha256-5aea4a700dc04a6961ec93d63437606a263d6ded8334e6c03ce75c4c406ab18c/manuscript.pdf",
+  "canonical_work_url": "https://constraintsystemsinstitute.org/papers/proton-stability-from-occupant-uniqueness-20712752/",
+  "publisher_url": "https://zenodo.org/records/20712753",
+  "license": "CC BY 4.0",
+  "edition_role": "preferred",
+  "verification": "Current official release identity and publisher checksum checked against retained exact PDF bytes; searchable-text notice contexts reviewed. Manuscript claims not independently verified.",
+  "conversion": "Repository reading summary; no full-text HTML conversion."
+}

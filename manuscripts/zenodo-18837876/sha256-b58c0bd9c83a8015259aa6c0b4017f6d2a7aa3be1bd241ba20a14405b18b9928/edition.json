@@ -1,0 +1,18 @@
+{
+  "work_doi": "10.5281/zenodo.18837876",
+  "exact_release_doi": "10.5281/zenodo.18860202",
+  "title": "Yang–Mills Mass Gap for the Exceptional Groups in Four Dimensions",
+  "manuscript_date": null,
+  "publisher_publication_date": "2026-03-04",
+  "publisher_version": null,
+  "sha256": "b58c0bd9c83a8015259aa6c0b4017f6d2a7aa3be1bd241ba20a14405b18b9928",
+  "bytes": 1829347,
+  "pages": 236,
+  "pdf_url": "https://constraintsystemsinstitute.org/manuscripts/zenodo-18837876/sha256-b58c0bd9c83a8015259aa6c0b4017f6d2a7aa3be1bd241ba20a14405b18b9928/manuscript.pdf",
+  "canonical_work_url": "https://constraintsystemsinstitute.org/papers/yang-mills-mass-gap-for-the-exceptional-groups-in-four-dimensions-18837876/",
+  "publisher_url": "https://zenodo.org/records/18860202",
+  "license": "CC BY 4.0",
+  "edition_role": "preferred",
+  "verification": "Current official release identity and publisher checksum checked against retained exact PDF bytes; searchable-text notice contexts reviewed. Manuscript claims not independently verified.",
+  "conversion": "Repository reading summary; no full-text HTML conversion."
+}

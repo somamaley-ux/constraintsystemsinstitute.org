@@ -1,0 +1,18 @@
+{
+  "work_doi": "10.5281/zenodo.20892965",
+  "exact_release_doi": "10.5281/zenodo.20892966",
+  "title": "The Neutrino-Mass Low-Energy Exact-Character Endpoint",
+  "manuscript_date": null,
+  "publisher_publication_date": "2026-06-26",
+  "publisher_version": null,
+  "sha256": "e89abc9bc2d6f44cc795c4664409f10ee3847d2168a630a3b9ef9eb4407cbab5",
+  "bytes": 608529,
+  "pages": 54,
+  "pdf_url": "https://constraintsystemsinstitute.org/manuscripts/zenodo-20892965/sha256-e89abc9bc2d6f44cc795c4664409f10ee3847d2168a630a3b9ef9eb4407cbab5/manuscript.pdf",
+  "canonical_work_url": "https://constraintsystemsinstitute.org/papers/the-neutrino-mass-low-energy-exact-character-endpoint-20892965/",
+  "publisher_url": "https://zenodo.org/records/20892966",
+  "license": "CC BY 4.0",
+  "edition_role": "preferred",
+  "verification": "Current official release identity and publisher checksum checked against retained exact PDF bytes; searchable-text notice contexts reviewed. Manuscript claims not independently verified.",
+  "conversion": "Repository reading summary; no full-text HTML conversion."
+}

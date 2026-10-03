@@ -1,0 +1,18 @@
+{
+  "work_doi": "10.5281/zenodo.18515214",
+  "exact_release_doi": "10.5281/zenodo.18542947",
+  "title": "L1 Paper 9 Rephasing Redundancy Exhaustion",
+  "manuscript_date": null,
+  "publisher_publication_date": "2026-02-07",
+  "publisher_version": null,
+  "sha256": "88d52e0ad3a67a231ec75d0b5d05e56f564b1a6999f56a52c012d90229801660",
+  "bytes": 100915,
+  "pages": 2,
+  "pdf_url": "https://constraintsystemsinstitute.org/manuscripts/zenodo-18515214/sha256-88d52e0ad3a67a231ec75d0b5d05e56f564b1a6999f56a52c012d90229801660/manuscript.pdf",
+  "canonical_work_url": "https://constraintsystemsinstitute.org/papers/l1-paper-9-rephasing-redundancy-exhaustion-18515214/",
+  "publisher_url": "https://zenodo.org/records/18542947",
+  "license": "CC BY 4.0",
+  "edition_role": "preferred",
+  "verification": "Current official release identity and publisher checksum checked against retained exact PDF bytes; searchable-text notice contexts reviewed. Manuscript claims not independently verified.",
+  "conversion": "Repository reading summary; no full-text HTML conversion."
+}

@@ -1,0 +1,18 @@
+{
+  "work_doi": "10.5281/zenodo.18860252",
+  "exact_release_doi": "10.5281/zenodo.18860253",
+  "title": "Global Proof Architecture for the Yang–Mills Mass Gap Program Across All Compact Simple Gauge Groups",
+  "manuscript_date": null,
+  "publisher_publication_date": "2026-03-04",
+  "publisher_version": null,
+  "sha256": "53eae66fcec7ef7b1fb7f307ddc2b184d63f3c1b610201d5a3e23b1e9be8b810",
+  "bytes": 158752,
+  "pages": 4,
+  "pdf_url": "https://constraintsystemsinstitute.org/manuscripts/zenodo-18860252/sha256-53eae66fcec7ef7b1fb7f307ddc2b184d63f3c1b610201d5a3e23b1e9be8b810/manuscript.pdf",
+  "canonical_work_url": "https://constraintsystemsinstitute.org/papers/global-proof-architecture-for-the-yang-mills-mass-gap-program-across-all-compact-simple-gauge-groups-18860252/",
+  "publisher_url": "https://zenodo.org/records/18860253",
+  "license": "CC BY 4.0",
+  "edition_role": "preferred",
+  "verification": "Current official release identity and publisher checksum checked against retained exact PDF bytes; searchable-text notice contexts reviewed. Manuscript claims not independently verified.",
+  "conversion": "Repository reading summary; no full-text HTML conversion."
+}

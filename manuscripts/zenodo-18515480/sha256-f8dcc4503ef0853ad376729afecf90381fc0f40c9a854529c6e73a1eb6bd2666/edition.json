@@ -1,0 +1,18 @@
+{
+  "work_doi": "10.5281/zenodo.18515480",
+  "exact_release_doi": "10.5281/zenodo.18515481",
+  "title": "Identity Non Conservation",
+  "manuscript_date": null,
+  "publisher_publication_date": "2026-02-07",
+  "publisher_version": null,
+  "sha256": "f8dcc4503ef0853ad376729afecf90381fc0f40c9a854529c6e73a1eb6bd2666",
+  "bytes": 80579,
+  "pages": 3,
+  "pdf_url": "https://constraintsystemsinstitute.org/manuscripts/zenodo-18515480/sha256-f8dcc4503ef0853ad376729afecf90381fc0f40c9a854529c6e73a1eb6bd2666/manuscript.pdf",
+  "canonical_work_url": "https://constraintsystemsinstitute.org/papers/identity-non-conservation-18515480/",
+  "publisher_url": "https://zenodo.org/records/18515481",
+  "license": "CC BY 4.0",
+  "edition_role": "preferred",
+  "verification": "Current official release identity and publisher checksum checked against retained exact PDF bytes; searchable-text notice contexts reviewed. Manuscript claims not independently verified.",
+  "conversion": "Repository reading summary; no full-text HTML conversion."
+}

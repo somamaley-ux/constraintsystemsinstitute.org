@@ -1,0 +1,18 @@
+{
+  "work_doi": "10.5281/zenodo.18670613",
+  "exact_release_doi": "10.5281/zenodo.19881302",
+  "title": "Structura Ex Necessitate Standardis Modelis",
+  "manuscript_date": null,
+  "publisher_publication_date": "2026-04-29",
+  "publisher_version": null,
+  "sha256": "78d4067a739a5315a46d1d40e8db370375d8eb7de5052dfe55b363f9bd50dfa0",
+  "bytes": 839103,
+  "pages": 59,
+  "pdf_url": "https://constraintsystemsinstitute.org/manuscripts/zenodo-18670613/sha256-78d4067a739a5315a46d1d40e8db370375d8eb7de5052dfe55b363f9bd50dfa0/manuscript.pdf",
+  "canonical_work_url": "https://constraintsystemsinstitute.org/papers/structura-ex-necessitate-standardis-modelis-18670613/",
+  "publisher_url": "https://zenodo.org/records/19881302",
+  "license": "CC BY 4.0",
+  "edition_role": "preferred",
+  "verification": "Current official release identity and publisher checksum checked against retained exact PDF bytes; searchable-text notice contexts reviewed. Manuscript claims not independently verified.",
+  "conversion": "Repository reading summary; no full-text HTML conversion."
+}

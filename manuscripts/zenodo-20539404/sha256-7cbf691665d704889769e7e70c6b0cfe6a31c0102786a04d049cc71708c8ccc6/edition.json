@@ -1,0 +1,18 @@
+{
+  "work_doi": "10.5281/zenodo.20539404",
+  "exact_release_doi": "10.5281/zenodo.20539405",
+  "title": "A Structural Solution to the Birch and Swinnerton-Dyer Role-Compression Problem",
+  "manuscript_date": null,
+  "publisher_publication_date": "2026-06-04",
+  "publisher_version": null,
+  "sha256": "7cbf691665d704889769e7e70c6b0cfe6a31c0102786a04d049cc71708c8ccc6",
+  "bytes": 417979,
+  "pages": 46,
+  "pdf_url": "https://constraintsystemsinstitute.org/manuscripts/zenodo-20539404/sha256-7cbf691665d704889769e7e70c6b0cfe6a31c0102786a04d049cc71708c8ccc6/manuscript.pdf",
+  "canonical_work_url": "https://constraintsystemsinstitute.org/papers/a-structural-solution-to-the-birch-and-swinnerton-dyer-role-compression-problem-20539404/",
+  "publisher_url": "https://zenodo.org/records/20539405",
+  "license": "CC BY 4.0",
+  "edition_role": "preferred",
+  "verification": "Current official release identity and publisher checksum checked against retained exact PDF bytes; searchable-text notice contexts reviewed. Manuscript claims not independently verified.",
+  "conversion": "Repository reading summary; no full-text HTML conversion."
+}

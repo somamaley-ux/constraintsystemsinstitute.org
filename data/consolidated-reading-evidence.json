@@ -1,0 +1,1547 @@
+{
+  "schema_version": "csi-reading-edition-evidence-1",
+  "editions": [
+    {
+      "exact_release_doi": "10.5281/zenodo.20782793",
+      "work_doi": "10.5281/zenodo.18522113",
+      "sha256": "60d5f53bcd3ce3cc949af4351ed06d922487e015252b82dfed34dc9c8f14b9cd",
+      "canonical_work_url": "https://constraintsystemsinstitute.org/papers/eadem-natura-duo-spectra-18522113/",
+      "pdf_url": "https://constraintsystemsinstitute.org/manuscripts/zenodo-18522113/sha256-60d5f53bcd3ce3cc949af4351ed06d922487e015252b82dfed34dc9c8f14b9cd/manuscript.pdf",
+      "source_passages": [
+        {
+          "pdf_page": 1,
+          "label": "Selected source passage"
+        },
+        {
+          "pdf_page": 7,
+          "label": "Selected source passage"
+        },
+        {
+          "pdf_page": 8,
+          "label": "Selected source passage"
+        },
+        {
+          "pdf_page": 9,
+          "label": "Selected source passage"
+        },
+        {
+          "pdf_page": 24,
+          "label": "Selected source passage"
+        },
+        {
+          "pdf_page": 31,
+          "label": "Selected source passage"
+        },
+        {
+          "pdf_page": 32,
+          "label": "Selected source passage"
+        },
+        {
+          "pdf_page": 40,
+          "label": "Selected source passage"
+        },
+        {
+          "pdf_page": 41,
+          "label": "Selected source passage"
+        }
+      ],
+      "review_coverage": "Bounded substantive reading of selected imports, definitions, central results and limits; not every proof page read.",
+      "edition_role": "preferred"
+    },
+    {
+      "exact_release_doi": "10.5281/zenodo.20931479",
+      "work_doi": "10.5281/zenodo.20931478",
+      "sha256": "d2b58d75ad588d20041513cc7d8bc13b3cc7b9e72dad78d28a24b4be4ea0de4e",
+      "canonical_work_url": "https://constraintsystemsinstitute.org/papers/the-strong-cp-boundary-endpoint-20931478/",
+      "pdf_url": "https://constraintsystemsinstitute.org/manuscripts/zenodo-20931478/sha256-d2b58d75ad588d20041513cc7d8bc13b3cc7b9e72dad78d28a24b4be4ea0de4e/manuscript.pdf",
+      "source_passages": [
+        {
+          "pdf_page": 1,
+          "label": "Selected source passage"
+        },
+        {
+          "pdf_page": 12,
+          "label": "Selected source passage"
+        },
+        {
+          "pdf_page": 17,
+          "label": "Selected source passage"
+        },
+        {
+          "pdf_page": 25,
+          "label": "Selected source passage"
+        },
+        {
+          "pdf_page": 26,
+          "label": "Selected source passage"
+        },
+        {
+          "pdf_page": 27,
+          "label": "Selected source passage"
+        },
+        {
+          "pdf_page": 28,
+          "label": "Selected source passage"
+        },
+        {
+          "pdf_page": 33,
+          "label": "Selected source passage"
+        }
+      ],
+      "review_coverage": "Bounded substantive reading of selected imports, definitions, central results and limits; not every proof page read.",
+      "edition_role": "preferred"
+    },
+    {
+      "exact_release_doi": "10.5281/zenodo.20892966",
+      "work_doi": "10.5281/zenodo.20892965",
+      "sha256": "e89abc9bc2d6f44cc795c4664409f10ee3847d2168a630a3b9ef9eb4407cbab5",
+      "canonical_work_url": "https://constraintsystemsinstitute.org/papers/the-neutrino-mass-low-energy-exact-character-endpoint-20892965/",
+      "pdf_url": "https://constraintsystemsinstitute.org/manuscripts/zenodo-20892965/sha256-e89abc9bc2d6f44cc795c4664409f10ee3847d2168a630a3b9ef9eb4407cbab5/manuscript.pdf",
+      "source_passages": [
+        {
+          "pdf_page": 1,
+          "label": "Selected source passage"
+        },
+        {
+          "pdf_page": 11,
+          "label": "Selected source passage"
+        },
+        {
+          "pdf_page": 17,
+          "label": "Selected source passage"
+        },
+        {
+          "pdf_page": 25,
+          "label": "Selected source passage"
+        },
+        {
+          "pdf_page": 33,
+          "label": "Selected source passage"
+        },
+        {
+          "pdf_page": 34,
+          "label": "Selected source passage"
+        },
+        {
+          "pdf_page": 36,
+          "label": "Selected source passage"
+        },
+        {
+          "pdf_page": 48,
+          "label": "Selected source passage"
+        },
+        {
+          "pdf_page": 49,
+          "label": "Selected source passage"
+        },
+        {
+          "pdf_page": 52,
+          "label": "Selected source passage"
+        },
+        {
+          "pdf_page": 53,
+          "label": "Selected source passage"
+        }
+      ],
+      "review_coverage": "Bounded substantive reading of selected imports, definitions, central results and limits; not every proof page read.",
+      "edition_role": "preferred"
+    },
+    {
+      "exact_release_doi": "10.5281/zenodo.20777671",
+      "work_doi": "10.5281/zenodo.20773784",
+      "sha256": "d91a2fe64e861a68fa5d26a5054e4ab12e526d88a3e48cc592cc0a7766f188cd",
+      "canonical_work_url": "https://constraintsystemsinstitute.org/papers/the-new-ametric-boundary-endpoint-of-black-holes-20773784/",
+      "pdf_url": "https://constraintsystemsinstitute.org/manuscripts/zenodo-20773784/sha256-d91a2fe64e861a68fa5d26a5054e4ab12e526d88a3e48cc592cc0a7766f188cd/manuscript.pdf",
+      "source_passages": [
+        {
+          "pdf_page": 1,
+          "label": "Selected source passage"
+        },
+        {
+          "pdf_page": 3,
+          "label": "Selected source passage"
+        },
+        {
+          "pdf_page": 22,
+          "label": "Selected source passage"
+        },
+        {
+          "pdf_page": 45,
+          "label": "Selected source passage"
+        },
+        {
+          "pdf_page": 112,
+          "label": "Selected source passage"
+        }
+      ],
+      "review_coverage": "Bounded substantive reading of selected imports, definitions, central results and limits; not every proof page read.",
+      "edition_role": "preferred"
+    },
+    {
+      "exact_release_doi": "10.5281/zenodo.20747709",
+      "work_doi": "10.5281/zenodo.20747708",
+      "sha256": "e528f6f7ece3eba426d204acf28bb77009de8e367fd92624833ea577de41ebe8",
+      "canonical_work_url": "https://constraintsystemsinstitute.org/papers/when-claims-become-auditable-distributed-aasc-ueap-claim-status-audit-and-the-game-theory-of-scientific-authority-20747708/",
+      "pdf_url": "https://constraintsystemsinstitute.org/manuscripts/zenodo-20747708/sha256-e528f6f7ece3eba426d204acf28bb77009de8e367fd92624833ea577de41ebe8/manuscript.pdf",
+      "source_passages": [
+        {
+          "pdf_page": 1,
+          "label": "Selected source passage"
+        },
+        {
+          "pdf_page": 17,
+          "label": "Selected source passage"
+        },
+        {
+          "pdf_page": 21,
+          "label": "Selected source passage"
+        },
+        {
+          "pdf_page": 34,
+          "label": "Selected source passage"
+        },
+        {
+          "pdf_page": 39,
+          "label": "Selected source passage"
+        },
+        {
+          "pdf_page": 48,
+          "label": "Selected source passage"
+        },
+        {
+          "pdf_page": 88,
+          "label": "Selected source passage"
+        },
+        {
+          "pdf_page": 99,
+          "label": "Selected source passage"
+        }
+      ],
+      "review_coverage": "Bounded substantive reading of selected imports, definitions, central results and limits; not every proof page read.",
+      "edition_role": "preferred"
+    },
+    {
+      "exact_release_doi": "10.5281/zenodo.20712753",
+      "work_doi": "10.5281/zenodo.20712752",
+      "sha256": "5aea4a700dc04a6961ec93d63437606a263d6ded8334e6c03ce75c4c406ab18c",
+      "canonical_work_url": "https://constraintsystemsinstitute.org/papers/proton-stability-from-occupant-uniqueness-20712752/",
+      "pdf_url": "https://constraintsystemsinstitute.org/manuscripts/zenodo-20712752/sha256-5aea4a700dc04a6961ec93d63437606a263d6ded8334e6c03ce75c4c406ab18c/manuscript.pdf",
+      "source_passages": [
+        {
+          "pdf_page": 1,
+          "label": "Selected source passage"
+        },
+        {
+          "pdf_page": 11,
+          "label": "Selected source passage"
+        },
+        {
+          "pdf_page": 12,
+          "label": "Selected source passage"
+        },
+        {
+          "pdf_page": 21,
+          "label": "Selected source passage"
+        },
+        {
+          "pdf_page": 24,
+          "label": "Selected source passage"
+        },
+        {
+          "pdf_page": 27,
+          "label": "Selected source passage"
+        },
+        {
+          "pdf_page": 28,
+          "label": "Selected source passage"
+        },
+        {
+          "pdf_page": 50,
+          "label": "Selected source passage"
+        },
+        {
+          "pdf_page": 51,
+          "label": "Selected source passage"
+        }
+      ],
+      "review_coverage": "Bounded substantive reading of selected imports, definitions, central results and limits; not every proof page read.",
+      "edition_role": "preferred"
+    },
+    {
+      "exact_release_doi": "10.5281/zenodo.20678827",
+      "work_doi": "10.5281/zenodo.20678826",
+      "sha256": "f54571b9656b790f90bbc2b1fdbbf1fc485fa13c2cf277e9648e278ec9ac89bd",
+      "canonical_work_url": "https://constraintsystemsinstitute.org/papers/self-adjoint-extension-selection-under-quadratic-form-order-in-quantum-mechanics-20678826/",
+      "pdf_url": "https://constraintsystemsinstitute.org/manuscripts/zenodo-20678826/sha256-f54571b9656b790f90bbc2b1fdbbf1fc485fa13c2cf277e9648e278ec9ac89bd/manuscript.pdf",
+      "source_passages": [
+        {
+          "pdf_page": 1,
+          "label": "Abstract and fixed-base scope"
+        },
+        {
+          "pdf_page": 10,
+          "label": "Theorem 4.6 and Corollaries 4.7-4.8"
+        },
+        {
+          "pdf_page": 12,
+          "label": "Theorem 6.3, five-locus exhaustion"
+        },
+        {
+          "pdf_page": 23,
+          "label": "Theorem 7.15, Friedrichs endpoint"
+        },
+        {
+          "pdf_page": 24,
+          "label": "Lemma 7.16, sharpness and covariance"
+        },
+        {
+          "pdf_page": 25,
+          "label": "Corollaries 7.17-7.20"
+        },
+        {
+          "pdf_page": 38,
+          "label": "Dependency spine and proof-obligation table"
+        }
+      ],
+      "review_coverage": "Bounded reading of selected statements and limits, plus mechanical comparison of both extracted bodies; not a full proof audit.",
+      "edition_role": "preferred"
+    },
+    {
+      "exact_release_doi": "10.5281/zenodo.20034767",
+      "work_doi": "10.5281/zenodo.20034766",
+      "sha256": "ca04ff975868e96d11c1f015304034397ab071e2365215e7e3564cfc4d8e6d20",
+      "canonical_work_url": "https://constraintsystemsinstitute.org/papers/self-adjoint-extension-selection-under-quadratic-form-order-in-quantum-mechanics-20678826/",
+      "pdf_url": "https://constraintsystemsinstitute.org/manuscripts/zenodo-20034766/sha256-ca04ff975868e96d11c1f015304034397ab071e2365215e7e3564cfc4d8e6d20/manuscript.pdf",
+      "source_passages": [
+        {
+          "pdf_page": 1,
+          "label": "Retained alternate title and abstract"
+        }
+      ],
+      "review_coverage": "Retained alternate compared mechanically with the preferred body; title and abstract inspected. No independent proof audit.",
+      "edition_role": "collapsed_alternate_author_accepted"
+    },
+    {
+      "exact_release_doi": "10.5281/zenodo.20539405",
+      "work_doi": "10.5281/zenodo.20539404",
+      "sha256": "7cbf691665d704889769e7e70c6b0cfe6a31c0102786a04d049cc71708c8ccc6",
+      "canonical_work_url": "https://constraintsystemsinstitute.org/papers/a-structural-solution-to-the-birch-and-swinnerton-dyer-role-compression-problem-20539404/",
+      "pdf_url": "https://constraintsystemsinstitute.org/manuscripts/zenodo-20539404/sha256-7cbf691665d704889769e7e70c6b0cfe6a31c0102786a04d049cc71708c8ccc6/manuscript.pdf",
+      "source_passages": [
+        {
+          "pdf_page": 1,
+          "label": "Selected source passage"
+        },
+        {
+          "pdf_page": 3,
+          "label": "Selected source passage"
+        },
+        {
+          "pdf_page": 10,
+          "label": "Selected source passage"
+        },
+        {
+          "pdf_page": 11,
+          "label": "Selected source passage"
+        },
+        {
+          "pdf_page": 18,
+          "label": "Selected source passage"
+        },
+        {
+          "pdf_page": 31,
+          "label": "Selected source passage"
+        },
+        {
+          "pdf_page": 45,
+          "label": "Selected source passage"
+        }
+      ],
+      "review_coverage": "Bounded substantive reading of selected imports, definitions, central results and limits; not every proof page read.",
+      "edition_role": "preferred"
+    },
+    {
+      "exact_release_doi": "10.5281/zenodo.20443810",
+      "work_doi": "10.5281/zenodo.20443809",
+      "sha256": "fe3fc8df7de1ba5a52b5e67d8578adef4d19177058cd567c03bb752bf71fa430",
+      "canonical_work_url": "https://constraintsystemsinstitute.org/papers/the-standing-neutrino-splitting-ratio-from-first-principles-standing-admission-20443809/",
+      "pdf_url": "https://constraintsystemsinstitute.org/manuscripts/zenodo-20443809/sha256-fe3fc8df7de1ba5a52b5e67d8578adef4d19177058cd567c03bb752bf71fa430/manuscript.pdf",
+      "source_passages": [
+        {
+          "pdf_page": 1,
+          "label": "Selected source passage"
+        },
+        {
+          "pdf_page": 5,
+          "label": "Selected source passage"
+        },
+        {
+          "pdf_page": 6,
+          "label": "Selected source passage"
+        },
+        {
+          "pdf_page": 7,
+          "label": "Selected source passage"
+        },
+        {
+          "pdf_page": 9,
+          "label": "Selected source passage"
+        },
+        {
+          "pdf_page": 10,
+          "label": "Selected source passage"
+        },
+        {
+          "pdf_page": 11,
+          "label": "Selected source passage"
+        },
+        {
+          "pdf_page": 24,
+          "label": "Selected source passage"
+        }
+      ],
+      "review_coverage": "Bounded substantive reading of selected imports, definitions, central results and limits; not every proof page read.",
+      "edition_role": "preferred"
+    },
+    {
+      "exact_release_doi": "10.5281/zenodo.20371781",
+      "work_doi": "10.5281/zenodo.20371780",
+      "sha256": "eee032d8e80b3af107ddcc1cf5938c96d592faac7224f8c172774ba688990ab5",
+      "canonical_work_url": "https://constraintsystemsinstitute.org/papers/role-occupancy-closure-under-admissibility-20371780/",
+      "pdf_url": "https://constraintsystemsinstitute.org/manuscripts/zenodo-20371780/sha256-eee032d8e80b3af107ddcc1cf5938c96d592faac7224f8c172774ba688990ab5/manuscript.pdf",
+      "source_passages": [
+        {
+          "pdf_page": 1,
+          "label": "Selected source passage"
+        },
+        {
+          "pdf_page": 4,
+          "label": "Selected source passage"
+        },
+        {
+          "pdf_page": 5,
+          "label": "Selected source passage"
+        },
+        {
+          "pdf_page": 11,
+          "label": "Selected source passage"
+        },
+        {
+          "pdf_page": 13,
+          "label": "Selected source passage"
+        },
+        {
+          "pdf_page": 14,
+          "label": "Selected source passage"
+        },
+        {
+          "pdf_page": 22,
+          "label": "Selected source passage"
+        },
+        {
+          "pdf_page": 23,
+          "label": "Selected source passage"
+        }
+      ],
+      "review_coverage": "Bounded substantive reading of selected imports, definitions, central results and limits; not every proof page read.",
+      "edition_role": "preferred"
+    },
+    {
+      "exact_release_doi": "10.5281/zenodo.20034621",
+      "work_doi": "10.5281/zenodo.18581185",
+      "sha256": "333fce87b49c656f054c9757fe9035d3559b230413b05066e4a393b22c4ec5aa",
+      "canonical_work_url": "https://constraintsystemsinstitute.org/papers/rigidity-of-the-black-scholes-valuation-operator-18581185/",
+      "pdf_url": "https://constraintsystemsinstitute.org/manuscripts/zenodo-18581185/sha256-333fce87b49c656f054c9757fe9035d3559b230413b05066e4a393b22c4ec5aa/manuscript.pdf",
+      "source_passages": [
+        {
+          "pdf_page": 1,
+          "label": "Selected source passage"
+        },
+        {
+          "pdf_page": 8,
+          "label": "Selected source passage"
+        },
+        {
+          "pdf_page": 9,
+          "label": "Selected source passage"
+        },
+        {
+          "pdf_page": 10,
+          "label": "Selected source passage"
+        },
+        {
+          "pdf_page": 15,
+          "label": "Selected source passage"
+        },
+        {
+          "pdf_page": 16,
+          "label": "Selected source passage"
+        },
+        {
+          "pdf_page": 19,
+          "label": "Selected source passage"
+        }
+      ],
+      "review_coverage": "Bounded substantive reading of selected imports, definitions, central results and limits; not every proof page read.",
+      "edition_role": "preferred"
+    },
+    {
+      "exact_release_doi": "10.5281/zenodo.19981881",
+      "work_doi": "10.5281/zenodo.19981880",
+      "sha256": "060ee207b4689aa509f8306e6ac04bd9f89e5eb4719cd11097335daeb5e802d3",
+      "canonical_work_url": "https://constraintsystemsinstitute.org/papers/standing-preserving-self-improvement-19981880/",
+      "pdf_url": "https://constraintsystemsinstitute.org/manuscripts/zenodo-19981880/sha256-060ee207b4689aa509f8306e6ac04bd9f89e5eb4719cd11097335daeb5e802d3/manuscript.pdf",
+      "source_passages": [
+        {
+          "pdf_page": 1,
+          "label": "Selected source passage"
+        },
+        {
+          "pdf_page": 9,
+          "label": "Selected source passage"
+        },
+        {
+          "pdf_page": 13,
+          "label": "Selected source passage"
+        },
+        {
+          "pdf_page": 17,
+          "label": "Selected source passage"
+        },
+        {
+          "pdf_page": 18,
+          "label": "Selected source passage"
+        },
+        {
+          "pdf_page": 30,
+          "label": "Selected source passage"
+        },
+        {
+          "pdf_page": 32,
+          "label": "Selected source passage"
+        }
+      ],
+      "review_coverage": "Bounded substantive reading of selected imports, definitions, central results and limits; not every proof page read.",
+      "edition_role": "preferred"
+    },
+    {
+      "exact_release_doi": "10.5281/zenodo.19689795",
+      "work_doi": "10.5281/zenodo.19494923",
+      "sha256": "cedb480510e1cbb56792980ca56f4e13dc2ab61f43bb2c3b333b42e9ad69582b",
+      "canonical_work_url": "https://constraintsystemsinstitute.org/papers/standing-localization-and-the-necessity-of-minimal-life-carriers-on-fixed-domains-life-intelligence-technology-19494923/",
+      "pdf_url": "https://constraintsystemsinstitute.org/manuscripts/zenodo-19494923/sha256-cedb480510e1cbb56792980ca56f4e13dc2ab61f43bb2c3b333b42e9ad69582b/manuscript.pdf",
+      "source_passages": [
+        {
+          "pdf_page": 1,
+          "label": "Selected source passage"
+        },
+        {
+          "pdf_page": 2,
+          "label": "Selected source passage"
+        },
+        {
+          "pdf_page": 7,
+          "label": "Selected source passage"
+        },
+        {
+          "pdf_page": 8,
+          "label": "Selected source passage"
+        },
+        {
+          "pdf_page": 9,
+          "label": "Selected source passage"
+        },
+        {
+          "pdf_page": 12,
+          "label": "Selected source passage"
+        }
+      ],
+      "review_coverage": "Bounded substantive reading of selected imports, definitions, central results and limits; not every proof page read.",
+      "edition_role": "preferred"
+    },
+    {
+      "exact_release_doi": "10.5281/zenodo.19881302",
+      "work_doi": "10.5281/zenodo.18670613",
+      "sha256": "78d4067a739a5315a46d1d40e8db370375d8eb7de5052dfe55b363f9bd50dfa0",
+      "canonical_work_url": "https://constraintsystemsinstitute.org/papers/structura-ex-necessitate-standardis-modelis-18670613/",
+      "pdf_url": "https://constraintsystemsinstitute.org/manuscripts/zenodo-18670613/sha256-78d4067a739a5315a46d1d40e8db370375d8eb7de5052dfe55b363f9bd50dfa0/manuscript.pdf",
+      "source_passages": [
+        {
+          "pdf_page": 1,
+          "label": "Selected source passage"
+        },
+        {
+          "pdf_page": 3,
+          "label": "Selected source passage"
+        },
+        {
+          "pdf_page": 31,
+          "label": "Selected source passage"
+        },
+        {
+          "pdf_page": 45,
+          "label": "Selected source passage"
+        },
+        {
+          "pdf_page": 46,
+          "label": "Selected source passage"
+        },
+        {
+          "pdf_page": 47,
+          "label": "Selected source passage"
+        }
+      ],
+      "review_coverage": "Bounded substantive reading of selected imports, definitions, central results and limits; not every proof page read.",
+      "edition_role": "preferred"
+    },
+    {
+      "exact_release_doi": "10.5281/zenodo.18860253",
+      "work_doi": "10.5281/zenodo.18860252",
+      "sha256": "53eae66fcec7ef7b1fb7f307ddc2b184d63f3c1b610201d5a3e23b1e9be8b810",
+      "canonical_work_url": "https://constraintsystemsinstitute.org/papers/global-proof-architecture-for-the-yang-mills-mass-gap-program-across-all-compact-simple-gauge-groups-18860252/",
+      "pdf_url": "https://constraintsystemsinstitute.org/manuscripts/zenodo-18860252/sha256-53eae66fcec7ef7b1fb7f307ddc2b184d63f3c1b610201d5a3e23b1e9be8b810/manuscript.pdf",
+      "source_passages": [
+        {
+          "pdf_page": 1,
+          "label": "Selected source passage"
+        },
+        {
+          "pdf_page": 2,
+          "label": "Selected source passage"
+        },
+        {
+          "pdf_page": 3,
+          "label": "Selected source passage"
+        },
+        {
+          "pdf_page": 4,
+          "label": "Selected source passage"
+        }
+      ],
+      "review_coverage": "Bounded substantive reading of selected imports, definitions, central results and limits; not every proof page read.",
+      "edition_role": "preferred"
+    },
+    {
+      "exact_release_doi": "10.5281/zenodo.18890304",
+      "work_doi": "10.5281/zenodo.18816791",
+      "sha256": "668b93b61f9ec61ca186b286563618335b0510a33eec409c9c3d346d6c20c6c0",
+      "canonical_work_url": "https://constraintsystemsinstitute.org/papers/yang-mills-mass-gap-for-su-2-in-four-dimensions-18816791/",
+      "pdf_url": "https://constraintsystemsinstitute.org/manuscripts/zenodo-18816791/sha256-668b93b61f9ec61ca186b286563618335b0510a33eec409c9c3d346d6c20c6c0/manuscript.pdf",
+      "source_passages": [
+        {
+          "pdf_page": 1,
+          "label": "Selected source passage"
+        },
+        {
+          "pdf_page": 6,
+          "label": "Selected source passage"
+        },
+        {
+          "pdf_page": 7,
+          "label": "Selected source passage"
+        },
+        {
+          "pdf_page": 22,
+          "label": "Selected source passage"
+        },
+        {
+          "pdf_page": 23,
+          "label": "Selected source passage"
+        }
+      ],
+      "review_coverage": "Bounded substantive reading of selected imports, definitions, central results and limits; not every proof page read.",
+      "edition_role": "preferred"
+    },
+    {
+      "exact_release_doi": "10.5281/zenodo.19205054",
+      "work_doi": "10.5281/zenodo.18984273",
+      "sha256": "43ca46cefd795e705650ac2b7053a5e4f3d2ef04d21b7c697d72fff29329f060",
+      "canonical_work_url": "https://constraintsystemsinstitute.org/papers/local-gauge-invariant-yang-mills-qft-and-vacuum-mass-gap-in-four-dimensions-for-compact-connected-simple-gauge-groups-18984273/",
+      "pdf_url": "https://constraintsystemsinstitute.org/manuscripts/zenodo-18984273/sha256-43ca46cefd795e705650ac2b7053a5e4f3d2ef04d21b7c697d72fff29329f060/manuscript.pdf",
+      "source_passages": [
+        {
+          "pdf_page": 1,
+          "label": "Selected source passage"
+        },
+        {
+          "pdf_page": 11,
+          "label": "Selected source passage"
+        },
+        {
+          "pdf_page": 12,
+          "label": "Selected source passage"
+        },
+        {
+          "pdf_page": 13,
+          "label": "Selected source passage"
+        },
+        {
+          "pdf_page": 129,
+          "label": "Selected source passage"
+        },
+        {
+          "pdf_page": 330,
+          "label": "Selected source passage"
+        }
+      ],
+      "review_coverage": "Bounded substantive reading of selected imports, definitions, central results and limits; not every proof page read.",
+      "edition_role": "preferred"
+    },
+    {
+      "exact_release_doi": "10.5281/zenodo.18860202",
+      "work_doi": "10.5281/zenodo.18837876",
+      "sha256": "b58c0bd9c83a8015259aa6c0b4017f6d2a7aa3be1bd241ba20a14405b18b9928",
+      "canonical_work_url": "https://constraintsystemsinstitute.org/papers/yang-mills-mass-gap-for-the-exceptional-groups-in-four-dimensions-18837876/",
+      "pdf_url": "https://constraintsystemsinstitute.org/manuscripts/zenodo-18837876/sha256-b58c0bd9c83a8015259aa6c0b4017f6d2a7aa3be1bd241ba20a14405b18b9928/manuscript.pdf",
+      "source_passages": [
+        {
+          "pdf_page": 1,
+          "label": "Selected source passage"
+        },
+        {
+          "pdf_page": 7,
+          "label": "Selected source passage"
+        },
+        {
+          "pdf_page": 8,
+          "label": "Selected source passage"
+        },
+        {
+          "pdf_page": 19,
+          "label": "Selected source passage"
+        },
+        {
+          "pdf_page": 21,
+          "label": "Selected source passage"
+        },
+        {
+          "pdf_page": 94,
+          "label": "Selected source passage"
+        }
+      ],
+      "review_coverage": "Bounded substantive reading of selected imports, definitions, central results and limits; not every proof page read.",
+      "edition_role": "preferred"
+    },
+    {
+      "exact_release_doi": "10.5281/zenodo.18787676",
+      "work_doi": "10.5281/zenodo.18787675",
+      "sha256": "dbe93388c9cdeea19449252a233e71a9d0630ebe1160dfcda664a1c249ffee27",
+      "canonical_work_url": "https://constraintsystemsinstitute.org/papers/constraint-driven-closure-and-the-yang-mills-mass-gap-18787675/",
+      "pdf_url": "https://constraintsystemsinstitute.org/manuscripts/zenodo-18787675/sha256-dbe93388c9cdeea19449252a233e71a9d0630ebe1160dfcda664a1c249ffee27/manuscript.pdf",
+      "source_passages": [
+        {
+          "pdf_page": 1,
+          "label": "Selected source passage"
+        },
+        {
+          "pdf_page": 2,
+          "label": "Selected source passage"
+        },
+        {
+          "pdf_page": 5,
+          "label": "Selected source passage"
+        },
+        {
+          "pdf_page": 6,
+          "label": "Selected source passage"
+        }
+      ],
+      "review_coverage": "Bounded substantive reading of selected imports, definitions, central results and limits; not every proof page read.",
+      "edition_role": "preferred"
+    },
+    {
+      "exact_release_doi": "10.5281/zenodo.18787605",
+      "work_doi": "10.5281/zenodo.18787604",
+      "sha256": "ea8564190fb15bd646480ea6b1227853222f7c099dd7084daff81db59f3d35ee",
+      "canonical_work_url": "https://constraintsystemsinstitute.org/papers/sharp-local-fields-as-an-ultraviolet-scope-enlargement-18787604/",
+      "pdf_url": "https://constraintsystemsinstitute.org/manuscripts/zenodo-18787604/sha256-ea8564190fb15bd646480ea6b1227853222f7c099dd7084daff81db59f3d35ee/manuscript.pdf",
+      "source_passages": [
+        {
+          "pdf_page": 1,
+          "label": "Selected source passage"
+        },
+        {
+          "pdf_page": 5,
+          "label": "Selected source passage"
+        },
+        {
+          "pdf_page": 6,
+          "label": "Selected source passage"
+        }
+      ],
+      "review_coverage": "Bounded substantive reading of selected imports, definitions, central results and limits; not every proof page read.",
+      "edition_role": "preferred"
+    },
+    {
+      "exact_release_doi": "10.5281/zenodo.18787519",
+      "work_doi": "10.5281/zenodo.18787518",
+      "sha256": "90c5202ec9a05685d0891bc0d006f1e80539a5f46c2bcf2c0b3269bf1e0ded49",
+      "canonical_work_url": "https://constraintsystemsinstitute.org/papers/ultraviolet-trajectories-and-conditional-completion-18787518/",
+      "pdf_url": "https://constraintsystemsinstitute.org/manuscripts/zenodo-18787518/sha256-90c5202ec9a05685d0891bc0d006f1e80539a5f46c2bcf2c0b3269bf1e0ded49/manuscript.pdf",
+      "source_passages": [
+        {
+          "pdf_page": 1,
+          "label": "Selected source passage"
+        },
+        {
+          "pdf_page": 2,
+          "label": "Selected source passage"
+        },
+        {
+          "pdf_page": 4,
+          "label": "Selected source passage"
+        },
+        {
+          "pdf_page": 5,
+          "label": "Selected source passage"
+        },
+        {
+          "pdf_page": 6,
+          "label": "Selected source passage"
+        }
+      ],
+      "review_coverage": "Bounded substantive reading of selected imports, definitions, central results and limits; not every proof page read.",
+      "edition_role": "preferred"
+    },
+    {
+      "exact_release_doi": "10.5281/zenodo.18787440",
+      "work_doi": "10.5281/zenodo.18787439",
+      "sha256": "bbb5bb10c6278b5dba920fdd704529215acb7fa38561a257a4652d003a410921",
+      "canonical_work_url": "https://constraintsystemsinstitute.org/papers/semigroup-spectral-extraction-from-euclidean-exponential-clustering-18787439/",
+      "pdf_url": "https://constraintsystemsinstitute.org/manuscripts/zenodo-18787439/sha256-bbb5bb10c6278b5dba920fdd704529215acb7fa38561a257a4652d003a410921/manuscript.pdf",
+      "source_passages": [
+        {
+          "pdf_page": 1,
+          "label": "Selected source passage"
+        },
+        {
+          "pdf_page": 2,
+          "label": "Selected source passage"
+        },
+        {
+          "pdf_page": 6,
+          "label": "Selected source passage"
+        },
+        {
+          "pdf_page": 7,
+          "label": "Selected source passage"
+        }
+      ],
+      "review_coverage": "Bounded substantive reading of selected imports, definitions, central results and limits; not every proof page read.",
+      "edition_role": "preferred"
+    },
+    {
+      "exact_release_doi": "10.5281/zenodo.18787376",
+      "work_doi": "10.5281/zenodo.18787375",
+      "sha256": "91a820eff28ac7ab25f487e642df76de59699f0491392008a16f8904fa305f41",
+      "canonical_work_url": "https://constraintsystemsinstitute.org/papers/finite-depth-entrance-versus-stable-manifold-renormalization-group-control-18787375/",
+      "pdf_url": "https://constraintsystemsinstitute.org/manuscripts/zenodo-18787375/sha256-91a820eff28ac7ab25f487e642df76de59699f0491392008a16f8904fa305f41/manuscript.pdf",
+      "source_passages": [
+        {
+          "pdf_page": 1,
+          "label": "Selected source passage"
+        },
+        {
+          "pdf_page": 2,
+          "label": "Selected source passage"
+        },
+        {
+          "pdf_page": 4,
+          "label": "Selected source passage"
+        },
+        {
+          "pdf_page": 6,
+          "label": "Selected source passage"
+        }
+      ],
+      "review_coverage": "Bounded substantive reading of selected imports, definitions, central results and limits; not every proof page read.",
+      "edition_role": "preferred"
+    },
+    {
+      "exact_release_doi": "10.5281/zenodo.18787331",
+      "work_doi": "10.5281/zenodo.18787330",
+      "sha256": "09f153f2237681f413db32809636fb524913bc098a32292b942c71b5f05e4d2e",
+      "canonical_work_url": "https://constraintsystemsinstitute.org/papers/finite-depth-majorant-mixing-and-a-continuum-mass-gap-for-four-dimensional-yang-mills-18787330/",
+      "pdf_url": "https://constraintsystemsinstitute.org/manuscripts/zenodo-18787330/sha256-09f153f2237681f413db32809636fb524913bc098a32292b942c71b5f05e4d2e/manuscript.pdf",
+      "source_passages": [
+        {
+          "pdf_page": 1,
+          "label": "Selected source passage"
+        },
+        {
+          "pdf_page": 2,
+          "label": "Selected source passage"
+        },
+        {
+          "pdf_page": 3,
+          "label": "Selected source passage"
+        },
+        {
+          "pdf_page": 4,
+          "label": "Selected source passage"
+        },
+        {
+          "pdf_page": 6,
+          "label": "Selected source passage"
+        },
+        {
+          "pdf_page": 15,
+          "label": "Selected source passage"
+        }
+      ],
+      "review_coverage": "Bounded substantive reading of selected imports, definitions, central results and limits; not every proof page read.",
+      "edition_role": "preferred"
+    },
+    {
+      "exact_release_doi": "10.5281/zenodo.18603440",
+      "work_doi": "10.5281/zenodo.18603439",
+      "sha256": "0b3153e3b5fd31e70eeeb130447abcf31c51b7fab2cded5cb0b4a070aeeeb867",
+      "canonical_work_url": "https://constraintsystemsinstitute.org/papers/dimensionless-gauge-couplings-as-moduli-18603439/",
+      "pdf_url": "https://constraintsystemsinstitute.org/manuscripts/zenodo-18603439/sha256-0b3153e3b5fd31e70eeeb130447abcf31c51b7fab2cded5cb0b4a070aeeeb867/manuscript.pdf",
+      "source_passages": [
+        {
+          "pdf_page": 1,
+          "label": "Section 1 scope and six structural assumptions"
+        },
+        {
+          "pdf_page": 2,
+          "label": "Theorem 1 non-derivability; theory space"
+        },
+        {
+          "pdf_page": 3,
+          "label": "QED/QCD examples and continuous freedom"
+        },
+        {
+          "pdf_page": 4,
+          "label": "Sections 7-9 fixed-point and applicability limits"
+        }
+      ],
+      "review_coverage": "Complete short-source reading; no independent proof or ontological verification.",
+      "edition_role": "preferred"
+    },
+    {
+      "exact_release_doi": "10.5281/zenodo.18671728",
+      "work_doi": "10.5281/zenodo.18664019",
+      "sha256": "57782dbd7812b424b09e91f5639c6cc34feb48d3892527e7820ec3025d11ceb6",
+      "canonical_work_url": "https://constraintsystemsinstitute.org/papers/clausura-ex-necessitate-structurae-18664019/",
+      "pdf_url": "https://constraintsystemsinstitute.org/manuscripts/zenodo-18664019/sha256-57782dbd7812b424b09e91f5639c6cc34feb48d3892527e7820ec3025d11ceb6/manuscript.pdf",
+      "source_passages": [
+        {
+          "pdf_page": 1,
+          "label": "Selected source passage"
+        },
+        {
+          "pdf_page": 6,
+          "label": "Selected source passage"
+        },
+        {
+          "pdf_page": 8,
+          "label": "Selected source passage"
+        },
+        {
+          "pdf_page": 43,
+          "label": "Selected source passage"
+        },
+        {
+          "pdf_page": 44,
+          "label": "Selected source passage"
+        },
+        {
+          "pdf_page": 45,
+          "label": "Selected source passage"
+        },
+        {
+          "pdf_page": 46,
+          "label": "Selected source passage"
+        },
+        {
+          "pdf_page": 47,
+          "label": "Selected source passage"
+        },
+        {
+          "pdf_page": 48,
+          "label": "Selected source passage"
+        }
+      ],
+      "review_coverage": "Bounded substantive reading of selected imports, definitions, central results and limits; not every proof page read.",
+      "edition_role": "preferred"
+    },
+    {
+      "exact_release_doi": "10.5281/zenodo.18543350",
+      "work_doi": "10.5281/zenodo.18515176",
+      "sha256": "5d5eced4c0e0d3903b537d07d3d592535cead10f3872647926c4ab5a4919284b",
+      "canonical_work_url": "https://constraintsystemsinstitute.org/papers/l1-paper-11-hypercharge-normalization-electric-charge-quantization-18515176/",
+      "pdf_url": "https://constraintsystemsinstitute.org/manuscripts/zenodo-18515176/sha256-5d5eced4c0e0d3903b537d07d3d592535cead10f3872647926c4ab5a4919284b/manuscript.pdf",
+      "source_passages": [
+        {
+          "pdf_page": 1,
+          "label": "Section 0 declared load"
+        },
+        {
+          "pdf_page": 2,
+          "label": "Theorem 1 and corollaries"
+        }
+      ],
+      "review_coverage": "Complete short-source reading; no independent proof verification.",
+      "edition_role": "preferred"
+    },
+    {
+      "exact_release_doi": "10.5281/zenodo.18543209",
+      "work_doi": "10.5281/zenodo.18515196",
+      "sha256": "f3c2ee5a895aae2d29301964736bc6c66016fb01d394edae522a5bf6f044528a",
+      "canonical_work_url": "https://constraintsystemsinstitute.org/papers/l1-paper-10-absence-of-tree-level-flavor-changing-neutral-currents-18515196/",
+      "pdf_url": "https://constraintsystemsinstitute.org/manuscripts/zenodo-18515196/sha256-f3c2ee5a895aae2d29301964736bc6c66016fb01d394edae522a5bf6f044528a/manuscript.pdf",
+      "source_passages": [
+        {
+          "pdf_page": 1,
+          "label": "Section 0 scope"
+        },
+        {
+          "pdf_page": 2,
+          "label": "Theorem 1 tree-level result"
+        }
+      ],
+      "review_coverage": "Complete short-source reading; no independent proof verification.",
+      "edition_role": "preferred"
+    },
+    {
+      "exact_release_doi": "10.5281/zenodo.18542947",
+      "work_doi": "10.5281/zenodo.18515214",
+      "sha256": "88d52e0ad3a67a231ec75d0b5d05e56f564b1a6999f56a52c012d90229801660",
+      "canonical_work_url": "https://constraintsystemsinstitute.org/papers/l1-paper-9-rephasing-redundancy-exhaustion-18515214/",
+      "pdf_url": "https://constraintsystemsinstitute.org/manuscripts/zenodo-18515214/sha256-88d52e0ad3a67a231ec75d0b5d05e56f564b1a6999f56a52c012d90229801660/manuscript.pdf",
+      "source_passages": [
+        {
+          "pdf_page": 1,
+          "label": "Section 0 scope; Section 3 phase data"
+        },
+        {
+          "pdf_page": 2,
+          "label": "Theorem 1 and operator-content qualification"
+        }
+      ],
+      "review_coverage": "Complete short-source reading; no independent proof verification.",
+      "edition_role": "preferred"
+    },
+    {
+      "exact_release_doi": "10.5281/zenodo.18542702",
+      "work_doi": "10.5281/zenodo.18515229",
+      "sha256": "f9cfc70edaf5baa1d35026f0e7166b4a003e9e7f54f8b1ca8f657129af0d98b2",
+      "canonical_work_url": "https://constraintsystemsinstitute.org/papers/l1-paper-8-unitary-mixing-saturation-18515229/",
+      "pdf_url": "https://constraintsystemsinstitute.org/manuscripts/zenodo-18515229/sha256-f9cfc70edaf5baa1d35026f0e7166b4a003e9e7f54f8b1ca8f657129af0d98b2/manuscript.pdf",
+      "source_passages": [
+        {
+          "pdf_page": 1,
+          "label": "Section 0 fixed load; Section 3 operator data"
+        },
+        {
+          "pdf_page": 2,
+          "label": "Theorem 1 and corollaries"
+        }
+      ],
+      "review_coverage": "Complete short-source reading; no independent proof verification.",
+      "edition_role": "preferred"
+    },
+    {
+      "exact_release_doi": "10.5281/zenodo.18542656",
+      "work_doi": "10.5281/zenodo.18515249",
+      "sha256": "53157bb81db3d973b32d979af2109b7d3a0d23db23526ad1be6bc01fd0b152b2",
+      "canonical_work_url": "https://constraintsystemsinstitute.org/papers/l1-paper-7-yukawa-realizability-under-minimal-chiral-load-18515249/",
+      "pdf_url": "https://constraintsystemsinstitute.org/manuscripts/zenodo-18515249/sha256-53157bb81db3d973b32d979af2109b7d3a0d23db23526ad1be6bc01fd0b152b2/manuscript.pdf",
+      "source_passages": [
+        {
+          "pdf_page": 1,
+          "label": "Section 0 declared load"
+        },
+        {
+          "pdf_page": 2,
+          "label": "Theorem 1 and corollaries"
+        }
+      ],
+      "review_coverage": "Complete short-source reading; no independent proof verification.",
+      "edition_role": "preferred"
+    },
+    {
+      "exact_release_doi": "10.5281/zenodo.18515481",
+      "work_doi": "10.5281/zenodo.18515480",
+      "sha256": "f8dcc4503ef0853ad376729afecf90381fc0f40c9a854529c6e73a1eb6bd2666",
+      "canonical_work_url": "https://constraintsystemsinstitute.org/papers/identity-non-conservation-18515480/",
+      "pdf_url": "https://constraintsystemsinstitute.org/manuscripts/zenodo-18515480/sha256-f8dcc4503ef0853ad376729afecf90381fc0f40c9a854529c6e73a1eb6bd2666/manuscript.pdf",
+      "source_passages": [
+        {
+          "pdf_page": 1,
+          "label": "Selected source passage"
+        },
+        {
+          "pdf_page": 2,
+          "label": "Selected source passage"
+        },
+        {
+          "pdf_page": 3,
+          "label": "Selected source passage"
+        }
+      ],
+      "review_coverage": "Bounded substantive reading of selected imports, definitions, central results and limits; not every proof page read.",
+      "edition_role": "preferred"
+    },
+    {
+      "exact_release_doi": "10.5281/zenodo.18515397",
+      "work_doi": "10.5281/zenodo.18515396",
+      "sha256": "f85210824148f84b0ee72cd1a63c1855389ad7797118e052ad2276eeab0c3f5d",
+      "canonical_work_url": "https://constraintsystemsinstitute.org/papers/l1-paper-1-equivalence-completion-and-forced-collapse-of-charged-current-18515396/",
+      "pdf_url": "https://constraintsystemsinstitute.org/manuscripts/zenodo-18515396/sha256-f85210824148f84b0ee72cd1a63c1855389ad7797118e052ad2276eeab0c3f5d/manuscript.pdf",
+      "source_passages": [
+        {
+          "pdf_page": 1,
+          "label": "Section 3 tree-level transport"
+        },
+        {
+          "pdf_page": 2,
+          "label": "Sections 4-6 invariant witness counting and relation"
+        }
+      ],
+      "review_coverage": "Complete short-source reading; no independent proof verification.",
+      "edition_role": "preferred"
+    },
+    {
+      "exact_release_doi": "10.5281/zenodo.18515343",
+      "work_doi": "10.5281/zenodo.18515342",
+      "sha256": "ca3d2d241841119fefff942abf2fb7c61f860744a15ebcb1599ef0e1a0e9682b",
+      "canonical_work_url": "https://constraintsystemsinstitute.org/papers/l1-paper-3-fermion-yukawa-mass-equivalence-18515342/",
+      "pdf_url": "https://constraintsystemsinstitute.org/manuscripts/zenodo-18515342/sha256-ca3d2d241841119fefff942abf2fb7c61f860744a15ebcb1599ef0e1a0e9682b/manuscript.pdf",
+      "source_passages": [
+        {
+          "pdf_page": 1,
+          "label": "Sections 2-3 low-energy skin"
+        },
+        {
+          "pdf_page": 2,
+          "label": "Sections 5-6 threshold/interaction target"
+        }
+      ],
+      "review_coverage": "Complete short-source reading; no independent proof verification.",
+      "edition_role": "preferred"
+    },
+    {
+      "exact_release_doi": "10.5281/zenodo.18515369",
+      "work_doi": "10.5281/zenodo.18515368",
+      "sha256": "dece3c25ae4383be1fc0b95ca2ed798b06b07a547879aacae04bbfb0330930c5",
+      "canonical_work_url": "https://constraintsystemsinstitute.org/papers/l1-paper-2-equivalence-completion-in-the-qcd-cp-odd-sector-18515368/",
+      "pdf_url": "https://constraintsystemsinstitute.org/manuscripts/zenodo-18515368/sha256-dece3c25ae4383be1fc0b95ca2ed798b06b07a547879aacae04bbfb0330930c5/manuscript.pdf",
+      "source_passages": [
+        {
+          "pdf_page": 1,
+          "label": "Sections 1-3 rephasing and transport"
+        },
+        {
+          "pdf_page": 2,
+          "label": "Section 6 forced relation"
+        }
+      ],
+      "review_coverage": "Complete short-source reading; no independent proof verification.",
+      "edition_role": "preferred"
+    },
+    {
+      "exact_release_doi": "10.5281/zenodo.18515319",
+      "work_doi": "10.5281/zenodo.18515318",
+      "sha256": "0d2dd02d76d6894f6c2f065aaa88f3476e9c514a291afc26ace4aeed3cb1a309",
+      "canonical_work_url": "https://constraintsystemsinstitute.org/papers/l1-paper-4-ew-qed-em-coupling-collapse-18515318/",
+      "pdf_url": "https://constraintsystemsinstitute.org/manuscripts/zenodo-18515318/sha256-0d2dd02d76d6894f6c2f065aaa88f3476e9c514a291afc26ace4aeed3cb1a309/manuscript.pdf",
+      "source_passages": [
+        {
+          "pdf_page": 1,
+          "label": "Sections 2-3 electromagnetic target"
+        },
+        {
+          "pdf_page": 2,
+          "label": "Section 6 electromagnetic relation"
+        }
+      ],
+      "review_coverage": "Complete short-source reading; no independent proof verification.",
+      "edition_role": "preferred"
+    },
+    {
+      "exact_release_doi": "10.5281/zenodo.18515296",
+      "work_doi": "10.5281/zenodo.18515295",
+      "sha256": "60ec3ba5b2184a05e6a3e11788339149218a181bc4edff128928329129310c35",
+      "canonical_work_url": "https://constraintsystemsinstitute.org/papers/l1-paper-5-neutrino-mixing-invariants-18515295/",
+      "pdf_url": "https://constraintsystemsinstitute.org/manuscripts/zenodo-18515295/sha256-60ec3ba5b2184a05e6a3e11788339149218a181bc4edff128928329129310c35/manuscript.pdf",
+      "source_passages": [
+        {
+          "pdf_page": 1,
+          "label": "Sections 1-3 oscillation target"
+        },
+        {
+          "pdf_page": 2,
+          "label": "Sections 5-6 invariant set"
+        },
+        {
+          "pdf_page": 3,
+          "label": "Conclusion"
+        }
+      ],
+      "review_coverage": "Complete short-source reading; no independent proof verification.",
+      "edition_role": "preferred"
+    },
+    {
+      "exact_release_doi": "10.5281/zenodo.18515276",
+      "work_doi": "10.5281/zenodo.18515275",
+      "sha256": "7bf05a7887d28b9e9dcbff0237b4ca1e614e6c0dcc34c7fb9f495e303924ffdf",
+      "canonical_work_url": "https://constraintsystemsinstitute.org/papers/l1-paper-6-longitudinal-goldstone-equivalence-18515275/",
+      "pdf_url": "https://constraintsystemsinstitute.org/manuscripts/zenodo-18515275/sha256-7bf05a7887d28b9e9dcbff0237b4ca1e614e6c0dcc34c7fb9f495e303924ffdf/manuscript.pdf",
+      "source_passages": [
+        {
+          "pdf_page": 1,
+          "label": "Section 3 high-energy transport and corrections"
+        },
+        {
+          "pdf_page": 2,
+          "label": "Section 6 regime-scoped identification"
+        }
+      ],
+      "review_coverage": "Complete short-source reading; no independent proof verification.",
+      "edition_role": "preferred"
+    },
+    {
+      "exact_release_doi": "10.5281/zenodo.18515153",
+      "work_doi": "10.5281/zenodo.18515152",
+      "sha256": "70e17286d4f3516a7053854245ebbc181fa88f7325b17d5b315da14e5f14bd70",
+      "canonical_work_url": "https://constraintsystemsinstitute.org/papers/l1-paper-12-exhaustion-and-closure-of-the-equivalence-space-18515152/",
+      "pdf_url": "https://constraintsystemsinstitute.org/manuscripts/zenodo-18515152/sha256-70e17286d4f3516a7053854245ebbc181fa88f7325b17d5b315da14e5f14bd70/manuscript.pdf",
+      "source_passages": [
+        {
+          "pdf_page": 1,
+          "label": "Sections 2-4 collection exhaustion and Theorem 1"
+        }
+      ],
+      "review_coverage": "Complete short-source reading; no independent proof verification.",
+      "edition_role": "preferred"
+    },
+    {
+      "exact_release_doi": "10.5281/zenodo.18477390",
+      "work_doi": "10.5281/zenodo.18477389",
+      "sha256": "f5f211267f209eebf91692db094f53d574bf4c4ad26ca6d716e9d1eeafd9c26f",
+      "canonical_work_url": "https://constraintsystemsinstitute.org/papers/why-gauge-symmetry-cannot-be-ontic-18477389/",
+      "pdf_url": "https://constraintsystemsinstitute.org/manuscripts/zenodo-18477389/sha256-f5f211267f209eebf91692db094f53d574bf4c4ad26ca6d716e9d1eeafd9c26f/manuscript.pdf",
+      "source_passages": [
+        {
+          "pdf_page": 1,
+          "label": "Sections 1-2 target and ontic criteria"
+        },
+        {
+          "pdf_page": 2,
+          "label": "Sections 3-5 argument"
+        },
+        {
+          "pdf_page": 3,
+          "label": "Section 6 conditional boundary and conclusion"
+        }
+      ],
+      "review_coverage": "Complete short-source reading; no independent proof or ontological verification.",
+      "edition_role": "preferred"
+    }
+  ],
+  "dependencies": [
+    {
+      "destination_exact_release_doi": "10.5281/zenodo.20782793",
+      "destination_sha256": "60d5f53bcd3ce3cc949af4351ed06d922487e015252b82dfed34dc9c8f14b9cd",
+      "source_declared_doi": "10.5281/zenodo.19324199",
+      "declared_lock_label": "D1",
+      "declared_doi_kind": "concept",
+      "source_exact_imported_release_doi": null,
+      "source_exact_imported_sha256": null,
+      "current_reading_candidate_only": {
+        "exact_release_doi": "10.5281/zenodo.22968658",
+        "title": "Non-Degenerate Construction and the Kernel of Admissibility"
+      },
+      "kind": "logical_dependency",
+      "evidence": {
+        "destination_pdf_pages": [
+          7,
+          8,
+          9,
+          24,
+          40,
+          41
+        ],
+        "sections": "Section2.7 Table1; Theorem8.3; AppendixE Table6"
+      },
+      "uncertainty": "Source calls this version-specific but cited concept DOI does not freeze imported bytes. Current exact release shown for reading only."
+    },
+    {
+      "destination_exact_release_doi": "10.5281/zenodo.20782793",
+      "destination_sha256": "60d5f53bcd3ce3cc949af4351ed06d922487e015252b82dfed34dc9c8f14b9cd",
+      "source_declared_doi": "10.5281/zenodo.19198249",
+      "declared_lock_label": "D2",
+      "declared_doi_kind": "concept",
+      "source_exact_imported_release_doi": null,
+      "source_exact_imported_sha256": null,
+      "current_reading_candidate_only": {
+        "exact_release_doi": "10.5281/zenodo.22874934",
+        "title": "The Structure of Admissibility: Bivalent Qualification, Exhaustion, and the Unique Admissible Interior"
+      },
+      "kind": "logical_dependency",
+      "evidence": {
+        "destination_pdf_pages": [
+          7,
+          8,
+          9,
+          24,
+          40,
+          41
+        ],
+        "sections": "Section2.7 Table1; Theorem8.3; AppendixE Table6"
+      },
+      "uncertainty": "Source calls this version-specific but cited concept DOI does not freeze imported bytes. Current exact release shown for reading only."
+    },
+    {
+      "destination_exact_release_doi": "10.5281/zenodo.20782793",
+      "destination_sha256": "60d5f53bcd3ce3cc949af4351ed06d922487e015252b82dfed34dc9c8f14b9cd",
+      "source_declared_doi": "10.5281/zenodo.19183407",
+      "declared_lock_label": "D3",
+      "declared_doi_kind": "concept",
+      "source_exact_imported_release_doi": null,
+      "source_exact_imported_sha256": null,
+      "current_reading_candidate_only": {
+        "exact_release_doi": "10.5281/zenodo.22875348",
+        "title": "Closure by Exhaustion for Same-Scope Operators under Admissibility"
+      },
+      "kind": "logical_dependency",
+      "evidence": {
+        "destination_pdf_pages": [
+          7,
+          8,
+          9,
+          24,
+          40,
+          41
+        ],
+        "sections": "Section2.7 Table1; Theorem8.3; AppendixE Table6"
+      },
+      "uncertainty": "Source calls this version-specific but cited concept DOI does not freeze imported bytes. Current exact release shown for reading only."
+    },
+    {
+      "destination_exact_release_doi": "10.5281/zenodo.20782793",
+      "destination_sha256": "60d5f53bcd3ce3cc949af4351ed06d922487e015252b82dfed34dc9c8f14b9cd",
+      "source_declared_doi": "10.5281/zenodo.18682423",
+      "declared_lock_label": "D4",
+      "declared_doi_kind": "concept",
+      "source_exact_imported_release_doi": null,
+      "source_exact_imported_sha256": null,
+      "current_reading_candidate_only": {
+        "exact_release_doi": "10.5281/zenodo.22875070",
+        "title": "A Fixed-Domain Exhaustion Theorem  Standing, Consequence, and Compositional Closure under Typed Boundary Discipline"
+      },
+      "kind": "logical_dependency",
+      "evidence": {
+        "destination_pdf_pages": [
+          7,
+          8,
+          9,
+          24,
+          40,
+          41
+        ],
+        "sections": "Section2.7 Table1; Theorem8.3; AppendixE Table6"
+      },
+      "uncertainty": "Source calls this version-specific but cited concept DOI does not freeze imported bytes. Current exact release shown for reading only."
+    },
+    {
+      "destination_exact_release_doi": "10.5281/zenodo.20782793",
+      "destination_sha256": "60d5f53bcd3ce3cc949af4351ed06d922487e015252b82dfed34dc9c8f14b9cd",
+      "source_declared_doi": "10.5281/zenodo.18664019",
+      "declared_lock_label": "D5",
+      "declared_doi_kind": "concept",
+      "source_exact_imported_release_doi": null,
+      "source_exact_imported_sha256": null,
+      "current_reading_candidate_only": {
+        "exact_release_doi": "10.5281/zenodo.18671728",
+        "title": "Clausura Ex Necessitate Structurae"
+      },
+      "kind": "logical_dependency",
+      "evidence": {
+        "destination_pdf_pages": [
+          7,
+          8,
+          9,
+          24,
+          40,
+          41
+        ],
+        "sections": "Section2.7 Table1; Theorem8.3; AppendixE Table6"
+      },
+      "uncertainty": "Source calls this version-specific but cited concept DOI does not freeze imported bytes. Current exact release shown for reading only."
+    },
+    {
+      "destination_exact_release_doi": "10.5281/zenodo.20782793",
+      "destination_sha256": "60d5f53bcd3ce3cc949af4351ed06d922487e015252b82dfed34dc9c8f14b9cd",
+      "source_declared_doi": "10.5281/zenodo.20129729",
+      "declared_lock_label": "D6",
+      "declared_doi_kind": "concept",
+      "source_exact_imported_release_doi": null,
+      "source_exact_imported_sha256": null,
+      "current_reading_candidate_only": {
+        "exact_release_doi": "10.5281/zenodo.20673915",
+        "title": "The Realized Physical Interior"
+      },
+      "kind": "physical_substantiation",
+      "evidence": {
+        "destination_pdf_pages": [
+          7,
+          8,
+          9,
+          24,
+          40,
+          41
+        ],
+        "sections": "Section2.7 Table1; Theorem8.3; AppendixE Table6"
+      },
+      "uncertainty": "Source calls this version-specific but cited concept DOI does not freeze imported bytes. Current exact release shown for reading only."
+    },
+    {
+      "destination_exact_release_doi": "10.5281/zenodo.20782793",
+      "destination_sha256": "60d5f53bcd3ce3cc949af4351ed06d922487e015252b82dfed34dc9c8f14b9cd",
+      "source_declared_doi": "10.5281/zenodo.20538579",
+      "declared_lock_label": "D7",
+      "declared_doi_kind": "concept",
+      "source_exact_imported_release_doi": null,
+      "source_exact_imported_sha256": null,
+      "current_reading_candidate_only": {
+        "exact_release_doi": "10.5281/zenodo.21616067",
+        "title": "Einstein Dynamics as the Unique Minimal First-Response Metric Projection of AASC Gravity"
+      },
+      "kind": "physical_projection_witness",
+      "evidence": {
+        "destination_pdf_pages": [
+          7,
+          8,
+          9,
+          24,
+          40,
+          41
+        ],
+        "sections": "Section2.7 Table1; Theorem8.3; AppendixE Table6"
+      },
+      "uncertainty": "Source calls this version-specific but cited concept DOI does not freeze imported bytes. Current exact release shown for reading only."
+    },
+    {
+      "destination_exact_release_doi": "10.5281/zenodo.20782793",
+      "destination_sha256": "60d5f53bcd3ce3cc949af4351ed06d922487e015252b82dfed34dc9c8f14b9cd",
+      "source_declared_doi": "10.5281/zenodo.20305720",
+      "declared_lock_label": "D8",
+      "declared_doi_kind": "concept",
+      "source_exact_imported_release_doi": null,
+      "source_exact_imported_sha256": null,
+      "current_reading_candidate_only": {
+        "exact_release_doi": "10.5281/zenodo.20323596",
+        "title": "The Standalone Standard Model Structure from First Principles"
+      },
+      "kind": "physical_projection_witness",
+      "evidence": {
+        "destination_pdf_pages": [
+          7,
+          8,
+          9,
+          24,
+          40,
+          41
+        ],
+        "sections": "Section2.7 Table1; Theorem8.3; AppendixE Table6"
+      },
+      "uncertainty": "Source calls this version-specific but cited concept DOI does not freeze imported bytes. Current exact release shown for reading only."
+    },
+    {
+      "destination_exact_release_doi": "10.5281/zenodo.20371781",
+      "destination_sha256": "eee032d8e80b3af107ddcc1cf5938c96d592faac7224f8c172774ba688990ab5",
+      "source_declared_title": "Non-Degenerate Construction and the Kernel of Admissibility",
+      "source_exact_imported_release_doi": null,
+      "source_exact_imported_sha256": null,
+      "kind": "logical_dependency",
+      "claim": "Kernel invariants downstream finite target-occupation tightening.",
+      "evidence": {
+        "destination_pdf_page": 14,
+        "url": "https://zenodo.org/records/20371781/files/Role_Occupancy_Closure_under_Admissibility.pdf?download=1#page=14"
+      }
+    },
+    {
+      "destination_exact_release_doi": "10.5281/zenodo.20712753",
+      "destination_sha256": "5aea4a700dc04a6961ec93d63437606a263d6ded8334e6c03ce75c4c406ab18c",
+      "source_declared_title": "Structura Ex Necessitate Standardis Modelis",
+      "source_exact_imported_release_doi": null,
+      "source_exact_imported_sha256": null,
+      "kind": "logical_dependency",
+      "claim": "Fixed-load and same-domain closure imported; proton bridge is local.",
+      "evidence": {
+        "destination_pdf_page": 11,
+        "url": "https://zenodo.org/records/20712753/files/Proton_Stability_from_Occupant_Uniqueness.pdf?download=1#page=11"
+      }
+    },
+    {
+      "destination_exact_release_doi": "10.5281/zenodo.20712753",
+      "destination_sha256": "5aea4a700dc04a6961ec93d63437606a263d6ded8334e6c03ce75c4c406ab18c",
+      "source_declared_title": "The Standalone Standard Model Structure from First Principles",
+      "source_exact_imported_release_doi": null,
+      "source_exact_imported_sha256": null,
+      "kind": "logical_dependency",
+      "claim": "Structural/parameter boundary imported.",
+      "evidence": {
+        "destination_pdf_page": 11,
+        "url": "https://zenodo.org/records/20712753/files/Proton_Stability_from_Occupant_Uniqueness.pdf?download=1#page=11"
+      }
+    },
+    {
+      "destination_exact_release_doi": "10.5281/zenodo.20712753",
+      "destination_sha256": "5aea4a700dc04a6961ec93d63437606a263d6ded8334e6c03ce75c4c406ab18c",
+      "source_declared_title": "Classification Theorem (bookkeeping occupant uniqueness)",
+      "source_exact_imported_release_doi": null,
+      "source_exact_imported_sha256": null,
+      "kind": "logical_dependency",
+      "claim": "Final occupant-level exclusion after proton-specific transition bridge.",
+      "evidence": {
+        "destination_pdf_page": 12,
+        "url": "https://zenodo.org/records/20712753/files/Proton_Stability_from_Occupant_Uniqueness.pdf?download=1#page=12"
+      }
+    },
+    {
+      "destination_exact_release_doi": "10.5281/zenodo.20443810",
+      "destination_sha256": "fe3fc8df7de1ba5a52b5e67d8578adef4d19177058cd567c03bb752bf71fa430",
+      "source_declared_title": "M. Pajuhaan external source-row package",
+      "source_exact_imported_release_doi": null,
+      "source_exact_imported_sha256": null,
+      "kind": "provenance_and_row_data",
+      "claim": "Provenance/data only, not AASC structural proof authority.",
+      "evidence": {
+        "destination_pdf_page": 10,
+        "url": "https://zenodo.org/records/20443810/files/The_Standing_Neutrino_Splitting_Ratio_from_First_Principles_Standing_Admission.pdf?download=1#page=10"
+      }
+    },
+    {
+      "destination_exact_release_doi": "10.5281/zenodo.18787519",
+      "destination_sha256": "90c5202ec9a05685d0891bc0d006f1e80539a5f46c2bcf2c0b3269bf1e0ded49",
+      "source_declared_title": "Paper3 Semigroup Spectral Extraction",
+      "source_exact_imported_release_doi": null,
+      "source_exact_imported_sha256": null,
+      "kind": "logical_dependency",
+      "claim": "Companion invokes Theorem5.1, while current reading release18787440 labels it5.5; exact imported edition unknown.",
+      "evidence": {
+        "destination_pdf_page": 5,
+        "url": "https://zenodo.org/records/18787519/files/YM4_Ultraviolet_Trajectories_and_Conditional_Completion.pdf?download=1#page=5"
+      }
+    },
+    {
+      "destination_exact_release_doi": "10.5281/zenodo.18860253",
+      "destination_sha256": "53eae66fcec7ef7b1fb7f307ddc2b184d63f3c1b610201d5a3e23b1e9be8b810",
+      "source_declared_title": "SU2 / SUN / Classical / Exceptional series",
+      "source_exact_imported_release_doi": null,
+      "source_exact_imported_sha256": null,
+      "kind": "reading_order_and_series_assembly",
+      "claim": "Navigational series interlock, no new theorem; imported release identities unspecified.",
+      "evidence": {
+        "destination_pdf_page": 1,
+        "url": "https://zenodo.org/records/18860253/files/Global_Proof_Architecture_Companion_Note.pdf?download=1#page=1"
+      }
+    }
+  ],
+  "claims_status": "Manuscript-attributed claims and exact destination-page evidence; not independent proof verification.",
+  "frozen_import_policy": "Unknown exact source editions remain null. Current reading versions are not substituted for frozen dependencies."
+}

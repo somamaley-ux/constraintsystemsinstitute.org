@@ -1,0 +1,18 @@
+{
+  "work_doi": "10.5281/zenodo.18515342",
+  "exact_release_doi": "10.5281/zenodo.18515343",
+  "title": "L1 Paper 3 Fermion Yukawa Mass Equivalence",
+  "manuscript_date": null,
+  "publisher_publication_date": "2026-02-07",
+  "publisher_version": null,
+  "sha256": "ca3d2d241841119fefff942abf2fb7c61f860744a15ebcb1599ef0e1a0e9682b",
+  "bytes": 100141,
+  "pages": 2,
+  "pdf_url": "https://constraintsystemsinstitute.org/manuscripts/zenodo-18515342/sha256-ca3d2d241841119fefff942abf2fb7c61f860744a15ebcb1599ef0e1a0e9682b/manuscript.pdf",
+  "canonical_work_url": "https://constraintsystemsinstitute.org/papers/l1-paper-3-fermion-yukawa-mass-equivalence-18515342/",
+  "publisher_url": "https://zenodo.org/records/18515343",
+  "license": "CC BY 4.0",
+  "edition_role": "preferred",
+  "verification": "Current official release identity and publisher checksum checked against retained exact PDF bytes; searchable-text notice contexts reviewed. Manuscript claims not independently verified.",
+  "conversion": "Repository reading summary; no full-text HTML conversion."
+}

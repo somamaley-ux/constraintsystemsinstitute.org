@@ -1,0 +1,18 @@
+{
+  "work_doi": "10.5281/zenodo.18787518",
+  "exact_release_doi": "10.5281/zenodo.18787519",
+  "title": "Ultraviolet Trajectories and Conditional Completion",
+  "manuscript_date": null,
+  "publisher_publication_date": "2026-02-26",
+  "publisher_version": null,
+  "sha256": "90c5202ec9a05685d0891bc0d006f1e80539a5f46c2bcf2c0b3269bf1e0ded49",
+  "bytes": 323550,
+  "pages": 7,
+  "pdf_url": "https://constraintsystemsinstitute.org/manuscripts/zenodo-18787518/sha256-90c5202ec9a05685d0891bc0d006f1e80539a5f46c2bcf2c0b3269bf1e0ded49/manuscript.pdf",
+  "canonical_work_url": "https://constraintsystemsinstitute.org/papers/ultraviolet-trajectories-and-conditional-completion-18787518/",
+  "publisher_url": "https://zenodo.org/records/18787519",
+  "license": "CC BY 4.0",
+  "edition_role": "preferred",
+  "verification": "Current official release identity and publisher checksum checked against retained exact PDF bytes; searchable-text notice contexts reviewed. Manuscript claims not independently verified.",
+  "conversion": "Repository reading summary; no full-text HTML conversion."
+}

@@ -4908,5 +4908,1204 @@
     "research_groups": [
       "Metric Envelope and Carrier Order"
     ]
+  },
+  {
+    "title": "Eadem Natura Duo Spectra",
+    "doi": "10.5281/zenodo.18522113",
+    "doi_url": "https://doi.org/10.5281/zenodo.18522113",
+    "url": "https://constraintsystemsinstitute.org/papers/eadem-natura-duo-spectra-18522113/",
+    "slug": "eadem-natura-duo-spectra-18522113",
+    "date": "2026-06-21",
+    "scholar_date": "2026/06/21",
+    "context": "Post-closure classification",
+    "report_number": "CSI-ZENODO-18522113",
+    "description": "The manuscript classifies mathematical and physical construction after admissibility and standing have closed: they share a standing-relevant construction profile while differing by fixation mode. Its logical core is D1-D5; D6 supplies physical substantiation and D7-D8 are projection witnesses. The claim is not ontic identity or universal disciplinary reduction. The eight cited DOI families do not pin the exact imported editions.",
+    "keywords": "AASC, Foundations, Post-closure classification",
+    "zenodo_record": "https://zenodo.org/records/20782793",
+    "preferred_edition": {
+      "pdf_url": "https://constraintsystemsinstitute.org/manuscripts/zenodo-18522113/sha256-60d5f53bcd3ce3cc949af4351ed06d922487e015252b82dfed34dc9c8f14b9cd/manuscript.pdf",
+      "doi": "10.5281/zenodo.20782793",
+      "publisher_publication_date": "2026-06-21",
+      "manuscript_date": null,
+      "sha256": "60d5f53bcd3ce3cc949af4351ed06d922487e015252b82dfed34dc9c8f14b9cd",
+      "pages": 42
+    },
+    "repository_layout": "current-paper-with-collapsed-history",
+    "subjects": [
+      "Foundations"
+    ],
+    "research_groups": [
+      "Post-closure classification"
+    ]
+  },
+  {
+    "title": "The Strong-CP Boundary Endpoint",
+    "doi": "10.5281/zenodo.20931478",
+    "doi_url": "https://doi.org/10.5281/zenodo.20931478",
+    "url": "https://constraintsystemsinstitute.org/papers/the-strong-cp-boundary-endpoint-20931478/",
+    "slug": "the-strong-cp-boundary-endpoint-20931478",
+    "date": "2026-06-26",
+    "scholar_date": "2026/06/26",
+    "context": "Strong-CP boundary",
+    "report_number": "CSI-ZENODO-20931478",
+    "description": "Within its declared minimal certified strong-CP envelope, the manuscript selects the identity topological boundary class after uncertified non-identity classes are removed. Nonzero load requires the stated selector, input, positive witness or richer descent. This does not make nonzero-theta QCD formally impossible or exclude independently certified richer-scope models.",
+    "keywords": "AASC, Standard Model, Strong-CP boundary",
+    "zenodo_record": "https://zenodo.org/records/20931479",
+    "preferred_edition": {
+      "pdf_url": "https://constraintsystemsinstitute.org/manuscripts/zenodo-20931478/sha256-d2b58d75ad588d20041513cc7d8bc13b3cc7b9e72dad78d28a24b4be4ea0de4e/manuscript.pdf",
+      "doi": "10.5281/zenodo.20931479",
+      "publisher_publication_date": "2026-06-26",
+      "manuscript_date": null,
+      "sha256": "d2b58d75ad588d20041513cc7d8bc13b3cc7b9e72dad78d28a24b4be4ea0de4e",
+      "pages": 42
+    },
+    "repository_layout": "current-paper-with-collapsed-history",
+    "subjects": [
+      "Standard Model"
+    ],
+    "research_groups": [
+      "Strong-CP boundary"
+    ]
+  },
+  {
+    "title": "The Neutrino-Mass Low-Energy Exact-Character Endpoint",
+    "doi": "10.5281/zenodo.20892965",
+    "doi_url": "https://doi.org/10.5281/zenodo.20892965",
+    "url": "https://constraintsystemsinstitute.org/papers/the-neutrino-mass-low-energy-exact-character-endpoint-20892965/",
+    "slug": "the-neutrino-mass-low-energy-exact-character-endpoint-20892965",
+    "date": "2026-06-26",
+    "scholar_date": "2026/06/26",
+    "context": "Neutrino character",
+    "report_number": "CSI-ZENODO-20892965",
+    "description": "For its current certified low-energy Standard-Model-field snapshot, the manuscript reports a Majorana-compatible exact-character quotient. Exact-Dirac survival requires the specified certified carrier and protector package. This snapshot-relative endpoint does not determine a unique ultraviolet origin, rule out every Dirac model, or derive numerical masses and decay rates; future certificates can update the target.",
+    "keywords": "AASC, Neutrinos, Neutrino character",
+    "zenodo_record": "https://zenodo.org/records/20892966",
+    "preferred_edition": {
+      "pdf_url": "https://constraintsystemsinstitute.org/manuscripts/zenodo-20892965/sha256-e89abc9bc2d6f44cc795c4664409f10ee3847d2168a630a3b9ef9eb4407cbab5/manuscript.pdf",
+      "doi": "10.5281/zenodo.20892966",
+      "publisher_publication_date": "2026-06-26",
+      "manuscript_date": null,
+      "sha256": "e89abc9bc2d6f44cc795c4664409f10ee3847d2168a630a3b9ef9eb4407cbab5",
+      "pages": 54
+    },
+    "repository_layout": "current-paper-with-collapsed-history",
+    "subjects": [
+      "Neutrinos"
+    ],
+    "research_groups": [
+      "Neutrino character"
+    ]
+  },
+  {
+    "title": "The New AMetric Boundary Endpoint of Black Holes",
+    "doi": "10.5281/zenodo.20773784",
+    "doi_url": "https://doi.org/10.5281/zenodo.20773784",
+    "url": "https://constraintsystemsinstitute.org/papers/the-new-ametric-boundary-endpoint-of-black-holes-20773784/",
+    "slug": "the-new-ametric-boundary-endpoint-of-black-holes-20773784",
+    "date": "2026-06-20",
+    "scholar_date": "2026/06/20",
+    "context": "Black-hole boundary",
+    "report_number": "CSI-ZENODO-20773784",
+    "description": "The manuscript conditionally classifies a nonempty unresolved horizon-isolated residue as a New AMetric Boundary endpoint when its residual metric-comparison support is exhausted. The imported endpoint and null-regime conditions remain part of the claim. It does not establish universal astrophysical attainment, an interior universe or energy nonconservation, and it does not prohibit formal mathematical metric descriptions.",
+    "keywords": "AASC, Black holes, Black-hole boundary",
+    "zenodo_record": "https://zenodo.org/records/20777671",
+    "preferred_edition": {
+      "pdf_url": "https://constraintsystemsinstitute.org/manuscripts/zenodo-20773784/sha256-d91a2fe64e861a68fa5d26a5054e4ab12e526d88a3e48cc592cc0a7766f188cd/manuscript.pdf",
+      "doi": "10.5281/zenodo.20777671",
+      "publisher_publication_date": "2026-06-20",
+      "manuscript_date": null,
+      "sha256": "d91a2fe64e861a68fa5d26a5054e4ab12e526d88a3e48cc592cc0a7766f188cd",
+      "pages": 127
+    },
+    "repository_layout": "current-paper-with-collapsed-history",
+    "subjects": [
+      "Black holes"
+    ],
+    "research_groups": [
+      "Black-hole boundary"
+    ]
+  },
+  {
+    "title": "When Claims Become Auditable: Distributed AASC/UEAP Claim-Status Audit and the Game Theory of Scientific Authority",
+    "doi": "10.5281/zenodo.20747708",
+    "doi_url": "https://doi.org/10.5281/zenodo.20747708",
+    "url": "https://constraintsystemsinstitute.org/papers/when-claims-become-auditable-distributed-aasc-ueap-claim-status-audit-and-the-game-theory-of-scientific-authority-20747708/",
+    "slug": "when-claims-become-auditable-distributed-aasc-ueap-claim-status-audit-and-the-game-theory-of-scientific-authority-20747708",
+    "date": "2026-06-18",
+    "scholar_date": "2026/06/18",
+    "context": "Scientific claim audit",
+    "report_number": "CSI-ZENODO-20747708",
+    "description": "This reference edition proposes distributed AASC/UEAP audit of institutional rigor claims and a conditional game-theoretic exposure model. Portable execution, consequential detection and the stated independence assumptions determine what becomes auditable. Execution alone does not earn authority, and a mismatch is not a finding of falsity or misconduct. Multi-evaluator calibration is not presented as complete.",
+    "keywords": "AASC, Mind, agency and governance, Scientific claim audit",
+    "zenodo_record": "https://zenodo.org/records/20747709",
+    "preferred_edition": {
+      "pdf_url": "https://constraintsystemsinstitute.org/manuscripts/zenodo-20747708/sha256-e528f6f7ece3eba426d204acf28bb77009de8e367fd92624833ea577de41ebe8/manuscript.pdf",
+      "doi": "10.5281/zenodo.20747709",
+      "publisher_publication_date": "2026-06-18",
+      "manuscript_date": null,
+      "sha256": "e528f6f7ece3eba426d204acf28bb77009de8e367fd92624833ea577de41ebe8",
+      "pages": 119
+    },
+    "repository_layout": "current-paper-with-collapsed-history",
+    "subjects": [
+      "Mind, agency and governance"
+    ],
+    "research_groups": [
+      "Scientific claim audit"
+    ]
+  },
+  {
+    "title": "Proton Stability from Occupant Uniqueness",
+    "doi": "10.5281/zenodo.20712752",
+    "doi_url": "https://doi.org/10.5281/zenodo.20712752",
+    "url": "https://constraintsystemsinstitute.org/papers/proton-stability-from-occupant-uniqueness-20712752/",
+    "slug": "proton-stability-from-occupant-uniqueness-20712752",
+    "date": "2026-06-16",
+    "scholar_date": "2026/06/16",
+    "context": "Particle-physics role closure",
+    "report_number": "CSI-ZENODO-20712752",
+    "description": "Inside the imported unique particle-physics occupant and its fixed ledger, the manuscript argues that baryonic-role loss requires a licensed quotient morphism. A larger-domain decay witness changes the target ledger or lacks standing in that target. The claim does not calculate a proton lifetime or universally exclude effective, grand-unified or quantum-gravity models. Occupant uniqueness remains an imported manuscript claim.",
+    "keywords": "AASC, Standard Model, Particle-physics role closure",
+    "zenodo_record": "https://zenodo.org/records/20712753",
+    "preferred_edition": {
+      "pdf_url": "https://constraintsystemsinstitute.org/manuscripts/zenodo-20712752/sha256-5aea4a700dc04a6961ec93d63437606a263d6ded8334e6c03ce75c4c406ab18c/manuscript.pdf",
+      "doi": "10.5281/zenodo.20712753",
+      "publisher_publication_date": "2026-06-16",
+      "manuscript_date": null,
+      "sha256": "5aea4a700dc04a6961ec93d63437606a263d6ded8334e6c03ce75c4c406ab18c",
+      "pages": 64
+    },
+    "repository_layout": "current-paper-with-collapsed-history",
+    "subjects": [
+      "Standard Model"
+    ],
+    "research_groups": [
+      "Particle-physics role closure"
+    ]
+  },
+  {
+    "title": "Self-Adjoint Extension Selection Under Quadratic Form Order In Quantum Mechanics",
+    "doi": "10.5281/zenodo.20678826",
+    "doi_url": "https://doi.org/10.5281/zenodo.20678826",
+    "url": "https://constraintsystemsinstitute.org/papers/self-adjoint-extension-selection-under-quadratic-form-order-in-quantum-mechanics-20678826/",
+    "slug": "self-adjoint-extension-selection-under-quadratic-form-order-in-quantum-mechanics-20678826",
+    "date": "2026-06-13",
+    "scholar_date": "2026/06/13",
+    "context": "Self-adjoint extension selection",
+    "report_number": "CSI-ZENODO-20678826",
+    "description": "The manuscript gives a fixed-base classification of extension and readback procedures, then applies it to self-adjoint operators. Redescription invariance alone does not choose a unique nontrivial extension in the stated deficiency setting. For a lower-semibounded symmetric operator, its explicit closed-form dominance criterion characterizes the Friedrichs endpoint; the nonnegative Krein endpoint uses the dual criterion. Boundary data and framework changes remain distinct alternatives. No new empirical physics is asserted.",
+    "keywords": "AASC, Mathematics, Gravity and quantum dynamics, Self-adjoint extension selection, Invariant Selection and Endpoint Structure for Self-Adjoint Extensions",
+    "zenodo_record": "https://zenodo.org/records/20678827",
+    "preferred_edition": {
+      "pdf_url": "https://constraintsystemsinstitute.org/manuscripts/zenodo-20678826/sha256-f54571b9656b790f90bbc2b1fdbbf1fc485fa13c2cf277e9648e278ec9ac89bd/manuscript.pdf",
+      "doi": "10.5281/zenodo.20678827",
+      "publisher_publication_date": "2026-06-13",
+      "manuscript_date": null,
+      "sha256": "f54571b9656b790f90bbc2b1fdbbf1fc485fa13c2cf277e9648e278ec9ac89bd",
+      "pages": 40
+    },
+    "repository_layout": "current-paper-with-collapsed-history",
+    "subjects": [
+      "Mathematics",
+      "Gravity and quantum dynamics"
+    ],
+    "research_groups": [
+      "Self-adjoint extension selection"
+    ],
+    "work_id": "csi:work:self-adjoint-selection-endpoint",
+    "preferred_citation_doi": "10.5281/zenodo.20678827",
+    "publication_records": [
+      {
+        "title": "Self-Adjoint Extension Selection Under Quadratic Form Order In Quantum Mechanics",
+        "concept_doi": "10.5281/zenodo.20678826",
+        "exact_release_doi": "10.5281/zenodo.20678827",
+        "publisher_url": "https://zenodo.org/records/20678827",
+        "publisher_publication_date": "2026-06-13",
+        "sha256": "f54571b9656b790f90bbc2b1fdbbf1fc485fa13c2cf277e9648e278ec9ac89bd",
+        "pdf_url": "https://constraintsystemsinstitute.org/manuscripts/zenodo-20678826/sha256-f54571b9656b790f90bbc2b1fdbbf1fc485fa13c2cf277e9648e278ec9ac89bd/manuscript.pdf",
+        "edition_role": "preferred"
+      },
+      {
+        "title": "Invariant Selection and Endpoint Structure for Self-Adjoint Extensions",
+        "concept_doi": "10.5281/zenodo.20034766",
+        "exact_release_doi": "10.5281/zenodo.20034767",
+        "publisher_url": "https://zenodo.org/records/20034767",
+        "publisher_publication_date": "2026-05-05",
+        "sha256": "ca04ff975868e96d11c1f015304034397ab071e2365215e7e3564cfc4d8e6d20",
+        "pdf_url": "https://constraintsystemsinstitute.org/manuscripts/zenodo-20034766/sha256-ca04ff975868e96d11c1f015304034397ab071e2365215e7e3564cfc4d8e6d20/manuscript.pdf",
+        "edition_role": "collapsed_alternate_author_accepted"
+      }
+    ],
+    "edition_relationship": "Author-accepted preferred presentation and retained alternate. Different exact PDF bytes and DOI chains; no independent proof equivalence certified."
+  },
+  {
+    "title": "A Structural Solution to the Birch and Swinnerton-Dyer Role-Compression Problem",
+    "doi": "10.5281/zenodo.20539404",
+    "doi_url": "https://doi.org/10.5281/zenodo.20539404",
+    "url": "https://constraintsystemsinstitute.org/papers/a-structural-solution-to-the-birch-and-swinnerton-dyer-role-compression-problem-20539404/",
+    "slug": "a-structural-solution-to-the-birch-and-swinnerton-dyer-role-compression-problem-20539404",
+    "date": "2026-06-04",
+    "scholar_date": "2026/06/04",
+    "context": "Mathematical role compression",
+    "report_number": "CSI-ZENODO-20539404",
+    "description": "The manuscript supplies a structural role-compression closure for the elliptic curve, L-function, analytic order, arithmetic rank and bridge roles. Its claim-class locks leave classical Birch and Swinnerton-Dyer as a separate universal arithmetic bridge problem. This is not a proof of classical rank equality or its refined formula, Sha finiteness, new cases or rational-point construction.",
+    "keywords": "AASC, Mathematics, Mathematical role compression",
+    "zenodo_record": "https://zenodo.org/records/20539405",
+    "preferred_edition": {
+      "pdf_url": "https://constraintsystemsinstitute.org/manuscripts/zenodo-20539404/sha256-7cbf691665d704889769e7e70c6b0cfe6a31c0102786a04d049cc71708c8ccc6/manuscript.pdf",
+      "doi": "10.5281/zenodo.20539405",
+      "publisher_publication_date": "2026-06-04",
+      "manuscript_date": null,
+      "sha256": "7cbf691665d704889769e7e70c6b0cfe6a31c0102786a04d049cc71708c8ccc6",
+      "pages": 46
+    },
+    "repository_layout": "current-paper-with-collapsed-history",
+    "subjects": [
+      "Mathematics"
+    ],
+    "research_groups": [
+      "Mathematical role compression"
+    ]
+  },
+  {
+    "title": "The Standing Neutrino Splitting Ratio from First-Principles Standing Admission",
+    "doi": "10.5281/zenodo.20443809",
+    "doi_url": "https://doi.org/10.5281/zenodo.20443809",
+    "url": "https://constraintsystemsinstitute.org/papers/the-standing-neutrino-splitting-ratio-from-first-principles-standing-admission-20443809/",
+    "slug": "the-standing-neutrino-splitting-ratio-from-first-principles-standing-admission-20443809",
+    "date": "2026-05-29",
+    "scholar_date": "2026/05/29",
+    "context": "Neutrino standing admission",
+    "report_number": "CSI-ZENODO-20443809",
+    "description": "Under its stated source-row standing-admission certificate, the manuscript reports neutrino splitting-ratio windows and a conditional one-anchor mass-squared display. Structural branch selection and numerical readout are separate layers. The external Pajuhaan row law supplies provenance and data, rather than AASC proof authority. The result does not give zero-anchor absolute masses, PMNS values or an unconditional source-independent ratio.",
+    "keywords": "AASC, Neutrinos, Neutrino standing admission",
+    "zenodo_record": "https://zenodo.org/records/20443810",
+    "preferred_edition": {
+      "pdf_url": "https://constraintsystemsinstitute.org/manuscripts/zenodo-20443809/sha256-fe3fc8df7de1ba5a52b5e67d8578adef4d19177058cd567c03bb752bf71fa430/manuscript.pdf",
+      "doi": "10.5281/zenodo.20443810",
+      "publisher_publication_date": "2026-05-29",
+      "manuscript_date": null,
+      "sha256": "fe3fc8df7de1ba5a52b5e67d8578adef4d19177058cd567c03bb752bf71fa430",
+      "pages": 25
+    },
+    "repository_layout": "current-paper-with-collapsed-history",
+    "subjects": [
+      "Neutrinos"
+    ],
+    "research_groups": [
+      "Neutrino standing admission"
+    ]
+  },
+  {
+    "title": "Role-Occupancy Closure under Admissibility",
+    "doi": "10.5281/zenodo.20371780",
+    "doi_url": "https://doi.org/10.5281/zenodo.20371780",
+    "url": "https://constraintsystemsinstitute.org/papers/role-occupancy-closure-under-admissibility-20371780/",
+    "slug": "role-occupancy-closure-under-admissibility-20371780",
+    "date": "2026-05-25",
+    "scholar_date": "2026/05/25",
+    "context": "Role occupancy and realization",
+    "report_number": "CSI-ZENODO-20371780",
+    "description": "For a fixed finite target and lawful certificate quotient, the manuscript requires exactly one compatible role-covering assignment orbit for realization. Its sufficiency result assumes role-realization completeness. This is not a bare cardinality test, a universal singleton-residue theorem or a generator of realizations.",
+    "keywords": "AASC, Foundations, Role occupancy and realization",
+    "zenodo_record": "https://zenodo.org/records/20371781",
+    "preferred_edition": {
+      "pdf_url": "https://constraintsystemsinstitute.org/manuscripts/zenodo-20371780/sha256-eee032d8e80b3af107ddcc1cf5938c96d592faac7224f8c172774ba688990ab5/manuscript.pdf",
+      "doi": "10.5281/zenodo.20371781",
+      "publisher_publication_date": "2026-05-25",
+      "manuscript_date": null,
+      "sha256": "eee032d8e80b3af107ddcc1cf5938c96d592faac7224f8c172774ba688990ab5",
+      "pages": 26
+    },
+    "repository_layout": "current-paper-with-collapsed-history",
+    "subjects": [
+      "Foundations"
+    ],
+    "research_groups": [
+      "Role occupancy and realization"
+    ]
+  },
+  {
+    "title": "Rigidity of the Black–Scholes Valuation Operator",
+    "doi": "10.5281/zenodo.18581185",
+    "doi_url": "https://doi.org/10.5281/zenodo.18581185",
+    "url": "https://constraintsystemsinstitute.org/papers/rigidity-of-the-black-scholes-valuation-operator-18581185/",
+    "slug": "rigidity-of-the-black-scholes-valuation-operator-18581185",
+    "date": "2026-05-05",
+    "scholar_date": "2026/05/05",
+    "context": "Valuation operator rigidity",
+    "report_number": "CSI-ZENODO-18581185",
+    "description": "Within the fixed payoff-linear, deterministic one-factor local valuation class with its self-financing, scale-covariant and time-homogeneous conditions, the manuscript derives the Black-Scholes operator form. Positive volatility remains a calibration parameter. It does not claim that empirical markets are uniquely lognormal or exclude models with jumps, frictions, stochastic rates or stochastic volatility.",
+    "keywords": "AASC, Mathematics, Other research, Valuation operator rigidity",
+    "zenodo_record": "https://zenodo.org/records/20034621",
+    "preferred_edition": {
+      "pdf_url": "https://constraintsystemsinstitute.org/manuscripts/zenodo-18581185/sha256-333fce87b49c656f054c9757fe9035d3559b230413b05066e4a393b22c4ec5aa/manuscript.pdf",
+      "doi": "10.5281/zenodo.20034621",
+      "publisher_publication_date": "2026-05-05",
+      "manuscript_date": null,
+      "sha256": "333fce87b49c656f054c9757fe9035d3559b230413b05066e4a393b22c4ec5aa",
+      "pages": 23
+    },
+    "repository_layout": "current-paper-with-collapsed-history",
+    "subjects": [
+      "Mathematics",
+      "Other research"
+    ],
+    "research_groups": [
+      "Valuation operator rigidity"
+    ]
+  },
+  {
+    "title": "Standing-Preserving Self-Improvement",
+    "doi": "10.5281/zenodo.19981880",
+    "doi_url": "https://doi.org/10.5281/zenodo.19981880",
+    "url": "https://constraintsystemsinstitute.org/papers/standing-preserving-self-improvement-19981880/",
+    "slug": "standing-preserving-self-improvement-19981880",
+    "date": "2026-05-02",
+    "scholar_date": "2026/05/02",
+    "context": "Standing and agent governance",
+    "report_number": "CSI-ZENODO-19981880",
+    "description": "The manuscript classifies same-scope capability improvement by standing-envelope contraction, governance strengthening and continued-reference preservation. Composing improvements cannot bootstrap standing within that scope; new evidence and fresh scopes remain available. Its Standing-Preserving Update Test is necessary diagnostic eligibility, rather than certification of correctness, safety, alignment or consciousness.",
+    "keywords": "AASC, Mind, agency and governance, Standing and agent governance",
+    "zenodo_record": "https://zenodo.org/records/19981881",
+    "preferred_edition": {
+      "pdf_url": "https://constraintsystemsinstitute.org/manuscripts/zenodo-19981880/sha256-060ee207b4689aa509f8306e6ac04bd9f89e5eb4719cd11097335daeb5e802d3/manuscript.pdf",
+      "doi": "10.5281/zenodo.19981881",
+      "publisher_publication_date": "2026-05-02",
+      "manuscript_date": null,
+      "sha256": "060ee207b4689aa509f8306e6ac04bd9f89e5eb4719cd11097335daeb5e802d3",
+      "pages": 36
+    },
+    "repository_layout": "current-paper-with-collapsed-history",
+    "subjects": [
+      "Mind, agency and governance"
+    ],
+    "research_groups": [
+      "Standing and agent governance"
+    ]
+  },
+  {
+    "title": "Standing Localization and the Necessity of Minimal Life Carriers on Fixed Domains (Life, Intelligence, Technology)",
+    "doi": "10.5281/zenodo.19494923",
+    "doi_url": "https://doi.org/10.5281/zenodo.19494923",
+    "url": "https://constraintsystemsinstitute.org/papers/standing-localization-and-the-necessity-of-minimal-life-carriers-on-fixed-domains-life-intelligence-technology-19494923/",
+    "slug": "standing-localization-and-the-necessity-of-minimal-life-carriers-on-fixed-domains-life-intelligence-technology-19494923",
+    "date": "2026-04-20",
+    "scholar_date": "2026/04/20",
+    "context": "Standing localization and life carriers",
+    "report_number": "CSI-ZENODO-19494923",
+    "description": "At fixed finite resolution and under finite fixation time, the manuscript derives an inclusion-minimal bounded carrier with boundary, identity-memory and local-repair roles. It calls this defined structural carrier minimal life. The claim is not a biochemical or taxonomic classification of all life. Intelligence is conditional, and the technology discussion concerns the fixed-scope interface budget.",
+    "keywords": "AASC, Mind, agency and governance, Standing localization and life carriers",
+    "zenodo_record": "https://zenodo.org/records/19689795",
+    "preferred_edition": {
+      "pdf_url": "https://constraintsystemsinstitute.org/manuscripts/zenodo-19494923/sha256-cedb480510e1cbb56792980ca56f4e13dc2ab61f43bb2c3b333b42e9ad69582b/manuscript.pdf",
+      "doi": "10.5281/zenodo.19689795",
+      "publisher_publication_date": "2026-04-20",
+      "manuscript_date": null,
+      "sha256": "cedb480510e1cbb56792980ca56f4e13dc2ab61f43bb2c3b333b42e9ad69582b",
+      "pages": 17
+    },
+    "repository_layout": "current-paper-with-collapsed-history",
+    "subjects": [
+      "Mind, agency and governance"
+    ],
+    "research_groups": [
+      "Standing localization and life carriers"
+    ]
+  },
+  {
+    "title": "Structura Ex Necessitate Standardis Modelis",
+    "doi": "10.5281/zenodo.18670613",
+    "doi_url": "https://doi.org/10.5281/zenodo.18670613",
+    "url": "https://constraintsystemsinstitute.org/papers/structura-ex-necessitate-standardis-modelis-18670613/",
+    "slug": "structura-ex-necessitate-standardis-modelis-18670613",
+    "date": "2026-04-29",
+    "scholar_date": "2026/04/29",
+    "context": "Standard Model bookkeeping",
+    "report_number": "CSI-ZENODO-18670613",
+    "description": "The manuscript gives Standard-Model bookkeeping closure relative to its declared load and admissibility class. Its full renormalizable witness ledger retains couplings, Higgs and flavor data, and theta-bar; restricted low-energy descriptions collapse fewer combinations. It does not establish uniqueness over all quantum field theories or derive numerical parameters. Richer loads and certified witnesses remain scope changes.",
+    "keywords": "AASC, Standard Model, Standard Model bookkeeping",
+    "zenodo_record": "https://zenodo.org/records/19881302",
+    "preferred_edition": {
+      "pdf_url": "https://constraintsystemsinstitute.org/manuscripts/zenodo-18670613/sha256-78d4067a739a5315a46d1d40e8db370375d8eb7de5052dfe55b363f9bd50dfa0/manuscript.pdf",
+      "doi": "10.5281/zenodo.19881302",
+      "publisher_publication_date": "2026-04-29",
+      "manuscript_date": null,
+      "sha256": "78d4067a739a5315a46d1d40e8db370375d8eb7de5052dfe55b363f9bd50dfa0",
+      "pages": 59
+    },
+    "repository_layout": "current-paper-with-collapsed-history",
+    "subjects": [
+      "Standard Model"
+    ],
+    "research_groups": [
+      "Standard Model bookkeeping"
+    ]
+  },
+  {
+    "title": "Global Proof Architecture for the Yang–Mills Mass Gap Program Across All Compact Simple Gauge Groups",
+    "doi": "10.5281/zenodo.18860252",
+    "doi_url": "https://doi.org/10.5281/zenodo.18860252",
+    "url": "https://constraintsystemsinstitute.org/papers/global-proof-architecture-for-the-yang-mills-mass-gap-program-across-all-compact-simple-gauge-groups-18860252/",
+    "slug": "global-proof-architecture-for-the-yang-mills-mass-gap-program-across-all-compact-simple-gauge-groups-18860252",
+    "date": "2026-03-04",
+    "scholar_date": "2026/03/04",
+    "context": "Yang–Mills analytic series",
+    "report_number": "CSI-ZENODO-18860252",
+    "description": "This short architecture paper maps the SU(2), SU(N), classical and exceptional Yang-Mills families onto a shared Lane-C, Lane-A and Route-1 organization with family-specific entrance gates. It is a navigational series map, adding no lemmas or new mathematical claims. Exact imported releases are unspecified, and its local-sector organization does not settle nonlocal line or surface sectors.",
+    "keywords": "AASC, Mathematics, Gravity and quantum dynamics, Yang–Mills analytic series",
+    "zenodo_record": "https://zenodo.org/records/18860253",
+    "preferred_edition": {
+      "pdf_url": "https://constraintsystemsinstitute.org/manuscripts/zenodo-18860252/sha256-53eae66fcec7ef7b1fb7f307ddc2b184d63f3c1b610201d5a3e23b1e9be8b810/manuscript.pdf",
+      "doi": "10.5281/zenodo.18860253",
+      "publisher_publication_date": "2026-03-04",
+      "manuscript_date": null,
+      "sha256": "53eae66fcec7ef7b1fb7f307ddc2b184d63f3c1b610201d5a3e23b1e9be8b810",
+      "pages": 4
+    },
+    "repository_layout": "current-paper-with-collapsed-history",
+    "subjects": [
+      "Mathematics",
+      "Gravity and quantum dynamics"
+    ],
+    "research_groups": [
+      "Yang–Mills analytic series"
+    ]
+  },
+  {
+    "title": "Yang–Mills Mass Gap for SU (2) in Four Dimensions",
+    "doi": "10.5281/zenodo.18816791",
+    "doi_url": "https://doi.org/10.5281/zenodo.18816791",
+    "url": "https://constraintsystemsinstitute.org/papers/yang-mills-mass-gap-for-su-2-in-four-dimensions-18816791/",
+    "slug": "yang-mills-mass-gap-for-su-2-in-four-dimensions-18816791",
+    "date": "2026-03-06",
+    "scholar_date": "2026/03/06",
+    "context": "Yang–Mills analytic series",
+    "report_number": "CSI-ZENODO-18816791",
+    "description": "The manuscript claims a sharp-local, gauge-invariant SU(2) OS/Wightman reconstruction and a positive vacuum Hamiltonian gap, with internal Wilson-to-chart transport and an embedded appendix chain. The claim concerns its declared local vacuum algebra and tuned trajectory. Optional appendix branches are distinguished from the load-bearing route. No independent proof certification or prize acceptance is asserted here.",
+    "keywords": "AASC, Mathematics, Gravity and quantum dynamics, Yang–Mills analytic series",
+    "zenodo_record": "https://zenodo.org/records/18890304",
+    "preferred_edition": {
+      "pdf_url": "https://constraintsystemsinstitute.org/manuscripts/zenodo-18816791/sha256-668b93b61f9ec61ca186b286563618335b0510a33eec409c9c3d346d6c20c6c0/manuscript.pdf",
+      "doi": "10.5281/zenodo.18890304",
+      "publisher_publication_date": "2026-03-06",
+      "manuscript_date": null,
+      "sha256": "668b93b61f9ec61ca186b286563618335b0510a33eec409c9c3d346d6c20c6c0",
+      "pages": 243
+    },
+    "repository_layout": "current-paper-with-collapsed-history",
+    "subjects": [
+      "Mathematics",
+      "Gravity and quantum dynamics"
+    ],
+    "research_groups": [
+      "Yang–Mills analytic series"
+    ]
+  },
+  {
+    "title": "Local Gauge-Invariant Yang–Mills QFT and Vacuum Mass Gap in Four Dimensions for Compact Connected Simple Gauge Groups",
+    "doi": "10.5281/zenodo.18984273",
+    "doi_url": "https://doi.org/10.5281/zenodo.18984273",
+    "url": "https://constraintsystemsinstitute.org/papers/local-gauge-invariant-yang-mills-qft-and-vacuum-mass-gap-in-four-dimensions-for-compact-connected-simple-gauge-groups-18984273/",
+    "slug": "local-gauge-invariant-yang-mills-qft-and-vacuum-mass-gap-in-four-dimensions-for-compact-connected-simple-gauge-groups-18984273",
+    "date": "2026-03-24",
+    "scholar_date": "2026/03/24",
+    "context": "Yang–Mills analytic series",
+    "report_number": "CSI-ZENODO-18984273",
+    "description": "The manuscript claims a sharp-local OS/Wightman theory and vacuum mass gap for compact connected simple gauge groups, with canonically isomorphic local continuum theories across faithful Wilson choices. Quantitative entrance and gap ledgers remain indexed by the faithful representation; this is not a uniform quantitative bound over all regularizations or a result for every nonlocal sector. Lane-B is a downstream reformulation, and the proof has not been independently certified here.",
+    "keywords": "AASC, Mathematics, Gravity and quantum dynamics, Yang–Mills analytic series",
+    "zenodo_record": "https://zenodo.org/records/19205054",
+    "preferred_edition": {
+      "pdf_url": "https://constraintsystemsinstitute.org/manuscripts/zenodo-18984273/sha256-43ca46cefd795e705650ac2b7053a5e4f3d2ef04d21b7c697d72fff29329f060/manuscript.pdf",
+      "doi": "10.5281/zenodo.19205054",
+      "publisher_publication_date": "2026-03-24",
+      "manuscript_date": null,
+      "sha256": "43ca46cefd795e705650ac2b7053a5e4f3d2ef04d21b7c697d72fff29329f060",
+      "pages": 380
+    },
+    "repository_layout": "current-paper-with-collapsed-history",
+    "subjects": [
+      "Mathematics",
+      "Gravity and quantum dynamics"
+    ],
+    "research_groups": [
+      "Yang–Mills analytic series"
+    ]
+  },
+  {
+    "title": "Yang–Mills Mass Gap for the Exceptional Groups in Four Dimensions",
+    "doi": "10.5281/zenodo.18837876",
+    "doi_url": "https://doi.org/10.5281/zenodo.18837876",
+    "url": "https://constraintsystemsinstitute.org/papers/yang-mills-mass-gap-for-the-exceptional-groups-in-four-dimensions-18837876/",
+    "slug": "yang-mills-mass-gap-for-the-exceptional-groups-in-four-dimensions-18837876",
+    "date": "2026-03-04",
+    "scholar_date": "2026/03/04",
+    "context": "Yang–Mills analytic series",
+    "report_number": "CSI-ZENODO-18837876",
+    "description": "The exceptional-family manuscript claims entrance-gate discharge, sharp-local OS reconstruction and a positive vacuum Hamiltonian gap for G2, F4, E6, E7 and E8. Its family-specific hypotheses and constant ledger remain part of this exact historical edition. It is retained separately from the later all-compact-simple reading candidate; the claim has not been independently verified here.",
+    "keywords": "AASC, Mathematics, Gravity and quantum dynamics, Yang–Mills analytic series",
+    "zenodo_record": "https://zenodo.org/records/18860202",
+    "preferred_edition": {
+      "pdf_url": "https://constraintsystemsinstitute.org/manuscripts/zenodo-18837876/sha256-b58c0bd9c83a8015259aa6c0b4017f6d2a7aa3be1bd241ba20a14405b18b9928/manuscript.pdf",
+      "doi": "10.5281/zenodo.18860202",
+      "publisher_publication_date": "2026-03-04",
+      "manuscript_date": null,
+      "sha256": "b58c0bd9c83a8015259aa6c0b4017f6d2a7aa3be1bd241ba20a14405b18b9928",
+      "pages": 236
+    },
+    "repository_layout": "current-paper-with-collapsed-history",
+    "subjects": [
+      "Mathematics",
+      "Gravity and quantum dynamics"
+    ],
+    "research_groups": [
+      "Yang–Mills analytic series"
+    ]
+  },
+  {
+    "title": "Constraint-Driven Closure and the Yang–Mills Mass Gap",
+    "doi": "10.5281/zenodo.18787675",
+    "doi_url": "https://doi.org/10.5281/zenodo.18787675",
+    "url": "https://constraintsystemsinstitute.org/papers/constraint-driven-closure-and-the-yang-mills-mass-gap-18787675/",
+    "slug": "constraint-driven-closure-and-the-yang-mills-mass-gap-18787675",
+    "date": "2026-02-26",
+    "scholar_date": "2026/02/26",
+    "context": "Yang–Mills analytic series",
+    "report_number": "CSI-ZENODO-18787675",
+    "description": "This historical Route-1 capstone classifies a macroscopic mass gap relative to its declared scope and invariant package. It separates that bounded positive-resolution bridge from ultraviolet identification and sharp-field upgrades. The ultraviolet package remains an explicit antecedent in this edition; the paper is not presented as unconditional sharp-local Yang-Mills completion.",
+    "keywords": "AASC, Mathematics, Gravity and quantum dynamics, Yang–Mills analytic series",
+    "zenodo_record": "https://zenodo.org/records/18787676",
+    "preferred_edition": {
+      "pdf_url": "https://constraintsystemsinstitute.org/manuscripts/zenodo-18787675/sha256-dbe93388c9cdeea19449252a233e71a9d0630ebe1160dfcda664a1c249ffee27/manuscript.pdf",
+      "doi": "10.5281/zenodo.18787676",
+      "publisher_publication_date": "2026-02-26",
+      "manuscript_date": null,
+      "sha256": "dbe93388c9cdeea19449252a233e71a9d0630ebe1160dfcda664a1c249ffee27",
+      "pages": 9
+    },
+    "repository_layout": "current-paper-with-collapsed-history",
+    "subjects": [
+      "Mathematics",
+      "Gravity and quantum dynamics"
+    ],
+    "research_groups": [
+      "Yang–Mills analytic series"
+    ]
+  },
+  {
+    "title": "Sharp Local Fields as an Ultraviolet Scope Enlargement",
+    "doi": "10.5281/zenodo.18787604",
+    "doi_url": "https://doi.org/10.5281/zenodo.18787604",
+    "url": "https://constraintsystemsinstitute.org/papers/sharp-local-fields-as-an-ultraviolet-scope-enlargement-18787604/",
+    "slug": "sharp-local-fields-as-an-ultraviolet-scope-enlargement-18787604",
+    "date": "2026-02-26",
+    "scholar_date": "2026/02/26",
+    "context": "Yang–Mills analytic series",
+    "report_number": "CSI-ZENODO-18787604",
+    "description": "The manuscript distinguishes a gap on a bounded fixed-positive-resolution vacuum algebra from the additional ultraviolet regularity needed for sharp point fields and larger sectors. A small-algebra gap does not establish a gap on an enlarged algebra; restriction runs in the safe direction. Sharp-field completion requires additional inputs.",
+    "keywords": "AASC, Mathematics, Gravity and quantum dynamics, Yang–Mills analytic series",
+    "zenodo_record": "https://zenodo.org/records/18787605",
+    "preferred_edition": {
+      "pdf_url": "https://constraintsystemsinstitute.org/manuscripts/zenodo-18787604/sha256-ea8564190fb15bd646480ea6b1227853222f7c099dd7084daff81db59f3d35ee/manuscript.pdf",
+      "doi": "10.5281/zenodo.18787605",
+      "publisher_publication_date": "2026-02-26",
+      "manuscript_date": null,
+      "sha256": "ea8564190fb15bd646480ea6b1227853222f7c099dd7084daff81db59f3d35ee",
+      "pages": 7
+    },
+    "repository_layout": "current-paper-with-collapsed-history",
+    "subjects": [
+      "Mathematics",
+      "Gravity and quantum dynamics"
+    ],
+    "research_groups": [
+      "Yang–Mills analytic series"
+    ]
+  },
+  {
+    "title": "Ultraviolet Trajectories and Conditional Completion",
+    "doi": "10.5281/zenodo.18787518",
+    "doi_url": "https://doi.org/10.5281/zenodo.18787518",
+    "url": "https://constraintsystemsinstitute.org/papers/ultraviolet-trajectories-and-conditional-completion-18787518/",
+    "slug": "ultraviolet-trajectories-and-conditional-completion-18787518",
+    "date": "2026-02-26",
+    "scholar_date": "2026/02/26",
+    "context": "Yang–Mills analytic series",
+    "report_number": "CSI-ZENODO-18787518",
+    "description": "Given its stated ultraviolet package and macroscopic OS/clustering assumptions, the manuscript conditionally extracts a positive Hamiltonian gap on a bounded fixed-resolution net. It does not independently solve ultraviolet trajectory or scaling-limit identification, or construct sharp fields. Its citation to Paper 3, Theorem 5.1, does not match the theorem number in the available semigroup reading edition.",
+    "keywords": "AASC, Mathematics, Gravity and quantum dynamics, Yang–Mills analytic series",
+    "zenodo_record": "https://zenodo.org/records/18787519",
+    "preferred_edition": {
+      "pdf_url": "https://constraintsystemsinstitute.org/manuscripts/zenodo-18787518/sha256-90c5202ec9a05685d0891bc0d006f1e80539a5f46c2bcf2c0b3269bf1e0ded49/manuscript.pdf",
+      "doi": "10.5281/zenodo.18787519",
+      "publisher_publication_date": "2026-02-26",
+      "manuscript_date": null,
+      "sha256": "90c5202ec9a05685d0891bc0d006f1e80539a5f46c2bcf2c0b3269bf1e0ded49",
+      "pages": 7
+    },
+    "repository_layout": "current-paper-with-collapsed-history",
+    "subjects": [
+      "Mathematics",
+      "Gravity and quantum dynamics"
+    ],
+    "research_groups": [
+      "Yang–Mills analytic series"
+    ]
+  },
+  {
+    "title": "Semigroup Spectral Extraction from Euclidean Exponential Clustering",
+    "doi": "10.5281/zenodo.18787439",
+    "doi_url": "https://doi.org/10.5281/zenodo.18787439",
+    "url": "https://constraintsystemsinstitute.org/papers/semigroup-spectral-extraction-from-euclidean-exponential-clustering-18787439/",
+    "slug": "semigroup-spectral-extraction-from-euclidean-exponential-clustering-18787439",
+    "date": "2026-02-26",
+    "scholar_date": "2026/02/26",
+    "context": "Yang–Mills analytic series",
+    "report_number": "CSI-ZENODO-18787439",
+    "description": "For the stated OS-positive, translation-invariant bounded macroscopic net with exponential time clustering and a reconstructed semigroup, the manuscript extracts a gap above the vacuum. Time here is OS translation, rather than renormalization-group time. The main result is Theorem 5.5 in this exact edition; the companion citation to Theorem 5.1 does not pin the imported edition. No full sharp-field sector is asserted.",
+    "keywords": "AASC, Mathematics, Gravity and quantum dynamics, Yang–Mills analytic series",
+    "zenodo_record": "https://zenodo.org/records/18787440",
+    "preferred_edition": {
+      "pdf_url": "https://constraintsystemsinstitute.org/manuscripts/zenodo-18787439/sha256-bbb5bb10c6278b5dba920fdd704529215acb7fa38561a257a4652d003a410921/manuscript.pdf",
+      "doi": "10.5281/zenodo.18787440",
+      "publisher_publication_date": "2026-02-26",
+      "manuscript_date": null,
+      "sha256": "bbb5bb10c6278b5dba920fdd704529215acb7fa38561a257a4652d003a410921",
+      "pages": 8
+    },
+    "repository_layout": "current-paper-with-collapsed-history",
+    "subjects": [
+      "Mathematics",
+      "Gravity and quantum dynamics"
+    ],
+    "research_groups": [
+      "Yang–Mills analytic series"
+    ]
+  },
+  {
+    "title": "Finite Depth Entrance versus Stable Manifold Renormalization Group Control",
+    "doi": "10.5281/zenodo.18787375",
+    "doi_url": "https://doi.org/10.5281/zenodo.18787375",
+    "url": "https://constraintsystemsinstitute.org/papers/finite-depth-entrance-versus-stable-manifold-renormalization-group-control-18787375/",
+    "slug": "finite-depth-entrance-versus-stable-manifold-renormalization-group-control-18787375",
+    "date": "2026-02-26",
+    "scholar_date": "2026/02/26",
+    "context": "Yang–Mills analytic series",
+    "report_number": "CSI-ZENODO-18787375",
+    "description": "This structural companion relates finite-depth entrance and stated OS-positive macroscopic-limit assumptions to gap extraction, with a conditional chi-square/total-variation transfer supplying Dobrushin control. It adds no new model-dependent estimates. The scaling-limit assumptions and fixed positive-resolution observable scope remain explicit.",
+    "keywords": "AASC, Mathematics, Gravity and quantum dynamics, Yang–Mills analytic series",
+    "zenodo_record": "https://zenodo.org/records/18787376",
+    "preferred_edition": {
+      "pdf_url": "https://constraintsystemsinstitute.org/manuscripts/zenodo-18787375/sha256-91a820eff28ac7ab25f487e642df76de59699f0491392008a16f8904fa305f41/manuscript.pdf",
+      "doi": "10.5281/zenodo.18787376",
+      "publisher_publication_date": "2026-02-26",
+      "manuscript_date": null,
+      "sha256": "91a820eff28ac7ab25f487e642df76de59699f0491392008a16f8904fa305f41",
+      "pages": 12
+    },
+    "repository_layout": "current-paper-with-collapsed-history",
+    "subjects": [
+      "Mathematics",
+      "Gravity and quantum dynamics"
+    ],
+    "research_groups": [
+      "Yang–Mills analytic series"
+    ]
+  },
+  {
+    "title": "Finite depth majorant mixing and a continuum mass gap for four dimensional Yang Mills",
+    "doi": "10.5281/zenodo.18787330",
+    "doi_url": "https://doi.org/10.5281/zenodo.18787330",
+    "url": "https://constraintsystemsinstitute.org/papers/finite-depth-majorant-mixing-and-a-continuum-mass-gap-for-four-dimensional-yang-mills-18787330/",
+    "slug": "finite-depth-majorant-mixing-and-a-continuum-mass-gap-for-four-dimensional-yang-mills-18787330",
+    "date": "2026-02-26",
+    "scholar_date": "2026/02/26",
+    "context": "Yang–Mills analytic series",
+    "report_number": "CSI-ZENODO-18787330",
+    "description": "This historical positive-flow-time Route-1 manuscript claims finite-depth majorant mixing, transfer and contraction, followed by a conditional macroscopic continuum OS gap. Ultraviolet tuning and the reference specification are stated assumptions. It does not construct sharp-local fields; the newer sharp-local manuscript is not silently substituted into this frozen conditional edition.",
+    "keywords": "AASC, Mathematics, Gravity and quantum dynamics, Yang–Mills analytic series",
+    "zenodo_record": "https://zenodo.org/records/18787331",
+    "preferred_edition": {
+      "pdf_url": "https://constraintsystemsinstitute.org/manuscripts/zenodo-18787330/sha256-09f153f2237681f413db32809636fb524913bc098a32292b942c71b5f05e4d2e/manuscript.pdf",
+      "doi": "10.5281/zenodo.18787331",
+      "publisher_publication_date": "2026-02-26",
+      "manuscript_date": null,
+      "sha256": "09f153f2237681f413db32809636fb524913bc098a32292b942c71b5f05e4d2e",
+      "pages": 16
+    },
+    "repository_layout": "current-paper-with-collapsed-history",
+    "subjects": [
+      "Mathematics",
+      "Gravity and quantum dynamics"
+    ],
+    "research_groups": [
+      "Yang–Mills analytic series"
+    ]
+  },
+  {
+    "title": "Dimensionless Gauge Couplings as Moduli",
+    "doi": "10.5281/zenodo.18603439",
+    "doi_url": "https://doi.org/10.5281/zenodo.18603439",
+    "url": "https://constraintsystemsinstitute.org/papers/dimensionless-gauge-couplings-as-moduli-18603439/",
+    "slug": "dimensionless-gauge-couplings-as-moduli-18603439",
+    "date": "2026-02-11",
+    "scholar_date": "2026/02/11",
+    "context": "Gauge couplings and parameter status",
+    "report_number": "CSI-ZENODO-18603439",
+    "description": "Within renormalizable four-dimensional quantum field theory and absent extra ultraviolet, dynamical, boundary or empirical inputs, the manuscript treats dimensionless gauge couplings as continuous structurally admissible parameters. It argues that Gaussian fixed points do not uniquely fix them and states stronger isolated-fixed-point conditions. Moduli is used structurally, without a smooth-manifold claim. The conclusion is confined to the stated framework.",
+    "keywords": "AASC, Standard Model, Symmetry, Gauge couplings and parameter status",
+    "zenodo_record": "https://zenodo.org/records/18603440",
+    "preferred_edition": {
+      "pdf_url": "https://constraintsystemsinstitute.org/manuscripts/zenodo-18603439/sha256-0b3153e3b5fd31e70eeeb130447abcf31c51b7fab2cded5cb0b4a070aeeeb867/manuscript.pdf",
+      "doi": "10.5281/zenodo.18603440",
+      "publisher_publication_date": "2026-02-11",
+      "manuscript_date": null,
+      "sha256": "0b3153e3b5fd31e70eeeb130447abcf31c51b7fab2cded5cb0b4a070aeeeb867",
+      "pages": 4
+    },
+    "repository_layout": "current-paper-with-collapsed-history",
+    "subjects": [
+      "Standard Model",
+      "Symmetry"
+    ],
+    "research_groups": [
+      "Gauge couplings and parameter status"
+    ]
+  },
+  {
+    "title": "Clausura Ex Necessitate Structurae",
+    "doi": "10.5281/zenodo.18664019",
+    "doi_url": "https://doi.org/10.5281/zenodo.18664019",
+    "url": "https://constraintsystemsinstitute.org/papers/clausura-ex-necessitate-structurae-18664019/",
+    "slug": "clausura-ex-necessitate-structurae-18664019",
+    "date": "2026-02-17",
+    "scholar_date": "2026/02/17",
+    "context": "Global structural closure",
+    "report_number": "CSI-ZENODO-18664019",
+    "description": "Inside its declared typed-domain framework, the manuscript develops future-behavior quotients, fail-closed standing and fixed-envelope operator closure, then classifies internal and external fixation. The locality eliminator has explicit conditions, and the paper makes no empirical predictions. Eadem Natura is a later extraction and refinement, rather than wholesale replacement of this exact work.",
+    "keywords": "AASC, Foundations, Global structural closure",
+    "zenodo_record": "https://zenodo.org/records/18671728",
+    "preferred_edition": {
+      "pdf_url": "https://constraintsystemsinstitute.org/manuscripts/zenodo-18664019/sha256-57782dbd7812b424b09e91f5639c6cc34feb48d3892527e7820ec3025d11ceb6/manuscript.pdf",
+      "doi": "10.5281/zenodo.18671728",
+      "publisher_publication_date": "2026-02-17",
+      "manuscript_date": null,
+      "sha256": "57782dbd7812b424b09e91f5639c6cc34feb48d3892527e7820ec3025d11ceb6",
+      "pages": 56
+    },
+    "repository_layout": "current-paper-with-collapsed-history",
+    "subjects": [
+      "Foundations"
+    ],
+    "research_groups": [
+      "Global structural closure"
+    ]
+  },
+  {
+    "title": "L1 Paper 11 Hypercharge Normalization Electric Charge Quantization",
+    "doi": "10.5281/zenodo.18515176",
+    "doi_url": "https://doi.org/10.5281/zenodo.18515176",
+    "url": "https://constraintsystemsinstitute.org/papers/l1-paper-11-hypercharge-normalization-electric-charge-quantization-18515176/",
+    "slug": "l1-paper-11-hypercharge-normalization-electric-charge-quantization-18515176",
+    "date": "2026-02-07",
+    "scholar_date": "2026/02/07",
+    "context": "L1 equivalence collection",
+    "report_number": "CSI-ZENODO-18515176",
+    "description": "Under fixed chiral content and representations, one Higgs doublet and no extra U(1), exotic or compensating sector, the manuscript claims hypercharge normalization and electric-charge quantization. This is a scoped manuscript result, rather than an independently established universal charge theorem.",
+    "keywords": "AASC, Standard Model, L1 equivalence collection",
+    "zenodo_record": "https://zenodo.org/records/18543350",
+    "preferred_edition": {
+      "pdf_url": "https://constraintsystemsinstitute.org/manuscripts/zenodo-18515176/sha256-5d5eced4c0e0d3903b537d07d3d592535cead10f3872647926c4ab5a4919284b/manuscript.pdf",
+      "doi": "10.5281/zenodo.18543350",
+      "publisher_publication_date": "2026-02-07",
+      "manuscript_date": null,
+      "sha256": "5d5eced4c0e0d3903b537d07d3d592535cead10f3872647926c4ab5a4919284b",
+      "pages": 2
+    },
+    "repository_layout": "current-paper-with-collapsed-history",
+    "subjects": [
+      "Standard Model"
+    ],
+    "research_groups": [
+      "L1 equivalence collection"
+    ]
+  },
+  {
+    "title": "L1 Paper 10 Absence of Tree Level Flavor Changing Neutral Currents",
+    "doi": "10.5281/zenodo.18515196",
+    "doi_url": "https://doi.org/10.5281/zenodo.18515196",
+    "url": "https://constraintsystemsinstitute.org/papers/l1-paper-10-absence-of-tree-level-flavor-changing-neutral-currents-18515196/",
+    "slug": "l1-paper-10-absence-of-tree-level-flavor-changing-neutral-currents-18515196",
+    "date": "2026-02-07",
+    "scholar_date": "2026/02/07",
+    "context": "L1 equivalence collection",
+    "report_number": "CSI-ZENODO-18515196",
+    "description": "For fixed fermion representations and one Higgs doublet, the manuscript excludes tree-level flavor-changing neutral currents. This does not exclude loop-level flavor change or richer permitted models.",
+    "keywords": "AASC, Standard Model, L1 equivalence collection",
+    "zenodo_record": "https://zenodo.org/records/18543209",
+    "preferred_edition": {
+      "pdf_url": "https://constraintsystemsinstitute.org/manuscripts/zenodo-18515196/sha256-f3c2ee5a895aae2d29301964736bc6c66016fb01d394edae522a5bf6f044528a/manuscript.pdf",
+      "doi": "10.5281/zenodo.18543209",
+      "publisher_publication_date": "2026-02-07",
+      "manuscript_date": null,
+      "sha256": "f3c2ee5a895aae2d29301964736bc6c66016fb01d394edae522a5bf6f044528a",
+      "pages": 2
+    },
+    "repository_layout": "current-paper-with-collapsed-history",
+    "subjects": [
+      "Standard Model"
+    ],
+    "research_groups": [
+      "L1 equivalence collection"
+    ]
+  },
+  {
+    "title": "L1 Paper 9 Rephasing Redundancy Exhaustion",
+    "doi": "10.5281/zenodo.18515214",
+    "doi_url": "https://doi.org/10.5281/zenodo.18515214",
+    "url": "https://constraintsystemsinstitute.org/papers/l1-paper-9-rephasing-redundancy-exhaustion-18515214/",
+    "slug": "l1-paper-9-rephasing-redundancy-exhaustion-18515214",
+    "date": "2026-02-07",
+    "scholar_date": "2026/02/07",
+    "context": "L1 equivalence collection",
+    "report_number": "CSI-ZENODO-18515214",
+    "description": "With field content, gauge representations and Yukawa operators fixed, the manuscript classifies additional rephasing freedom as redundant. Phase information already encoded in operator coefficients remains; the result does not eliminate all CP information.",
+    "keywords": "AASC, Standard Model, L1 equivalence collection",
+    "zenodo_record": "https://zenodo.org/records/18542947",
+    "preferred_edition": {
+      "pdf_url": "https://constraintsystemsinstitute.org/manuscripts/zenodo-18515214/sha256-88d52e0ad3a67a231ec75d0b5d05e56f564b1a6999f56a52c012d90229801660/manuscript.pdf",
+      "doi": "10.5281/zenodo.18542947",
+      "publisher_publication_date": "2026-02-07",
+      "manuscript_date": null,
+      "sha256": "88d52e0ad3a67a231ec75d0b5d05e56f564b1a6999f56a52c012d90229801660",
+      "pages": 2
+    },
+    "repository_layout": "current-paper-with-collapsed-history",
+    "subjects": [
+      "Standard Model"
+    ],
+    "research_groups": [
+      "L1 equivalence collection"
+    ]
+  },
+  {
+    "title": "L1 Paper 8 Unitary Mixing Saturation",
+    "doi": "10.5281/zenodo.18515229",
+    "doi_url": "https://doi.org/10.5281/zenodo.18515229",
+    "url": "https://constraintsystemsinstitute.org/papers/l1-paper-8-unitary-mixing-saturation-18515229/",
+    "slug": "l1-paper-8-unitary-mixing-saturation-18515229",
+    "date": "2026-02-07",
+    "scholar_date": "2026/02/07",
+    "context": "L1 equivalence collection",
+    "report_number": "CSI-ZENODO-18515229",
+    "description": "With fixed generations and chiral load, the manuscript classifies mixing through basis choice and Yukawa-operator diagonalization. It excludes additional independent mixing structure beyond its admitted operator data, rather than deriving numerical mixing values.",
+    "keywords": "AASC, Standard Model, L1 equivalence collection",
+    "zenodo_record": "https://zenodo.org/records/18542702",
+    "preferred_edition": {
+      "pdf_url": "https://constraintsystemsinstitute.org/manuscripts/zenodo-18515229/sha256-f9cfc70edaf5baa1d35026f0e7166b4a003e9e7f54f8b1ca8f657129af0d98b2/manuscript.pdf",
+      "doi": "10.5281/zenodo.18542702",
+      "publisher_publication_date": "2026-02-07",
+      "manuscript_date": null,
+      "sha256": "f9cfc70edaf5baa1d35026f0e7166b4a003e9e7f54f8b1ca8f657129af0d98b2",
+      "pages": 2
+    },
+    "repository_layout": "current-paper-with-collapsed-history",
+    "subjects": [
+      "Standard Model"
+    ],
+    "research_groups": [
+      "L1 equivalence collection"
+    ]
+  },
+  {
+    "title": "L1 Paper 7 Yukawa Realizability under Minimal Chiral Load",
+    "doi": "10.5281/zenodo.18515249",
+    "doi_url": "https://doi.org/10.5281/zenodo.18515249",
+    "url": "https://constraintsystemsinstitute.org/papers/l1-paper-7-yukawa-realizability-under-minimal-chiral-load-18515249/",
+    "slug": "l1-paper-7-yukawa-realizability-under-minimal-chiral-load-18515249",
+    "date": "2026-02-07",
+    "scholar_date": "2026/02/07",
+    "context": "L1 equivalence collection",
+    "report_number": "CSI-ZENODO-18515249",
+    "description": "Under fixed minimal chiral load, one Higgs doublet and no compensator or patch sector, the manuscript claims an anomaly/Yukawa equivalence. The claim has not been independently verified here and is not generalized to arbitrary anomaly-free theories.",
+    "keywords": "AASC, Standard Model, L1 equivalence collection",
+    "zenodo_record": "https://zenodo.org/records/18542656",
+    "preferred_edition": {
+      "pdf_url": "https://constraintsystemsinstitute.org/manuscripts/zenodo-18515249/sha256-53157bb81db3d973b32d979af2109b7d3a0d23db23526ad1be6bc01fd0b152b2/manuscript.pdf",
+      "doi": "10.5281/zenodo.18542656",
+      "publisher_publication_date": "2026-02-07",
+      "manuscript_date": null,
+      "sha256": "53157bb81db3d973b32d979af2109b7d3a0d23db23526ad1be6bc01fd0b152b2",
+      "pages": 2
+    },
+    "repository_layout": "current-paper-with-collapsed-history",
+    "subjects": [
+      "Standard Model"
+    ],
+    "research_groups": [
+      "L1 equivalence collection"
+    ]
+  },
+  {
+    "title": "Identity Non Conservation",
+    "doi": "10.5281/zenodo.18515480",
+    "doi_url": "https://doi.org/10.5281/zenodo.18515480",
+    "url": "https://constraintsystemsinstitute.org/papers/identity-non-conservation-18515480/",
+    "slug": "identity-non-conservation-18515480",
+    "date": "2026-02-07",
+    "scholar_date": "2026/02/07",
+    "context": "Neutrino identity and propagation",
+    "report_number": "CSI-ZENODO-18515480",
+    "description": "This historical neutrino note classifies flavor-identity drift under noncommuting interaction labels and irreversible admissible propagation. Its standing and propagation assumptions are part of the claim; basis mismatch alone is insufficient. It does not introduce new dynamics or derive PMNS entries or mass values.",
+    "keywords": "AASC, Neutrinos, Neutrino identity and propagation",
+    "zenodo_record": "https://zenodo.org/records/18515481",
+    "preferred_edition": {
+      "pdf_url": "https://constraintsystemsinstitute.org/manuscripts/zenodo-18515480/sha256-f8dcc4503ef0853ad376729afecf90381fc0f40c9a854529c6e73a1eb6bd2666/manuscript.pdf",
+      "doi": "10.5281/zenodo.18515481",
+      "publisher_publication_date": "2026-02-07",
+      "manuscript_date": null,
+      "sha256": "f8dcc4503ef0853ad376729afecf90381fc0f40c9a854529c6e73a1eb6bd2666",
+      "pages": 3
+    },
+    "repository_layout": "current-paper-with-collapsed-history",
+    "subjects": [
+      "Neutrinos"
+    ],
+    "research_groups": [
+      "Neutrino identity and propagation"
+    ]
+  },
+  {
+    "title": "L1 Paper 1 Equivalence Completion and Forced Collapse of Charged Current",
+    "doi": "10.5281/zenodo.18515396",
+    "doi_url": "https://doi.org/10.5281/zenodo.18515396",
+    "url": "https://constraintsystemsinstitute.org/papers/l1-paper-1-equivalence-completion-and-forced-collapse-of-charged-current-18515396/",
+    "slug": "l1-paper-1-equivalence-completion-and-forced-collapse-of-charged-current-18515396",
+    "date": "2026-02-07",
+    "scholar_date": "2026/02/07",
+    "context": "L1 equivalence collection",
+    "report_number": "CSI-ZENODO-18515396",
+    "description": "The manuscript classifies low-energy tree-level charged-current matching through the Fermi invariant, rather than treating the displayed mediator parameters as independent witnesses in that contact-interaction sector. This does not reduce all electroweak parameters to one degree of freedom.",
+    "keywords": "AASC, Standard Model, L1 equivalence collection",
+    "zenodo_record": "https://zenodo.org/records/18515397",
+    "preferred_edition": {
+      "pdf_url": "https://constraintsystemsinstitute.org/manuscripts/zenodo-18515396/sha256-f85210824148f84b0ee72cd1a63c1855389ad7797118e052ad2276eeab0c3f5d/manuscript.pdf",
+      "doi": "10.5281/zenodo.18515397",
+      "publisher_publication_date": "2026-02-07",
+      "manuscript_date": null,
+      "sha256": "f85210824148f84b0ee72cd1a63c1855389ad7797118e052ad2276eeab0c3f5d",
+      "pages": 2
+    },
+    "repository_layout": "current-paper-with-collapsed-history",
+    "subjects": [
+      "Standard Model"
+    ],
+    "research_groups": [
+      "L1 equivalence collection"
+    ]
+  },
+  {
+    "title": "L1 Paper 3 Fermion Yukawa Mass Equivalence",
+    "doi": "10.5281/zenodo.18515342",
+    "doi_url": "https://doi.org/10.5281/zenodo.18515342",
+    "url": "https://constraintsystemsinstitute.org/papers/l1-paper-3-fermion-yukawa-mass-equivalence-18515342/",
+    "slug": "l1-paper-3-fermion-yukawa-mass-equivalence-18515342",
+    "date": "2026-02-07",
+    "scholar_date": "2026/02/07",
+    "context": "L1 equivalence collection",
+    "report_number": "CSI-ZENODO-18515342",
+    "description": "For the stated low-energy fermion content, the manuscript identifies the mass/Yukawa-vev combination as its witness. This sector-relative claim does not collapse all Higgs/Yukawa interactions or all physical regimes.",
+    "keywords": "AASC, Standard Model, L1 equivalence collection",
+    "zenodo_record": "https://zenodo.org/records/18515343",
+    "preferred_edition": {
+      "pdf_url": "https://constraintsystemsinstitute.org/manuscripts/zenodo-18515342/sha256-ca3d2d241841119fefff942abf2fb7c61f860744a15ebcb1599ef0e1a0e9682b/manuscript.pdf",
+      "doi": "10.5281/zenodo.18515343",
+      "publisher_publication_date": "2026-02-07",
+      "manuscript_date": null,
+      "sha256": "ca3d2d241841119fefff942abf2fb7c61f860744a15ebcb1599ef0e1a0e9682b",
+      "pages": 2
+    },
+    "repository_layout": "current-paper-with-collapsed-history",
+    "subjects": [
+      "Standard Model"
+    ],
+    "research_groups": [
+      "L1 equivalence collection"
+    ]
+  },
+  {
+    "title": "L1 Paper 2 Equivalence Completion in the QCD CP Odd Sector",
+    "doi": "10.5281/zenodo.18515368",
+    "doi_url": "https://doi.org/10.5281/zenodo.18515368",
+    "url": "https://constraintsystemsinstitute.org/papers/l1-paper-2-equivalence-completion-in-the-qcd-cp-odd-sector-18515368/",
+    "slug": "l1-paper-2-equivalence-completion-in-the-qcd-cp-odd-sector-18515368",
+    "date": "2026-02-07",
+    "scholar_date": "2026/02/07",
+    "context": "L1 equivalence collection",
+    "report_number": "CSI-ZENODO-18515368",
+    "description": "The manuscript identifies theta plus the quark-mass determinant phase as the invariant under its specified anomalous rephasing and UV/IR descriptions of the QCD CP-odd sector. It does not establish smallness of the surviving value.",
+    "keywords": "AASC, Standard Model, L1 equivalence collection",
+    "zenodo_record": "https://zenodo.org/records/18515369",
+    "preferred_edition": {
+      "pdf_url": "https://constraintsystemsinstitute.org/manuscripts/zenodo-18515368/sha256-dece3c25ae4383be1fc0b95ca2ed798b06b07a547879aacae04bbfb0330930c5/manuscript.pdf",
+      "doi": "10.5281/zenodo.18515369",
+      "publisher_publication_date": "2026-02-07",
+      "manuscript_date": null,
+      "sha256": "dece3c25ae4383be1fc0b95ca2ed798b06b07a547879aacae04bbfb0330930c5",
+      "pages": 2
+    },
+    "repository_layout": "current-paper-with-collapsed-history",
+    "subjects": [
+      "Standard Model"
+    ],
+    "research_groups": [
+      "L1 equivalence collection"
+    ]
+  },
+  {
+    "title": "L1 Paper 4 EW QED EM coupling collapse",
+    "doi": "10.5281/zenodo.18515318",
+    "doi_url": "https://doi.org/10.5281/zenodo.18515318",
+    "url": "https://constraintsystemsinstitute.org/papers/l1-paper-4-ew-qed-em-coupling-collapse-18515318/",
+    "slug": "l1-paper-4-ew-qed-em-coupling-collapse-18515318",
+    "date": "2026-02-07",
+    "scholar_date": "2026/02/07",
+    "context": "L1 equivalence collection",
+    "report_number": "CSI-ZENODO-18515318",
+    "description": "In its low-energy electromagnetic sector, the manuscript classifies gauge-coupling and weak-angle displays through the single electromagnetic coupling relation. It does not reduce the whole electroweak theory to QED.",
+    "keywords": "AASC, Standard Model, L1 equivalence collection",
+    "zenodo_record": "https://zenodo.org/records/18515319",
+    "preferred_edition": {
+      "pdf_url": "https://constraintsystemsinstitute.org/manuscripts/zenodo-18515318/sha256-0d2dd02d76d6894f6c2f065aaa88f3476e9c514a291afc26ace4aeed3cb1a309/manuscript.pdf",
+      "doi": "10.5281/zenodo.18515319",
+      "publisher_publication_date": "2026-02-07",
+      "manuscript_date": null,
+      "sha256": "0d2dd02d76d6894f6c2f065aaa88f3476e9c514a291afc26ace4aeed3cb1a309",
+      "pages": 2
+    },
+    "repository_layout": "current-paper-with-collapsed-history",
+    "subjects": [
+      "Standard Model"
+    ],
+    "research_groups": [
+      "L1 equivalence collection"
+    ]
+  },
+  {
+    "title": "L1 Paper 5 Neutrino mixing invariants",
+    "doi": "10.5281/zenodo.18515295",
+    "doi_url": "https://doi.org/10.5281/zenodo.18515295",
+    "url": "https://constraintsystemsinstitute.org/papers/l1-paper-5-neutrino-mixing-invariants-18515295/",
+    "slug": "l1-paper-5-neutrino-mixing-invariants-18515295",
+    "date": "2026-02-07",
+    "scholar_date": "2026/02/07",
+    "context": "L1 equivalence collection",
+    "report_number": "CSI-ZENODO-18515295",
+    "description": "The manuscript identifies oscillation-regime witnesses as mass-squared differences and rephasing-invariant mixing products. An absolute-mass witness is absent from that description; this does not exclude absolute neutrino mass in other probes.",
+    "keywords": "AASC, Standard Model, Neutrinos, L1 equivalence collection",
+    "zenodo_record": "https://zenodo.org/records/18515296",
+    "preferred_edition": {
+      "pdf_url": "https://constraintsystemsinstitute.org/manuscripts/zenodo-18515295/sha256-60ec3ba5b2184a05e6a3e11788339149218a181bc4edff128928329129310c35/manuscript.pdf",
+      "doi": "10.5281/zenodo.18515296",
+      "publisher_publication_date": "2026-02-07",
+      "manuscript_date": null,
+      "sha256": "60ec3ba5b2184a05e6a3e11788339149218a181bc4edff128928329129310c35",
+      "pages": 3
+    },
+    "repository_layout": "current-paper-with-collapsed-history",
+    "subjects": [
+      "Standard Model",
+      "Neutrinos"
+    ],
+    "research_groups": [
+      "L1 equivalence collection"
+    ]
+  },
+  {
+    "title": "L1 Paper 6 Longitudinal Goldstone Equivalence",
+    "doi": "10.5281/zenodo.18515275",
+    "doi_url": "https://doi.org/10.5281/zenodo.18515275",
+    "url": "https://constraintsystemsinstitute.org/papers/l1-paper-6-longitudinal-goldstone-equivalence-18515275/",
+    "slug": "l1-paper-6-longitudinal-goldstone-equivalence-18515275",
+    "date": "2026-02-07",
+    "scholar_date": "2026/02/07",
+    "context": "L1 equivalence collection",
+    "report_number": "CSI-ZENODO-18515275",
+    "description": "The manuscript identifies longitudinal and Goldstone amplitudes in the declared high-energy regime, retaining mass-over-energy suppressed corrections. The result is an approximation with stated conditions, rather than an exact finite-energy identity.",
+    "keywords": "AASC, Standard Model, L1 equivalence collection",
+    "zenodo_record": "https://zenodo.org/records/18515276",
+    "preferred_edition": {
+      "pdf_url": "https://constraintsystemsinstitute.org/manuscripts/zenodo-18515275/sha256-7bf05a7887d28b9e9dcbff0237b4ca1e614e6c0dcc34c7fb9f495e303924ffdf/manuscript.pdf",
+      "doi": "10.5281/zenodo.18515276",
+      "publisher_publication_date": "2026-02-07",
+      "manuscript_date": null,
+      "sha256": "7bf05a7887d28b9e9dcbff0237b4ca1e614e6c0dcc34c7fb9f495e303924ffdf",
+      "pages": 2
+    },
+    "repository_layout": "current-paper-with-collapsed-history",
+    "subjects": [
+      "Standard Model"
+    ],
+    "research_groups": [
+      "L1 equivalence collection"
+    ]
+  },
+  {
+    "title": "L1 Paper 12 Exhaustion and Closure of the Equivalence Space",
+    "doi": "10.5281/zenodo.18515152",
+    "doi_url": "https://doi.org/10.5281/zenodo.18515152",
+    "url": "https://constraintsystemsinstitute.org/papers/l1-paper-12-exhaustion-and-closure-of-the-equivalence-space-18515152/",
+    "slug": "l1-paper-12-exhaustion-and-closure-of-the-equivalence-space-18515152",
+    "date": "2026-02-07",
+    "scholar_date": "2026/02/07",
+    "context": "L1 equivalence collection",
+    "report_number": "CSI-ZENODO-18515152",
+    "description": "The manuscript declares exhaustion and closure of its L1 collection, relying on Papers 1-11 and its listed failure classes. Its uniqueness corollary remains within that framework and assumptions; no blanket uniqueness over other research is asserted.",
+    "keywords": "AASC, Standard Model, L1 equivalence collection",
+    "zenodo_record": "https://zenodo.org/records/18515153",
+    "preferred_edition": {
+      "pdf_url": "https://constraintsystemsinstitute.org/manuscripts/zenodo-18515152/sha256-70e17286d4f3516a7053854245ebbc181fa88f7325b17d5b315da14e5f14bd70/manuscript.pdf",
+      "doi": "10.5281/zenodo.18515153",
+      "publisher_publication_date": "2026-02-07",
+      "manuscript_date": null,
+      "sha256": "70e17286d4f3516a7053854245ebbc181fa88f7325b17d5b315da14e5f14bd70",
+      "pages": 1
+    },
+    "repository_layout": "current-paper-with-collapsed-history",
+    "subjects": [
+      "Standard Model"
+    ],
+    "research_groups": [
+      "L1 equivalence collection"
+    ]
+  },
+  {
+    "title": "Why Gauge Symmetry Cannot Be Ontic",
+    "doi": "10.5281/zenodo.18477389",
+    "doi_url": "https://doi.org/10.5281/zenodo.18477389",
+    "url": "https://constraintsystemsinstitute.org/papers/why-gauge-symmetry-cannot-be-ontic-18477389/",
+    "slug": "why-gauge-symmetry-cannot-be-ontic-18477389",
+    "date": "2026-02-04",
+    "scholar_date": "2026/02/04",
+    "context": "Gauge representation and ontology",
+    "report_number": "CSI-ZENODO-18477389",
+    "description": "Using stated criteria of representation independence, additional constraint imposition and non-redundancy, the manuscript argues for a representational interpretation of gauge symmetry under locality and internal consistency. Its conclusion is a philosophical eliminative argument, preserving the usefulness of gauge descriptions. It is not presented as independently verified ontology or a blanket conclusion over other research.",
+    "keywords": "AASC, Symmetry, Gauge representation and ontology",
+    "zenodo_record": "https://zenodo.org/records/18477390",
+    "preferred_edition": {
+      "pdf_url": "https://constraintsystemsinstitute.org/manuscripts/zenodo-18477389/sha256-f5f211267f209eebf91692db094f53d574bf4c4ad26ca6d716e9d1eeafd9c26f/manuscript.pdf",
+      "doi": "10.5281/zenodo.18477390",
+      "publisher_publication_date": "2026-02-04",
+      "manuscript_date": null,
+      "sha256": "f5f211267f209eebf91692db094f53d574bf4c4ad26ca6d716e9d1eeafd9c26f",
+      "pages": 3
+    },
+    "repository_layout": "current-paper-with-collapsed-history",
+    "subjects": [
+      "Symmetry"
+    ],
+    "research_groups": [
+      "Gauge representation and ontology"
+    ]
   }
 ]

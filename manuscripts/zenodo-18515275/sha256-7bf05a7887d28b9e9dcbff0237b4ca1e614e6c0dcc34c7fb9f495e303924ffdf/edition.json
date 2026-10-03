@@ -1,0 +1,18 @@
+{
+  "work_doi": "10.5281/zenodo.18515275",
+  "exact_release_doi": "10.5281/zenodo.18515276",
+  "title": "L1 Paper 6 Longitudinal Goldstone Equivalence",
+  "manuscript_date": null,
+  "publisher_publication_date": "2026-02-07",
+  "publisher_version": null,
+  "sha256": "7bf05a7887d28b9e9dcbff0237b4ca1e614e6c0dcc34c7fb9f495e303924ffdf",
+  "bytes": 116104,
+  "pages": 2,
+  "pdf_url": "https://constraintsystemsinstitute.org/manuscripts/zenodo-18515275/sha256-7bf05a7887d28b9e9dcbff0237b4ca1e614e6c0dcc34c7fb9f495e303924ffdf/manuscript.pdf",
+  "canonical_work_url": "https://constraintsystemsinstitute.org/papers/l1-paper-6-longitudinal-goldstone-equivalence-18515275/",
+  "publisher_url": "https://zenodo.org/records/18515276",
+  "license": "CC BY 4.0",
+  "edition_role": "preferred",
+  "verification": "Current official release identity and publisher checksum checked against retained exact PDF bytes; searchable-text notice contexts reviewed. Manuscript claims not independently verified.",
+  "conversion": "Repository reading summary; no full-text HTML conversion."
+}

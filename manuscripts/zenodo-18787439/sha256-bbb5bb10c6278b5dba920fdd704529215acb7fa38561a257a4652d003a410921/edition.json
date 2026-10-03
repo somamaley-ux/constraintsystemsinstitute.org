@@ -1,0 +1,18 @@
+{
+  "work_doi": "10.5281/zenodo.18787439",
+  "exact_release_doi": "10.5281/zenodo.18787440",
+  "title": "Semigroup Spectral Extraction from Euclidean Exponential Clustering",
+  "manuscript_date": null,
+  "publisher_publication_date": "2026-02-26",
+  "publisher_version": null,
+  "sha256": "bbb5bb10c6278b5dba920fdd704529215acb7fa38561a257a4652d003a410921",
+  "bytes": 327223,
+  "pages": 8,
+  "pdf_url": "https://constraintsystemsinstitute.org/manuscripts/zenodo-18787439/sha256-bbb5bb10c6278b5dba920fdd704529215acb7fa38561a257a4652d003a410921/manuscript.pdf",
+  "canonical_work_url": "https://constraintsystemsinstitute.org/papers/semigroup-spectral-extraction-from-euclidean-exponential-clustering-18787439/",
+  "publisher_url": "https://zenodo.org/records/18787440",
+  "license": "CC BY 4.0",
+  "edition_role": "preferred",
+  "verification": "Current official release identity and publisher checksum checked against retained exact PDF bytes; searchable-text notice contexts reviewed. Manuscript claims not independently verified.",
+  "conversion": "Repository reading summary; no full-text HTML conversion."
+}

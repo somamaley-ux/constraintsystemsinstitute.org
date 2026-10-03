@@ -1,0 +1,18 @@
+{
+  "work_doi": "10.5281/zenodo.20034766",
+  "exact_release_doi": "10.5281/zenodo.20034767",
+  "title": "Invariant Selection and Endpoint Structure for Self-Adjoint Extensions",
+  "manuscript_date": "2026-05-05",
+  "publisher_publication_date": "2026-05-05",
+  "publisher_version": null,
+  "sha256": "ca04ff975868e96d11c1f015304034397ab071e2365215e7e3564cfc4d8e6d20",
+  "bytes": 563497,
+  "pages": 40,
+  "pdf_url": "https://constraintsystemsinstitute.org/manuscripts/zenodo-20034766/sha256-ca04ff975868e96d11c1f015304034397ab071e2365215e7e3564cfc4d8e6d20/manuscript.pdf",
+  "canonical_work_url": "https://constraintsystemsinstitute.org/papers/self-adjoint-extension-selection-under-quadratic-form-order-in-quantum-mechanics-20678826/",
+  "publisher_url": "https://zenodo.org/records/20034767",
+  "license": "CC BY 4.0",
+  "edition_role": "collapsed_alternate_author_accepted",
+  "verification": "Current official release identity and publisher checksum checked against retained exact PDF bytes; searchable-text notice contexts reviewed. Manuscript claims not independently verified.",
+  "conversion": "Repository reading summary; no full-text HTML conversion."
+}

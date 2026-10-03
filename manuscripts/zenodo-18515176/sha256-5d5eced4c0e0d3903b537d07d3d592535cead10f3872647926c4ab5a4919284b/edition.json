@@ -1,0 +1,18 @@
+{
+  "work_doi": "10.5281/zenodo.18515176",
+  "exact_release_doi": "10.5281/zenodo.18543350",
+  "title": "L1 Paper 11 Hypercharge Normalization Electric Charge Quantization",
+  "manuscript_date": null,
+  "publisher_publication_date": "2026-02-07",
+  "publisher_version": null,
+  "sha256": "5d5eced4c0e0d3903b537d07d3d592535cead10f3872647926c4ab5a4919284b",
+  "bytes": 119718,
+  "pages": 2,
+  "pdf_url": "https://constraintsystemsinstitute.org/manuscripts/zenodo-18515176/sha256-5d5eced4c0e0d3903b537d07d3d592535cead10f3872647926c4ab5a4919284b/manuscript.pdf",
+  "canonical_work_url": "https://constraintsystemsinstitute.org/papers/l1-paper-11-hypercharge-normalization-electric-charge-quantization-18515176/",
+  "publisher_url": "https://zenodo.org/records/18543350",
+  "license": "CC BY 4.0",
+  "edition_role": "preferred",
+  "verification": "Current official release identity and publisher checksum checked against retained exact PDF bytes; searchable-text notice contexts reviewed. Manuscript claims not independently verified.",
+  "conversion": "Repository reading summary; no full-text HTML conversion."
+}

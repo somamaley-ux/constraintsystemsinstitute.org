@@ -1,0 +1,18 @@
+{
+  "work_doi": "10.5281/zenodo.18515295",
+  "exact_release_doi": "10.5281/zenodo.18515296",
+  "title": "L1 Paper 5 Neutrino mixing invariants",
+  "manuscript_date": null,
+  "publisher_publication_date": "2026-02-07",
+  "publisher_version": null,
+  "sha256": "60ec3ba5b2184a05e6a3e11788339149218a181bc4edff128928329129310c35",
+  "bytes": 136999,
+  "pages": 3,
+  "pdf_url": "https://constraintsystemsinstitute.org/manuscripts/zenodo-18515295/sha256-60ec3ba5b2184a05e6a3e11788339149218a181bc4edff128928329129310c35/manuscript.pdf",
+  "canonical_work_url": "https://constraintsystemsinstitute.org/papers/l1-paper-5-neutrino-mixing-invariants-18515295/",
+  "publisher_url": "https://zenodo.org/records/18515296",
+  "license": "CC BY 4.0",
+  "edition_role": "preferred",
+  "verification": "Current official release identity and publisher checksum checked against retained exact PDF bytes; searchable-text notice contexts reviewed. Manuscript claims not independently verified.",
+  "conversion": "Repository reading summary; no full-text HTML conversion."
+}

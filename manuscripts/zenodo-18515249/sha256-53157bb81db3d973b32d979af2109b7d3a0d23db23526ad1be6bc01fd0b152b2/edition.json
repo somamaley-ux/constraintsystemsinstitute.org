@@ -1,0 +1,18 @@
+{
+  "work_doi": "10.5281/zenodo.18515249",
+  "exact_release_doi": "10.5281/zenodo.18542656",
+  "title": "L1 Paper 7 Yukawa Realizability under Minimal Chiral Load",
+  "manuscript_date": null,
+  "publisher_publication_date": "2026-02-07",
+  "publisher_version": null,
+  "sha256": "53157bb81db3d973b32d979af2109b7d3a0d23db23526ad1be6bc01fd0b152b2",
+  "bytes": 129133,
+  "pages": 2,
+  "pdf_url": "https://constraintsystemsinstitute.org/manuscripts/zenodo-18515249/sha256-53157bb81db3d973b32d979af2109b7d3a0d23db23526ad1be6bc01fd0b152b2/manuscript.pdf",
+  "canonical_work_url": "https://constraintsystemsinstitute.org/papers/l1-paper-7-yukawa-realizability-under-minimal-chiral-load-18515249/",
+  "publisher_url": "https://zenodo.org/records/18542656",
+  "license": "CC BY 4.0",
+  "edition_role": "preferred",
+  "verification": "Current official release identity and publisher checksum checked against retained exact PDF bytes; searchable-text notice contexts reviewed. Manuscript claims not independently verified.",
+  "conversion": "Repository reading summary; no full-text HTML conversion."
+}

@@ -1,0 +1,18 @@
+{
+  "work_doi": "10.5281/zenodo.18603439",
+  "exact_release_doi": "10.5281/zenodo.18603440",
+  "title": "Dimensionless Gauge Couplings as Moduli",
+  "manuscript_date": null,
+  "publisher_publication_date": "2026-02-11",
+  "publisher_version": null,
+  "sha256": "0b3153e3b5fd31e70eeeb130447abcf31c51b7fab2cded5cb0b4a070aeeeb867",
+  "bytes": 143225,
+  "pages": 4,
+  "pdf_url": "https://constraintsystemsinstitute.org/manuscripts/zenodo-18603439/sha256-0b3153e3b5fd31e70eeeb130447abcf31c51b7fab2cded5cb0b4a070aeeeb867/manuscript.pdf",
+  "canonical_work_url": "https://constraintsystemsinstitute.org/papers/dimensionless-gauge-couplings-as-moduli-18603439/",
+  "publisher_url": "https://zenodo.org/records/18603440",
+  "license": "CC BY 4.0",
+  "edition_role": "preferred",
+  "verification": "Current official release identity and publisher checksum checked against retained exact PDF bytes; searchable-text notice contexts reviewed. Manuscript claims not independently verified.",
+  "conversion": "Repository reading summary; no full-text HTML conversion."
+}
