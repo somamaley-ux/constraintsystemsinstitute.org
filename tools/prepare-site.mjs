@@ -38,6 +38,16 @@ const walk = dir => fs.readdirSync(dir, {withFileTypes:true}).flatMap(entry => {
   return entry.isDirectory() ? walk(full) : entry.name.endsWith('.html') ? [full] : [];
 });
 const records = JSON.parse(fs.readFileSync(path.join(root, 'papers.json'), 'utf8').replace(/^\uFEFF/,''));
+
+// Synchronize the static homepage fallback even during a focused paper-page build.
+const homepagePath = path.join(root, 'index.html');
+const homepage = fs.readFileSync(homepagePath, 'utf8');
+const countLink = /(<a\b[^>]*\sdata-repository-record-count(?=\s|>)[^>]*>)[\s\S]*?(<\/a>)/g;
+if ([...homepage.matchAll(countLink)].length !== 1) throw new Error('Expected one homepage repository record count link');
+const syncedHomepage = homepage.replace(countLink, (_, open, close) => `${open}Browse all ${records.length} repository records${close}`);
+if (syncedHomepage !== homepage) fs.writeFileSync(homepagePath, syncedHomepage);
+
+
 const tours = new Set(['foundations', 'physics-from-below', 'gravity-quantum', 'standard-model', 'symmetry', 'black-holes', 'time', 'mind-agency', 'measurement', 'neutrinos']);
 const variants = {
   'banner.jpg': [7680,2780,[480,960,1600]],
