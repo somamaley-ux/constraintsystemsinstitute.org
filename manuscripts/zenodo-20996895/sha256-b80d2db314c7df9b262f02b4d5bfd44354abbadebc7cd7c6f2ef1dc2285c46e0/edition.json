@@ -1,0 +1,16 @@
+{
+  "work_doi": "10.5281/zenodo.20996895",
+  "exact_release_doi": "10.5281/zenodo.20996896",
+  "title": "Higgs Vacuum Route Status: Metastability, Lower Branches, and Standing Closure",
+  "manuscript_date": "June 2026",
+  "publisher_publication_date": "2026-06-28",
+  "publisher_version": null,
+  "sha256": "b80d2db314c7df9b262f02b4d5bfd44354abbadebc7cd7c6f2ef1dc2285c46e0",
+  "bytes": 382752,
+  "pages": 23,
+  "pdf_url": "https://constraintsystemsinstitute.org/manuscripts/zenodo-20996895/sha256-b80d2db314c7df9b262f02b4d5bfd44354abbadebc7cd7c6f2ef1dc2285c46e0/manuscript.pdf",
+  "canonical_work_url": "https://constraintsystemsinstitute.org/papers/higgs-vacuum-route-status-20996895/",
+  "publisher_url": "https://zenodo.org/records/20996896",
+  "verification": "Publisher checksum and SHA256 byte identity checked; completion markers reviewed. No independent proof verification.",
+  "conversion": "Repository reading summary; no full-text HTML conversion."
+}

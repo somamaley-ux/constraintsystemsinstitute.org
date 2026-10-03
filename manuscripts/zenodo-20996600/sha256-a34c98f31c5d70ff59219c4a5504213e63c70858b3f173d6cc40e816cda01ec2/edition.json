@@ -1,0 +1,16 @@
+{
+  "work_doi": "10.5281/zenodo.20996600",
+  "exact_release_doi": "10.5281/zenodo.20996601",
+  "title": "Endpoint on Higgs Structural Identity: Bridge-Carrier Occupation and No Fifth Identity Ground",
+  "manuscript_date": "June 2026",
+  "publisher_publication_date": "2026-06-28",
+  "publisher_version": null,
+  "sha256": "a34c98f31c5d70ff59219c4a5504213e63c70858b3f173d6cc40e816cda01ec2",
+  "bytes": 396293,
+  "pages": 28,
+  "pdf_url": "https://constraintsystemsinstitute.org/manuscripts/zenodo-20996600/sha256-a34c98f31c5d70ff59219c4a5504213e63c70858b3f173d6cc40e816cda01ec2/manuscript.pdf",
+  "canonical_work_url": "https://constraintsystemsinstitute.org/papers/higgs-structural-identity-20996600/",
+  "publisher_url": "https://zenodo.org/records/20996601",
+  "verification": "Publisher checksum and SHA256 byte identity checked; completion markers reviewed. No independent proof verification.",
+  "conversion": "Repository reading summary; no full-text HTML conversion."
+}

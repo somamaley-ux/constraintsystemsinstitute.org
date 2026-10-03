@@ -1,0 +1,16 @@
+{
+  "work_doi": "10.5281/zenodo.20997208",
+  "exact_release_doi": "10.5281/zenodo.20997209",
+  "title": "No Primitive Lower Higgs Vacuum",
+  "manuscript_date": "June 2026",
+  "publisher_publication_date": "2026-06-28",
+  "publisher_version": null,
+  "sha256": "28b08c5dbbfb72d0dfe1cb746aa6f7ce210c76ce83fc95d7bde90b6190c30936",
+  "bytes": 571592,
+  "pages": 52,
+  "pdf_url": "https://constraintsystemsinstitute.org/manuscripts/zenodo-20997208/sha256-28b08c5dbbfb72d0dfe1cb746aa6f7ce210c76ce83fc95d7bde90b6190c30936/manuscript.pdf",
+  "canonical_work_url": "https://constraintsystemsinstitute.org/papers/no-primitive-lower-higgs-vacuum-20997208/",
+  "publisher_url": "https://zenodo.org/records/20997209",
+  "verification": "Publisher checksum and SHA256 byte identity checked; completion markers reviewed. No independent proof verification.",
+  "conversion": "Repository reading summary; no full-text HTML conversion."
+}

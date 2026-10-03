@@ -1,0 +1,16 @@
+{
+  "work_doi": "10.5281/zenodo.22663085",
+  "exact_release_doi": "10.5281/zenodo.22663086",
+  "title": "The Bosonic Carrier\u2013Response\u2013Projection Atlas",
+  "publisher_publication_date": "2026-09-08",
+  "publisher_version": null,
+  "sha256": "701e5ef78a503d1706da64857456a27db6a5f7d6b7fd1c377ad14c8295f59255",
+  "bytes": 684407,
+  "pages": 46,
+  "pdf_url": "https://constraintsystemsinstitute.org/manuscripts/zenodo-22663085/sha256-701e5ef78a503d1706da64857456a27db6a5f7d6b7fd1c377ad14c8295f59255/manuscript.pdf",
+  "legacy_pdf_url": "https://constraintsystemsinstitute.org/standard-model/pdf/bcrs-3.pdf",
+  "canonical_work_url": "https://constraintsystemsinstitute.org/standard-model/papers/bcrs-3/",
+  "publisher_url": "https://zenodo.org/records/22663086",
+  "edition_role": "Earlier exact public edition cited by this site; separate from current reading edition.",
+  "verification": "Direct publisher download SHA256 matches the retained legacy PDF."
+}

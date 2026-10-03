@@ -1,0 +1,16 @@
+{
+  "work_doi": "10.5281/zenodo.20997159",
+  "exact_release_doi": "10.5281/zenodo.20997160",
+  "title": "The Higgs Domain Endpoint: Carrier, Identity, Scale, Vacuum, Extension, and Projection",
+  "manuscript_date": "June 2026",
+  "publisher_publication_date": "2026-06-28",
+  "publisher_version": null,
+  "sha256": "edc26a4cffbd76e6027955e79679a2ed11cee34b7d9bc4577f5fdb00b3ced4e0",
+  "bytes": 354542,
+  "pages": 19,
+  "pdf_url": "https://constraintsystemsinstitute.org/manuscripts/zenodo-20997159/sha256-edc26a4cffbd76e6027955e79679a2ed11cee34b7d9bc4577f5fdb00b3ced4e0/manuscript.pdf",
+  "canonical_work_url": "https://constraintsystemsinstitute.org/papers/higgs-domain-endpoint-20997159/",
+  "publisher_url": "https://zenodo.org/records/20997160",
+  "verification": "Publisher checksum and SHA256 byte identity checked; completion markers reviewed. No independent proof verification.",
+  "conversion": "Repository reading summary; no full-text HTML conversion."
+}

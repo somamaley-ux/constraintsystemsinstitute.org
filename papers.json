@@ -3557,14 +3557,14 @@
     "slug": "functorial-target-extension-of-standing-carrier-quotients-22735800",
     "url": "https://constraintsystemsinstitute.org/papers/functorial-target-extension-of-standing-carrier-quotients-22735800/",
     "role": "How new targets refine the space",
-    "description": "Explains how additional physical targets can eliminate, preserve or split existing standing classes, while retaining distinctions already established at the original target.",
+    "description": "Registered theorem-skeleton citation with unavailable public source. No completed public replacement or hosted manuscript has been verified.",
     "context": "Neutrino carrier arc",
     "author": "Amos Jay Maley",
     "report_number": "PCR 5C",
     "keywords": "AASC, neutrino carrier, neutrino oscillation, heavy neutral lepton, active closure, experimental prediction, PCR 5C",
     "metadata_source": "Title and DOI supplied by the author; website summary based on the supplied manuscript.",
-    "release_status": "publisher_withdrawn",
-    "release_note": "Replacement public edition unconfirmed.",
+    "release_status": "publisher_unavailable",
+    "release_note": "Publisher record and registered exact release return HTTP 410. Registered description identifies a theorem skeleton; no completed replacement is verified.",
     "repository_layout": "current-paper-with-collapsed-history",
     "subjects": [
       "Neutrinos"
@@ -3933,5 +3933,179 @@
       "Gravity and quantum dynamics"
     ],
     "research_groups": []
+  },
+  {
+    "title": "No Primitive Lower Higgs Vacuum",
+    "doi": "10.5281/zenodo.20997208",
+    "doi_url": "https://doi.org/10.5281/zenodo.20997208",
+    "url": "https://constraintsystemsinstitute.org/papers/no-primitive-lower-higgs-vacuum-20997208/",
+    "slug": "no-primitive-lower-higgs-vacuum-20997208",
+    "date": "2026-06-28",
+    "scholar_date": "2026/06/28",
+    "context": "Higgs Structural Endpoint Arc companion",
+    "report_number": "CSI-SM",
+    "description": "The manuscript treats lower effective-potential branches as diagnostics whose endpoint standing requires a certificate. It distinguishes metastability calculations from closed lifetime claims and classifies thermal and baryogenesis routes for its declared minimal-Standard-Model target; numerical and empirical comparison inputs are imported.",
+    "keywords": "AASC, Higgs, Standard Model, carrier, standing, vacuum lifetime metastability thermal baryogenesis",
+    "zenodo_record": "https://zenodo.org/records/20997209",
+    "preferred_edition": {
+      "pdf_url": "https://constraintsystemsinstitute.org/manuscripts/zenodo-20997208/sha256-28b08c5dbbfb72d0dfe1cb746aa6f7ce210c76ce83fc95d7bde90b6190c30936/manuscript.pdf",
+      "doi": "10.5281/zenodo.20997209",
+      "publisher_publication_date": "2026-06-28",
+      "manuscript_date": "June 2026",
+      "sha256": "28b08c5dbbfb72d0dfe1cb746aa6f7ce210c76ce83fc95d7bde90b6190c30936",
+      "pages": 52
+    },
+    "repository_layout": "current-paper-with-collapsed-history",
+    "subjects": [
+      "Standard Model"
+    ],
+    "research_groups": [
+      "Higgs Structural Endpoint Arc"
+    ]
+  },
+  {
+    "title": "The Higgs Domain Endpoint: Carrier, Identity, Scale, Vacuum, Extension, and Projection",
+    "doi": "10.5281/zenodo.20997159",
+    "doi_url": "https://doi.org/10.5281/zenodo.20997159",
+    "url": "https://constraintsystemsinstitute.org/papers/higgs-domain-endpoint-20997159/",
+    "slug": "higgs-domain-endpoint-20997159",
+    "date": "2026-06-28",
+    "scholar_date": "2026/06/28",
+    "context": "Higgs Structural Endpoint Arc Paper 6",
+    "report_number": "CSI-SM",
+    "description": "The manuscript assembles the carrier, identity, scale, vacuum and extension modules into a fixed-scope Higgs-domain endpoint. It claims that remaining attribute descriptions factor through that architecture, with metricity treated as projection and richer-scope updates recorded separately.",
+    "keywords": "AASC, Higgs, Standard Model, carrier, standing, structural endpoint arc Paper 6",
+    "zenodo_record": "https://zenodo.org/records/20997160",
+    "preferred_edition": {
+      "pdf_url": "https://constraintsystemsinstitute.org/manuscripts/zenodo-20997159/sha256-edc26a4cffbd76e6027955e79679a2ed11cee34b7d9bc4577f5fdb00b3ced4e0/manuscript.pdf",
+      "doi": "10.5281/zenodo.20997160",
+      "publisher_publication_date": "2026-06-28",
+      "manuscript_date": "June 2026",
+      "sha256": "edc26a4cffbd76e6027955e79679a2ed11cee34b7d9bc4577f5fdb00b3ced4e0",
+      "pages": 19
+    },
+    "repository_layout": "current-paper-with-collapsed-history",
+    "subjects": [
+      "Standard Model"
+    ],
+    "research_groups": [
+      "Higgs Structural Endpoint Arc"
+    ]
+  },
+  {
+    "title": "The Higgs Extension Classifier: Extra Scalars and Same-Scope Carrier Preservation",
+    "doi": "10.5281/zenodo.20997077",
+    "doi_url": "https://doi.org/10.5281/zenodo.20997077",
+    "url": "https://constraintsystemsinstitute.org/papers/higgs-extension-classifier-20997077/",
+    "slug": "higgs-extension-classifier-20997077",
+    "date": "2026-06-28",
+    "scholar_date": "2026/06/28",
+    "context": "Higgs Structural Endpoint Arc Paper 5",
+    "report_number": "CSI-SM",
+    "description": "The manuscript classifies extension claims by their relation to the inherited Higgs carrier. Additional scalars, composite sectors and portals can be descriptions, enrichments or richer-scope updates; the classifier is not a phenomenological exclusion of those models.",
+    "keywords": "AASC, Higgs, Standard Model, carrier, standing, structural endpoint arc Paper 5",
+    "zenodo_record": "https://zenodo.org/records/20997078",
+    "preferred_edition": {
+      "pdf_url": "https://constraintsystemsinstitute.org/manuscripts/zenodo-20997077/sha256-d62399a98d1e605e18070ff5824cd239413d7f6d14df32843340a86c3e78e915/manuscript.pdf",
+      "doi": "10.5281/zenodo.20997078",
+      "publisher_publication_date": "2026-06-28",
+      "manuscript_date": "June 2026",
+      "sha256": "d62399a98d1e605e18070ff5824cd239413d7f6d14df32843340a86c3e78e915",
+      "pages": 22
+    },
+    "repository_layout": "current-paper-with-collapsed-history",
+    "subjects": [
+      "Standard Model"
+    ],
+    "research_groups": [
+      "Higgs Structural Endpoint Arc"
+    ]
+  },
+  {
+    "title": "Higgs Vacuum Route Status: Metastability, Lower Branches, and Standing Closure",
+    "doi": "10.5281/zenodo.20996895",
+    "doi_url": "https://doi.org/10.5281/zenodo.20996895",
+    "url": "https://constraintsystemsinstitute.org/papers/higgs-vacuum-route-status-20996895/",
+    "slug": "higgs-vacuum-route-status-20996895",
+    "date": "2026-06-28",
+    "scholar_date": "2026/06/28",
+    "context": "Higgs Structural Endpoint Arc Paper 4",
+    "report_number": "CSI-SM",
+    "description": "The manuscript separates vacuum description, route availability and certificate-closed standing. It classifies lower-branch, lifetime and thermal claims after the carrier, identity and scale results; it does not numerically select Standard Model stability or metastability.",
+    "keywords": "AASC, Higgs, Standard Model, carrier, standing, structural endpoint arc Paper 4",
+    "zenodo_record": "https://zenodo.org/records/20996896",
+    "preferred_edition": {
+      "pdf_url": "https://constraintsystemsinstitute.org/manuscripts/zenodo-20996895/sha256-b80d2db314c7df9b262f02b4d5bfd44354abbadebc7cd7c6f2ef1dc2285c46e0/manuscript.pdf",
+      "doi": "10.5281/zenodo.20996896",
+      "publisher_publication_date": "2026-06-28",
+      "manuscript_date": "June 2026",
+      "sha256": "b80d2db314c7df9b262f02b4d5bfd44354abbadebc7cd7c6f2ef1dc2285c46e0",
+      "pages": 23
+    },
+    "repository_layout": "current-paper-with-collapsed-history",
+    "subjects": [
+      "Standard Model"
+    ],
+    "research_groups": [
+      "Higgs Structural Endpoint Arc"
+    ]
+  },
+  {
+    "title": "No Primitive Higgs Scale: Carrier-Indexed Scale Standing and Hierarchy Orientation",
+    "doi": "10.5281/zenodo.20996740",
+    "doi_url": "https://doi.org/10.5281/zenodo.20996740",
+    "url": "https://constraintsystemsinstitute.org/papers/higgs-scale-standing-20996740/",
+    "slug": "higgs-scale-standing-20996740",
+    "date": "2026-06-28",
+    "scholar_date": "2026/06/28",
+    "context": "Higgs Structural Endpoint Arc Paper 3",
+    "report_number": "CSI-SM",
+    "description": "The manuscript distinguishes a displayed scale from the standing of a scale claim. Measurements, running coordinates and hierarchy comparisons remain useful, while their standing is classified relative to the Higgs carrier and the relevant projection or transport certificate.",
+    "keywords": "AASC, Higgs, Standard Model, carrier, standing, structural endpoint arc Paper 3",
+    "zenodo_record": "https://zenodo.org/records/20996741",
+    "preferred_edition": {
+      "pdf_url": "https://constraintsystemsinstitute.org/manuscripts/zenodo-20996740/sha256-f11915674c04b92b995083b53eaf4a079b24bd5aaa107f9ba3351df8cd564667/manuscript.pdf",
+      "doi": "10.5281/zenodo.20996741",
+      "publisher_publication_date": "2026-06-28",
+      "manuscript_date": "June 2026",
+      "sha256": "f11915674c04b92b995083b53eaf4a079b24bd5aaa107f9ba3351df8cd564667",
+      "pages": 28
+    },
+    "repository_layout": "current-paper-with-collapsed-history",
+    "subjects": [
+      "Standard Model"
+    ],
+    "research_groups": [
+      "Higgs Structural Endpoint Arc"
+    ]
+  },
+  {
+    "title": "Endpoint on Higgs Structural Identity: Bridge-Carrier Occupation and No Fifth Identity Ground",
+    "doi": "10.5281/zenodo.20996600",
+    "doi_url": "https://doi.org/10.5281/zenodo.20996600",
+    "url": "https://constraintsystemsinstitute.org/papers/higgs-structural-identity-20996600/",
+    "slug": "higgs-structural-identity-20996600",
+    "date": "2026-06-28",
+    "scholar_date": "2026/06/28",
+    "context": "Higgs Structural Endpoint Arc Paper 2",
+    "report_number": "CSI-SM",
+    "description": "The manuscript argues that same-scope Higgs identity factors through occupation of the bridge/fixation carrier. Scalarity, vev-status, potential minima and mass labels remain descriptions or witnesses rather than independent identity grounds.",
+    "keywords": "AASC, Higgs, Standard Model, carrier, standing, structural endpoint arc Paper 2",
+    "zenodo_record": "https://zenodo.org/records/20996601",
+    "preferred_edition": {
+      "pdf_url": "https://constraintsystemsinstitute.org/manuscripts/zenodo-20996600/sha256-a34c98f31c5d70ff59219c4a5504213e63c70858b3f173d6cc40e816cda01ec2/manuscript.pdf",
+      "doi": "10.5281/zenodo.20996601",
+      "publisher_publication_date": "2026-06-28",
+      "manuscript_date": "June 2026",
+      "sha256": "a34c98f31c5d70ff59219c4a5504213e63c70858b3f173d6cc40e816cda01ec2",
+      "pages": 28
+    },
+    "repository_layout": "current-paper-with-collapsed-history",
+    "subjects": [
+      "Standard Model"
+    ],
+    "research_groups": [
+      "Higgs Structural Endpoint Arc"
+    ]
   }
 ]

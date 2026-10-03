@@ -1,0 +1,16 @@
+{
+  "work_doi": "10.5281/zenodo.22663481",
+  "exact_release_doi": "10.5281/zenodo.22663482",
+  "title": "Common Physical Sources for a Constraint-Derived Standard Model",
+  "publisher_publication_date": "2026-09-08",
+  "publisher_version": null,
+  "sha256": "80d5a8a15ac59a3be5fc9cc8f8dd746ea02d4b8a9b40cc4add7187a1ea6f14d9",
+  "bytes": 2179551,
+  "pages": 222,
+  "pdf_url": "https://constraintsystemsinstitute.org/manuscripts/zenodo-22663481/sha256-80d5a8a15ac59a3be5fc9cc8f8dd746ea02d4b8a9b40cc4add7187a1ea6f14d9/manuscript.pdf",
+  "legacy_pdf_url": "https://constraintsystemsinstitute.org/standard-model/pdf/csp-p.pdf",
+  "canonical_work_url": "https://constraintsystemsinstitute.org/standard-model/papers/csp-p/",
+  "publisher_url": "https://zenodo.org/records/22663482",
+  "edition_role": "Earlier exact public edition cited by this site; separate from current reading edition.",
+  "verification": "Direct publisher download SHA256 matches the retained legacy PDF."
+}

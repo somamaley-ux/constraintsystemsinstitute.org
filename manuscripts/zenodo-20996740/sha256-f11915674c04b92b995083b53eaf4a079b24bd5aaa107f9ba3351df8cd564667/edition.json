@@ -1,0 +1,16 @@
+{
+  "work_doi": "10.5281/zenodo.20996740",
+  "exact_release_doi": "10.5281/zenodo.20996741",
+  "title": "No Primitive Higgs Scale: Carrier-Indexed Scale Standing and Hierarchy Orientation",
+  "manuscript_date": "June 2026",
+  "publisher_publication_date": "2026-06-28",
+  "publisher_version": null,
+  "sha256": "f11915674c04b92b995083b53eaf4a079b24bd5aaa107f9ba3351df8cd564667",
+  "bytes": 403596,
+  "pages": 28,
+  "pdf_url": "https://constraintsystemsinstitute.org/manuscripts/zenodo-20996740/sha256-f11915674c04b92b995083b53eaf4a079b24bd5aaa107f9ba3351df8cd564667/manuscript.pdf",
+  "canonical_work_url": "https://constraintsystemsinstitute.org/papers/higgs-scale-standing-20996740/",
+  "publisher_url": "https://zenodo.org/records/20996741",
+  "verification": "Publisher checksum and SHA256 byte identity checked; completion markers reviewed. No independent proof verification.",
+  "conversion": "Repository reading summary; no full-text HTML conversion."
+}

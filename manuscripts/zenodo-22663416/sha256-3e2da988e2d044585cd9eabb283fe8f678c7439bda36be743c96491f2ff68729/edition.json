@@ -1,0 +1,16 @@
+{
+  "work_doi": "10.5281/zenodo.22663416",
+  "exact_release_doi": "10.5281/zenodo.22663417",
+  "title": "Classical Standard Model and Gravity from a Common Constraint-Governed Source",
+  "publisher_publication_date": "2026-09-08",
+  "publisher_version": null,
+  "sha256": "3e2da988e2d044585cd9eabb283fe8f678c7439bda36be743c96491f2ff68729",
+  "bytes": 678424,
+  "pages": 42,
+  "pdf_url": "https://constraintsystemsinstitute.org/manuscripts/zenodo-22663416/sha256-3e2da988e2d044585cd9eabb283fe8f678c7439bda36be743c96491f2ff68729/manuscript.pdf",
+  "legacy_pdf_url": "https://constraintsystemsinstitute.org/standard-model/pdf/csp-c.pdf",
+  "canonical_work_url": "https://constraintsystemsinstitute.org/standard-model/papers/csp-c/",
+  "publisher_url": "https://zenodo.org/records/22663417",
+  "edition_role": "Earlier exact public edition cited by this site; separate from current reading edition.",
+  "verification": "Direct publisher download SHA256 matches the retained legacy PDF."
+}

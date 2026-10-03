@@ -53,7 +53,11 @@
     "title": "Premetric Bosonic Response Structure in the Standard Model",
     "sha256": "f6d8ca32260c6023d91763c4489bb9f424221159ded5aaee532e4eb75285d456",
     "legacy_pdf_url": "/standard-model/pdf/bcrs-1.pdf",
-    "same_as_current_published_pdf": false
+    "same_as_current_published_pdf": false,
+    "exact_release_doi": "10.5281/zenodo.22662359",
+    "publisher_publication_date": "2026-09-08",
+    "version_pdf_url": "/manuscripts/zenodo-22662358/sha256-f6d8ca32260c6023d91763c4489bb9f424221159ded5aaee532e4eb75285d456/manuscript.pdf",
+    "edition_metadata_url": "/manuscripts/zenodo-22662358/sha256-f6d8ca32260c6023d91763c4489bb9f424221159ded5aaee532e4eb75285d456/edition.json"
   },
   "/standard-model/pdf/bcrs-2c.pdf": {
     "url": "/standard-model/papers/bcrs-2c/",
@@ -61,7 +65,11 @@
     "title": "Color Realization from a Premetric Response Atlas",
     "sha256": "0e7de1382abc36797cb3d3d4a678be9efc3dbb086e1e9c99d26b6f596af76a3a",
     "legacy_pdf_url": "/standard-model/pdf/bcrs-2c.pdf",
-    "same_as_current_published_pdf": false
+    "same_as_current_published_pdf": false,
+    "exact_release_doi": "10.5281/zenodo.22662906",
+    "publisher_publication_date": "2026-09-08",
+    "version_pdf_url": "/manuscripts/zenodo-22662905/sha256-0e7de1382abc36797cb3d3d4a678be9efc3dbb086e1e9c99d26b6f596af76a3a/manuscript.pdf",
+    "edition_metadata_url": "/manuscripts/zenodo-22662905/sha256-0e7de1382abc36797cb3d3d4a678be9efc3dbb086e1e9c99d26b6f596af76a3a/edition.json"
   },
   "/standard-model/pdf/bcrs-2ewh.pdf": {
     "url": "/standard-model/papers/bcrs-2ewh/",
@@ -69,7 +77,11 @@
     "title": "Electroweak and Higgs Realization from a Premetric Response Atlas",
     "sha256": "7c21882fefbf36abe795b2a8d8cf4ed925c54da7574e93bc826b0a82db1a68fd",
     "legacy_pdf_url": "/standard-model/pdf/bcrs-2ewh.pdf",
-    "same_as_current_published_pdf": false
+    "same_as_current_published_pdf": false,
+    "exact_release_doi": "10.5281/zenodo.22662995",
+    "publisher_publication_date": "2026-09-08",
+    "version_pdf_url": "/manuscripts/zenodo-22662994/sha256-7c21882fefbf36abe795b2a8d8cf4ed925c54da7574e93bc826b0a82db1a68fd/manuscript.pdf",
+    "edition_metadata_url": "/manuscripts/zenodo-22662994/sha256-7c21882fefbf36abe795b2a8d8cf4ed925c54da7574e93bc826b0a82db1a68fd/edition.json"
   },
   "/standard-model/pdf/bcrs-3.pdf": {
     "url": "/standard-model/papers/bcrs-3/",
@@ -77,7 +89,11 @@
     "title": "The Bosonic Carrier–Response–Projection Atlas",
     "sha256": "701e5ef78a503d1706da64857456a27db6a5f7d6b7fd1c377ad14c8295f59255",
     "legacy_pdf_url": "/standard-model/pdf/bcrs-3.pdf",
-    "same_as_current_published_pdf": false
+    "same_as_current_published_pdf": false,
+    "exact_release_doi": "10.5281/zenodo.22663086",
+    "publisher_publication_date": "2026-09-08",
+    "version_pdf_url": "/manuscripts/zenodo-22663085/sha256-701e5ef78a503d1706da64857456a27db6a5f7d6b7fd1c377ad14c8295f59255/manuscript.pdf",
+    "edition_metadata_url": "/manuscripts/zenodo-22663085/sha256-701e5ef78a503d1706da64857456a27db6a5f7d6b7fd1c377ad14c8295f59255/edition.json"
   },
   "/standard-model/pdf/csp-c.pdf": {
     "url": "/standard-model/papers/csp-c/",
@@ -85,7 +101,11 @@
     "title": "Classical Standard Model and Gravity from a Common Constraint-Governed Source",
     "sha256": "3e2da988e2d044585cd9eabb283fe8f678c7439bda36be743c96491f2ff68729",
     "legacy_pdf_url": "/standard-model/pdf/csp-c.pdf",
-    "same_as_current_published_pdf": false
+    "same_as_current_published_pdf": false,
+    "exact_release_doi": "10.5281/zenodo.22663417",
+    "publisher_publication_date": "2026-09-08",
+    "version_pdf_url": "/manuscripts/zenodo-22663416/sha256-3e2da988e2d044585cd9eabb283fe8f678c7439bda36be743c96491f2ff68729/manuscript.pdf",
+    "edition_metadata_url": "/manuscripts/zenodo-22663416/sha256-3e2da988e2d044585cd9eabb283fe8f678c7439bda36be743c96491f2ff68729/edition.json"
   },
   "/standard-model/pdf/csp-p.pdf": {
     "url": "/standard-model/papers/csp-p/",
@@ -93,7 +113,11 @@
     "title": "Common Physical Sources for a Constraint-Derived Standard Model",
     "sha256": "80d5a8a15ac59a3be5fc9cc8f8dd746ea02d4b8a9b40cc4add7187a1ea6f14d9",
     "legacy_pdf_url": "/standard-model/pdf/csp-p.pdf",
-    "same_as_current_published_pdf": false
+    "same_as_current_published_pdf": false,
+    "exact_release_doi": "10.5281/zenodo.22663482",
+    "publisher_publication_date": "2026-09-08",
+    "version_pdf_url": "/manuscripts/zenodo-22663481/sha256-80d5a8a15ac59a3be5fc9cc8f8dd746ea02d4b8a9b40cc4add7187a1ea6f14d9/manuscript.pdf",
+    "edition_metadata_url": "/manuscripts/zenodo-22663481/sha256-80d5a8a15ac59a3be5fc9cc8f8dd746ea02d4b8a9b40cc4add7187a1ea6f14d9/edition.json"
   },
   "/standard-model/pdf/csp-r.pdf": {
     "url": "/standard-model/papers/csp-r/",
@@ -101,7 +125,11 @@
     "title": "The Persistence Bearer and the Reconstruction of Standard-Model Roles",
     "sha256": "cb06b4aa309b5cb2ca9409bf37f4c1ee8579077b7c14ae1904b2b8269e1185b0",
     "legacy_pdf_url": "/standard-model/pdf/csp-r.pdf",
-    "same_as_current_published_pdf": false
+    "same_as_current_published_pdf": false,
+    "exact_release_doi": "10.5281/zenodo.22663542",
+    "publisher_publication_date": "2026-09-08",
+    "version_pdf_url": "/manuscripts/zenodo-22663541/sha256-cb06b4aa309b5cb2ca9409bf37f4c1ee8579077b7c14ae1904b2b8269e1185b0/manuscript.pdf",
+    "edition_metadata_url": "/manuscripts/zenodo-22663541/sha256-cb06b4aa309b5cb2ca9409bf37f4c1ee8579077b7c14ae1904b2b8269e1185b0/edition.json"
   },
   "/standard-model/pdf/csp-s.pdf": {
     "url": "/standard-model/papers/csp-s/",
@@ -109,7 +137,11 @@
     "title": "The Standard Model as a Constraint-Derived Carrier–Response Structure",
     "sha256": "39608c7aecd62e48d31b2c70d8be2dea78e9d40e87fccb69c27f70a567594952",
     "legacy_pdf_url": "/standard-model/pdf/csp-s.pdf",
-    "same_as_current_published_pdf": false
+    "same_as_current_published_pdf": false,
+    "exact_release_doi": "10.5281/zenodo.22663328",
+    "publisher_publication_date": "2026-09-08",
+    "version_pdf_url": "/manuscripts/zenodo-22663327/sha256-39608c7aecd62e48d31b2c70d8be2dea78e9d40e87fccb69c27f70a567594952/manuscript.pdf",
+    "edition_metadata_url": "/manuscripts/zenodo-22663327/sha256-39608c7aecd62e48d31b2c70d8be2dea78e9d40e87fccb69c27f70a567594952/edition.json"
   },
   "/standard-model/pdf/fcgs-1.pdf": {
     "url": "/standard-model/papers/fcgs-1/",
@@ -117,7 +149,11 @@
     "title": "Premetric Exact-Three Root Structure and the Generation-Governed Standard-Model Matter Bundle",
     "sha256": "71ed38a71402e7ce79d1cd216ec1e0d473d9ba422de0b917846cf8d21822b1cc",
     "legacy_pdf_url": "/standard-model/pdf/fcgs-1.pdf",
-    "same_as_current_published_pdf": false
+    "same_as_current_published_pdf": false,
+    "exact_release_doi": "10.5281/zenodo.22661743",
+    "publisher_publication_date": "2026-09-08",
+    "version_pdf_url": "/manuscripts/zenodo-22661742/sha256-71ed38a71402e7ce79d1cd216ec1e0d473d9ba422de0b917846cf8d21822b1cc/manuscript.pdf",
+    "edition_metadata_url": "/manuscripts/zenodo-22661742/sha256-71ed38a71402e7ce79d1cd216ec1e0d473d9ba422de0b917846cf8d21822b1cc/edition.json"
   },
   "/standard-model/pdf/fcgs-2.pdf": {
     "url": "/standard-model/papers/fcgs-2/",
@@ -125,7 +161,11 @@
     "title": "Terminal Nonpromotion and Target-Relative Factorization in Charged and Colored Matter",
     "sha256": "b51125c297e495076d518d7917c52b0f0404a5420948d6bc037eaa55f20b9bc7",
     "legacy_pdf_url": "/standard-model/pdf/fcgs-2.pdf",
-    "same_as_current_published_pdf": false
+    "same_as_current_published_pdf": false,
+    "exact_release_doi": "10.5281/zenodo.22661889",
+    "publisher_publication_date": "2026-09-08",
+    "version_pdf_url": "/manuscripts/zenodo-22661888/sha256-b51125c297e495076d518d7917c52b0f0404a5420948d6bc037eaa55f20b9bc7/manuscript.pdf",
+    "edition_metadata_url": "/manuscripts/zenodo-22661888/sha256-b51125c297e495076d518d7917c52b0f0404a5420948d6bc037eaa55f20b9bc7/edition.json"
   },
   "/standard-model/pdf/fcgs-3.pdf": {
     "url": "/standard-model/papers/fcgs-3/",
@@ -133,6 +173,10 @@
     "title": "Structural Universality and Exact Terminal Bifurcation",
     "sha256": "7bbbf335be2084a230dfbb2219ca58ae983cd93b0c9ce7a94cf2ffef98940b12",
     "legacy_pdf_url": "/standard-model/pdf/fcgs-3.pdf",
-    "same_as_current_published_pdf": false
+    "same_as_current_published_pdf": false,
+    "exact_release_doi": "10.5281/zenodo.22662084",
+    "publisher_publication_date": "2026-09-08",
+    "version_pdf_url": "/manuscripts/zenodo-22662083/sha256-7bbbf335be2084a230dfbb2219ca58ae983cd93b0c9ce7a94cf2ffef98940b12/manuscript.pdf",
+    "edition_metadata_url": "/manuscripts/zenodo-22662083/sha256-7bbbf335be2084a230dfbb2219ca58ae983cd93b0c9ce7a94cf2ffef98940b12/edition.json"
   }
 }

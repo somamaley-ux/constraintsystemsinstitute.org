@@ -1,0 +1,16 @@
+{
+  "work_doi": "10.5281/zenodo.22663541",
+  "exact_release_doi": "10.5281/zenodo.22663542",
+  "title": "The Persistence Bearer and the Reconstruction of Standard-Model Roles",
+  "publisher_publication_date": "2026-09-08",
+  "publisher_version": null,
+  "sha256": "cb06b4aa309b5cb2ca9409bf37f4c1ee8579077b7c14ae1904b2b8269e1185b0",
+  "bytes": 467721,
+  "pages": 20,
+  "pdf_url": "https://constraintsystemsinstitute.org/manuscripts/zenodo-22663541/sha256-cb06b4aa309b5cb2ca9409bf37f4c1ee8579077b7c14ae1904b2b8269e1185b0/manuscript.pdf",
+  "legacy_pdf_url": "https://constraintsystemsinstitute.org/standard-model/pdf/csp-r.pdf",
+  "canonical_work_url": "https://constraintsystemsinstitute.org/standard-model/papers/csp-r/",
+  "publisher_url": "https://zenodo.org/records/22663542",
+  "edition_role": "Earlier exact public edition cited by this site; separate from current reading edition.",
+  "verification": "Direct publisher download SHA256 matches the retained legacy PDF."
+}

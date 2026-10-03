@@ -1,0 +1,16 @@
+{
+  "work_doi": "10.5281/zenodo.22661742",
+  "exact_release_doi": "10.5281/zenodo.22661743",
+  "title": "Premetric Exact-Three Root Structure and the Generation-Governed Standard-Model Matter Bundle",
+  "publisher_publication_date": "2026-09-08",
+  "publisher_version": null,
+  "sha256": "71ed38a71402e7ce79d1cd216ec1e0d473d9ba422de0b917846cf8d21822b1cc",
+  "bytes": 745002,
+  "pages": 37,
+  "pdf_url": "https://constraintsystemsinstitute.org/manuscripts/zenodo-22661742/sha256-71ed38a71402e7ce79d1cd216ec1e0d473d9ba422de0b917846cf8d21822b1cc/manuscript.pdf",
+  "legacy_pdf_url": "https://constraintsystemsinstitute.org/standard-model/pdf/fcgs-1.pdf",
+  "canonical_work_url": "https://constraintsystemsinstitute.org/standard-model/papers/fcgs-1/",
+  "publisher_url": "https://zenodo.org/records/22661743",
+  "edition_role": "Earlier exact public edition cited by this site; separate from current reading edition.",
+  "verification": "Direct publisher download SHA256 matches the retained legacy PDF."
+}

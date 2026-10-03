@@ -1,0 +1,16 @@
+{
+  "work_doi": "10.5281/zenodo.22662083",
+  "exact_release_doi": "10.5281/zenodo.22662084",
+  "title": "Structural Universality and Exact Terminal Bifurcation",
+  "publisher_publication_date": "2026-09-08",
+  "publisher_version": null,
+  "sha256": "7bbbf335be2084a230dfbb2219ca58ae983cd93b0c9ce7a94cf2ffef98940b12",
+  "bytes": 863737,
+  "pages": 46,
+  "pdf_url": "https://constraintsystemsinstitute.org/manuscripts/zenodo-22662083/sha256-7bbbf335be2084a230dfbb2219ca58ae983cd93b0c9ce7a94cf2ffef98940b12/manuscript.pdf",
+  "legacy_pdf_url": "https://constraintsystemsinstitute.org/standard-model/pdf/fcgs-3.pdf",
+  "canonical_work_url": "https://constraintsystemsinstitute.org/standard-model/papers/fcgs-3/",
+  "publisher_url": "https://zenodo.org/records/22662084",
+  "edition_role": "Earlier exact public edition cited by this site; separate from current reading edition.",
+  "verification": "Direct publisher download SHA256 matches the retained legacy PDF."
+}

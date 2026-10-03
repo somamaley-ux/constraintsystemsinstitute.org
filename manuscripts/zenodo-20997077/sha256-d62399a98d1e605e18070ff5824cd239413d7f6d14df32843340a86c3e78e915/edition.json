@@ -1,0 +1,16 @@
+{
+  "work_doi": "10.5281/zenodo.20997077",
+  "exact_release_doi": "10.5281/zenodo.20997078",
+  "title": "The Higgs Extension Classifier: Extra Scalars and Same-Scope Carrier Preservation",
+  "manuscript_date": "June 2026",
+  "publisher_publication_date": "2026-06-28",
+  "publisher_version": null,
+  "sha256": "d62399a98d1e605e18070ff5824cd239413d7f6d14df32843340a86c3e78e915",
+  "bytes": 354459,
+  "pages": 22,
+  "pdf_url": "https://constraintsystemsinstitute.org/manuscripts/zenodo-20997077/sha256-d62399a98d1e605e18070ff5824cd239413d7f6d14df32843340a86c3e78e915/manuscript.pdf",
+  "canonical_work_url": "https://constraintsystemsinstitute.org/papers/higgs-extension-classifier-20997077/",
+  "publisher_url": "https://zenodo.org/records/20997078",
+  "verification": "Publisher checksum and SHA256 byte identity checked; completion markers reviewed. No independent proof verification.",
+  "conversion": "Repository reading summary; no full-text HTML conversion."
+}
