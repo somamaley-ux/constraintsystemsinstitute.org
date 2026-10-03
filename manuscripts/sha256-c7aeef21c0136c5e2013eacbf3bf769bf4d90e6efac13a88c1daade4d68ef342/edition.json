@@ -1,0 +1,57 @@
+{
+  "work_id": "csi:work:l2-the-unclosable-contingent-reality",
+  "work_doi": null,
+  "exact_release_doi": null,
+  "preferred_citation_doi": null,
+  "primary_work_doi": null,
+  "title": "L2 The Unclosable Contingent Reality",
+  "manuscript_date": "2026-01-31",
+  "publisher_publication_date": null,
+  "publication_records": [
+    {
+      "title": "L2 The Unclosable Contingent Reality",
+      "concept_doi": "10.5281/zenodo.18525267",
+      "exact_release_doi": "10.5281/zenodo.18525268",
+      "publisher_url": "https://zenodo.org/records/18525268",
+      "publisher_publication_date": "2026-02-08",
+      "metadata_url": "https://zenodo.org/api/records/18525268",
+      "creators": [
+        {
+          "name": "Maley, Amos",
+          "affiliation": null,
+          "orcid": "0009-0002-5499-0620"
+        }
+      ],
+      "license": {
+        "id": "cc-by-4.0"
+      }
+    },
+    {
+      "title": "L2 The Unclosable Contingent Reality",
+      "concept_doi": "10.5281/zenodo.18517057",
+      "exact_release_doi": "10.5281/zenodo.18517058",
+      "publisher_url": "https://zenodo.org/records/18517058",
+      "publisher_publication_date": "2026-02-07",
+      "metadata_url": "https://zenodo.org/api/records/18517058",
+      "creators": [
+        {
+          "name": "Maley, Amos",
+          "affiliation": null,
+          "orcid": "0009-0002-5499-0620"
+        }
+      ],
+      "license": {
+        "id": "cc-by-4.0"
+      }
+    }
+  ],
+  "sha256": "c7aeef21c0136c5e2013eacbf3bf769bf4d90e6efac13a88c1daade4d68ef342",
+  "bytes": 92503,
+  "pages": 3,
+  "pdf_url": "https://constraintsystemsinstitute.org/manuscripts/sha256-c7aeef21c0136c5e2013eacbf3bf769bf4d90e6efac13a88c1daade4d68ef342/manuscript.pdf",
+  "canonical_work_url": "https://constraintsystemsinstitute.org/papers/l2-the-unclosable-contingent-reality/",
+  "edition_role": "Current public release of a January classification note; two publication records for identical bytes.",
+  "manuscript_kind": "classification_note",
+  "verification": "Both publisher copies downloaded, MD5 and SHA256 checked; same authorship/ORCID and CC BY 4.0 rights. Complete short note read; no circulation restriction found. No independent proof verification.",
+  "conversion": "Original searchable PDF; HTML is an attributed reading summary."
+}

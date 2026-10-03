@@ -1,0 +1,16 @@
+{
+  "work_doi": "10.5281/zenodo.20118632",
+  "exact_release_doi": "10.5281/zenodo.20118633",
+  "title": "The Anthropic Collapse Theorem",
+  "manuscript_date": "May 2026",
+  "publisher_publication_date": "2026-05-11",
+  "publisher_version": null,
+  "sha256": "1fedd531339ada172f04e5f85ff9578040b161f59cfb8ab259c3ba8896e4a9bc",
+  "bytes": 312903,
+  "pages": 24,
+  "pdf_url": "https://constraintsystemsinstitute.org/manuscripts/zenodo-20118632/sha256-1fedd531339ada172f04e5f85ff9578040b161f59cfb8ab259c3ba8896e4a9bc/manuscript.pdf",
+  "canonical_work_url": "https://constraintsystemsinstitute.org/papers/the-anthropic-collapse-theorem-20118632/",
+  "publisher_url": "https://zenodo.org/records/20118633",
+  "verification": "Publisher checksum and SHA256 byte identity checked; completion markers reviewed. No independent proof verification.",
+  "conversion": "Repository reading summary; no full-text HTML conversion."
+}

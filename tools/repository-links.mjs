@@ -15,6 +15,7 @@ export function routeRepositoryLinks(root,html,relativePage='index.html'){
   }
   const match=attr[2].match(/^https?:\/\/(?:doi\.org\/10\.5281\/zenodo\.|zenodo\.org\/(?:records?\/|doi\/10\.5281\/zenodo\.))(\d+)\/?(?:[?#].*)?$/);if(!match)return tag;
   const doi='10.5281/zenodo.'+match[1],entry=aliases[doi];if(!entry)return tag;
-  return tag.replace(attr[0],`href="${entry.url}" data-paper-link data-paper-doi="${entry.work_doi}" data-cited-doi="${doi}"`);
+  const identity=entry.work_id?`data-paper-work-id="${entry.work_id}"`:`data-paper-doi="${entry.work_doi}"`;
+  return tag.replace(attr[0],`href="${entry.url}" data-paper-link ${identity} data-cited-doi="${doi}"`);
  });
 }

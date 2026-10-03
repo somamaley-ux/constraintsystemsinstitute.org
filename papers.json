@@ -4223,5 +4223,371 @@
     "research_groups": [
       "Realized Physics Arc"
     ]
+  },
+  {
+    "title": "Why Some Parameters Run and Others Cannot",
+    "doi": "10.5281/zenodo.20118544",
+    "doi_url": "https://doi.org/10.5281/zenodo.20118544",
+    "url": "https://constraintsystemsinstitute.org/papers/why-some-parameters-run-and-others-cannot-20118544/",
+    "slug": "why-some-parameters-run-and-others-cannot-20118544",
+    "date": "2026-05-11",
+    "scholar_date": "2026/05/11",
+    "context": "Constants and Ensemble Arc - Paper 4",
+    "report_number": "CSI-ZENODO-20118544",
+    "description": "The manuscript classifies parameter mobility by role: presentation change, effective drift, transport-defined running, quotient-stable invariance and fixed-domain anchor constraints. Composite quantities may have composite profiles, and dimensionless status alone does not determine mobility. Non-runnability within a fixed domain is compatible with differences across theories and envelopes; no numerical constants or beta functions are derived.",
+    "keywords": "AASC, physical constants, standing, renormalization, parameter mobility, ensembles, Paper 4",
+    "zenodo_record": "https://zenodo.org/records/20118545",
+    "preferred_edition": {
+      "pdf_url": "https://constraintsystemsinstitute.org/manuscripts/zenodo-20118544/sha256-9fa773995efe716eb6aea37d1f5d005943fc7f0845f83a5283e0e04a6f3883d0/manuscript.pdf",
+      "doi": "10.5281/zenodo.20118545",
+      "publisher_publication_date": "2026-05-11",
+      "manuscript_date": "May 2026",
+      "sha256": "9fa773995efe716eb6aea37d1f5d005943fc7f0845f83a5283e0e04a6f3883d0",
+      "pages": 24
+    },
+    "repository_layout": "current-paper-with-collapsed-history",
+    "subjects": [
+      "Foundations",
+      "Time and cosmology"
+    ],
+    "research_groups": [
+      "Constants and Ensemble Arc"
+    ]
+  },
+  {
+    "title": "Ensemble Embedding Collapse under Standing-Preserving Admissibility",
+    "doi": "10.5281/zenodo.20118779",
+    "doi_url": "https://doi.org/10.5281/zenodo.20118779",
+    "url": "https://constraintsystemsinstitute.org/papers/ensemble-embedding-collapse-under-standing-preserving-admissibility-20118779/",
+    "slug": "ensemble-embedding-collapse-under-standing-preserving-admissibility-20118779",
+    "date": "2026-05-11",
+    "scholar_date": "2026/05/11",
+    "context": "Constants and Ensemble Arc - Paper 6",
+    "report_number": "CSI-ZENODO-20118779",
+    "description": "The manuscript classifies how a family can acquire standing-bearing comparison authority through explicit target gating, transport, compatibility and relevant localization. Multiplicity alone does not supply that authority. Formal and model plurality remain available, and the theorem does not entail a unique metaphysical world or introduce empirical dynamics.",
+    "keywords": "AASC, physical constants, standing, renormalization, parameter mobility, ensembles, Paper 6",
+    "zenodo_record": "https://zenodo.org/records/20118780",
+    "preferred_edition": {
+      "pdf_url": "https://constraintsystemsinstitute.org/manuscripts/zenodo-20118779/sha256-763893967dd2e86754af68a9124d5b38dba8f07aef7e1f27dc38c73b7a4b4eb3/manuscript.pdf",
+      "doi": "10.5281/zenodo.20118780",
+      "publisher_publication_date": "2026-05-11",
+      "manuscript_date": "May 2026",
+      "sha256": "763893967dd2e86754af68a9124d5b38dba8f07aef7e1f27dc38c73b7a4b4eb3",
+      "pages": 31
+    },
+    "repository_layout": "current-paper-with-collapsed-history",
+    "subjects": [
+      "Foundations",
+      "Time and cosmology"
+    ],
+    "research_groups": [
+      "Constants and Ensemble Arc"
+    ]
+  },
+  {
+    "title": "The Anthropic Collapse Theorem",
+    "doi": "10.5281/zenodo.20118632",
+    "doi_url": "https://doi.org/10.5281/zenodo.20118632",
+    "url": "https://constraintsystemsinstitute.org/papers/the-anthropic-collapse-theorem-20118632/",
+    "slug": "the-anthropic-collapse-theorem-20118632",
+    "date": "2026-05-11",
+    "scholar_date": "2026/05/11",
+    "context": "Constants and Ensemble Arc - Paper 5",
+    "report_number": "CSI-ZENODO-20118632",
+    "description": "The manuscript distinguishes primitive anthropic explanation from conditional inference within a supplied ensemble. It argues that observer conditioning presupposes a parameter space, measure, observer predicate, witness ledger and comparison transport. The paired survival theorem permits posterior filtering and evidential updating inside independently licensed ensembles; the result does not refute all anthropic models.",
+    "keywords": "AASC, physical constants, standing, renormalization, parameter mobility, ensembles, Paper 5",
+    "zenodo_record": "https://zenodo.org/records/20118633",
+    "preferred_edition": {
+      "pdf_url": "https://constraintsystemsinstitute.org/manuscripts/zenodo-20118632/sha256-1fedd531339ada172f04e5f85ff9578040b161f59cfb8ab259c3ba8896e4a9bc/manuscript.pdf",
+      "doi": "10.5281/zenodo.20118633",
+      "publisher_publication_date": "2026-05-11",
+      "manuscript_date": "May 2026",
+      "sha256": "1fedd531339ada172f04e5f85ff9578040b161f59cfb8ab259c3ba8896e4a9bc",
+      "pages": 24
+    },
+    "repository_layout": "current-paper-with-collapsed-history",
+    "subjects": [
+      "Foundations",
+      "Time and cosmology"
+    ],
+    "research_groups": [
+      "Constants and Ensemble Arc"
+    ]
+  },
+  {
+    "title": "Renormalization as Standing-Preserving Scale Transport",
+    "doi": "10.5281/zenodo.20118439",
+    "doi_url": "https://doi.org/10.5281/zenodo.20118439",
+    "url": "https://constraintsystemsinstitute.org/papers/renormalization-as-standing-preserving-scale-transport-20118439/",
+    "slug": "renormalization-as-standing-preserving-scale-transport-20118439",
+    "date": "2026-05-11",
+    "scholar_date": "2026/05/11",
+    "context": "Constants and Ensemble Arc - Paper 3",
+    "report_number": "CSI-ZENODO-20118439",
+    "description": "The manuscript interprets RG flow as conditional standing-preserving transport: overlap witnesses, quotient identity, effective envelopes, matching data and continuation roles must be preserved. Its target is the quotient transport class rather than numerical immobility of running couplings. It does not replace RG equations, derive beta functions or introduce new dynamics.",
+    "keywords": "AASC, physical constants, standing, renormalization, parameter mobility, ensembles, Paper 3",
+    "zenodo_record": "https://zenodo.org/records/20118440",
+    "preferred_edition": {
+      "pdf_url": "https://constraintsystemsinstitute.org/manuscripts/zenodo-20118439/sha256-e5f25932afd61ffc907bed1be3cf4dac6b89ca05d21fcd61de69c08c5bf9f1ba/manuscript.pdf",
+      "doi": "10.5281/zenodo.20118440",
+      "publisher_publication_date": "2026-05-11",
+      "manuscript_date": "May 2026",
+      "sha256": "e5f25932afd61ffc907bed1be3cf4dac6b89ca05d21fcd61de69c08c5bf9f1ba",
+      "pages": 36
+    },
+    "repository_layout": "current-paper-with-collapsed-history",
+    "subjects": [
+      "Foundations",
+      "Time and cosmology"
+    ],
+    "research_groups": [
+      "Constants and Ensemble Arc"
+    ]
+  },
+  {
+    "title": "The Standing Fixity of Physical Constants",
+    "doi": "10.5281/zenodo.20118229",
+    "doi_url": "https://doi.org/10.5281/zenodo.20118229",
+    "url": "https://constraintsystemsinstitute.org/papers/the-standing-fixity-of-physical-constants-20118229/",
+    "slug": "the-standing-fixity-of-physical-constants-20118229",
+    "date": "2026-05-11",
+    "scholar_date": "2026/05/11",
+    "context": "Constants and Ensemble Arc - Paper 1",
+    "report_number": "CSI-ZENODO-20118229",
+    "description": "The manuscript classifies apparent variation of standing-bearing constants relative to a fixed physical domain. It distinguishes presentation changes, licensed continuation, calibrated envelope inputs and domain changes. It does not derive numerical constants or exclude RG running, empirical calibration, controlled parameter studies or explicitly governed ensembles.",
+    "keywords": "AASC, physical constants, standing, renormalization, parameter mobility, ensembles, Paper 1",
+    "zenodo_record": "https://zenodo.org/records/20118230",
+    "preferred_edition": {
+      "pdf_url": "https://constraintsystemsinstitute.org/manuscripts/zenodo-20118229/sha256-383af4dedd0a845b2dc787f43a95a87423c54a99dc902f4ef21a157b563213d6/manuscript.pdf",
+      "doi": "10.5281/zenodo.20118230",
+      "publisher_publication_date": "2026-05-11",
+      "manuscript_date": "May 2026",
+      "sha256": "383af4dedd0a845b2dc787f43a95a87423c54a99dc902f4ef21a157b563213d6",
+      "pages": 30
+    },
+    "repository_layout": "current-paper-with-collapsed-history",
+    "subjects": [
+      "Foundations",
+      "Time and cosmology"
+    ],
+    "research_groups": [
+      "Constants and Ensemble Arc"
+    ]
+  },
+  {
+    "work_id": "csi:work:l2-the-unclosable-contingent-reality",
+    "title": "L2 The Unclosable Contingent Reality",
+    "doi": null,
+    "doi_url": null,
+    "primary_work_doi": null,
+    "preferred_citation_doi": null,
+    "publication_records": [
+      {
+        "title": "L2 The Unclosable Contingent Reality",
+        "concept_doi": "10.5281/zenodo.18525267",
+        "exact_release_doi": "10.5281/zenodo.18525268",
+        "publisher_url": "https://zenodo.org/records/18525268",
+        "publisher_publication_date": "2026-02-08",
+        "metadata_url": "https://zenodo.org/api/records/18525268",
+        "creators": [
+          {
+            "name": "Maley, Amos",
+            "affiliation": null,
+            "orcid": "0009-0002-5499-0620"
+          }
+        ],
+        "license": {
+          "id": "cc-by-4.0"
+        }
+      },
+      {
+        "title": "L2 The Unclosable Contingent Reality",
+        "concept_doi": "10.5281/zenodo.18517057",
+        "exact_release_doi": "10.5281/zenodo.18517058",
+        "publisher_url": "https://zenodo.org/records/18517058",
+        "publisher_publication_date": "2026-02-07",
+        "metadata_url": "https://zenodo.org/api/records/18517058",
+        "creators": [
+          {
+            "name": "Maley, Amos",
+            "affiliation": null,
+            "orcid": "0009-0002-5499-0620"
+          }
+        ],
+        "license": {
+          "id": "cc-by-4.0"
+        }
+      }
+    ],
+    "url": "https://constraintsystemsinstitute.org/papers/l2-the-unclosable-contingent-reality/",
+    "slug": "l2-the-unclosable-contingent-reality",
+    "date": "2026-01-31",
+    "date_precision": "manuscript_cover",
+    "scholar_date": "2026",
+    "context": "January closure classification note",
+    "report_number": "CSI-CLOSURE-NOTE",
+    "description": "The January classification note treats contingent particulars as admissible, witnessable facts not derivable from admissibility constraints alone. It distinguishes that derivational limit from a mechanism of instance selection and does not offer a probabilistic or metaphysical explanation of particulars. The original dated PDF remains the source.",
+    "keywords": "AASC, closure, classification, standing, contingent facts, inquiry",
+    "preferred_edition": {
+      "pdf_url": "https://constraintsystemsinstitute.org/manuscripts/sha256-c7aeef21c0136c5e2013eacbf3bf769bf4d90e6efac13a88c1daade4d68ef342/manuscript.pdf",
+      "doi": null,
+      "manuscript_date": "2026-01-31",
+      "publisher_publication_date": null,
+      "sha256": "c7aeef21c0136c5e2013eacbf3bf769bf4d90e6efac13a88c1daade4d68ef342",
+      "pages": 3,
+      "publication_records": [
+        {
+          "title": "L2 The Unclosable Contingent Reality",
+          "concept_doi": "10.5281/zenodo.18525267",
+          "exact_release_doi": "10.5281/zenodo.18525268",
+          "publisher_url": "https://zenodo.org/records/18525268",
+          "publisher_publication_date": "2026-02-08",
+          "metadata_url": "https://zenodo.org/api/records/18525268",
+          "creators": [
+            {
+              "name": "Maley, Amos",
+              "affiliation": null,
+              "orcid": "0009-0002-5499-0620"
+            }
+          ],
+          "license": {
+            "id": "cc-by-4.0"
+          }
+        },
+        {
+          "title": "L2 The Unclosable Contingent Reality",
+          "concept_doi": "10.5281/zenodo.18517057",
+          "exact_release_doi": "10.5281/zenodo.18517058",
+          "publisher_url": "https://zenodo.org/records/18517058",
+          "publisher_publication_date": "2026-02-07",
+          "metadata_url": "https://zenodo.org/api/records/18517058",
+          "creators": [
+            {
+              "name": "Maley, Amos",
+              "affiliation": null,
+              "orcid": "0009-0002-5499-0620"
+            }
+          ],
+          "license": {
+            "id": "cc-by-4.0"
+          }
+        }
+      ]
+    },
+    "repository_layout": "current-paper-with-collapsed-history",
+    "subjects": [
+      "Foundations"
+    ],
+    "research_groups": [
+      "Closure classification notes"
+    ]
+  },
+  {
+    "work_id": "csi:work:l1-closure-taxonomy-what-closure-is-and-is-not",
+    "title": "L1 Closure Taxonomy What Closure Is and Is Not",
+    "doi": null,
+    "doi_url": null,
+    "primary_work_doi": null,
+    "preferred_citation_doi": null,
+    "publication_records": [
+      {
+        "title": "L1 Closure Taxonomy What Closure Is and Is Not",
+        "concept_doi": "10.5281/zenodo.18525256",
+        "exact_release_doi": "10.5281/zenodo.18525257",
+        "publisher_url": "https://zenodo.org/records/18525257",
+        "publisher_publication_date": "2026-02-08",
+        "metadata_url": "https://zenodo.org/api/records/18525257",
+        "creators": [
+          {
+            "name": "Maley, Amos",
+            "affiliation": null,
+            "orcid": "0009-0002-5499-0620"
+          }
+        ],
+        "license": {
+          "id": "cc-by-4.0"
+        }
+      },
+      {
+        "title": "L1 Closure Taxonomy What Closure Is and Is Not",
+        "concept_doi": "10.5281/zenodo.18517079",
+        "exact_release_doi": "10.5281/zenodo.18517080",
+        "publisher_url": "https://zenodo.org/records/18517080",
+        "publisher_publication_date": "2026-02-07",
+        "metadata_url": "https://zenodo.org/api/records/18517080",
+        "creators": [
+          {
+            "name": "Maley, Amos",
+            "affiliation": null,
+            "orcid": "0009-0002-5499-0620"
+          }
+        ],
+        "license": {
+          "id": "cc-by-4.0"
+        }
+      }
+    ],
+    "url": "https://constraintsystemsinstitute.org/papers/l1-closure-taxonomy-what-closure-is-and-is-not/",
+    "slug": "l1-closure-taxonomy-what-closure-is-and-is-not",
+    "date": "2026-01-31",
+    "date_precision": "manuscript_cover",
+    "scholar_date": "2026",
+    "context": "January closure classification note",
+    "report_number": "CSI-CLOSURE-NOTE",
+    "description": "The January classification note distinguishes move closure from explanatory and ontic closure. It describes move closure as restricting inferential permissions while preserving further inquiry; these are manuscript claims within its stated scope, not an independently verified account of all research. The original dated PDF remains the source.",
+    "keywords": "AASC, closure, classification, standing, contingent facts, inquiry",
+    "preferred_edition": {
+      "pdf_url": "https://constraintsystemsinstitute.org/manuscripts/sha256-9bada751f808cb585a42dc86416b9852d3a3bbdf937679afd0143e0220db7054/manuscript.pdf",
+      "doi": null,
+      "manuscript_date": "2026-01-31",
+      "publisher_publication_date": null,
+      "sha256": "9bada751f808cb585a42dc86416b9852d3a3bbdf937679afd0143e0220db7054",
+      "pages": 4,
+      "publication_records": [
+        {
+          "title": "L1 Closure Taxonomy What Closure Is and Is Not",
+          "concept_doi": "10.5281/zenodo.18525256",
+          "exact_release_doi": "10.5281/zenodo.18525257",
+          "publisher_url": "https://zenodo.org/records/18525257",
+          "publisher_publication_date": "2026-02-08",
+          "metadata_url": "https://zenodo.org/api/records/18525257",
+          "creators": [
+            {
+              "name": "Maley, Amos",
+              "affiliation": null,
+              "orcid": "0009-0002-5499-0620"
+            }
+          ],
+          "license": {
+            "id": "cc-by-4.0"
+          }
+        },
+        {
+          "title": "L1 Closure Taxonomy What Closure Is and Is Not",
+          "concept_doi": "10.5281/zenodo.18517079",
+          "exact_release_doi": "10.5281/zenodo.18517080",
+          "publisher_url": "https://zenodo.org/records/18517080",
+          "publisher_publication_date": "2026-02-07",
+          "metadata_url": "https://zenodo.org/api/records/18517080",
+          "creators": [
+            {
+              "name": "Maley, Amos",
+              "affiliation": null,
+              "orcid": "0009-0002-5499-0620"
+            }
+          ],
+          "license": {
+            "id": "cc-by-4.0"
+          }
+        }
+      ]
+    },
+    "repository_layout": "current-paper-with-collapsed-history",
+    "subjects": [
+      "Foundations"
+    ],
+    "research_groups": [
+      "Closure classification notes"
+    ]
   }
 ]

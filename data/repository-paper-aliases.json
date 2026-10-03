@@ -1743,5 +1743,103 @@
     "url": "/papers/realized-persistence-cannot-be-physically-null-20119795/",
     "work_doi": "10.5281/zenodo.20119795",
     "title": "Realized Persistence Cannot Be Physically Null"
+  },
+  "10.5281/zenodo.20118544": {
+    "url": "/papers/why-some-parameters-run-and-others-cannot-20118544/",
+    "work_doi": "10.5281/zenodo.20118544",
+    "title": "Why Some Parameters Run and Others Cannot"
+  },
+  "10.5281/zenodo.20118545": {
+    "url": "/papers/why-some-parameters-run-and-others-cannot-20118544/",
+    "work_doi": "10.5281/zenodo.20118544",
+    "title": "Why Some Parameters Run and Others Cannot"
+  },
+  "10.5281/zenodo.20118779": {
+    "url": "/papers/ensemble-embedding-collapse-under-standing-preserving-admissibility-20118779/",
+    "work_doi": "10.5281/zenodo.20118779",
+    "title": "Ensemble Embedding Collapse under Standing-Preserving Admissibility"
+  },
+  "10.5281/zenodo.20118780": {
+    "url": "/papers/ensemble-embedding-collapse-under-standing-preserving-admissibility-20118779/",
+    "work_doi": "10.5281/zenodo.20118779",
+    "title": "Ensemble Embedding Collapse under Standing-Preserving Admissibility"
+  },
+  "10.5281/zenodo.20118632": {
+    "url": "/papers/the-anthropic-collapse-theorem-20118632/",
+    "work_doi": "10.5281/zenodo.20118632",
+    "title": "The Anthropic Collapse Theorem"
+  },
+  "10.5281/zenodo.20118633": {
+    "url": "/papers/the-anthropic-collapse-theorem-20118632/",
+    "work_doi": "10.5281/zenodo.20118632",
+    "title": "The Anthropic Collapse Theorem"
+  },
+  "10.5281/zenodo.20118439": {
+    "url": "/papers/renormalization-as-standing-preserving-scale-transport-20118439/",
+    "work_doi": "10.5281/zenodo.20118439",
+    "title": "Renormalization as Standing-Preserving Scale Transport"
+  },
+  "10.5281/zenodo.20118440": {
+    "url": "/papers/renormalization-as-standing-preserving-scale-transport-20118439/",
+    "work_doi": "10.5281/zenodo.20118439",
+    "title": "Renormalization as Standing-Preserving Scale Transport"
+  },
+  "10.5281/zenodo.20118229": {
+    "url": "/papers/the-standing-fixity-of-physical-constants-20118229/",
+    "work_doi": "10.5281/zenodo.20118229",
+    "title": "The Standing Fixity of Physical Constants"
+  },
+  "10.5281/zenodo.20118230": {
+    "url": "/papers/the-standing-fixity-of-physical-constants-20118229/",
+    "work_doi": "10.5281/zenodo.20118229",
+    "title": "The Standing Fixity of Physical Constants"
+  },
+  "10.5281/zenodo.18525267": {
+    "url": "/papers/l2-the-unclosable-contingent-reality/",
+    "work_id": "csi:work:l2-the-unclosable-contingent-reality",
+    "work_doi": null,
+    "title": "L2 The Unclosable Contingent Reality"
+  },
+  "10.5281/zenodo.18525268": {
+    "url": "/papers/l2-the-unclosable-contingent-reality/",
+    "work_id": "csi:work:l2-the-unclosable-contingent-reality",
+    "work_doi": null,
+    "title": "L2 The Unclosable Contingent Reality"
+  },
+  "10.5281/zenodo.18517057": {
+    "url": "/papers/l2-the-unclosable-contingent-reality/",
+    "work_id": "csi:work:l2-the-unclosable-contingent-reality",
+    "work_doi": null,
+    "title": "L2 The Unclosable Contingent Reality"
+  },
+  "10.5281/zenodo.18517058": {
+    "url": "/papers/l2-the-unclosable-contingent-reality/",
+    "work_id": "csi:work:l2-the-unclosable-contingent-reality",
+    "work_doi": null,
+    "title": "L2 The Unclosable Contingent Reality"
+  },
+  "10.5281/zenodo.18525256": {
+    "url": "/papers/l1-closure-taxonomy-what-closure-is-and-is-not/",
+    "work_id": "csi:work:l1-closure-taxonomy-what-closure-is-and-is-not",
+    "work_doi": null,
+    "title": "L1 Closure Taxonomy What Closure Is and Is Not"
+  },
+  "10.5281/zenodo.18525257": {
+    "url": "/papers/l1-closure-taxonomy-what-closure-is-and-is-not/",
+    "work_id": "csi:work:l1-closure-taxonomy-what-closure-is-and-is-not",
+    "work_doi": null,
+    "title": "L1 Closure Taxonomy What Closure Is and Is Not"
+  },
+  "10.5281/zenodo.18517079": {
+    "url": "/papers/l1-closure-taxonomy-what-closure-is-and-is-not/",
+    "work_id": "csi:work:l1-closure-taxonomy-what-closure-is-and-is-not",
+    "work_doi": null,
+    "title": "L1 Closure Taxonomy What Closure Is and Is Not"
+  },
+  "10.5281/zenodo.18517080": {
+    "url": "/papers/l1-closure-taxonomy-what-closure-is-and-is-not/",
+    "work_id": "csi:work:l1-closure-taxonomy-what-closure-is-and-is-not",
+    "work_doi": null,
+    "title": "L1 Closure Taxonomy What Closure Is and Is Not"
   }
 }

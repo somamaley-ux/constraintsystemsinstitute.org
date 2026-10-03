@@ -27,7 +27,13 @@
  document.addEventListener('keydown',event=>{if(event.ctrlKey||event.altKey||event.metaKey||event.isComposing)return;const editing=event.target instanceof Element&&(event.target.matches('input,textarea,select')||event.target.isContentEditable);if(event.key==='/'&&!editing){event.preventDefault();input.focus()}if(event.key==='Escape'&&event.target===input){event.preventDefault();input.value='';change()}});
  render();fetch('/papers.json').then(r=>{if(!r.ok)throw Error('Catalogue unavailable');return r.json()}).then(papers=>{
   if(!Array.isArray(papers))throw Error('Invalid catalogue');
-  for(const p of papers){const href=safe(p.url);if(!href||!p.title)continue;const labels=p.subjects||['Other research'],exact=p.preferred_edition?.doi||p.preferred_release?.doi;entries.set(p.doi,{href,title:p.title,label:p.doi,context:labels.join(' / '),subjects:labels,date:p.preferred_edition?.publisher_publication_date||p.preferred_release?.publisher_publication_date||p.date,unavailable:!!p.release_status,search:normal(`${p.title} ${p.doi} ${exact||''} ${p.url} ${p.keywords||''} ${p.description||''} ${labels.join(' ')} ${(p.research_groups||[]).join(' ')}`)});count++}
+  for(const p of papers){
+   const href=safe(p.url);if(!href||!p.title)continue;
+   const labels=p.subjects||['Other research'],exact=p.preferred_edition?.doi||p.preferred_release?.doi;
+   const recordDois=(p.publication_records||[]).flatMap(record=>[record.concept_doi,record.exact_release_doi]).filter(Boolean);
+   const label=p.doi||(p.publication_records||[]).map(record=>record.concept_doi).join(' / ');
+   entries.set(p.work_id||p.doi||href,{href,title:p.title,label,context:labels.join(' / '),subjects:labels,date:p.preferred_edition?.publisher_publication_date||p.preferred_release?.publisher_publication_date||p.date,unavailable:!!p.release_status,search:normal(`${p.title} ${p.doi||''} ${exact||''} ${recordDois.join(' ')} ${p.url} ${p.keywords||''} ${p.description||''} ${labels.join(' ')} ${(p.research_groups||[]).join(' ')}`)});count++
+  }
   document.body.classList.add('repository-search-ready');loaded=true;render();
  }).catch(()=>{if(list)list.hidden=false;meta.textContent='Search is temporarily unavailable. Browse the complete repository below.';more.hidden=true});
 })();

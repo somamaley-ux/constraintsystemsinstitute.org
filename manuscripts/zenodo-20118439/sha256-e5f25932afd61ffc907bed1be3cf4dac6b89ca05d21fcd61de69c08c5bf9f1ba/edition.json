@@ -1,0 +1,16 @@
+{
+  "work_doi": "10.5281/zenodo.20118439",
+  "exact_release_doi": "10.5281/zenodo.20118440",
+  "title": "Renormalization as Standing-Preserving Scale Transport",
+  "manuscript_date": "May 2026",
+  "publisher_publication_date": "2026-05-11",
+  "publisher_version": null,
+  "sha256": "e5f25932afd61ffc907bed1be3cf4dac6b89ca05d21fcd61de69c08c5bf9f1ba",
+  "bytes": 399078,
+  "pages": 36,
+  "pdf_url": "https://constraintsystemsinstitute.org/manuscripts/zenodo-20118439/sha256-e5f25932afd61ffc907bed1be3cf4dac6b89ca05d21fcd61de69c08c5bf9f1ba/manuscript.pdf",
+  "canonical_work_url": "https://constraintsystemsinstitute.org/papers/renormalization-as-standing-preserving-scale-transport-20118439/",
+  "publisher_url": "https://zenodo.org/records/20118440",
+  "verification": "Publisher checksum and SHA256 byte identity checked; completion markers reviewed. No independent proof verification.",
+  "conversion": "Repository reading summary; no full-text HTML conversion."
+}

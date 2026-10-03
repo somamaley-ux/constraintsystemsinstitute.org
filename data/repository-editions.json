@@ -2260,6 +2260,200 @@
       "publisher_url": "https://zenodo.org/records/20119796",
       "verification": "Publisher checksum and SHA256 byte identity checked; completion markers reviewed. No independent proof verification.",
       "conversion": "Repository reading summary; no full-text HTML conversion."
+    },
+    {
+      "work_doi": "10.5281/zenodo.20118544",
+      "exact_release_doi": "10.5281/zenodo.20118545",
+      "title": "Why Some Parameters Run and Others Cannot",
+      "manuscript_date": "May 2026",
+      "publisher_publication_date": "2026-05-11",
+      "publisher_version": null,
+      "sha256": "9fa773995efe716eb6aea37d1f5d005943fc7f0845f83a5283e0e04a6f3883d0",
+      "bytes": 316860,
+      "pages": 24,
+      "pdf_url": "https://constraintsystemsinstitute.org/manuscripts/zenodo-20118544/sha256-9fa773995efe716eb6aea37d1f5d005943fc7f0845f83a5283e0e04a6f3883d0/manuscript.pdf",
+      "canonical_work_url": "https://constraintsystemsinstitute.org/papers/why-some-parameters-run-and-others-cannot-20118544/",
+      "publisher_url": "https://zenodo.org/records/20118545",
+      "verification": "Publisher checksum and SHA256 byte identity checked; completion markers reviewed. No independent proof verification.",
+      "conversion": "Repository reading summary; no full-text HTML conversion."
+    },
+    {
+      "work_doi": "10.5281/zenodo.20118779",
+      "exact_release_doi": "10.5281/zenodo.20118780",
+      "title": "Ensemble Embedding Collapse under Standing-Preserving Admissibility",
+      "manuscript_date": "May 2026",
+      "publisher_publication_date": "2026-05-11",
+      "publisher_version": null,
+      "sha256": "763893967dd2e86754af68a9124d5b38dba8f07aef7e1f27dc38c73b7a4b4eb3",
+      "bytes": 372013,
+      "pages": 31,
+      "pdf_url": "https://constraintsystemsinstitute.org/manuscripts/zenodo-20118779/sha256-763893967dd2e86754af68a9124d5b38dba8f07aef7e1f27dc38c73b7a4b4eb3/manuscript.pdf",
+      "canonical_work_url": "https://constraintsystemsinstitute.org/papers/ensemble-embedding-collapse-under-standing-preserving-admissibility-20118779/",
+      "publisher_url": "https://zenodo.org/records/20118780",
+      "verification": "Publisher checksum and SHA256 byte identity checked; completion markers reviewed. No independent proof verification.",
+      "conversion": "Repository reading summary; no full-text HTML conversion."
+    },
+    {
+      "work_doi": "10.5281/zenodo.20118632",
+      "exact_release_doi": "10.5281/zenodo.20118633",
+      "title": "The Anthropic Collapse Theorem",
+      "manuscript_date": "May 2026",
+      "publisher_publication_date": "2026-05-11",
+      "publisher_version": null,
+      "sha256": "1fedd531339ada172f04e5f85ff9578040b161f59cfb8ab259c3ba8896e4a9bc",
+      "bytes": 312903,
+      "pages": 24,
+      "pdf_url": "https://constraintsystemsinstitute.org/manuscripts/zenodo-20118632/sha256-1fedd531339ada172f04e5f85ff9578040b161f59cfb8ab259c3ba8896e4a9bc/manuscript.pdf",
+      "canonical_work_url": "https://constraintsystemsinstitute.org/papers/the-anthropic-collapse-theorem-20118632/",
+      "publisher_url": "https://zenodo.org/records/20118633",
+      "verification": "Publisher checksum and SHA256 byte identity checked; completion markers reviewed. No independent proof verification.",
+      "conversion": "Repository reading summary; no full-text HTML conversion."
+    },
+    {
+      "work_doi": "10.5281/zenodo.20118439",
+      "exact_release_doi": "10.5281/zenodo.20118440",
+      "title": "Renormalization as Standing-Preserving Scale Transport",
+      "manuscript_date": "May 2026",
+      "publisher_publication_date": "2026-05-11",
+      "publisher_version": null,
+      "sha256": "e5f25932afd61ffc907bed1be3cf4dac6b89ca05d21fcd61de69c08c5bf9f1ba",
+      "bytes": 399078,
+      "pages": 36,
+      "pdf_url": "https://constraintsystemsinstitute.org/manuscripts/zenodo-20118439/sha256-e5f25932afd61ffc907bed1be3cf4dac6b89ca05d21fcd61de69c08c5bf9f1ba/manuscript.pdf",
+      "canonical_work_url": "https://constraintsystemsinstitute.org/papers/renormalization-as-standing-preserving-scale-transport-20118439/",
+      "publisher_url": "https://zenodo.org/records/20118440",
+      "verification": "Publisher checksum and SHA256 byte identity checked; completion markers reviewed. No independent proof verification.",
+      "conversion": "Repository reading summary; no full-text HTML conversion."
+    },
+    {
+      "work_doi": "10.5281/zenodo.20118229",
+      "exact_release_doi": "10.5281/zenodo.20118230",
+      "title": "The Standing Fixity of Physical Constants",
+      "manuscript_date": "May 2026",
+      "publisher_publication_date": "2026-05-11",
+      "publisher_version": null,
+      "sha256": "383af4dedd0a845b2dc787f43a95a87423c54a99dc902f4ef21a157b563213d6",
+      "bytes": 435487,
+      "pages": 30,
+      "pdf_url": "https://constraintsystemsinstitute.org/manuscripts/zenodo-20118229/sha256-383af4dedd0a845b2dc787f43a95a87423c54a99dc902f4ef21a157b563213d6/manuscript.pdf",
+      "canonical_work_url": "https://constraintsystemsinstitute.org/papers/the-standing-fixity-of-physical-constants-20118229/",
+      "publisher_url": "https://zenodo.org/records/20118230",
+      "verification": "Publisher checksum and SHA256 byte identity checked; completion markers reviewed. No independent proof verification.",
+      "conversion": "Repository reading summary; no full-text HTML conversion."
+    },
+    {
+      "work_id": "csi:work:l2-the-unclosable-contingent-reality",
+      "work_doi": null,
+      "exact_release_doi": null,
+      "preferred_citation_doi": null,
+      "primary_work_doi": null,
+      "title": "L2 The Unclosable Contingent Reality",
+      "manuscript_date": "2026-01-31",
+      "publisher_publication_date": null,
+      "publication_records": [
+        {
+          "title": "L2 The Unclosable Contingent Reality",
+          "concept_doi": "10.5281/zenodo.18525267",
+          "exact_release_doi": "10.5281/zenodo.18525268",
+          "publisher_url": "https://zenodo.org/records/18525268",
+          "publisher_publication_date": "2026-02-08",
+          "metadata_url": "https://zenodo.org/api/records/18525268",
+          "creators": [
+            {
+              "name": "Maley, Amos",
+              "affiliation": null,
+              "orcid": "0009-0002-5499-0620"
+            }
+          ],
+          "license": {
+            "id": "cc-by-4.0"
+          }
+        },
+        {
+          "title": "L2 The Unclosable Contingent Reality",
+          "concept_doi": "10.5281/zenodo.18517057",
+          "exact_release_doi": "10.5281/zenodo.18517058",
+          "publisher_url": "https://zenodo.org/records/18517058",
+          "publisher_publication_date": "2026-02-07",
+          "metadata_url": "https://zenodo.org/api/records/18517058",
+          "creators": [
+            {
+              "name": "Maley, Amos",
+              "affiliation": null,
+              "orcid": "0009-0002-5499-0620"
+            }
+          ],
+          "license": {
+            "id": "cc-by-4.0"
+          }
+        }
+      ],
+      "sha256": "c7aeef21c0136c5e2013eacbf3bf769bf4d90e6efac13a88c1daade4d68ef342",
+      "bytes": 92503,
+      "pages": 3,
+      "pdf_url": "https://constraintsystemsinstitute.org/manuscripts/sha256-c7aeef21c0136c5e2013eacbf3bf769bf4d90e6efac13a88c1daade4d68ef342/manuscript.pdf",
+      "canonical_work_url": "https://constraintsystemsinstitute.org/papers/l2-the-unclosable-contingent-reality/",
+      "edition_role": "Current public release of a January classification note; two publication records for identical bytes.",
+      "manuscript_kind": "classification_note",
+      "verification": "Both publisher copies downloaded, MD5 and SHA256 checked; same authorship/ORCID and CC BY 4.0 rights. Complete short note read; no circulation restriction found. No independent proof verification.",
+      "conversion": "Original searchable PDF; HTML is an attributed reading summary."
+    },
+    {
+      "work_id": "csi:work:l1-closure-taxonomy-what-closure-is-and-is-not",
+      "work_doi": null,
+      "exact_release_doi": null,
+      "preferred_citation_doi": null,
+      "primary_work_doi": null,
+      "title": "L1 Closure Taxonomy What Closure Is and Is Not",
+      "manuscript_date": "2026-01-31",
+      "publisher_publication_date": null,
+      "publication_records": [
+        {
+          "title": "L1 Closure Taxonomy What Closure Is and Is Not",
+          "concept_doi": "10.5281/zenodo.18525256",
+          "exact_release_doi": "10.5281/zenodo.18525257",
+          "publisher_url": "https://zenodo.org/records/18525257",
+          "publisher_publication_date": "2026-02-08",
+          "metadata_url": "https://zenodo.org/api/records/18525257",
+          "creators": [
+            {
+              "name": "Maley, Amos",
+              "affiliation": null,
+              "orcid": "0009-0002-5499-0620"
+            }
+          ],
+          "license": {
+            "id": "cc-by-4.0"
+          }
+        },
+        {
+          "title": "L1 Closure Taxonomy What Closure Is and Is Not",
+          "concept_doi": "10.5281/zenodo.18517079",
+          "exact_release_doi": "10.5281/zenodo.18517080",
+          "publisher_url": "https://zenodo.org/records/18517080",
+          "publisher_publication_date": "2026-02-07",
+          "metadata_url": "https://zenodo.org/api/records/18517080",
+          "creators": [
+            {
+              "name": "Maley, Amos",
+              "affiliation": null,
+              "orcid": "0009-0002-5499-0620"
+            }
+          ],
+          "license": {
+            "id": "cc-by-4.0"
+          }
+        }
+      ],
+      "sha256": "9bada751f808cb585a42dc86416b9852d3a3bbdf937679afd0143e0220db7054",
+      "bytes": 96398,
+      "pages": 4,
+      "pdf_url": "https://constraintsystemsinstitute.org/manuscripts/sha256-9bada751f808cb585a42dc86416b9852d3a3bbdf937679afd0143e0220db7054/manuscript.pdf",
+      "canonical_work_url": "https://constraintsystemsinstitute.org/papers/l1-closure-taxonomy-what-closure-is-and-is-not/",
+      "edition_role": "Current public release of a January classification note; two publication records for identical bytes.",
+      "manuscript_kind": "classification_note",
+      "verification": "Both publisher copies downloaded, MD5 and SHA256 checked; same authorship/ORCID and CC BY 4.0 rights. Complete short note read; no circulation restriction found. No independent proof verification.",
+      "conversion": "Original searchable PDF; HTML is an attributed reading summary."
     }
   ],
   "cited_editions": [

@@ -1,0 +1,16 @@
+{
+  "work_doi": "10.5281/zenodo.20118229",
+  "exact_release_doi": "10.5281/zenodo.20118230",
+  "title": "The Standing Fixity of Physical Constants",
+  "manuscript_date": "May 2026",
+  "publisher_publication_date": "2026-05-11",
+  "publisher_version": null,
+  "sha256": "383af4dedd0a845b2dc787f43a95a87423c54a99dc902f4ef21a157b563213d6",
+  "bytes": 435487,
+  "pages": 30,
+  "pdf_url": "https://constraintsystemsinstitute.org/manuscripts/zenodo-20118229/sha256-383af4dedd0a845b2dc787f43a95a87423c54a99dc902f4ef21a157b563213d6/manuscript.pdf",
+  "canonical_work_url": "https://constraintsystemsinstitute.org/papers/the-standing-fixity-of-physical-constants-20118229/",
+  "publisher_url": "https://zenodo.org/records/20118230",
+  "verification": "Publisher checksum and SHA256 byte identity checked; completion markers reviewed. No independent proof verification.",
+  "conversion": "Repository reading summary; no full-text HTML conversion."
+}

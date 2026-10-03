@@ -1,0 +1,57 @@
+{
+  "work_id": "csi:work:l1-closure-taxonomy-what-closure-is-and-is-not",
+  "work_doi": null,
+  "exact_release_doi": null,
+  "preferred_citation_doi": null,
+  "primary_work_doi": null,
+  "title": "L1 Closure Taxonomy What Closure Is and Is Not",
+  "manuscript_date": "2026-01-31",
+  "publisher_publication_date": null,
+  "publication_records": [
+    {
+      "title": "L1 Closure Taxonomy What Closure Is and Is Not",
+      "concept_doi": "10.5281/zenodo.18525256",
+      "exact_release_doi": "10.5281/zenodo.18525257",
+      "publisher_url": "https://zenodo.org/records/18525257",
+      "publisher_publication_date": "2026-02-08",
+      "metadata_url": "https://zenodo.org/api/records/18525257",
+      "creators": [
+        {
+          "name": "Maley, Amos",
+          "affiliation": null,
+          "orcid": "0009-0002-5499-0620"
+        }
+      ],
+      "license": {
+        "id": "cc-by-4.0"
+      }
+    },
+    {
+      "title": "L1 Closure Taxonomy What Closure Is and Is Not",
+      "concept_doi": "10.5281/zenodo.18517079",
+      "exact_release_doi": "10.5281/zenodo.18517080",
+      "publisher_url": "https://zenodo.org/records/18517080",
+      "publisher_publication_date": "2026-02-07",
+      "metadata_url": "https://zenodo.org/api/records/18517080",
+      "creators": [
+        {
+          "name": "Maley, Amos",
+          "affiliation": null,
+          "orcid": "0009-0002-5499-0620"
+        }
+      ],
+      "license": {
+        "id": "cc-by-4.0"
+      }
+    }
+  ],
+  "sha256": "9bada751f808cb585a42dc86416b9852d3a3bbdf937679afd0143e0220db7054",
+  "bytes": 96398,
+  "pages": 4,
+  "pdf_url": "https://constraintsystemsinstitute.org/manuscripts/sha256-9bada751f808cb585a42dc86416b9852d3a3bbdf937679afd0143e0220db7054/manuscript.pdf",
+  "canonical_work_url": "https://constraintsystemsinstitute.org/papers/l1-closure-taxonomy-what-closure-is-and-is-not/",
+  "edition_role": "Current public release of a January classification note; two publication records for identical bytes.",
+  "manuscript_kind": "classification_note",
+  "verification": "Both publisher copies downloaded, MD5 and SHA256 checked; same authorship/ORCID and CC BY 4.0 rights. Complete short note read; no circulation restriction found. No independent proof verification.",
+  "conversion": "Original searchable PDF; HTML is an attributed reading summary."
+}

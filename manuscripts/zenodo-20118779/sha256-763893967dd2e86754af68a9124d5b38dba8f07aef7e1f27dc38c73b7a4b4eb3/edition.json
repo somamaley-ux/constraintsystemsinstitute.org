@@ -1,0 +1,16 @@
+{
+  "work_doi": "10.5281/zenodo.20118779",
+  "exact_release_doi": "10.5281/zenodo.20118780",
+  "title": "Ensemble Embedding Collapse under Standing-Preserving Admissibility",
+  "manuscript_date": "May 2026",
+  "publisher_publication_date": "2026-05-11",
+  "publisher_version": null,
+  "sha256": "763893967dd2e86754af68a9124d5b38dba8f07aef7e1f27dc38c73b7a4b4eb3",
+  "bytes": 372013,
+  "pages": 31,
+  "pdf_url": "https://constraintsystemsinstitute.org/manuscripts/zenodo-20118779/sha256-763893967dd2e86754af68a9124d5b38dba8f07aef7e1f27dc38c73b7a4b4eb3/manuscript.pdf",
+  "canonical_work_url": "https://constraintsystemsinstitute.org/papers/ensemble-embedding-collapse-under-standing-preserving-admissibility-20118779/",
+  "publisher_url": "https://zenodo.org/records/20118780",
+  "verification": "Publisher checksum and SHA256 byte identity checked; completion markers reviewed. No independent proof verification.",
+  "conversion": "Repository reading summary; no full-text HTML conversion."
+}

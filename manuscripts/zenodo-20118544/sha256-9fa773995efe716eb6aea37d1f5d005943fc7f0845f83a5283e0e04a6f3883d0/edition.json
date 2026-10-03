@@ -1,0 +1,16 @@
+{
+  "work_doi": "10.5281/zenodo.20118544",
+  "exact_release_doi": "10.5281/zenodo.20118545",
+  "title": "Why Some Parameters Run and Others Cannot",
+  "manuscript_date": "May 2026",
+  "publisher_publication_date": "2026-05-11",
+  "publisher_version": null,
+  "sha256": "9fa773995efe716eb6aea37d1f5d005943fc7f0845f83a5283e0e04a6f3883d0",
+  "bytes": 316860,
+  "pages": 24,
+  "pdf_url": "https://constraintsystemsinstitute.org/manuscripts/zenodo-20118544/sha256-9fa773995efe716eb6aea37d1f5d005943fc7f0845f83a5283e0e04a6f3883d0/manuscript.pdf",
+  "canonical_work_url": "https://constraintsystemsinstitute.org/papers/why-some-parameters-run-and-others-cannot-20118544/",
+  "publisher_url": "https://zenodo.org/records/20118545",
+  "verification": "Publisher checksum and SHA256 byte identity checked; completion markers reviewed. No independent proof verification.",
+  "conversion": "Repository reading summary; no full-text HTML conversion."
+}
