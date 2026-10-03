@@ -1,0 +1,16 @@
+{
+  "work_doi": "10.5281/zenodo.18521918",
+  "exact_release_doi": "10.5281/zenodo.19682333",
+  "title": "Standing\u2013Admissibility Identity Closure (Equivalence)",
+  "manuscript_date": null,
+  "publisher_publication_date": "2026-04-21",
+  "publisher_version": null,
+  "sha256": "5884ca7001dbbd2665988f197f644bd157d06a51e8730df8108edb9cc73b86a5",
+  "bytes": 298481,
+  "pages": 12,
+  "pdf_url": "https://constraintsystemsinstitute.org/manuscripts/zenodo-18521918/sha256-5884ca7001dbbd2665988f197f644bd157d06a51e8730df8108edb9cc73b86a5/manuscript.pdf",
+  "canonical_work_url": "https://constraintsystemsinstitute.org/papers/standing-admissibility-identity-closure-18521918/",
+  "publisher_url": "https://zenodo.org/records/19682333",
+  "verification": "Publisher checksum and SHA256 byte identity checked; completion markers reviewed. No independent proof verification.",
+  "conversion": "Repository reading summary; no full-text HTML conversion."
+}

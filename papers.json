@@ -4589,5 +4589,266 @@
     "research_groups": [
       "Closure classification notes"
     ]
+  },
+  {
+    "title": "Concrete-Domain Closure under AASC",
+    "doi": "10.5281/zenodo.20092475",
+    "doi_url": "https://doi.org/10.5281/zenodo.20092475",
+    "url": "https://constraintsystemsinstitute.org/papers/concrete-domain-closure-under-aasc-20092475/",
+    "slug": "concrete-domain-closure-under-aasc-20092475",
+    "date": "2026-05-09",
+    "scholar_date": "2026/05/09",
+    "context": "Fixed-domain continuation and persistence foundations",
+    "report_number": "CSI-ZENODO-20092475",
+    "description": "The manuscript states a fixed-domain non-dischargeability result for realized persistence together with repair-localized, bounded standing. Concrete-domain participation is its target-relative closure class after abstract-only, formal-only, trace-only, semantic-only and other listed discharge routes fail. Realization alone is insufficient. The result does not select a canonical representative or derive a particular physical theory, universe, spacetime, matter, observer or life.",
+    "keywords": "AASC, admissibility, standing, fixed domain, continuation, persistence, invariance",
+    "zenodo_record": "https://zenodo.org/records/20092476",
+    "preferred_edition": {
+      "pdf_url": "https://constraintsystemsinstitute.org/manuscripts/zenodo-20092475/sha256-1f3760848912fddfcc68848df25c1090cf9ff6ae0f4ecea4fd0ad66888b56cd4/manuscript.pdf",
+      "doi": "10.5281/zenodo.20092476",
+      "publisher_publication_date": "2026-05-09",
+      "manuscript_date": "May 2026",
+      "sha256": "1f3760848912fddfcc68848df25c1090cf9ff6ae0f4ecea4fd0ad66888b56cd4",
+      "pages": 18
+    },
+    "repository_layout": "current-paper-with-collapsed-history",
+    "subjects": [
+      "Foundations"
+    ],
+    "research_groups": [
+      "Continuation and Persistence"
+    ]
+  },
+  {
+    "title": "Standing Localization under Realized Persistence",
+    "doi": "10.5281/zenodo.20092434",
+    "doi_url": "https://doi.org/10.5281/zenodo.20092434",
+    "url": "https://constraintsystemsinstitute.org/papers/standing-localization-under-realized-persistence-20092434/",
+    "slug": "standing-localization-under-realized-persistence-20092434",
+    "date": "2026-05-09",
+    "scholar_date": "2026/05/09",
+    "context": "Fixed-domain continuation and persistence foundations",
+    "report_number": "CSI-ZENODO-20092434",
+    "description": "The manuscript derives bounded standing-localization equivalence from realized persistence with lawful repair semantics. Perturbation plus nonzero repair capacity is one stated route to those semantics. Lawful continuation-level correction is distinguished from prohibited restoration of a standing-failed occurrence as the same act. Localization concerns a bounded identity and repair role locus; it does not establish a physical body, spacetime region, biochemical repair or biological life.",
+    "keywords": "AASC, admissibility, standing, fixed domain, continuation, persistence, invariance",
+    "zenodo_record": "https://zenodo.org/records/20092435",
+    "preferred_edition": {
+      "pdf_url": "https://constraintsystemsinstitute.org/manuscripts/zenodo-20092434/sha256-049a3dca9bcf7ebcf649b60d12668e23561acf9497bc2813ad5d2409fecfc45a/manuscript.pdf",
+      "doi": "10.5281/zenodo.20092435",
+      "publisher_publication_date": "2026-05-09",
+      "manuscript_date": "May 2026",
+      "sha256": "049a3dca9bcf7ebcf649b60d12668e23561acf9497bc2813ad5d2409fecfc45a",
+      "pages": 18
+    },
+    "repository_layout": "current-paper-with-collapsed-history",
+    "subjects": [
+      "Foundations"
+    ],
+    "research_groups": [
+      "Continuation and Persistence"
+    ]
+  },
+  {
+    "title": "Persistence-Regime Realization under AASC",
+    "doi": "10.5281/zenodo.20090606",
+    "doi_url": "https://doi.org/10.5281/zenodo.20090606",
+    "url": "https://constraintsystemsinstitute.org/papers/persistence-regime-realization-under-aasc-20090606/",
+    "slug": "persistence-regime-realization-under-aasc-20090606",
+    "date": "2026-05-08",
+    "scholar_date": "2026/05/08",
+    "context": "Fixed-domain continuation and persistence foundations",
+    "report_number": "CSI-ZENODO-20090606",
+    "description": "The manuscript induces a persistence-regime equivalence class from irreversible standing-bearing continuation in its fixed role-anchor target class. Realization here means consequence-retaining lineage under lawful transport, quotient stability and fail-closed standing. Role fixation alone is insufficient without the additional irreversible-continuation conditions. The result preserves the inherited fixation conditions and distinguishes realization from trace succession, concrete instantiation, physical embodiment and biological life.",
+    "keywords": "AASC, admissibility, standing, fixed domain, continuation, persistence, invariance",
+    "zenodo_record": "https://zenodo.org/records/20090607",
+    "preferred_edition": {
+      "pdf_url": "https://constraintsystemsinstitute.org/manuscripts/zenodo-20090606/sha256-f810eeae08881e20032b9f5be5c3d1f59fa7af166bb2797fc1b429233f199b22/manuscript.pdf",
+      "doi": "10.5281/zenodo.20090607",
+      "publisher_publication_date": "2026-05-08",
+      "manuscript_date": "May 2026",
+      "sha256": "f810eeae08881e20032b9f5be5c3d1f59fa7af166bb2797fc1b429233f199b22",
+      "pages": 22
+    },
+    "repository_layout": "current-paper-with-collapsed-history",
+    "subjects": [
+      "Foundations"
+    ],
+    "research_groups": [
+      "Continuation and Persistence"
+    ]
+  },
+  {
+    "title": "Boundary-Trace Fixation of Continuation Loci under AASC",
+    "doi": "10.5281/zenodo.20089823",
+    "doi_url": "https://doi.org/10.5281/zenodo.20089823",
+    "url": "https://constraintsystemsinstitute.org/papers/boundary-trace-fixation-of-continuation-loci-under-aasc-20089823/",
+    "slug": "boundary-trace-fixation-of-continuation-loci-under-aasc-20089823",
+    "date": "2026-05-08",
+    "scholar_date": "2026/05/08",
+    "context": "Fixed-domain continuation and persistence foundations",
+    "report_number": "CSI-ZENODO-20089823",
+    "description": "The manuscript fixes a role-anchor equivalence class for an internally non-selective continuation-locus problem when a declared boundary trace is bivalent, stable, outcome-independent, same-domain typed and singleton-positive modulo role equivalence. Absent or failed trace conditions leave that fixation undefined and fail closed. The trace is structural authority under those conditions, not an observational oracle, confirmation score or default representative selector; other role slots may remain unfixed.",
+    "keywords": "AASC, admissibility, standing, fixed domain, continuation, persistence, invariance",
+    "zenodo_record": "https://zenodo.org/records/20089824",
+    "preferred_edition": {
+      "pdf_url": "https://constraintsystemsinstitute.org/manuscripts/zenodo-20089823/sha256-600da3e7fd97a1c518f03c8a812061bc19a9c60036ed3dedb01a18ac6c59d9c7/manuscript.pdf",
+      "doi": "10.5281/zenodo.20089824",
+      "publisher_publication_date": "2026-05-08",
+      "manuscript_date": "May 2026",
+      "sha256": "600da3e7fd97a1c518f03c8a812061bc19a9c60036ed3dedb01a18ac6c59d9c7",
+      "pages": 22
+    },
+    "repository_layout": "current-paper-with-collapsed-history",
+    "subjects": [
+      "Foundations"
+    ],
+    "research_groups": [
+      "Continuation and Persistence"
+    ]
+  },
+  {
+    "title": "Continuation-Locus Induction under Admissibility-Bearing Governance",
+    "doi": "10.5281/zenodo.20088860",
+    "doi_url": "https://doi.org/10.5281/zenodo.20088860",
+    "url": "https://constraintsystemsinstitute.org/papers/continuation-locus-induction-under-admissibility-bearing-governance-20088860/",
+    "slug": "continuation-locus-induction-under-admissibility-bearing-governance-20088860",
+    "date": "2026-05-08",
+    "scholar_date": "2026/05/08",
+    "context": "Fixed-domain continuation and persistence foundations",
+    "report_number": "CSI-ZENODO-20088860",
+    "description": "The manuscript distinguishes a governed classifier from continuation-bearing use. Non-degenerate same-domain continuation induces a continuation-locus equivalence class; positive-side retained standing supplies an occupant quotient. Governance alone can coexist with an empty extension. The locus is preserved identity under transport and lawful redescription, not a concrete object. Minimal-locus conclusions require the stated well-founded resolved order; no canonical representative or unrestricted ontology is inferred.",
+    "keywords": "AASC, admissibility, standing, fixed domain, continuation, persistence, invariance",
+    "zenodo_record": "https://zenodo.org/records/20088861",
+    "preferred_edition": {
+      "pdf_url": "https://constraintsystemsinstitute.org/manuscripts/zenodo-20088860/sha256-b1a6ee3fab29c6a9879df9e367e0f888d5cd4269cc74108bf4c5d777ee6e41e0/manuscript.pdf",
+      "doi": "10.5281/zenodo.20088861",
+      "publisher_publication_date": "2026-05-08",
+      "manuscript_date": "May 2026",
+      "sha256": "b1a6ee3fab29c6a9879df9e367e0f888d5cd4269cc74108bf4c5d777ee6e41e0",
+      "pages": 23
+    },
+    "repository_layout": "current-paper-with-collapsed-history",
+    "subjects": [
+      "Foundations"
+    ],
+    "research_groups": [
+      "Continuation and Persistence"
+    ]
+  },
+  {
+    "title": "The Structural Inadmissibility of the Null Regime",
+    "doi": "10.5281/zenodo.20074284",
+    "doi_url": "https://doi.org/10.5281/zenodo.20074284",
+    "url": "https://constraintsystemsinstitute.org/papers/structural-inadmissibility-of-the-null-regime-20074284/",
+    "slug": "structural-inadmissibility-of-the-null-regime-20074284",
+    "date": "2026-05-07",
+    "scholar_date": "2026/05/07",
+    "context": "Fixed-domain continuation and persistence foundations",
+    "report_number": "CSI-ZENODO-20074284",
+    "description": "The manuscript excludes total AASC vacuity as an admissible same-type fixed-domain closure regime. It distinguishes that target from formal empty objects, an all-rejecting classifier, raw absence and mute non-claims. Admissibility-relevant use of an empty-extension classification still incurs evaluability obligations. The result is a structural closure claim; it does not establish concrete instantiation, cosmological genesis or an unrestricted rejection of nullist theses.",
+    "keywords": "AASC, admissibility, standing, fixed domain, continuation, persistence, invariance",
+    "zenodo_record": "https://zenodo.org/records/20074285",
+    "preferred_edition": {
+      "pdf_url": "https://constraintsystemsinstitute.org/manuscripts/zenodo-20074284/sha256-789e4177c7e45d9f328d1d000b5ffeddf84419a64715f170c0eb6d66e1813269/manuscript.pdf",
+      "doi": "10.5281/zenodo.20074285",
+      "publisher_publication_date": "2026-05-07",
+      "manuscript_date": null,
+      "sha256": "789e4177c7e45d9f328d1d000b5ffeddf84419a64715f170c0eb6d66e1813269",
+      "pages": 33
+    },
+    "repository_layout": "current-paper-with-collapsed-history",
+    "subjects": [
+      "Foundations"
+    ],
+    "research_groups": [
+      "Continuation and Persistence"
+    ]
+  },
+  {
+    "title": "Renormalization Invariance and Standing Preservation in the Non-Predictivity of Zero-Point Vacuum Energy",
+    "doi": "10.5281/zenodo.20044419",
+    "doi_url": "https://doi.org/10.5281/zenodo.20044419",
+    "url": "https://constraintsystemsinstitute.org/papers/renormalization-invariance-and-standing-preservation-zero-point-vacuum-energy-20044419/",
+    "slug": "renormalization-invariance-and-standing-preservation-zero-point-vacuum-energy-20044419",
+    "date": "2026-05-05",
+    "scholar_date": "2026/05/05",
+    "context": "Vacuum-energy invariance companion",
+    "report_number": "CSI-ZENODO-20044419",
+    "description": "The manuscript supplies a local correspondence theorem: in the specified homogeneous metric-proportional vacuum sector, standing preservation and descent to the QFT renormalization quotient select the same scalar assignments. The equivalence is conditional on its defined binding and transformation class. It preserves empirical boundary input, Casimir and phase differences, and the unresolved effective cosmological-constant problem. It neither derives QFT from AASC nor extends this classification to every curved-spacetime stress-tensor contribution.",
+    "keywords": "AASC, admissibility, standing, fixed domain, continuation, persistence, invariance",
+    "zenodo_record": "https://zenodo.org/records/20044420",
+    "preferred_edition": {
+      "pdf_url": "https://constraintsystemsinstitute.org/manuscripts/zenodo-20044419/sha256-8db4bb63615af18c7ec1cc0443d131e0776bb56d27a1a102ebea5a27725098d8/manuscript.pdf",
+      "doi": "10.5281/zenodo.20044420",
+      "publisher_publication_date": "2026-05-05",
+      "manuscript_date": "May 5, 2026",
+      "sha256": "8db4bb63615af18c7ec1cc0443d131e0776bb56d27a1a102ebea5a27725098d8",
+      "pages": 8
+    },
+    "repository_layout": "current-paper-with-collapsed-history",
+    "subjects": [
+      "Time and cosmology"
+    ],
+    "research_groups": [
+      "Vacuum Energy"
+    ]
+  },
+  {
+    "title": "Invariance Constraints and the Non-Predictivity of Zero-Point Vacuum Energy in Quantum Field Theory",
+    "doi": "10.5281/zenodo.20044293",
+    "doi_url": "https://doi.org/10.5281/zenodo.20044293",
+    "url": "https://constraintsystemsinstitute.org/papers/invariance-constraints-and-non-predictivity-of-zero-point-vacuum-energy-20044293/",
+    "slug": "invariance-constraints-and-non-predictivity-of-zero-point-vacuum-energy-20044293",
+    "date": "2026-05-05",
+    "scholar_date": "2026/05/05",
+    "context": "Vacuum-energy invariance companion",
+    "report_number": "CSI-ZENODO-20044293",
+    "description": "The manuscript binds structural invariance language to the homogeneous metric-proportional vacuum sector of QFT and semiclassical gravitational matching. A regulator-dependent absolute matter-sector offset does not supply a standalone invariant cosmological prediction. Relational Casimir forces, phase differences and response quantities remain available; compensating shifts preserve the total matched cosmological coefficient. The analysis does not classify the full curved-spacetime stress tensor or solve naturalness, radiative stability or matching.",
+    "keywords": "AASC, admissibility, standing, fixed domain, continuation, persistence, invariance",
+    "zenodo_record": "https://zenodo.org/records/20044294",
+    "preferred_edition": {
+      "pdf_url": "https://constraintsystemsinstitute.org/manuscripts/zenodo-20044293/sha256-4ea028c9beab30ee46ef978b37f34c6e72c76999a5f4c2be9e92466f82bbb8ce/manuscript.pdf",
+      "doi": "10.5281/zenodo.20044294",
+      "publisher_publication_date": "2026-05-05",
+      "manuscript_date": "May 5, 2026",
+      "sha256": "4ea028c9beab30ee46ef978b37f34c6e72c76999a5f4c2be9e92466f82bbb8ce",
+      "pages": 11
+    },
+    "repository_layout": "current-paper-with-collapsed-history",
+    "subjects": [
+      "Time and cosmology"
+    ],
+    "research_groups": [
+      "Vacuum Energy"
+    ]
+  },
+  {
+    "title": "Standing–Admissibility Identity Closure (Equivalence)",
+    "doi": "10.5281/zenodo.18521918",
+    "doi_url": "https://doi.org/10.5281/zenodo.18521918",
+    "url": "https://constraintsystemsinstitute.org/papers/standing-admissibility-identity-closure-18521918/",
+    "slug": "standing-admissibility-identity-closure-18521918",
+    "date": "2026-04-21",
+    "scholar_date": "2026/04/21",
+    "context": "Fixed-domain continuation and persistence foundations",
+    "report_number": "CSI-ZENODO-18521918",
+    "description": "The manuscript states a conditional identity result for two binary classifiers on a fixed evaluated-state domain. Its explicit substrate includes lawful continuation, an AMetric no-selector boundary, standing conservation and irrecoverability on retained lineages. It separates pointwise classifier identity from collapse of a remaining governance-role distinction. It does not derive a lower kernel, assert global minimality or govern cross-domain transport.",
+    "keywords": "AASC, admissibility, standing, fixed domain, continuation, persistence, invariance",
+    "zenodo_record": "https://zenodo.org/records/19682333",
+    "preferred_edition": {
+      "pdf_url": "https://constraintsystemsinstitute.org/manuscripts/zenodo-18521918/sha256-5884ca7001dbbd2665988f197f644bd157d06a51e8730df8108edb9cc73b86a5/manuscript.pdf",
+      "doi": "10.5281/zenodo.19682333",
+      "publisher_publication_date": "2026-04-21",
+      "manuscript_date": null,
+      "sha256": "5884ca7001dbbd2665988f197f644bd157d06a51e8730df8108edb9cc73b86a5",
+      "pages": 12
+    },
+    "repository_layout": "current-paper-with-collapsed-history",
+    "subjects": [
+      "Foundations"
+    ],
+    "research_groups": [
+      "Continuation and Persistence"
+    ]
   }
 ]

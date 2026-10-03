@@ -1,0 +1,16 @@
+{
+  "work_doi": "10.5281/zenodo.20090606",
+  "exact_release_doi": "10.5281/zenodo.20090607",
+  "title": "Persistence-Regime Realization under AASC",
+  "manuscript_date": "May 2026",
+  "publisher_publication_date": "2026-05-08",
+  "publisher_version": null,
+  "sha256": "f810eeae08881e20032b9f5be5c3d1f59fa7af166bb2797fc1b429233f199b22",
+  "bytes": 327207,
+  "pages": 22,
+  "pdf_url": "https://constraintsystemsinstitute.org/manuscripts/zenodo-20090606/sha256-f810eeae08881e20032b9f5be5c3d1f59fa7af166bb2797fc1b429233f199b22/manuscript.pdf",
+  "canonical_work_url": "https://constraintsystemsinstitute.org/papers/persistence-regime-realization-under-aasc-20090606/",
+  "publisher_url": "https://zenodo.org/records/20090607",
+  "verification": "Publisher checksum and SHA256 byte identity checked; completion markers reviewed. No independent proof verification.",
+  "conversion": "Repository reading summary; no full-text HTML conversion."
+}

@@ -1,0 +1,16 @@
+{
+  "work_doi": "10.5281/zenodo.20089823",
+  "exact_release_doi": "10.5281/zenodo.20089824",
+  "title": "Boundary-Trace Fixation of Continuation Loci under AASC",
+  "manuscript_date": "May 2026",
+  "publisher_publication_date": "2026-05-08",
+  "publisher_version": null,
+  "sha256": "600da3e7fd97a1c518f03c8a812061bc19a9c60036ed3dedb01a18ac6c59d9c7",
+  "bytes": 322928,
+  "pages": 22,
+  "pdf_url": "https://constraintsystemsinstitute.org/manuscripts/zenodo-20089823/sha256-600da3e7fd97a1c518f03c8a812061bc19a9c60036ed3dedb01a18ac6c59d9c7/manuscript.pdf",
+  "canonical_work_url": "https://constraintsystemsinstitute.org/papers/boundary-trace-fixation-of-continuation-loci-under-aasc-20089823/",
+  "publisher_url": "https://zenodo.org/records/20089824",
+  "verification": "Publisher checksum and SHA256 byte identity checked; completion markers reviewed. No independent proof verification.",
+  "conversion": "Repository reading summary; no full-text HTML conversion."
+}

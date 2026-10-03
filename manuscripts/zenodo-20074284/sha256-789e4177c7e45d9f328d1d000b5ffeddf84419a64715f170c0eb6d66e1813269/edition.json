@@ -1,0 +1,16 @@
+{
+  "work_doi": "10.5281/zenodo.20074284",
+  "exact_release_doi": "10.5281/zenodo.20074285",
+  "title": "The Structural Inadmissibility of the Null Regime",
+  "manuscript_date": null,
+  "publisher_publication_date": "2026-05-07",
+  "publisher_version": null,
+  "sha256": "789e4177c7e45d9f328d1d000b5ffeddf84419a64715f170c0eb6d66e1813269",
+  "bytes": 392737,
+  "pages": 33,
+  "pdf_url": "https://constraintsystemsinstitute.org/manuscripts/zenodo-20074284/sha256-789e4177c7e45d9f328d1d000b5ffeddf84419a64715f170c0eb6d66e1813269/manuscript.pdf",
+  "canonical_work_url": "https://constraintsystemsinstitute.org/papers/structural-inadmissibility-of-the-null-regime-20074284/",
+  "publisher_url": "https://zenodo.org/records/20074285",
+  "verification": "Publisher checksum and SHA256 byte identity checked; completion markers reviewed. No independent proof verification.",
+  "conversion": "Repository reading summary; no full-text HTML conversion."
+}

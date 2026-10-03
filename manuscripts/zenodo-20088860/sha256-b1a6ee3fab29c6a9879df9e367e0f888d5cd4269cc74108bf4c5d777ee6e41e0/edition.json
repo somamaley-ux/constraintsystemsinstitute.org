@@ -1,0 +1,16 @@
+{
+  "work_doi": "10.5281/zenodo.20088860",
+  "exact_release_doi": "10.5281/zenodo.20088861",
+  "title": "Continuation-Locus Induction under Admissibility-Bearing Governance",
+  "manuscript_date": "May 2026",
+  "publisher_publication_date": "2026-05-08",
+  "publisher_version": null,
+  "sha256": "b1a6ee3fab29c6a9879df9e367e0f888d5cd4269cc74108bf4c5d777ee6e41e0",
+  "bytes": 336562,
+  "pages": 23,
+  "pdf_url": "https://constraintsystemsinstitute.org/manuscripts/zenodo-20088860/sha256-b1a6ee3fab29c6a9879df9e367e0f888d5cd4269cc74108bf4c5d777ee6e41e0/manuscript.pdf",
+  "canonical_work_url": "https://constraintsystemsinstitute.org/papers/continuation-locus-induction-under-admissibility-bearing-governance-20088860/",
+  "publisher_url": "https://zenodo.org/records/20088861",
+  "verification": "Publisher checksum and SHA256 byte identity checked; completion markers reviewed. No independent proof verification.",
+  "conversion": "Repository reading summary; no full-text HTML conversion."
+}

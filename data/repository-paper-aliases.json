@@ -1841,5 +1841,95 @@
     "work_id": "csi:work:l1-closure-taxonomy-what-closure-is-and-is-not",
     "work_doi": null,
     "title": "L1 Closure Taxonomy What Closure Is and Is Not"
+  },
+  "10.5281/zenodo.20092475": {
+    "url": "/papers/concrete-domain-closure-under-aasc-20092475/",
+    "work_doi": "10.5281/zenodo.20092475",
+    "title": "Concrete-Domain Closure under AASC"
+  },
+  "10.5281/zenodo.20092476": {
+    "url": "/papers/concrete-domain-closure-under-aasc-20092475/",
+    "work_doi": "10.5281/zenodo.20092475",
+    "title": "Concrete-Domain Closure under AASC"
+  },
+  "10.5281/zenodo.20092434": {
+    "url": "/papers/standing-localization-under-realized-persistence-20092434/",
+    "work_doi": "10.5281/zenodo.20092434",
+    "title": "Standing Localization under Realized Persistence"
+  },
+  "10.5281/zenodo.20092435": {
+    "url": "/papers/standing-localization-under-realized-persistence-20092434/",
+    "work_doi": "10.5281/zenodo.20092434",
+    "title": "Standing Localization under Realized Persistence"
+  },
+  "10.5281/zenodo.20090606": {
+    "url": "/papers/persistence-regime-realization-under-aasc-20090606/",
+    "work_doi": "10.5281/zenodo.20090606",
+    "title": "Persistence-Regime Realization under AASC"
+  },
+  "10.5281/zenodo.20090607": {
+    "url": "/papers/persistence-regime-realization-under-aasc-20090606/",
+    "work_doi": "10.5281/zenodo.20090606",
+    "title": "Persistence-Regime Realization under AASC"
+  },
+  "10.5281/zenodo.20089823": {
+    "url": "/papers/boundary-trace-fixation-of-continuation-loci-under-aasc-20089823/",
+    "work_doi": "10.5281/zenodo.20089823",
+    "title": "Boundary-Trace Fixation of Continuation Loci under AASC"
+  },
+  "10.5281/zenodo.20089824": {
+    "url": "/papers/boundary-trace-fixation-of-continuation-loci-under-aasc-20089823/",
+    "work_doi": "10.5281/zenodo.20089823",
+    "title": "Boundary-Trace Fixation of Continuation Loci under AASC"
+  },
+  "10.5281/zenodo.20088860": {
+    "url": "/papers/continuation-locus-induction-under-admissibility-bearing-governance-20088860/",
+    "work_doi": "10.5281/zenodo.20088860",
+    "title": "Continuation-Locus Induction under Admissibility-Bearing Governance"
+  },
+  "10.5281/zenodo.20088861": {
+    "url": "/papers/continuation-locus-induction-under-admissibility-bearing-governance-20088860/",
+    "work_doi": "10.5281/zenodo.20088860",
+    "title": "Continuation-Locus Induction under Admissibility-Bearing Governance"
+  },
+  "10.5281/zenodo.20074284": {
+    "url": "/papers/structural-inadmissibility-of-the-null-regime-20074284/",
+    "work_doi": "10.5281/zenodo.20074284",
+    "title": "The Structural Inadmissibility of the Null Regime"
+  },
+  "10.5281/zenodo.20074285": {
+    "url": "/papers/structural-inadmissibility-of-the-null-regime-20074284/",
+    "work_doi": "10.5281/zenodo.20074284",
+    "title": "The Structural Inadmissibility of the Null Regime"
+  },
+  "10.5281/zenodo.20044419": {
+    "url": "/papers/renormalization-invariance-and-standing-preservation-zero-point-vacuum-energy-20044419/",
+    "work_doi": "10.5281/zenodo.20044419",
+    "title": "Renormalization Invariance and Standing Preservation in the Non-Predictivity of Zero-Point Vacuum Energy"
+  },
+  "10.5281/zenodo.20044420": {
+    "url": "/papers/renormalization-invariance-and-standing-preservation-zero-point-vacuum-energy-20044419/",
+    "work_doi": "10.5281/zenodo.20044419",
+    "title": "Renormalization Invariance and Standing Preservation in the Non-Predictivity of Zero-Point Vacuum Energy"
+  },
+  "10.5281/zenodo.20044293": {
+    "url": "/papers/invariance-constraints-and-non-predictivity-of-zero-point-vacuum-energy-20044293/",
+    "work_doi": "10.5281/zenodo.20044293",
+    "title": "Invariance Constraints and the Non-Predictivity of Zero-Point Vacuum Energy in Quantum Field Theory"
+  },
+  "10.5281/zenodo.20044294": {
+    "url": "/papers/invariance-constraints-and-non-predictivity-of-zero-point-vacuum-energy-20044293/",
+    "work_doi": "10.5281/zenodo.20044293",
+    "title": "Invariance Constraints and the Non-Predictivity of Zero-Point Vacuum Energy in Quantum Field Theory"
+  },
+  "10.5281/zenodo.18521918": {
+    "url": "/papers/standing-admissibility-identity-closure-18521918/",
+    "work_doi": "10.5281/zenodo.18521918",
+    "title": "Standing–Admissibility Identity Closure (Equivalence)"
+  },
+  "10.5281/zenodo.19682333": {
+    "url": "/papers/standing-admissibility-identity-closure-18521918/",
+    "work_doi": "10.5281/zenodo.18521918",
+    "title": "Standing–Admissibility Identity Closure (Equivalence)"
   }
 }

@@ -1,0 +1,16 @@
+{
+  "work_doi": "10.5281/zenodo.20092434",
+  "exact_release_doi": "10.5281/zenodo.20092435",
+  "title": "Standing Localization under Realized Persistence",
+  "manuscript_date": "May 2026",
+  "publisher_publication_date": "2026-05-09",
+  "publisher_version": null,
+  "sha256": "049a3dca9bcf7ebcf649b60d12668e23561acf9497bc2813ad5d2409fecfc45a",
+  "bytes": 315179,
+  "pages": 18,
+  "pdf_url": "https://constraintsystemsinstitute.org/manuscripts/zenodo-20092434/sha256-049a3dca9bcf7ebcf649b60d12668e23561acf9497bc2813ad5d2409fecfc45a/manuscript.pdf",
+  "canonical_work_url": "https://constraintsystemsinstitute.org/papers/standing-localization-under-realized-persistence-20092434/",
+  "publisher_url": "https://zenodo.org/records/20092435",
+  "verification": "Publisher checksum and SHA256 byte identity checked; completion markers reviewed. No independent proof verification.",
+  "conversion": "Repository reading summary; no full-text HTML conversion."
+}
