@@ -1,0 +1,33 @@
+# Constraint Systems Institute
+
+> Source access for Amos Jay Maley's research manuscripts: exact PDF editions, a bounded foundational reading guide, and catalogue metadata.
+
+The catalogue currently contains 211 canonical work records; records are not PDF editions. Individual versioned PDFs are authoritative manuscript text. Markdown summaries and guides are attributed reading aids, not full manuscript conversions or independent proof verification.
+
+The foundational direction argued in the manuscripts is non-degenerate determinate construction -> necessary Kernel -> Admissibility, Standing, Reference and Irreversibility ([kernel: Proposition 2.4; Theorem 3.1 / Theorem 3.6, PDF pp. 14-27; exact DOI 10.5281/zenodo.22968658](https://constraintsystemsinstitute.org/manuscripts/kernel/sha256-4e1bafc4844d90ca7ba5268d1b6b5ee21bf92f082a2a61b4eea039faed0c037e/manuscript.pdf#page=14)). These roles concern qualification, role warrant, identity/original incidence and retained constraint history. Do not turn this into a blanket global uniqueness claim over other research.
+
+Suggested reading path: Kernel -> AMetric boundary -> Structure of Admissibility -> fixed-domain exhaustion -> Anchor, Tensor, Skin. Metricity is a conditional physical licensing branch. This is editorial reading order, not an exact-edition import graph. Older named references and unresolved frozen imports remain separately recorded.
+
+Logical dependency, local reconstruction, projection and certificate assembly have different evidential meanings. Formal/model/calculational metric interpretation may precede physical standing ([metricity: Definitions 2.7-2.11, PDF pp. 8-9; exact DOI 10.5281/zenodo.20338475](https://constraintsystemsinstitute.org/manuscripts/metricity/sha256-6d73b71c267ea80973994c18c669b338338280887b5a358396e8e05cb7a2801e/manuscript.pdf#page=8)). Licensing does not generate metric structure, standing or ontology ([metricity: Corollary 6.3, PDF pp. 16-17; exact DOI 10.5281/zenodo.20338475](https://constraintsystemsinstitute.org/manuscripts/metricity/sha256-6d73b71c267ea80973994c18c669b338338280887b5a358396e8e05cb7a2801e/manuscript.pdf#page=16)). The AMetric result permits independently warranted richer inputs ([ametric: Theorem 7.5 / Section 7.6, PDF pp. 39-40; exact DOI 10.5281/zenodo.22848051](https://constraintsystemsinstitute.org/manuscripts/ametric/sha256-fd0da8feb70e61de9474cc459ca8de6af2619206d439e62425e88334161a535e/manuscript.pdf#page=39)).
+
+## Start here
+
+- [Expanded formalism, glossary and dependency guide](https://constraintsystemsinstitute.org/llms-full.txt): Six foundational reading editions with exact edition evidence and unresolved-import limits; not the full corpus.
+- [Formalism guide in Markdown](https://constraintsystemsinstitute.org/manuscripts/guide/index.md): The same expanded reading aid in a conventional Markdown file.
+- [Human-readable foundational guide](https://constraintsystemsinstitute.org/manuscripts/guide/): Existing guide with source-page links.
+- [Foundational edition and consumer-reference registry](https://constraintsystemsinstitute.org/manuscripts/registry.json): SHA256 identities, concept versus exact release DOIs and named older imports.
+
+## Foundational reading aids
+
+- [Non-Degenerate Construction and the Kernel of Admissibility](https://constraintsystemsinstitute.org/manuscripts/kernel/sha256-4e1bafc4844d90ca7ba5268d1b6b5ee21bf92f082a2a61b4eea039faed0c037e/summary.md): Attributed summary of the reference edition, cover 2026-09-26; exact release 10.5281/zenodo.22968658. Not the full manuscript.
+- [The AMetric Boundary as a Unique Regime-Invariant Constraint on Admissibility-Bearing Construction](https://constraintsystemsinstitute.org/manuscripts/ametric/sha256-fd0da8feb70e61de9474cc459ca8de6af2619206d439e62425e88334161a535e/summary.md): Attributed summary of the reference edition, cover 2026-09-20; exact release 10.5281/zenodo.22848051. Not the full manuscript.
+- [The Structure of Admissibility](https://constraintsystemsinstitute.org/manuscripts/structure/sha256-065979305b2fc1593abb343e72a86d0ed9c967c089d1a9cbf91be650de25eff2/summary.md): Attributed summary of the publication reference, cover 2026-09-21; exact release 10.5281/zenodo.22874934. Not the full manuscript.
+- [A Fixed-Domain Exhaustion Theorem](https://constraintsystemsinstitute.org/manuscripts/exhaustion/sha256-d06d39b381edddaafe899f20769b0ba551802b23d7b83121530ecab346feece0/summary.md): Attributed summary of the publication reference, cover 2026-09-21; exact release 10.5281/zenodo.22875070. Not the full manuscript.
+- [Anchor, Tensor, and Skin](https://constraintsystemsinstitute.org/manuscripts/ats/sha256-1624eacd530dcdaaedec184414c8a7eab8d5096805aee9ffa5452b6f51638c7b/summary.md): Attributed summary of the publication reference, cover 2026-09-21; exact release 10.5281/zenodo.22875011. Not the full manuscript.
+- [Metricity as Licensed Description](https://constraintsystemsinstitute.org/manuscripts/metricity/sha256-6d73b71c267ea80973994c18c669b338338280887b5a358396e8e05cb7a2801e/summary.md): Attributed summary of the may 2026 manuscript, cover 2026-05; exact release 10.5281/zenodo.20338475. Not the full manuscript.
+
+## Catalogue and citation
+
+- [Current canonical catalogue](https://constraintsystemsinstitute.org/papers.json): Work-level metadata and preferred reading editions; coverage does not imply every paper has been read or verified.
+- [Browse and search the repository](https://constraintsystemsinstitute.org/papers/): Canonical work pages with read/download/citation links.
+- [Citation and reuse guidance](https://constraintsystemsinstitute.org/using-the-research/): Cite the exact release consulted, not an all-versions DOI as an exact theorem import.

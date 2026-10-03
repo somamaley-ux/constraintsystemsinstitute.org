@@ -3,6 +3,7 @@ import { routeRepositoryLinks } from './repository-links.mjs';
 import path from 'node:path';
 import { fileURLToPath } from 'node:url';
 import { enrichPaperPages, cleanSearchSitemap } from './enrich-paper-pages.mjs';
+import { buildSourceAccess } from './build-source-access.mjs';
 
 // Run after a tour or paper generator, before publishing GitHub Pages.
 const root = path.resolve(path.dirname(fileURLToPath(import.meta.url)), '..');
@@ -14,6 +15,7 @@ const selectedFiles = args.length ? new Set(args.slice(1).map(file => {
   return full;
 })) : null;
 if (selectedFiles?.size === 0) throw new Error('--pages requires at least one page');
+const sourceAccess = buildSourceAccess(root);
 const enriched = enrichPaperPages(root,selectedFiles);
 const removedMetadataUrls = cleanSearchSitemap(root);
 const origin = 'https://constraintsystemsinstitute.org';
@@ -136,3 +138,5 @@ for (const file of selectedFiles || walk(root)) {
 }
 console.log(`Prepared metadata, responsive images and shared navigation on ${count} changed pages.`);
 console.log(`Enriched ${enriched} paper pages; removed ${removedMetadataUrls} machine-data URLs from the search sitemap.`);
+
+console.log(`Prepared source access: ${sourceAccess.catalogueRecords} catalogue records, ${sourceAccess.reviewedEditions} reviewed reading editions, ${sourceAccess.changed} changed guide files.`);
