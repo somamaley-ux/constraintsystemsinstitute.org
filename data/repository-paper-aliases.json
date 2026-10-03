@@ -1703,5 +1703,45 @@
     "url": "/papers/higgs-structural-identity-20996600/",
     "work_doi": "10.5281/zenodo.20996600",
     "title": "Endpoint on Higgs Structural Identity: Bridge-Carrier Occupation and No Fifth Identity Ground"
+  },
+  "10.5281/zenodo.20119872": {
+    "url": "/papers/standing-localization-and-the-origin-of-physical-locality-20119872/",
+    "work_doi": "10.5281/zenodo.20119872",
+    "title": "Standing Localization and the Origin of Physical Locality"
+  },
+  "10.5281/zenodo.20119873": {
+    "url": "/papers/standing-localization-and-the-origin-of-physical-locality-20119872/",
+    "work_doi": "10.5281/zenodo.20119872",
+    "title": "Standing Localization and the Origin of Physical Locality"
+  },
+  "10.5281/zenodo.20129368": {
+    "url": "/papers/continuation-loci-and-the-origin-of-local-domains-20129368/",
+    "work_doi": "10.5281/zenodo.20129368",
+    "title": "Continuation Loci and the Origin of Local Domains"
+  },
+  "10.5281/zenodo.20129369": {
+    "url": "/papers/continuation-loci-and-the-origin-of-local-domains-20129368/",
+    "work_doi": "10.5281/zenodo.20129368",
+    "title": "Continuation Loci and the Origin of Local Domains"
+  },
+  "10.5281/zenodo.20129464": {
+    "url": "/papers/bounded-perturbation-transport-and-the-origin-of-finite-propagation-constraint-20129464/",
+    "work_doi": "10.5281/zenodo.20129464",
+    "title": "Bounded Perturbation Transport and the Origin of Finite-Propagation Constraint"
+  },
+  "10.5281/zenodo.20129465": {
+    "url": "/papers/bounded-perturbation-transport-and-the-origin-of-finite-propagation-constraint-20129464/",
+    "work_doi": "10.5281/zenodo.20129464",
+    "title": "Bounded Perturbation Transport and the Origin of Finite-Propagation Constraint"
+  },
+  "10.5281/zenodo.20119795": {
+    "url": "/papers/realized-persistence-cannot-be-physically-null-20119795/",
+    "work_doi": "10.5281/zenodo.20119795",
+    "title": "Realized Persistence Cannot Be Physically Null"
+  },
+  "10.5281/zenodo.20119796": {
+    "url": "/papers/realized-persistence-cannot-be-physically-null-20119795/",
+    "work_doi": "10.5281/zenodo.20119795",
+    "title": "Realized Persistence Cannot Be Physically Null"
   }
 }

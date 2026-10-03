@@ -4107,5 +4107,121 @@
     "research_groups": [
       "Higgs Structural Endpoint Arc"
     ]
+  },
+  {
+    "title": "Standing Localization and the Origin of Physical Locality",
+    "doi": "10.5281/zenodo.20119872",
+    "doi_url": "https://doi.org/10.5281/zenodo.20119872",
+    "url": "https://constraintsystemsinstitute.org/papers/standing-localization-and-the-origin-of-physical-locality-20119872/",
+    "slug": "standing-localization-and-the-origin-of-physical-locality-20119872",
+    "date": "2026-05-11",
+    "scholar_date": "2026/05/11",
+    "context": "Realized Physics Arc - Paper 2",
+    "report_number": "CSI-ZENODO-20119872",
+    "description": "The manuscript argues that standing-bearing persistence under perturbation and lawful restoration must factor through a bounded continuation-sensitive locus. This is locality of burden assignment and restoration evaluation; it does not yet supply metric regions, topology, causal cones or Bell-local factorization.",
+    "keywords": "AASC, realized persistence, standing, locality, continuation, transport, Paper 2",
+    "zenodo_record": "https://zenodo.org/records/20119873",
+    "preferred_edition": {
+      "pdf_url": "https://constraintsystemsinstitute.org/manuscripts/zenodo-20119872/sha256-449b1388746ba0109e43a98be757ddf1860e512c82c261a130d58e38359f0545/manuscript.pdf",
+      "doi": "10.5281/zenodo.20119873",
+      "publisher_publication_date": "2026-05-11",
+      "manuscript_date": "May 2026",
+      "sha256": "449b1388746ba0109e43a98be757ddf1860e512c82c261a130d58e38359f0545",
+      "pages": 21
+    },
+    "repository_layout": "current-paper-with-collapsed-history",
+    "subjects": [
+      "Foundations"
+    ],
+    "research_groups": [
+      "Realized Physics Arc"
+    ]
+  },
+  {
+    "title": "Continuation Loci and the Origin of Local Domains",
+    "doi": "10.5281/zenodo.20129368",
+    "doi_url": "https://doi.org/10.5281/zenodo.20129368",
+    "url": "https://constraintsystemsinstitute.org/papers/continuation-loci-and-the-origin-of-local-domains-20129368/",
+    "slug": "continuation-loci-and-the-origin-of-local-domains-20129368",
+    "date": "2026-05-12",
+    "scholar_date": "2026/05/12",
+    "context": "Realized Physics Arc - Paper 3",
+    "report_number": "CSI-ZENODO-20129368",
+    "description": "The manuscript derives pre-topological continuation-neighborhoods and local domains from bounded standing-localization loci, fixed boundary traces and admitted standing-relevant continuation. Boundary compatibility alone does not imply adjacency. Admitted adjacency paths generate local continuation domains without supplying metric distance, open-set topology or spacetime causality.",
+    "keywords": "AASC, realized persistence, standing, locality, continuation, transport, Paper 3",
+    "zenodo_record": "https://zenodo.org/records/20129369",
+    "preferred_edition": {
+      "pdf_url": "https://constraintsystemsinstitute.org/manuscripts/zenodo-20129368/sha256-dc922d3f14dad5930524a03d913186711fcb4d34117de25e4a76f4b9a50ed8f7/manuscript.pdf",
+      "doi": "10.5281/zenodo.20129369",
+      "publisher_publication_date": "2026-05-12",
+      "manuscript_date": "May 2026",
+      "sha256": "dc922d3f14dad5930524a03d913186711fcb4d34117de25e4a76f4b9a50ed8f7",
+      "pages": 19
+    },
+    "repository_layout": "current-paper-with-collapsed-history",
+    "subjects": [
+      "Foundations"
+    ],
+    "research_groups": [
+      "Realized Physics Arc"
+    ]
+  },
+  {
+    "title": "Bounded Perturbation Transport and the Origin of Finite-Propagation Constraint",
+    "doi": "10.5281/zenodo.20129464",
+    "doi_url": "https://doi.org/10.5281/zenodo.20129464",
+    "url": "https://constraintsystemsinstitute.org/papers/bounded-perturbation-transport-and-the-origin-of-finite-propagation-constraint-20129464/",
+    "slug": "bounded-perturbation-transport-and-the-origin-of-finite-propagation-constraint-20129464",
+    "date": "2026-05-12",
+    "scholar_date": "2026/05/12",
+    "context": "Realized Physics Arc - Paper 5",
+    "report_number": "CSI-ZENODO-20129464",
+    "description": "The manuscript argues that admissible standing-relevant perturbation transport must preserve boundary witnesses and quotient comparison through admitted continuation paths. It establishes witnessed transport reach, including admitted global boundary witnesses. It does not derive finite physical speed, temporal causation, light cones or a field propagation law; those require additional metric, temporal and dynamical structure.",
+    "keywords": "AASC, realized persistence, standing, locality, continuation, transport, Paper 5",
+    "zenodo_record": "https://zenodo.org/records/20129465",
+    "preferred_edition": {
+      "pdf_url": "https://constraintsystemsinstitute.org/manuscripts/zenodo-20129464/sha256-cceae96f10dd07341cc8fb61358d0499680cc4ee4aedef6a69b109d3e0215314/manuscript.pdf",
+      "doi": "10.5281/zenodo.20129465",
+      "publisher_publication_date": "2026-05-12",
+      "manuscript_date": "May 2026",
+      "sha256": "cceae96f10dd07341cc8fb61358d0499680cc4ee4aedef6a69b109d3e0215314",
+      "pages": 14
+    },
+    "repository_layout": "current-paper-with-collapsed-history",
+    "subjects": [
+      "Foundations"
+    ],
+    "research_groups": [
+      "Realized Physics Arc"
+    ]
+  },
+  {
+    "title": "Realized Persistence Cannot Be Physically Null",
+    "doi": "10.5281/zenodo.20119795",
+    "doi_url": "https://doi.org/10.5281/zenodo.20119795",
+    "url": "https://constraintsystemsinstitute.org/papers/realized-persistence-cannot-be-physically-null-20119795/",
+    "slug": "realized-persistence-cannot-be-physically-null-20119795",
+    "date": "2026-05-11",
+    "scholar_date": "2026/05/11",
+    "context": "Realized Physics Arc - Paper 1",
+    "report_number": "CSI-ZENODO-20119795",
+    "description": "The manuscript argues that, within a fixed admissible regime, minimally realized standing-bearing persistence requires non-identical continuation-sensitive reconstruction classes. This non-null interior is a role-equivalence class, not a selected substance, geometry, field or particle.",
+    "keywords": "AASC, realized persistence, standing, locality, continuation, transport, Paper 1",
+    "zenodo_record": "https://zenodo.org/records/20119796",
+    "preferred_edition": {
+      "pdf_url": "https://constraintsystemsinstitute.org/manuscripts/zenodo-20119795/sha256-983baf12f3adc2c0cea18a61c2ea80ca943a613244512df01bc467cdf07ece90/manuscript.pdf",
+      "doi": "10.5281/zenodo.20119796",
+      "publisher_publication_date": "2026-05-11",
+      "manuscript_date": "May 2026",
+      "sha256": "983baf12f3adc2c0cea18a61c2ea80ca943a613244512df01bc467cdf07ece90",
+      "pages": 29
+    },
+    "repository_layout": "current-paper-with-collapsed-history",
+    "subjects": [
+      "Foundations"
+    ],
+    "research_groups": [
+      "Realized Physics Arc"
+    ]
   }
 ]

@@ -1,0 +1,16 @@
+{
+  "work_doi": "10.5281/zenodo.20119872",
+  "exact_release_doi": "10.5281/zenodo.20119873",
+  "title": "Standing Localization and the Origin of Physical Locality",
+  "manuscript_date": "May 2026",
+  "publisher_publication_date": "2026-05-11",
+  "publisher_version": null,
+  "sha256": "449b1388746ba0109e43a98be757ddf1860e512c82c261a130d58e38359f0545",
+  "bytes": 289165,
+  "pages": 21,
+  "pdf_url": "https://constraintsystemsinstitute.org/manuscripts/zenodo-20119872/sha256-449b1388746ba0109e43a98be757ddf1860e512c82c261a130d58e38359f0545/manuscript.pdf",
+  "canonical_work_url": "https://constraintsystemsinstitute.org/papers/standing-localization-and-the-origin-of-physical-locality-20119872/",
+  "publisher_url": "https://zenodo.org/records/20119873",
+  "verification": "Publisher checksum and SHA256 byte identity checked; completion markers reviewed. No independent proof verification.",
+  "conversion": "Repository reading summary; no full-text HTML conversion."
+}

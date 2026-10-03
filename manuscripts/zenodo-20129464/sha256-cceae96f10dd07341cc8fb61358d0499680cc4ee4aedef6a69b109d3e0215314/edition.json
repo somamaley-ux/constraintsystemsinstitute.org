@@ -1,0 +1,16 @@
+{
+  "work_doi": "10.5281/zenodo.20129464",
+  "exact_release_doi": "10.5281/zenodo.20129465",
+  "title": "Bounded Perturbation Transport and the Origin of Finite-Propagation Constraint",
+  "manuscript_date": "May 2026",
+  "publisher_publication_date": "2026-05-12",
+  "publisher_version": null,
+  "sha256": "cceae96f10dd07341cc8fb61358d0499680cc4ee4aedef6a69b109d3e0215314",
+  "bytes": 319856,
+  "pages": 14,
+  "pdf_url": "https://constraintsystemsinstitute.org/manuscripts/zenodo-20129464/sha256-cceae96f10dd07341cc8fb61358d0499680cc4ee4aedef6a69b109d3e0215314/manuscript.pdf",
+  "canonical_work_url": "https://constraintsystemsinstitute.org/papers/bounded-perturbation-transport-and-the-origin-of-finite-propagation-constraint-20129464/",
+  "publisher_url": "https://zenodo.org/records/20129465",
+  "verification": "Publisher checksum and SHA256 byte identity checked; completion markers reviewed. No independent proof verification.",
+  "conversion": "Repository reading summary; no full-text HTML conversion."
+}

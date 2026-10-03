@@ -1,0 +1,16 @@
+{
+  "work_doi": "10.5281/zenodo.20129368",
+  "exact_release_doi": "10.5281/zenodo.20129369",
+  "title": "Continuation Loci and the Origin of Local Domains",
+  "manuscript_date": "May 2026",
+  "publisher_publication_date": "2026-05-12",
+  "publisher_version": null,
+  "sha256": "dc922d3f14dad5930524a03d913186711fcb4d34117de25e4a76f4b9a50ed8f7",
+  "bytes": 288308,
+  "pages": 19,
+  "pdf_url": "https://constraintsystemsinstitute.org/manuscripts/zenodo-20129368/sha256-dc922d3f14dad5930524a03d913186711fcb4d34117de25e4a76f4b9a50ed8f7/manuscript.pdf",
+  "canonical_work_url": "https://constraintsystemsinstitute.org/papers/continuation-loci-and-the-origin-of-local-domains-20129368/",
+  "publisher_url": "https://zenodo.org/records/20129369",
+  "verification": "Publisher checksum and SHA256 byte identity checked; completion markers reviewed. No independent proof verification.",
+  "conversion": "Repository reading summary; no full-text HTML conversion."
+}

@@ -1,0 +1,16 @@
+{
+  "work_doi": "10.5281/zenodo.20119795",
+  "exact_release_doi": "10.5281/zenodo.20119796",
+  "title": "Realized Persistence Cannot Be Physically Null",
+  "manuscript_date": "May 2026",
+  "publisher_publication_date": "2026-05-11",
+  "publisher_version": null,
+  "sha256": "983baf12f3adc2c0cea18a61c2ea80ca943a613244512df01bc467cdf07ece90",
+  "bytes": 312296,
+  "pages": 29,
+  "pdf_url": "https://constraintsystemsinstitute.org/manuscripts/zenodo-20119795/sha256-983baf12f3adc2c0cea18a61c2ea80ca943a613244512df01bc467cdf07ece90/manuscript.pdf",
+  "canonical_work_url": "https://constraintsystemsinstitute.org/papers/realized-persistence-cannot-be-physically-null-20119795/",
+  "publisher_url": "https://zenodo.org/records/20119796",
+  "verification": "Publisher checksum and SHA256 byte identity checked; completion markers reviewed. No independent proof verification.",
+  "conversion": "Repository reading summary; no full-text HTML conversion."
+}
