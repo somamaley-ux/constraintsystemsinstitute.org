@@ -6,11 +6,11 @@ Fixes a role-anchor equivalence class under internal non-selection when a declar
 
 Edition: Reviewed October 2026 update. Manuscript cover: May 2026. Revision: October 2026; reviewed two-class witness repair.
 
-Publication status: unpublished_on_zenodo. Exact release DOI: none assigned to these bytes.
+Publication status: published_on_zenodo. Exact release DOI: 10.5281/zenodo.23239294.
 
 SHA256: `7ea472133cabfbc11c3a1437f0e4ef84934bd40c7e02b458504cf1af8d5235da`. 23 PDF pages.
 
-Amos Jay Maley. Boundary-Trace Fixation of Continuation Loci under AASC. October 2026; reviewed two-class witness repair. Reviewed update, not yet published on Zenodo. Website version SHA256 7ea472133cabfbc11c3a1437f0e4ef84934bd40c7e02b458504cf1af8d5235da.
+Amos Jay Maley. Boundary-Trace Fixation of Continuation Loci under AASC. October 2026; reviewed two-class witness repair. DOI: 10.5281/zenodo.23239294.
 
 ## Read the source
 

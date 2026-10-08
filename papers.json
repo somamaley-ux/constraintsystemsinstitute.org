@@ -4757,19 +4757,19 @@
     "report_number": "CSI-ZENODO-20089823",
     "description": "Fixes a role-anchor equivalence class under internal non-selection when a declared, stable, singleton-positive boundary trace is available modulo role equivalence. This reviewed update repairs the two-class witness while retaining class-valued fixation and the stated continuation scope.",
     "keywords": "AASC, admissibility, standing, fixed domain, continuation, persistence, invariance, October 2026 reference update",
-    "zenodo_record": "https://zenodo.org/records/20089824",
+    "zenodo_record": "https://zenodo.org/records/23239294",
     "preferred_edition": {
       "pdf_url": "https://constraintsystemsinstitute.org/manuscripts/zenodo-20089823/sha256-7ea472133cabfbc11c3a1437f0e4ef84934bd40c7e02b458504cf1af8d5235da/manuscript.pdf",
-      "publisher_publication_date": null,
+      "publisher_publication_date": "2026-10-08",
       "sha256": "7ea472133cabfbc11c3a1437f0e4ef84934bd40c7e02b458504cf1af8d5235da",
       "pages": 23,
-      "publication_status": "unpublished_on_zenodo",
+      "publication_status": "published_on_zenodo",
       "edition_role": "preferred_reading_edition",
       "manuscript_date": "May 2026",
       "revision_date": "October 2026; reviewed two-class witness repair",
       "website_updated_date": "2026-10-08",
       "reading_aid_url": "https://constraintsystemsinstitute.org/manuscripts/zenodo-20089823/sha256-7ea472133cabfbc11c3a1437f0e4ef84934bd40c7e02b458504cf1af8d5235da/summary.md",
-      "doi": null
+      "doi": "10.5281/zenodo.23239294"
     },
     "repository_layout": "current-paper-with-collapsed-history",
     "subjects": [

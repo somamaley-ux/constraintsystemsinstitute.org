@@ -3597,15 +3597,15 @@
     },
     {
       "work_doi": "10.5281/zenodo.20089823",
-      "exact_release_doi": null,
+      "exact_release_doi": "10.5281/zenodo.23239294",
       "title": "Boundary-Trace Fixation of Continuation Loci under AASC",
       "edition_label": "Reviewed October 2026 update",
       "edition_role": "preferred_reading_edition",
-      "publication_status": "unpublished_on_zenodo",
+      "publication_status": "published_on_zenodo",
       "manuscript_date": "May 2026",
       "revision_date": "October 2026; reviewed two-class witness repair",
       "website_updated_date": "2026-10-08",
-      "publisher_publication_date": null,
+      "publisher_publication_date": "2026-10-08",
       "publisher_version": null,
       "sha256": "7ea472133cabfbc11c3a1437f0e4ef84934bd40c7e02b458504cf1af8d5235da",
       "source_id": "sha256-7ea472133cabfbc11c3a1437f0e4ef84934bd40c7e02b458504cf1af8d5235da",
@@ -3613,11 +3613,11 @@
       "pages": 23,
       "pdf_url": "https://constraintsystemsinstitute.org/manuscripts/zenodo-20089823/sha256-7ea472133cabfbc11c3a1437f0e4ef84934bd40c7e02b458504cf1af8d5235da/manuscript.pdf",
       "canonical_work_url": "https://constraintsystemsinstitute.org/papers/boundary-trace-fixation-of-continuation-loci-under-aasc-20089823/",
-      "publisher_url": null,
+      "publisher_url": "https://zenodo.org/records/23239294",
       "reading_aid_url": "https://constraintsystemsinstitute.org/manuscripts/zenodo-20089823/sha256-7ea472133cabfbc11c3a1437f0e4ef84934bd40c7e02b458504cf1af8d5235da/summary.md",
-      "verification": "Exact completed author PDF SHA256 checked; no matching public Zenodo release confirmed.",
+      "verification": "Exact completed author PDF SHA256 checked; downloaded publisher PDF and publisher checksum matched.",
       "conversion": "Authoritative searchable PDF; attributed reading aid only, no full manuscript HTML conversion.",
-      "citation": "Amos Jay Maley. Boundary-Trace Fixation of Continuation Loci under AASC. October 2026; reviewed two-class witness repair. Reviewed update, not yet published on Zenodo. Website version SHA256 7ea472133cabfbc11c3a1437f0e4ef84934bd40c7e02b458504cf1af8d5235da.",
+      "citation": "Amos Jay Maley. Boundary-Trace Fixation of Continuation Loci under AASC. October 2026; reviewed two-class witness repair. DOI: 10.5281/zenodo.23239294.",
       "source_evidence": [
         {
           "label": "Title and author overview / abstract",
@@ -3629,7 +3629,19 @@
           "pdf_page": 17,
           "url": "https://constraintsystemsinstitute.org/manuscripts/zenodo-20089823/sha256-7ea472133cabfbc11c3a1437f0e4ef84934bd40c7e02b458504cf1af8d5235da/manuscript.pdf#page=17"
         }
-      ]
+      ],
+      "publisher_verification": {
+        "publisher_metadata_url": "https://zenodo.org/api/records/23239294",
+        "publisher_file_url": "https://zenodo.org/api/records/23239294/files/Boundary_Trace_Fixation_of_Continuation_Loci_under_AASC.pdf/content",
+        "publisher_file_key": "Boundary_Trace_Fixation_of_Continuation_Loci_under_AASC.pdf",
+        "publisher_checksum": "md5:6814f535784193adf8b32bad430cd867",
+        "publisher_checksum_matches": true,
+        "delivery_bytes_match": true,
+        "sha256": "7ea472133cabfbc11c3a1437f0e4ef84934bd40c7e02b458504cf1af8d5235da",
+        "pages": 23,
+        "bytes": 388529,
+        "checked_utc": "2026-10-08T12:58:52.065927+00:00"
+      }
     }
   ],
   "cited_editions": [
@@ -3928,7 +3940,7 @@
       "edition_role": "historical_edition"
     }
   ],
-  "updated_utc": "2026-10-08T12:01:04.996633+00:00",
+  "updated_utc": "2026-10-08T13:01:29.345142+00:00",
   "preferred_reading_editions": {
     "10.5281/zenodo.20039309": "3aa37d699c266fd5a4cdc2a806c67ec162ae5066b4a9d38e5c3e2275bbbb9ea6",
     "10.5281/zenodo.20129504": "e225d6fb90b476980f246fbbd12b1406397da1c712c63d3989a282009e619de5",

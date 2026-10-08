@@ -649,8 +649,8 @@
       "sha256": "7ea472133cabfbc11c3a1437f0e4ef84934bd40c7e02b458504cf1af8d5235da",
       "pages": 23,
       "pdf_url": "https://constraintsystemsinstitute.org/manuscripts/zenodo-20089823/sha256-7ea472133cabfbc11c3a1437f0e4ef84934bd40c7e02b458504cf1af8d5235da/manuscript.pdf",
-      "exact_release_doi": null,
-      "publication_status": "unpublished_on_zenodo",
+      "exact_release_doi": "10.5281/zenodo.23239294",
+      "publication_status": "published_on_zenodo",
       "canonical_work_url": "https://constraintsystemsinstitute.org/papers/boundary-trace-fixation-of-continuation-loci-under-aasc-20089823/",
       "reading_aid_url": "https://constraintsystemsinstitute.org/manuscripts/zenodo-20089823/sha256-7ea472133cabfbc11c3a1437f0e4ef84934bd40c7e02b458504cf1af8d5235da/summary.md"
     }
