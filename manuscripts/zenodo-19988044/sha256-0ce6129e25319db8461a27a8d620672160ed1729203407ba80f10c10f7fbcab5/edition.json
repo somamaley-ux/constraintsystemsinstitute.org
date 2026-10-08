@@ -1,0 +1,48 @@
+{
+  "work_doi": "10.5281/zenodo.19988044",
+  "exact_release_doi": "10.5281/zenodo.23226384",
+  "title": "Boundary-Trace Fixation under Admissibility",
+  "edition_label": "Reviewed October 2026 update",
+  "edition_role": "preferred_reading_edition",
+  "publication_status": "published_on_zenodo",
+  "manuscript_date": "May 2026",
+  "revision_date": "October 2026",
+  "website_updated_date": "2026-10-08",
+  "publisher_publication_date": "2026-10-08",
+  "publisher_version": null,
+  "sha256": "0ce6129e25319db8461a27a8d620672160ed1729203407ba80f10c10f7fbcab5",
+  "source_id": "sha256-0ce6129e25319db8461a27a8d620672160ed1729203407ba80f10c10f7fbcab5",
+  "bytes": 502925,
+  "pages": 26,
+  "pdf_url": "https://constraintsystemsinstitute.org/manuscripts/zenodo-19988044/sha256-0ce6129e25319db8461a27a8d620672160ed1729203407ba80f10c10f7fbcab5/manuscript.pdf",
+  "canonical_work_url": "https://constraintsystemsinstitute.org/papers/boundary-trace-fixation-under-admissibility-10-5281-zenodo-19988044/",
+  "publisher_url": "https://zenodo.org/records/23226384",
+  "reading_aid_url": "https://constraintsystemsinstitute.org/manuscripts/zenodo-19988044/sha256-0ce6129e25319db8461a27a8d620672160ed1729203407ba80f10c10f7fbcab5/summary.md",
+  "verification": "Exact completed author PDF SHA256 checked; downloaded publisher PDF and publisher checksum matched.",
+  "conversion": "Authoritative searchable PDF; attributed reading aid only, no full manuscript HTML conversion.",
+  "citation": "Amos Jay Maley. Boundary-Trace Fixation under Admissibility. October 2026. DOI: 10.5281/zenodo.23226384.",
+  "source_evidence": [
+    {
+      "label": "Title and author overview / abstract",
+      "pdf_page": 1,
+      "url": "https://constraintsystemsinstitute.org/manuscripts/zenodo-19988044/sha256-0ce6129e25319db8461a27a8d620672160ed1729203407ba80f10c10f7fbcab5/manuscript.pdf#page=1"
+    },
+    {
+      "label": "Boundary-Trace Fixation Theorem, Theorem 6.1",
+      "pdf_page": 13,
+      "url": "https://constraintsystemsinstitute.org/manuscripts/zenodo-19988044/sha256-0ce6129e25319db8461a27a8d620672160ed1729203407ba80f10c10f7fbcab5/manuscript.pdf#page=13"
+    }
+  ],
+  "publisher_verification": {
+    "publisher_metadata_url": "https://zenodo.org/api/records/23226384",
+    "publisher_file_url": "https://zenodo.org/api/records/23226384/files/Boundary-Trace%20Fixation%20under%20Admissibility.pdf/content",
+    "publisher_file_key": "Boundary-Trace Fixation under Admissibility.pdf",
+    "publisher_checksum": "md5:0242d4c58b3f8cfc2c1ff54f3f924014",
+    "publisher_checksum_matches": true,
+    "delivery_bytes_match": true,
+    "sha256": "0ce6129e25319db8461a27a8d620672160ed1729203407ba80f10c10f7fbcab5",
+    "pages": 26,
+    "bytes": 502925,
+    "checked_utc": "2026-10-08T12:01:04.996633+00:00"
+  }
+}

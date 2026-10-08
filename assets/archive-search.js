@@ -30,9 +30,9 @@
   for(const p of papers){
    const href=safe(p.url);if(!href||!p.title)continue;
    const labels=p.subjects||['Other research'],exact=p.preferred_edition?.doi||p.preferred_release?.doi;
-   const recordDois=(p.publication_records||[]).flatMap(record=>[record.concept_doi,record.exact_release_doi]).filter(Boolean);
-   const label=p.doi||(p.publication_records||[]).map(record=>record.concept_doi).join(' / ');
-   entries.set(p.work_id||p.doi||href,{href,title:p.title,label,context:labels.join(' / '),subjects:labels,date:p.preferred_edition?.publisher_publication_date||p.preferred_release?.publisher_publication_date||p.date,unavailable:!!p.release_status,search:normal(`${p.title} ${p.doi||''} ${exact||''} ${recordDois.join(' ')} ${p.url} ${p.keywords||''} ${p.description||''} ${labels.join(' ')} ${(p.research_groups||[]).join(' ')}`)});count++
+   const recordDois=[...(p.publication_records||[]).flatMap(record=>[record.concept_doi,record.exact_release_doi]),...(p.earlier_editions||[]).map(edition=>edition.doi)].filter(Boolean);
+   const label=(p.doi||(p.publication_records||[]).map(record=>record.concept_doi).join(' / '))+(p.preferred_edition?.publication_status==='unpublished_on_zenodo'?' · unpublished update':'');
+   entries.set(p.work_id||p.doi||href,{href,title:p.title,label,context:labels.join(' / '),subjects:labels,date:p.updated_date||p.preferred_edition?.publisher_publication_date||p.preferred_release?.publisher_publication_date||p.date,unavailable:!!p.release_status,search:normal(`${p.title} ${p.doi||''} ${exact||''} ${recordDois.join(' ')} ${p.url} ${p.keywords||''} ${p.description||''} ${labels.join(' ')} ${(p.research_groups||[]).join(' ')}`)});count++
   }
   document.body.classList.add('repository-search-ready');loaded=true;render();
  }).catch(()=>{if(list)list.hidden=false;meta.textContent='Search is temporarily unavailable. Browse the complete repository below.';more.hidden=true});

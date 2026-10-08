@@ -1,0 +1,48 @@
+{
+  "work_doi": "10.5281/zenodo.20074284",
+  "exact_release_doi": "10.5281/zenodo.23238139",
+  "title": "The Structural Inadmissibility of the Null Regime",
+  "edition_label": "Reviewed October 2026 update",
+  "edition_role": "preferred_reading_edition",
+  "publication_status": "published_on_zenodo",
+  "manuscript_date": "8 October 2026",
+  "revision_date": "8 October 2026",
+  "website_updated_date": "2026-10-08",
+  "publisher_publication_date": "2026-10-08",
+  "publisher_version": null,
+  "sha256": "c49227cafad32e68afd64bd1d8410c150fa841c922b6bb46a54a88a5dcdf692a",
+  "source_id": "sha256-c49227cafad32e68afd64bd1d8410c150fa841c922b6bb46a54a88a5dcdf692a",
+  "bytes": 500787,
+  "pages": 35,
+  "pdf_url": "https://constraintsystemsinstitute.org/manuscripts/zenodo-20074284/sha256-c49227cafad32e68afd64bd1d8410c150fa841c922b6bb46a54a88a5dcdf692a/manuscript.pdf",
+  "canonical_work_url": "https://constraintsystemsinstitute.org/papers/structural-inadmissibility-of-the-null-regime-20074284/",
+  "publisher_url": "https://zenodo.org/records/23238139",
+  "reading_aid_url": "https://constraintsystemsinstitute.org/manuscripts/zenodo-20074284/sha256-c49227cafad32e68afd64bd1d8410c150fa841c922b6bb46a54a88a5dcdf692a/summary.md",
+  "verification": "Exact completed author PDF SHA256 checked; downloaded publisher PDF and publisher checksum matched.",
+  "conversion": "Authoritative searchable PDF; attributed reading aid only, no full manuscript HTML conversion.",
+  "citation": "Amos Jay Maley. The Structural Inadmissibility of the Null Regime. 8 October 2026. DOI: 10.5281/zenodo.23238139.",
+  "source_evidence": [
+    {
+      "label": "Title and author overview / abstract",
+      "pdf_page": 1,
+      "url": "https://constraintsystemsinstitute.org/manuscripts/zenodo-20074284/sha256-c49227cafad32e68afd64bd1d8410c150fa841c922b6bb46a54a88a5dcdf692a/manuscript.pdf#page=1"
+    },
+    {
+      "label": "Theorem N1, Section 20",
+      "pdf_page": 21,
+      "url": "https://constraintsystemsinstitute.org/manuscripts/zenodo-20074284/sha256-c49227cafad32e68afd64bd1d8410c150fa841c922b6bb46a54a88a5dcdf692a/manuscript.pdf#page=21"
+    }
+  ],
+  "publisher_verification": {
+    "publisher_metadata_url": "https://zenodo.org/api/records/23238139",
+    "publisher_file_url": "https://zenodo.org/api/records/23238139/files/The_Structural_Inadmissibility_of_the_Null_Regime.pdf/content",
+    "publisher_file_key": "The_Structural_Inadmissibility_of_the_Null_Regime.pdf",
+    "publisher_checksum": "md5:9f700ef7959f9b398053537d926af87e",
+    "publisher_checksum_matches": true,
+    "delivery_bytes_match": true,
+    "sha256": "c49227cafad32e68afd64bd1d8410c150fa841c922b6bb46a54a88a5dcdf692a",
+    "pages": 35,
+    "bytes": 500787,
+    "checked_utc": "2026-10-08T12:01:04.996633+00:00"
+  }
+}

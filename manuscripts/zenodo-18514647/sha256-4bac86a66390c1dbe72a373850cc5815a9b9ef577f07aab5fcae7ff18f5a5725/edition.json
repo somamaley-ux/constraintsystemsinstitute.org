@@ -1,0 +1,48 @@
+{
+  "work_doi": "10.5281/zenodo.18514647",
+  "exact_release_doi": "10.5281/zenodo.23226453",
+  "title": "Admissible Record Construction in Physically Non-Selective Quantum Regimes",
+  "edition_label": "Reviewed October 2026 update",
+  "edition_role": "preferred_reading_edition",
+  "publication_status": "published_on_zenodo",
+  "manuscript_date": "2026",
+  "revision_date": "October 2026",
+  "website_updated_date": "2026-10-08",
+  "publisher_publication_date": "2026-10-08",
+  "publisher_version": null,
+  "sha256": "4bac86a66390c1dbe72a373850cc5815a9b9ef577f07aab5fcae7ff18f5a5725",
+  "source_id": "sha256-4bac86a66390c1dbe72a373850cc5815a9b9ef577f07aab5fcae7ff18f5a5725",
+  "bytes": 1237396,
+  "pages": 125,
+  "pdf_url": "https://constraintsystemsinstitute.org/manuscripts/zenodo-18514647/sha256-4bac86a66390c1dbe72a373850cc5815a9b9ef577f07aab5fcae7ff18f5a5725/manuscript.pdf",
+  "canonical_work_url": "https://constraintsystemsinstitute.org/papers/admissible-record-construction-in-physically-non-selective-quantum-regimes-measurement/",
+  "publisher_url": "https://zenodo.org/records/23226453",
+  "reading_aid_url": "https://constraintsystemsinstitute.org/manuscripts/zenodo-18514647/sha256-4bac86a66390c1dbe72a373850cc5815a9b9ef577f07aab5fcae7ff18f5a5725/summary.md",
+  "verification": "Exact completed author PDF SHA256 checked; downloaded publisher PDF and publisher checksum matched.",
+  "conversion": "Authoritative searchable PDF; attributed reading aid only, no full manuscript HTML conversion.",
+  "citation": "Amos Jay Maley. Admissible Record Construction in Physically Non-Selective Quantum Regimes. October 2026. DOI: 10.5281/zenodo.23226453.",
+  "source_evidence": [
+    {
+      "label": "Title and author overview / abstract",
+      "pdf_page": 1,
+      "url": "https://constraintsystemsinstitute.org/manuscripts/zenodo-18514647/sha256-4bac86a66390c1dbe72a373850cc5815a9b9ef577f07aab5fcae7ff18f5a5725/manuscript.pdf#page=1"
+    },
+    {
+      "label": "Boundary-trace fixation, Section 8",
+      "pdf_page": 73,
+      "url": "https://constraintsystemsinstitute.org/manuscripts/zenodo-18514647/sha256-4bac86a66390c1dbe72a373850cc5815a9b9ef577f07aab5fcae7ff18f5a5725/manuscript.pdf#page=73"
+    }
+  ],
+  "publisher_verification": {
+    "publisher_metadata_url": "https://zenodo.org/api/records/23226453",
+    "publisher_file_url": "https://zenodo.org/api/records/23226453/files/Admissible%20Record%20Construction%20in%20Physically%20Non-Selective%20Quantum%20Regimes.pdf/content",
+    "publisher_file_key": "Admissible Record Construction in Physically Non-Selective Quantum Regimes.pdf",
+    "publisher_checksum": "md5:0d5de53ec414bdf52d3cc0e91ecea354",
+    "publisher_checksum_matches": true,
+    "delivery_bytes_match": true,
+    "sha256": "4bac86a66390c1dbe72a373850cc5815a9b9ef577f07aab5fcae7ff18f5a5725",
+    "pages": 125,
+    "bytes": 1237396,
+    "checked_utc": "2026-10-08T12:01:04.996633+00:00"
+  }
+}

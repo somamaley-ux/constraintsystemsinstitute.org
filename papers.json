@@ -731,30 +731,47 @@
     "research_groups": []
   },
   {
-    "title": "Module C: upstream continuation and projection intertwining",
+    "title": "Kernel-Native Upstream Continuation and Projection Intertwining under AASC",
     "doi": "10.5281/zenodo.21616213",
     "doi_url": "https://doi.org/10.5281/zenodo.21616213",
     "url": "https://constraintsystemsinstitute.org/papers/module-c-upstream-continuation-and-projection-intertwining-10-5281-zenodo-21616213/",
     "slug": "module-c-upstream-continuation-and-projection-intertwining-10-5281-zenodo-21616213",
-    "date": "2026-08-27",
-    "scholar_date": "2026/08/27",
+    "date": "2026-10-08",
+    "scholar_date": "2026/10/08",
     "context": "Constructive physical realization",
     "report_number": "CSI-ZENODO-21616213",
-    "description": "Part of the Constructive physical realization research arc in the Constraint Systems Institute archive.",
-    "keywords": "AASC, Constraint Systems Institute, theoretical physics, mathematical foundations, Constructive physical realization",
-    "zenodo_record": "https://zenodo.org/doi/10.5281/zenodo.21616213",
+    "description": "Constructs one independently formed upstream continuation with lawful metric-orbit and quantum projection processes on its fixed target. This edition clarifies inherited governing obligations in the licensed interior and their faithful bookkeeping representations.",
+    "keywords": "AASC, Constraint Systems Institute, theoretical physics, mathematical foundations, Constructive physical realization, October 2026 reference update",
+    "zenodo_record": "https://zenodo.org/records/23226519",
     "preferred_edition": {
-      "pdf_url": "https://constraintsystemsinstitute.org/manuscripts/zenodo-21616213/sha256-ae4aea8c244eb175f4bbef055abfe4edffe71c9a8303ca1f947c641f4eb8e7d3/manuscript.pdf",
-      "doi": "10.5281/zenodo.21616214",
-      "publisher_publication_date": "2026-07-27",
-      "sha256": "ae4aea8c244eb175f4bbef055abfe4edffe71c9a8303ca1f947c641f4eb8e7d3",
-      "pages": 54
+      "pdf_url": "https://constraintsystemsinstitute.org/manuscripts/zenodo-21616213/sha256-65480098e7b66c6af4a73d2d63f05592db7e2805a871c7562fa46d905edff0b9/manuscript.pdf",
+      "publisher_publication_date": "2026-10-08",
+      "sha256": "65480098e7b66c6af4a73d2d63f05592db7e2805a871c7562fa46d905edff0b9",
+      "pages": 54,
+      "publication_status": "published_on_zenodo",
+      "edition_role": "preferred_reading_edition",
+      "manuscript_date": "2026; v1.2.1-editorial-clarified-import-authorized",
+      "revision_date": "October 2026",
+      "website_updated_date": "2026-10-08",
+      "reading_aid_url": "https://constraintsystemsinstitute.org/manuscripts/zenodo-21616213/sha256-65480098e7b66c6af4a73d2d63f05592db7e2805a871c7562fa46d905edff0b9/summary.md",
+      "doi": "10.5281/zenodo.23226519"
     },
     "repository_layout": "current-paper-with-collapsed-history",
     "subjects": [
       "Gravity and quantum dynamics"
     ],
-    "research_groups": []
+    "research_groups": [],
+    "earlier_editions": [
+      {
+        "pdf_url": "https://constraintsystemsinstitute.org/manuscripts/zenodo-21616213/sha256-ae4aea8c244eb175f4bbef055abfe4edffe71c9a8303ca1f947c641f4eb8e7d3/manuscript.pdf",
+        "doi": "10.5281/zenodo.21616214",
+        "publisher_publication_date": "2026-07-27",
+        "sha256": "ae4aea8c244eb175f4bbef055abfe4edffe71c9a8303ca1f947c641f4eb8e7d3",
+        "pages": 54,
+        "edition_role": "historical_edition"
+      }
+    ],
+    "updated_date": "2026-10-08"
   },
   {
     "title": "Module D: certificate-fibre exhaustion and unique lawful role occupancy",
@@ -783,25 +800,30 @@
     "research_groups": []
   },
   {
-    "title": "Metricity as Licensed Description",
+    "title": "Metricity as Licensed Description: The L-metric Boundary and the Realized Physical Interior",
     "doi": "10.5281/zenodo.20338474",
     "doi_url": "https://doi.org/10.5281/zenodo.20338474",
     "url": "https://constraintsystemsinstitute.org/papers/metricity-as-licensed-description-10-5281-zenodo-20338474/",
     "slug": "metricity-as-licensed-description-10-5281-zenodo-20338474",
-    "date": "2026-05-22",
-    "scholar_date": "2026/05/22",
+    "date": "2026-10-08",
+    "scholar_date": "2026/10/08",
     "context": "Cosmology / Constants",
     "report_number": "CSI-ZENODO-20338474",
-    "description": "Metricity as Licensed Description: The L-Metric Boundary and the Realized Physical Interior This manuscript develops the L-metric boundary as the admissibility-to-metric-description interface within the Admissibility And Standing Constraint (AASC) framework. The central result is that metric structure is not primitive boundary authority: distance, duration, locality, propagation, curvature, scale, and metric-dependent parameters become lawful only as licensed interior descriptors within a non-degenerate target r...",
-    "keywords": "AASC, Constraint Systems Institute, theoretical physics, mathematical foundations, Cosmology / Constants, Admissibility And Standing Constraint; AASC; L-metric boundary; boundary authority; physical ontology; exhaustion classifier; physics foundations; non-degenerate construction; fixed-domain exhaustion; constraint formalism; licensed description; metric description; metricity",
-    "zenodo_record": "https://zenodo.org/records/20338475",
+    "description": "Constructs metric-use licensing from original answers, application domains, joint conditions and a declared continuation contract. Licensing permits physical metric description without generating metric structure, standing or ontology.",
+    "keywords": "AASC, Constraint Systems Institute, theoretical physics, mathematical foundations, Cosmology / Constants, Admissibility And Standing Constraint; AASC; L-metric boundary; boundary authority; physical ontology; exhaustion classifier; physics foundations; non-degenerate construction; fixed-domain exhaustion; constraint formalism; licensed description; metric description; metricity, October 2026 reference update",
+    "zenodo_record": "https://zenodo.org/records/23226427",
     "preferred_edition": {
-      "pdf_url": "https://constraintsystemsinstitute.org/manuscripts/metricity/sha256-6d73b71c267ea80973994c18c669b338338280887b5a358396e8e05cb7a2801e/manuscript.pdf",
-      "doi": "10.5281/zenodo.20338475",
-      "publisher_publication_date": "2026-05-22",
-      "sha256": "6d73b71c267ea80973994c18c669b338338280887b5a358396e8e05cb7a2801e",
-      "pages": 45,
-      "manuscript_date": "2026-05"
+      "pdf_url": "https://constraintsystemsinstitute.org/manuscripts/zenodo-20338474/sha256-4d14912adef3e276bbbe3d52bbf5b5fd57941ca2ff19735385fd41fdc4d3f781/manuscript.pdf",
+      "publisher_publication_date": "2026-10-08",
+      "sha256": "4d14912adef3e276bbbe3d52bbf5b5fd57941ca2ff19735385fd41fdc4d3f781",
+      "pages": 53,
+      "publication_status": "published_on_zenodo",
+      "edition_role": "preferred_reading_edition",
+      "manuscript_date": "May 2026",
+      "revision_date": "4 October 2026",
+      "website_updated_date": "2026-10-08",
+      "reading_aid_url": "https://constraintsystemsinstitute.org/manuscripts/zenodo-20338474/sha256-4d14912adef3e276bbbe3d52bbf5b5fd57941ca2ff19735385fd41fdc4d3f781/summary.md",
+      "doi": "10.5281/zenodo.23226427"
     },
     "repository_layout": "current-paper-with-collapsed-history",
     "subjects": [
@@ -810,7 +832,19 @@
     ],
     "research_groups": [
       "Cosmology / Constants"
-    ]
+    ],
+    "earlier_editions": [
+      {
+        "pdf_url": "https://constraintsystemsinstitute.org/manuscripts/metricity/sha256-6d73b71c267ea80973994c18c669b338338280887b5a358396e8e05cb7a2801e/manuscript.pdf",
+        "doi": "10.5281/zenodo.20338475",
+        "publisher_publication_date": "2026-05-22",
+        "sha256": "6d73b71c267ea80973994c18c669b338338280887b5a358396e8e05cb7a2801e",
+        "pages": 45,
+        "manuscript_date": "2026-05",
+        "edition_role": "historical_edition"
+      }
+    ],
+    "updated_date": "2026-10-08"
   },
   {
     "title": "Null Propagation as the Causal-Limit Invariant: Why the Speed of Light Is a Metric Representative",
@@ -1142,24 +1176,30 @@
     ]
   },
   {
-    "title": "Admissible Record Construction in Physically Non-Selective Quantum Regimes (Measurement Problem)",
+    "title": "Admissible Record Construction in Physically Non-Selective Quantum Regimes",
     "doi": "10.5281/zenodo.18514647",
     "doi_url": "https://doi.org/10.5281/zenodo.18514647",
     "url": "https://constraintsystemsinstitute.org/papers/admissible-record-construction-in-physically-non-selective-quantum-regimes-measurement/",
     "slug": "admissible-record-construction-in-physically-non-selective-quantum-regimes-measurement",
-    "date": "2026-07-04",
-    "scholar_date": "2026/07/04",
+    "date": "2026-10-08",
+    "scholar_date": "2026/10/08",
     "context": "Gravity / Quantum Unification",
     "report_number": "CSI-GQ",
-    "description": "Admissible Record Construction in Physically Non-Selective Quantum Regimes Fixed-Domain Quotients, Record-Fixation, and Constructional Determinacy This paper develops a fixed-domain analysis of the quantum measurement problem centered on admissible record-fixation rather than outcome production alone. The manuscript studies physically non-selective quantum regimes - especially Everettian branching structures - in which multiple stable post-measurement records are physically realized without a privileged selector...",
-    "keywords": "AASC, Constraint Systems Institute, theoretical physics, mathematical foundations, Gravity / Quantum Unification, gravity, quantum theory, Einstein dynamics, Schrodinger dynamics, quantum measurement; Everett interpretation; reference fixing; admissibility; standing equivalence; quotient structure; philosophy of quantum mechanics; foundations of physics; mathematical logic; diachronic identity",
-    "zenodo_record": "https://zenodo.org/records/21195820",
+    "description": "Specializes the necessary Kernel to determinate measurement-record construction and an explicit finite quantum measurement domain. Fine records remain separated while the declared non-selective surfaces agree on a merged record.",
+    "keywords": "AASC, Constraint Systems Institute, theoretical physics, mathematical foundations, Gravity / Quantum Unification, gravity, quantum theory, Einstein dynamics, Schrodinger dynamics, quantum measurement; Everett interpretation; reference fixing; admissibility; standing equivalence; quotient structure; philosophy of quantum mechanics; foundations of physics; mathematical logic; diachronic identity, October 2026 reference update",
+    "zenodo_record": "https://zenodo.org/records/23226453",
     "preferred_edition": {
-      "pdf_url": "https://constraintsystemsinstitute.org/manuscripts/zenodo-18514647/sha256-578d3af3a1e1fc4fa64049d42dba4883aea25cf89f642fc46cfcb4acb07d4f16/manuscript.pdf",
-      "doi": "10.5281/zenodo.21306603",
-      "publisher_publication_date": "2026-07-11",
-      "sha256": "578d3af3a1e1fc4fa64049d42dba4883aea25cf89f642fc46cfcb4acb07d4f16",
-      "pages": 121
+      "pdf_url": "https://constraintsystemsinstitute.org/manuscripts/zenodo-18514647/sha256-4bac86a66390c1dbe72a373850cc5815a9b9ef577f07aab5fcae7ff18f5a5725/manuscript.pdf",
+      "publisher_publication_date": "2026-10-08",
+      "sha256": "4bac86a66390c1dbe72a373850cc5815a9b9ef577f07aab5fcae7ff18f5a5725",
+      "pages": 125,
+      "publication_status": "published_on_zenodo",
+      "edition_role": "preferred_reading_edition",
+      "manuscript_date": "2026",
+      "revision_date": "October 2026",
+      "website_updated_date": "2026-10-08",
+      "reading_aid_url": "https://constraintsystemsinstitute.org/manuscripts/zenodo-18514647/sha256-4bac86a66390c1dbe72a373850cc5815a9b9ef577f07aab5fcae7ff18f5a5725/summary.md",
+      "doi": "10.5281/zenodo.23226453"
     },
     "repository_layout": "current-paper-with-collapsed-history",
     "subjects": [
@@ -1170,7 +1210,18 @@
     "research_groups": [
       "Gravity / Quantum Unification",
       "Quantum Measurement and Entanglement"
-    ]
+    ],
+    "earlier_editions": [
+      {
+        "pdf_url": "https://constraintsystemsinstitute.org/manuscripts/zenodo-18514647/sha256-578d3af3a1e1fc4fa64049d42dba4883aea25cf89f642fc46cfcb4acb07d4f16/manuscript.pdf",
+        "doi": "10.5281/zenodo.21306603",
+        "publisher_publication_date": "2026-07-11",
+        "sha256": "578d3af3a1e1fc4fa64049d42dba4883aea25cf89f642fc46cfcb4acb07d4f16",
+        "pages": 121,
+        "edition_role": "historical_edition"
+      }
+    ],
+    "updated_date": "2026-10-08"
   },
   {
     "title": "Einstein Dynamics as the Unique Minimal First-Response Metric Projection of AASC Gravity",
@@ -1542,25 +1593,42 @@
     "doi_url": "https://doi.org/10.5281/zenodo.19988044",
     "url": "https://constraintsystemsinstitute.org/papers/boundary-trace-fixation-under-admissibility-10-5281-zenodo-19988044/",
     "slug": "boundary-trace-fixation-under-admissibility-10-5281-zenodo-19988044",
-    "date": "2026-05-02",
-    "scholar_date": "2026/05/02",
+    "date": "2026-10-08",
+    "scholar_date": "2026/10/08",
     "context": "Non-Degenerate Construction and the Kernel of Admissibility",
     "report_number": "CSI-ZENODO-19988044",
-    "description": "Description Title: Boundary-Trace Fixation under Admissibility: Forced Environmental Coupling as the Final Role-Anchor Asymmetry Summary This paper establishes the Fixation Theorem for admissible construction systems: a unique role-anchor assignment exists if and only if a boundary-trace asymmetry exists; otherwise, fixation is impossible. The result is derived within the AASC (Admissible Construction under Standing Constraints) framework and closes the reference-formation problem under internal non-selectivity....",
-    "keywords": "AASC, Constraint Systems Institute, theoretical physics, mathematical foundations, Non-Degenerate Construction and the Kernel of Admissibility, admissible construction; standing constraints; boundary trace; environmental coupling; reference fixation; asymmetry exhaustion; symmetry breaking; construction systems; non-selectivity; outcome-complete systems; structural necessity; closure theorem",
-    "zenodo_record": "https://zenodo.org/records/19988045",
+    "description": "Distinguishes complete original-role qualification from sound licensed trace selection, and token fixation from role-class fixation. The revised environmental fixation theorem retains the original channel, joint-input and lawful-transport conditions.",
+    "keywords": "AASC, Constraint Systems Institute, theoretical physics, mathematical foundations, Non-Degenerate Construction and the Kernel of Admissibility, admissible construction; standing constraints; boundary trace; environmental coupling; reference fixation; asymmetry exhaustion; symmetry breaking; construction systems; non-selectivity; outcome-complete systems; structural necessity; closure theorem, October 2026 reference update",
+    "zenodo_record": "https://zenodo.org/records/23226384",
     "preferred_edition": {
-      "pdf_url": "https://constraintsystemsinstitute.org/manuscripts/zenodo-19988044/sha256-3344a3ec4c9094434ed73629db75d6e714192a3db3e199412ca41d25877f5a6d/manuscript.pdf",
-      "doi": "10.5281/zenodo.19988045",
-      "publisher_publication_date": "2026-05-02",
-      "sha256": "3344a3ec4c9094434ed73629db75d6e714192a3db3e199412ca41d25877f5a6d",
-      "pages": 25
+      "pdf_url": "https://constraintsystemsinstitute.org/manuscripts/zenodo-19988044/sha256-0ce6129e25319db8461a27a8d620672160ed1729203407ba80f10c10f7fbcab5/manuscript.pdf",
+      "publisher_publication_date": "2026-10-08",
+      "sha256": "0ce6129e25319db8461a27a8d620672160ed1729203407ba80f10c10f7fbcab5",
+      "pages": 26,
+      "publication_status": "published_on_zenodo",
+      "edition_role": "preferred_reading_edition",
+      "manuscript_date": "May 2026",
+      "revision_date": "October 2026",
+      "website_updated_date": "2026-10-08",
+      "reading_aid_url": "https://constraintsystemsinstitute.org/manuscripts/zenodo-19988044/sha256-0ce6129e25319db8461a27a8d620672160ed1729203407ba80f10c10f7fbcab5/summary.md",
+      "doi": "10.5281/zenodo.23226384"
     },
     "repository_layout": "current-paper-with-collapsed-history",
     "subjects": [
       "Foundations"
     ],
-    "research_groups": []
+    "research_groups": [],
+    "earlier_editions": [
+      {
+        "pdf_url": "https://constraintsystemsinstitute.org/manuscripts/zenodo-19988044/sha256-3344a3ec4c9094434ed73629db75d6e714192a3db3e199412ca41d25877f5a6d/manuscript.pdf",
+        "doi": "10.5281/zenodo.19988045",
+        "publisher_publication_date": "2026-05-02",
+        "sha256": "3344a3ec4c9094434ed73629db75d6e714192a3db3e199412ca41d25877f5a6d",
+        "pages": 25,
+        "edition_role": "historical_edition"
+      }
+    ],
+    "updated_date": "2026-10-08"
   },
   {
     "title": "Constraint-Bundle Forcing under Fixed-Domain Evaluability",
@@ -4683,20 +4751,25 @@
     "doi_url": "https://doi.org/10.5281/zenodo.20089823",
     "url": "https://constraintsystemsinstitute.org/papers/boundary-trace-fixation-of-continuation-loci-under-aasc-20089823/",
     "slug": "boundary-trace-fixation-of-continuation-loci-under-aasc-20089823",
-    "date": "2026-05-08",
-    "scholar_date": "2026/05/08",
+    "date": "2026-10-08",
+    "scholar_date": "2026/10/08",
     "context": "Fixed-domain continuation and persistence foundations",
     "report_number": "CSI-ZENODO-20089823",
-    "description": "The manuscript fixes a role-anchor equivalence class for an internally non-selective continuation-locus problem when a declared boundary trace is bivalent, stable, outcome-independent, same-domain typed and singleton-positive modulo role equivalence. Absent or failed trace conditions leave that fixation undefined and fail closed. The trace is structural authority under those conditions, not an observational oracle, confirmation score or default representative selector; other role slots may remain unfixed.",
-    "keywords": "AASC, admissibility, standing, fixed domain, continuation, persistence, invariance",
+    "description": "Fixes a role-anchor equivalence class under internal non-selection when a declared, stable, singleton-positive boundary trace is available modulo role equivalence. This reviewed update repairs the two-class witness while retaining class-valued fixation and the stated continuation scope.",
+    "keywords": "AASC, admissibility, standing, fixed domain, continuation, persistence, invariance, October 2026 reference update",
     "zenodo_record": "https://zenodo.org/records/20089824",
     "preferred_edition": {
-      "pdf_url": "https://constraintsystemsinstitute.org/manuscripts/zenodo-20089823/sha256-600da3e7fd97a1c518f03c8a812061bc19a9c60036ed3dedb01a18ac6c59d9c7/manuscript.pdf",
-      "doi": "10.5281/zenodo.20089824",
-      "publisher_publication_date": "2026-05-08",
+      "pdf_url": "https://constraintsystemsinstitute.org/manuscripts/zenodo-20089823/sha256-7ea472133cabfbc11c3a1437f0e4ef84934bd40c7e02b458504cf1af8d5235da/manuscript.pdf",
+      "publisher_publication_date": null,
+      "sha256": "7ea472133cabfbc11c3a1437f0e4ef84934bd40c7e02b458504cf1af8d5235da",
+      "pages": 23,
+      "publication_status": "unpublished_on_zenodo",
+      "edition_role": "preferred_reading_edition",
       "manuscript_date": "May 2026",
-      "sha256": "600da3e7fd97a1c518f03c8a812061bc19a9c60036ed3dedb01a18ac6c59d9c7",
-      "pages": 22
+      "revision_date": "October 2026; reviewed two-class witness repair",
+      "website_updated_date": "2026-10-08",
+      "reading_aid_url": "https://constraintsystemsinstitute.org/manuscripts/zenodo-20089823/sha256-7ea472133cabfbc11c3a1437f0e4ef84934bd40c7e02b458504cf1af8d5235da/summary.md",
+      "doi": null
     },
     "repository_layout": "current-paper-with-collapsed-history",
     "subjects": [
@@ -4704,7 +4777,19 @@
     ],
     "research_groups": [
       "Continuation and Persistence"
-    ]
+    ],
+    "earlier_editions": [
+      {
+        "pdf_url": "https://constraintsystemsinstitute.org/manuscripts/zenodo-20089823/sha256-600da3e7fd97a1c518f03c8a812061bc19a9c60036ed3dedb01a18ac6c59d9c7/manuscript.pdf",
+        "doi": "10.5281/zenodo.20089824",
+        "publisher_publication_date": "2026-05-08",
+        "manuscript_date": "May 2026",
+        "sha256": "600da3e7fd97a1c518f03c8a812061bc19a9c60036ed3dedb01a18ac6c59d9c7",
+        "pages": 22,
+        "edition_role": "historical_edition"
+      }
+    ],
+    "updated_date": "2026-10-08"
   },
   {
     "title": "Continuation-Locus Induction under Admissibility-Bearing Governance",
@@ -4741,20 +4826,25 @@
     "doi_url": "https://doi.org/10.5281/zenodo.20074284",
     "url": "https://constraintsystemsinstitute.org/papers/structural-inadmissibility-of-the-null-regime-20074284/",
     "slug": "structural-inadmissibility-of-the-null-regime-20074284",
-    "date": "2026-05-07",
-    "scholar_date": "2026/05/07",
+    "date": "2026-10-08",
+    "scholar_date": "2026/10/08",
     "context": "Fixed-domain continuation and persistence foundations",
     "report_number": "CSI-ZENODO-20074284",
-    "description": "The manuscript excludes total AASC vacuity as an admissible same-type fixed-domain closure regime. It distinguishes that target from formal empty objects, an all-rejecting classifier, raw absence and mute non-claims. Admissibility-relevant use of an empty-extension classification still incurs evaluability obligations. The result is a structural closure claim; it does not establish concrete instantiation, cosmological genesis or an unrestricted rejection of nullist theses.",
-    "keywords": "AASC, admissibility, standing, fixed domain, continuation, persistence, invariance",
-    "zenodo_record": "https://zenodo.org/records/20074285",
+    "description": "Establishes a fixed-domain closure theorem excluding total vacuity as an admissibility-bearing evaluability regime under the manuscript’s same-type preservation conditions. The result is closure-theoretic rather than an existential or cosmological construction.",
+    "keywords": "AASC, admissibility, standing, fixed domain, continuation, persistence, invariance, October 2026 reference update",
+    "zenodo_record": "https://zenodo.org/records/23238139",
     "preferred_edition": {
-      "pdf_url": "https://constraintsystemsinstitute.org/manuscripts/zenodo-20074284/sha256-789e4177c7e45d9f328d1d000b5ffeddf84419a64715f170c0eb6d66e1813269/manuscript.pdf",
-      "doi": "10.5281/zenodo.20074285",
-      "publisher_publication_date": "2026-05-07",
-      "manuscript_date": null,
-      "sha256": "789e4177c7e45d9f328d1d000b5ffeddf84419a64715f170c0eb6d66e1813269",
-      "pages": 33
+      "pdf_url": "https://constraintsystemsinstitute.org/manuscripts/zenodo-20074284/sha256-c49227cafad32e68afd64bd1d8410c150fa841c922b6bb46a54a88a5dcdf692a/manuscript.pdf",
+      "publisher_publication_date": "2026-10-08",
+      "sha256": "c49227cafad32e68afd64bd1d8410c150fa841c922b6bb46a54a88a5dcdf692a",
+      "pages": 35,
+      "publication_status": "published_on_zenodo",
+      "edition_role": "preferred_reading_edition",
+      "manuscript_date": "8 October 2026",
+      "revision_date": "8 October 2026",
+      "website_updated_date": "2026-10-08",
+      "reading_aid_url": "https://constraintsystemsinstitute.org/manuscripts/zenodo-20074284/sha256-c49227cafad32e68afd64bd1d8410c150fa841c922b6bb46a54a88a5dcdf692a/summary.md",
+      "doi": "10.5281/zenodo.23238139"
     },
     "repository_layout": "current-paper-with-collapsed-history",
     "subjects": [
@@ -4762,7 +4852,19 @@
     ],
     "research_groups": [
       "Continuation and Persistence"
-    ]
+    ],
+    "earlier_editions": [
+      {
+        "pdf_url": "https://constraintsystemsinstitute.org/manuscripts/zenodo-20074284/sha256-789e4177c7e45d9f328d1d000b5ffeddf84419a64715f170c0eb6d66e1813269/manuscript.pdf",
+        "doi": "10.5281/zenodo.20074285",
+        "publisher_publication_date": "2026-05-07",
+        "manuscript_date": null,
+        "sha256": "789e4177c7e45d9f328d1d000b5ffeddf84419a64715f170c0eb6d66e1813269",
+        "pages": 33,
+        "edition_role": "historical_edition"
+      }
+    ],
+    "updated_date": "2026-10-08"
   },
   {
     "title": "Renormalization Invariance and Standing Preservation in the Non-Predictivity of Zero-Point Vacuum Energy",
@@ -6106,6 +6208,121 @@
     ],
     "research_groups": [
       "Gauge representation and ontology"
+    ]
+  },
+  {
+    "title": "Admissible Construction and the Non-Instantiability of Gödel Architectures",
+    "doi": "10.5281/zenodo.19470169",
+    "doi_url": "https://doi.org/10.5281/zenodo.19470169",
+    "url": "https://constraintsystemsinstitute.org/papers/admissible-construction-and-the-non-instantiability-of-godel-architectures-19470169/",
+    "slug": "admissible-construction-and-the-non-instantiability-of-godel-architectures-19470169",
+    "context": "Foundational construction",
+    "report_number": "CSI-ZENODO-19470169",
+    "subjects": [
+      "Foundations",
+      "Mathematics"
+    ],
+    "research_groups": [],
+    "description": "Studies Gödel-style same-domain incompleteness architectures in a fixed admissibility-governed construction regime with its complete original substrate. Classical incompleteness in its standard metamathematical setting is retained.",
+    "preferred_edition": {
+      "pdf_url": "https://constraintsystemsinstitute.org/manuscripts/zenodo-19470169/sha256-1a6605a5c0b74551e83046c2a15f733c9082f994b688be1761771445e5ceee0e/manuscript.pdf",
+      "publisher_publication_date": "2026-10-08",
+      "sha256": "1a6605a5c0b74551e83046c2a15f733c9082f994b688be1761771445e5ceee0e",
+      "pages": 50,
+      "publication_status": "published_on_zenodo",
+      "edition_role": "preferred_reading_edition",
+      "manuscript_date": "Scientific reference update: 8 October 2026",
+      "revision_date": "8 October 2026",
+      "website_updated_date": "2026-10-08",
+      "reading_aid_url": "https://constraintsystemsinstitute.org/manuscripts/zenodo-19470169/sha256-1a6605a5c0b74551e83046c2a15f733c9082f994b688be1761771445e5ceee0e/summary.md",
+      "doi": "10.5281/zenodo.23238104"
+    },
+    "earlier_editions": [],
+    "repository_layout": "current-paper-with-collapsed-history",
+    "date": "2026-10-08",
+    "scholar_date": "2026/10/08",
+    "updated_date": "2026-10-08",
+    "keywords": "AASC, admissibility, standing, coherent construction, October 2026 reference update",
+    "zenodo_record": "https://zenodo.org/records/23238104",
+    "publication_records": [
+      {
+        "concept_doi": "10.5281/zenodo.19470169",
+        "exact_release_doi": "10.5281/zenodo.23238104",
+        "publisher_url": "https://zenodo.org/records/23238104",
+        "publisher_publication_date": "2026-10-08",
+        "title": "Admissible Construction and the Non-Instantiability of Gödel Architectures"
+      },
+      {
+        "concept_doi": "10.5281/zenodo.19470169",
+        "exact_release_doi": "10.5281/zenodo.19658739",
+        "publisher_url": "https://zenodo.org/records/19658739",
+        "publisher_publication_date": "2026-04-20",
+        "title": "Admissible Construction and the Non-Instantiability of Gödel Architectures (Incompleteness)"
+      },
+      {
+        "concept_doi": "10.5281/zenodo.19470169",
+        "exact_release_doi": "10.5281/zenodo.19470170",
+        "publisher_url": "https://zenodo.org/records/19470170",
+        "publisher_publication_date": "2026-04-08",
+        "title": "Non-Instantiability of Gödel Incompleteness in the Unique Admissible Interior"
+      }
+    ]
+  },
+  {
+    "title": "The Structure of Coherent Construction: A Bivalent Trajectory Theory",
+    "doi": "10.5281/zenodo.19338549",
+    "doi_url": "https://doi.org/10.5281/zenodo.19338549",
+    "url": "https://constraintsystemsinstitute.org/papers/structure-of-coherent-construction-bivalent-trajectory-theory-19338549/",
+    "slug": "structure-of-coherent-construction-bivalent-trajectory-theory-19338549",
+    "context": "Foundational construction",
+    "report_number": "CSI-ZENODO-19338549",
+    "subjects": [
+      "Foundations"
+    ],
+    "research_groups": [],
+    "description": "Develops coherent trajectories on one finite fixed-scope substrate, including prefix and composition closure, lawful transformation invariance, tensor determination, skin neutrality and irrecoverability. The result is internal to that stated substrate.",
+    "preferred_edition": {
+      "pdf_url": "https://constraintsystemsinstitute.org/manuscripts/zenodo-19338549/sha256-b8d9e0ac32cba2ada3e8936c2841fc0da5ede1d5161da307e4cd4cc0432fade8/manuscript.pdf",
+      "publisher_publication_date": "2026-10-08",
+      "sha256": "b8d9e0ac32cba2ada3e8936c2841fc0da5ede1d5161da307e4cd4cc0432fade8",
+      "pages": 26,
+      "publication_status": "published_on_zenodo",
+      "edition_role": "preferred_reading_edition",
+      "manuscript_date": "Scientific reference update, 8 October 2026",
+      "revision_date": "8 October 2026",
+      "website_updated_date": "2026-10-08",
+      "reading_aid_url": "https://constraintsystemsinstitute.org/manuscripts/zenodo-19338549/sha256-b8d9e0ac32cba2ada3e8936c2841fc0da5ede1d5161da307e4cd4cc0432fade8/summary.md",
+      "doi": "10.5281/zenodo.23238018"
+    },
+    "earlier_editions": [],
+    "repository_layout": "current-paper-with-collapsed-history",
+    "date": "2026-10-08",
+    "scholar_date": "2026/10/08",
+    "updated_date": "2026-10-08",
+    "keywords": "AASC, admissibility, standing, coherent construction, October 2026 reference update",
+    "zenodo_record": "https://zenodo.org/records/23238018",
+    "publication_records": [
+      {
+        "concept_doi": "10.5281/zenodo.19338549",
+        "exact_release_doi": "10.5281/zenodo.23238018",
+        "publisher_url": "https://zenodo.org/records/23238018",
+        "publisher_publication_date": "2026-10-08",
+        "title": "The Structure of Coherent Construction: A Bivalent Trajectory Theory"
+      },
+      {
+        "concept_doi": "10.5281/zenodo.19338549",
+        "exact_release_doi": "10.5281/zenodo.19657834",
+        "publisher_url": "https://zenodo.org/records/19657834",
+        "publisher_publication_date": "2026-04-20",
+        "title": "The Structure of Coherent Construction: A Bivalent Trajectory Theory (Conservation Evolution)"
+      },
+      {
+        "concept_doi": "10.5281/zenodo.19338549",
+        "exact_release_doi": "10.5281/zenodo.19338550",
+        "publisher_url": "https://zenodo.org/records/19338550",
+        "publisher_publication_date": "2026-03-30",
+        "title": "The Mathematics of Coherent Reasoning: A Bivalent Trajectory Theory"
+      }
     ]
   }
 ]

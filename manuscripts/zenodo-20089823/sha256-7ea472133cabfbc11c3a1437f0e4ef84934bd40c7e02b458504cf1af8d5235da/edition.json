@@ -1,0 +1,36 @@
+{
+  "work_doi": "10.5281/zenodo.20089823",
+  "exact_release_doi": null,
+  "title": "Boundary-Trace Fixation of Continuation Loci under AASC",
+  "edition_label": "Reviewed October 2026 update",
+  "edition_role": "preferred_reading_edition",
+  "publication_status": "unpublished_on_zenodo",
+  "manuscript_date": "May 2026",
+  "revision_date": "October 2026; reviewed two-class witness repair",
+  "website_updated_date": "2026-10-08",
+  "publisher_publication_date": null,
+  "publisher_version": null,
+  "sha256": "7ea472133cabfbc11c3a1437f0e4ef84934bd40c7e02b458504cf1af8d5235da",
+  "source_id": "sha256-7ea472133cabfbc11c3a1437f0e4ef84934bd40c7e02b458504cf1af8d5235da",
+  "bytes": 388529,
+  "pages": 23,
+  "pdf_url": "https://constraintsystemsinstitute.org/manuscripts/zenodo-20089823/sha256-7ea472133cabfbc11c3a1437f0e4ef84934bd40c7e02b458504cf1af8d5235da/manuscript.pdf",
+  "canonical_work_url": "https://constraintsystemsinstitute.org/papers/boundary-trace-fixation-of-continuation-loci-under-aasc-20089823/",
+  "publisher_url": null,
+  "reading_aid_url": "https://constraintsystemsinstitute.org/manuscripts/zenodo-20089823/sha256-7ea472133cabfbc11c3a1437f0e4ef84934bd40c7e02b458504cf1af8d5235da/summary.md",
+  "verification": "Exact completed author PDF SHA256 checked; no matching public Zenodo release confirmed.",
+  "conversion": "Authoritative searchable PDF; attributed reading aid only, no full manuscript HTML conversion.",
+  "citation": "Amos Jay Maley. Boundary-Trace Fixation of Continuation Loci under AASC. October 2026; reviewed two-class witness repair. Reviewed update, not yet published on Zenodo. Website version SHA256 7ea472133cabfbc11c3a1437f0e4ef84934bd40c7e02b458504cf1af8d5235da.",
+  "source_evidence": [
+    {
+      "label": "Title and author overview / abstract",
+      "pdf_page": 1,
+      "url": "https://constraintsystemsinstitute.org/manuscripts/zenodo-20089823/sha256-7ea472133cabfbc11c3a1437f0e4ef84934bd40c7e02b458504cf1af8d5235da/manuscript.pdf#page=1"
+    },
+    {
+      "label": "Finite witness model, Section 13",
+      "pdf_page": 17,
+      "url": "https://constraintsystemsinstitute.org/manuscripts/zenodo-20089823/sha256-7ea472133cabfbc11c3a1437f0e4ef84934bd40c7e02b458504cf1af8d5235da/manuscript.pdf#page=17"
+    }
+  ]
+}

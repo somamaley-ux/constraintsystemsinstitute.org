@@ -1,0 +1,43 @@
+{
+  "work_doi": "10.5281/zenodo.21616213",
+  "exact_release_doi": "10.5281/zenodo.23226519",
+  "title": "Kernel-Native Upstream Continuation and Projection Intertwining under AASC",
+  "edition_label": "Reviewed October 2026 update",
+  "edition_role": "preferred_reading_edition",
+  "publication_status": "published_on_zenodo",
+  "manuscript_date": "2026; v1.2.1-editorial-clarified-import-authorized",
+  "revision_date": "October 2026",
+  "website_updated_date": "2026-10-08",
+  "publisher_publication_date": "2026-10-08",
+  "publisher_version": null,
+  "sha256": "65480098e7b66c6af4a73d2d63f05592db7e2805a871c7562fa46d905edff0b9",
+  "source_id": "sha256-65480098e7b66c6af4a73d2d63f05592db7e2805a871c7562fa46d905edff0b9",
+  "bytes": 749526,
+  "pages": 54,
+  "pdf_url": "https://constraintsystemsinstitute.org/manuscripts/zenodo-21616213/sha256-65480098e7b66c6af4a73d2d63f05592db7e2805a871c7562fa46d905edff0b9/manuscript.pdf",
+  "canonical_work_url": "https://constraintsystemsinstitute.org/papers/module-c-upstream-continuation-and-projection-intertwining-10-5281-zenodo-21616213/",
+  "publisher_url": "https://zenodo.org/records/23226519",
+  "reading_aid_url": "https://constraintsystemsinstitute.org/manuscripts/zenodo-21616213/sha256-65480098e7b66c6af4a73d2d63f05592db7e2805a871c7562fa46d905edff0b9/summary.md",
+  "verification": "Exact completed author PDF SHA256 checked; downloaded publisher PDF and publisher checksum matched.",
+  "conversion": "Authoritative searchable PDF; attributed reading aid only, no full manuscript HTML conversion.",
+  "citation": "Amos Jay Maley. Kernel-Native Upstream Continuation and Projection Intertwining under AASC. October 2026. DOI: 10.5281/zenodo.23226519.",
+  "source_evidence": [
+    {
+      "label": "Title and author overview / abstract",
+      "pdf_page": 1,
+      "url": "https://constraintsystemsinstitute.org/manuscripts/zenodo-21616213/sha256-65480098e7b66c6af4a73d2d63f05592db7e2805a871c7562fa46d905edff0b9/manuscript.pdf#page=1"
+    }
+  ],
+  "publisher_verification": {
+    "publisher_metadata_url": "https://zenodo.org/api/records/23226519",
+    "publisher_file_url": "https://zenodo.org/api/records/23226519/files/Kernel-Native%20Upstream%20Continuation%20and%20Projection%20Intertwining%20under%20AASC_AASC%20MOD%20C.pdf/content",
+    "publisher_file_key": "Kernel-Native Upstream Continuation and Projection Intertwining under AASC_AASC MOD C.pdf",
+    "publisher_checksum": "md5:756ba9a78e0fd2848c4cc75370efe040",
+    "publisher_checksum_matches": true,
+    "delivery_bytes_match": true,
+    "sha256": "65480098e7b66c6af4a73d2d63f05592db7e2805a871c7562fa46d905edff0b9",
+    "pages": 54,
+    "bytes": 749526,
+    "checked_utc": "2026-10-08T12:01:04.996633+00:00"
+  }
+}

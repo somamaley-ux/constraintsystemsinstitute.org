@@ -2,7 +2,7 @@
 
 > Source access for Amos Jay Maley's research manuscripts: exact PDF editions, a bounded foundational reading guide, and catalogue metadata.
 
-The catalogue currently contains 211 canonical work records; records are not PDF editions. Individual versioned PDFs are authoritative manuscript text. Markdown summaries and guides are attributed reading aids, not full manuscript conversions or independent proof verification.
+The catalogue currently contains 213 canonical work records; records are not PDF editions. Individual versioned PDFs are authoritative manuscript text. Markdown summaries and guides are attributed reading aids, not full manuscript conversions or independent proof verification.
 
 The foundational direction argued in the manuscripts is non-degenerate determinate construction -> necessary Kernel -> Admissibility, Standing, Reference and Irreversibility ([kernel: Proposition 2.4; Theorem 3.1 / Theorem 3.6, PDF pp. 14-27; exact DOI 10.5281/zenodo.22968658](https://constraintsystemsinstitute.org/manuscripts/kernel/sha256-4e1bafc4844d90ca7ba5268d1b6b5ee21bf92f082a2a61b4eea039faed0c037e/manuscript.pdf#page=14)). These roles concern qualification, role warrant, identity/original incidence and retained constraint history. Do not turn this into a blanket global uniqueness claim over other research.
 
@@ -12,7 +12,7 @@ Logical dependency, local reconstruction, projection and certificate assembly ha
 
 ## Start here
 
-- [Expanded formalism, glossary and dependency guide](https://constraintsystemsinstitute.org/llms-full.txt): Six foundational reading editions with exact edition evidence and unresolved-import limits; not the full corpus.
+- [Expanded formalism, glossary and dependency guide](https://constraintsystemsinstitute.org/llms-full.txt): Six edition-pinned foundational reading aids with exact edition evidence and unresolved-import limits; not the full corpus.
 - [Formalism guide in Markdown](https://constraintsystemsinstitute.org/manuscripts/guide/index.md): The same expanded reading aid in a conventional Markdown file.
 - [Human-readable foundational guide](https://constraintsystemsinstitute.org/manuscripts/guide/): Existing guide with source-page links.
 - [Foundational edition and consumer-reference registry](https://constraintsystemsinstitute.org/manuscripts/registry.json): SHA256 identities, concept versus exact release DOIs and named older imports.
@@ -31,3 +31,16 @@ Logical dependency, local reconstruction, projection and certificate assembly ha
 - [Current canonical catalogue](https://constraintsystemsinstitute.org/papers.json): Work-level metadata and preferred reading editions; coverage does not imply every paper has been read or verified.
 - [Browse and search the repository](https://constraintsystemsinstitute.org/papers/): Canonical work pages with read/download/citation links.
 - [Citation and reuse guidance](https://constraintsystemsinstitute.org/using-the-research/): Cite the exact release consulted, not an all-versions DOI as an exact theorem import.
+
+## Current catalogue updates
+
+The May Metricity reading aid remains historical. Updated exact editions, PDF links and publisher-check records are in [the catalogue](https://constraintsystemsinstitute.org/papers.json) and [edition registry](https://constraintsystemsinstitute.org/data/repository-editions.json). Frozen imports are unchanged.
+
+- [Metricity as Licensed Description: The L-metric Boundary and the Realized Physical Interior](https://constraintsystemsinstitute.org/papers/metricity-as-licensed-description-10-5281-zenodo-20338474/): published_on_zenodo; 10.5281/zenodo.23226427.
+- [Boundary-Trace Fixation under Admissibility](https://constraintsystemsinstitute.org/papers/boundary-trace-fixation-under-admissibility-10-5281-zenodo-19988044/): published_on_zenodo; 10.5281/zenodo.23226384.
+- [Admissible Record Construction in Physically Non-Selective Quantum Regimes](https://constraintsystemsinstitute.org/papers/admissible-record-construction-in-physically-non-selective-quantum-regimes-measurement/): published_on_zenodo; 10.5281/zenodo.23226453.
+- [Admissible Construction and the Non-Instantiability of Gödel Architectures](https://constraintsystemsinstitute.org/papers/admissible-construction-and-the-non-instantiability-of-godel-architectures-19470169/): published_on_zenodo; 10.5281/zenodo.23238104.
+- [The Structure of Coherent Construction: A Bivalent Trajectory Theory](https://constraintsystemsinstitute.org/papers/structure-of-coherent-construction-bivalent-trajectory-theory-19338549/): published_on_zenodo; 10.5281/zenodo.23238018.
+- [The Structural Inadmissibility of the Null Regime](https://constraintsystemsinstitute.org/papers/structural-inadmissibility-of-the-null-regime-20074284/): published_on_zenodo; 10.5281/zenodo.23238139.
+- [Kernel-Native Upstream Continuation and Projection Intertwining under AASC](https://constraintsystemsinstitute.org/papers/module-c-upstream-continuation-and-projection-intertwining-10-5281-zenodo-21616213/): published_on_zenodo; 10.5281/zenodo.23226519.
+- [Boundary-Trace Fixation of Continuation Loci under AASC](https://constraintsystemsinstitute.org/papers/boundary-trace-fixation-of-continuation-loci-under-aasc-20089823/): unpublished_on_zenodo; no exact DOI assigned to these bytes.

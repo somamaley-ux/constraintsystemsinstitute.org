@@ -1,0 +1,48 @@
+{
+  "work_doi": "10.5281/zenodo.19470169",
+  "exact_release_doi": "10.5281/zenodo.23238104",
+  "title": "Admissible Construction and the Non-Instantiability of Gödel Architectures",
+  "edition_label": "Reviewed October 2026 update",
+  "edition_role": "preferred_reading_edition",
+  "publication_status": "published_on_zenodo",
+  "manuscript_date": "Scientific reference update: 8 October 2026",
+  "revision_date": "8 October 2026",
+  "website_updated_date": "2026-10-08",
+  "publisher_publication_date": "2026-10-08",
+  "publisher_version": null,
+  "sha256": "1a6605a5c0b74551e83046c2a15f733c9082f994b688be1761771445e5ceee0e",
+  "source_id": "sha256-1a6605a5c0b74551e83046c2a15f733c9082f994b688be1761771445e5ceee0e",
+  "bytes": 605381,
+  "pages": 50,
+  "pdf_url": "https://constraintsystemsinstitute.org/manuscripts/zenodo-19470169/sha256-1a6605a5c0b74551e83046c2a15f733c9082f994b688be1761771445e5ceee0e/manuscript.pdf",
+  "canonical_work_url": "https://constraintsystemsinstitute.org/papers/admissible-construction-and-the-non-instantiability-of-godel-architectures-19470169/",
+  "publisher_url": "https://zenodo.org/records/23238104",
+  "reading_aid_url": "https://constraintsystemsinstitute.org/manuscripts/zenodo-19470169/sha256-1a6605a5c0b74551e83046c2a15f733c9082f994b688be1761771445e5ceee0e/summary.md",
+  "verification": "Exact completed author PDF SHA256 checked; downloaded publisher PDF and publisher checksum matched.",
+  "conversion": "Authoritative searchable PDF; attributed reading aid only, no full manuscript HTML conversion.",
+  "citation": "Amos Jay Maley. Admissible Construction and the Non-Instantiability of Gödel Architectures. 8 October 2026. DOI: 10.5281/zenodo.23238104.",
+  "source_evidence": [
+    {
+      "label": "Title and author overview / abstract",
+      "pdf_page": 1,
+      "url": "https://constraintsystemsinstitute.org/manuscripts/zenodo-19470169/sha256-1a6605a5c0b74551e83046c2a15f733c9082f994b688be1761771445e5ceee0e/manuscript.pdf#page=1"
+    },
+    {
+      "label": "Limits and non-claims, Section 8",
+      "pdf_page": 11,
+      "url": "https://constraintsystemsinstitute.org/manuscripts/zenodo-19470169/sha256-1a6605a5c0b74551e83046c2a15f733c9082f994b688be1761771445e5ceee0e/manuscript.pdf#page=11"
+    }
+  ],
+  "publisher_verification": {
+    "publisher_metadata_url": "https://zenodo.org/api/records/23238104",
+    "publisher_file_url": "https://zenodo.org/api/records/23238104/files/Admissible%20Construction%20and%20the%20Non-Instantiability%20of%20G%C3%B6del%20Architectures.pdf/content",
+    "publisher_file_key": "Admissible Construction and the Non-Instantiability of Gödel Architectures.pdf",
+    "publisher_checksum": "md5:4d5c17832cb10863de9c21ded6554199",
+    "publisher_checksum_matches": true,
+    "delivery_bytes_match": true,
+    "sha256": "1a6605a5c0b74551e83046c2a15f733c9082f994b688be1761771445e5ceee0e",
+    "pages": 50,
+    "bytes": 605381,
+    "checked_utc": "2026-10-08T12:01:04.996633+00:00"
+  }
+}

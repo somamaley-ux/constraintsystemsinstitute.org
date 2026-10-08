@@ -302,7 +302,7 @@
   "10.5281/zenodo.21616213": {
     "url": "/papers/module-c-upstream-continuation-and-projection-intertwining-10-5281-zenodo-21616213/",
     "work_doi": "10.5281/zenodo.21616213",
-    "title": "Module C: upstream continuation and projection intertwining"
+    "title": "Kernel-Native Upstream Continuation and Projection Intertwining under AASC"
   },
   "10.5281/zenodo.21616214": {
     "url": "/papers/module-c-upstream-continuation-and-projection-intertwining-10-5281-zenodo-21616213/",
@@ -332,7 +332,7 @@
   "10.5281/zenodo.20338474": {
     "url": "/papers/metricity-as-licensed-description-10-5281-zenodo-20338474/",
     "work_doi": "10.5281/zenodo.20338474",
-    "title": "Metricity as Licensed Description"
+    "title": "Metricity as Licensed Description: The L-metric Boundary and the Realized Physical Interior"
   },
   "10.5281/zenodo.20338475": {
     "url": "/papers/metricity-as-licensed-description-10-5281-zenodo-20338474/",
@@ -467,7 +467,7 @@
   "10.5281/zenodo.18514647": {
     "url": "/papers/admissible-record-construction-in-physically-non-selective-quantum-regimes-measurement/",
     "work_doi": "10.5281/zenodo.18514647",
-    "title": "Admissible Record Construction in Physically Non-Selective Quantum Regimes (Measurement Problem)"
+    "title": "Admissible Record Construction in Physically Non-Selective Quantum Regimes"
   },
   "10.5281/zenodo.21306603": {
     "url": "/papers/admissible-record-construction-in-physically-non-selective-quantum-regimes-measurement/",
@@ -2361,5 +2361,70 @@
     "url": "/papers/why-gauge-symmetry-cannot-be-ontic-18477389/",
     "work_doi": "10.5281/zenodo.18477389",
     "title": "Why Gauge Symmetry Cannot Be Ontic"
+  },
+  "10.5281/zenodo.23226427": {
+    "url": "/papers/metricity-as-licensed-description-10-5281-zenodo-20338474/",
+    "work_doi": "10.5281/zenodo.20338474",
+    "title": "Metricity as Licensed Description: The L-metric Boundary and the Realized Physical Interior"
+  },
+  "10.5281/zenodo.23226384": {
+    "url": "/papers/boundary-trace-fixation-under-admissibility-10-5281-zenodo-19988044/",
+    "work_doi": "10.5281/zenodo.19988044",
+    "title": "Boundary-Trace Fixation under Admissibility"
+  },
+  "10.5281/zenodo.23226453": {
+    "url": "/papers/admissible-record-construction-in-physically-non-selective-quantum-regimes-measurement/",
+    "work_doi": "10.5281/zenodo.18514647",
+    "title": "Admissible Record Construction in Physically Non-Selective Quantum Regimes"
+  },
+  "10.5281/zenodo.19470169": {
+    "url": "/papers/admissible-construction-and-the-non-instantiability-of-godel-architectures-19470169/",
+    "work_doi": "10.5281/zenodo.19470169",
+    "title": "Admissible Construction and the Non-Instantiability of Gödel Architectures"
+  },
+  "10.5281/zenodo.23238104": {
+    "url": "/papers/admissible-construction-and-the-non-instantiability-of-godel-architectures-19470169/",
+    "work_doi": "10.5281/zenodo.19470169",
+    "title": "Admissible Construction and the Non-Instantiability of Gödel Architectures"
+  },
+  "10.5281/zenodo.19658739": {
+    "url": "/papers/admissible-construction-and-the-non-instantiability-of-godel-architectures-19470169/",
+    "work_doi": "10.5281/zenodo.19470169",
+    "title": "Admissible Construction and the Non-Instantiability of Gödel Architectures"
+  },
+  "10.5281/zenodo.19470170": {
+    "url": "/papers/admissible-construction-and-the-non-instantiability-of-godel-architectures-19470169/",
+    "work_doi": "10.5281/zenodo.19470169",
+    "title": "Admissible Construction and the Non-Instantiability of Gödel Architectures"
+  },
+  "10.5281/zenodo.19338549": {
+    "url": "/papers/structure-of-coherent-construction-bivalent-trajectory-theory-19338549/",
+    "work_doi": "10.5281/zenodo.19338549",
+    "title": "The Structure of Coherent Construction: A Bivalent Trajectory Theory"
+  },
+  "10.5281/zenodo.23238018": {
+    "url": "/papers/structure-of-coherent-construction-bivalent-trajectory-theory-19338549/",
+    "work_doi": "10.5281/zenodo.19338549",
+    "title": "The Structure of Coherent Construction: A Bivalent Trajectory Theory"
+  },
+  "10.5281/zenodo.19657834": {
+    "url": "/papers/structure-of-coherent-construction-bivalent-trajectory-theory-19338549/",
+    "work_doi": "10.5281/zenodo.19338549",
+    "title": "The Structure of Coherent Construction: A Bivalent Trajectory Theory"
+  },
+  "10.5281/zenodo.19338550": {
+    "url": "/papers/structure-of-coherent-construction-bivalent-trajectory-theory-19338549/",
+    "work_doi": "10.5281/zenodo.19338549",
+    "title": "The Structure of Coherent Construction: A Bivalent Trajectory Theory"
+  },
+  "10.5281/zenodo.23238139": {
+    "url": "/papers/structural-inadmissibility-of-the-null-regime-20074284/",
+    "work_doi": "10.5281/zenodo.20074284",
+    "title": "The Structural Inadmissibility of the Null Regime"
+  },
+  "10.5281/zenodo.23226519": {
+    "url": "/papers/module-c-upstream-continuation-and-projection-intertwining-10-5281-zenodo-21616213/",
+    "work_doi": "10.5281/zenodo.21616213",
+    "title": "Kernel-Native Upstream Continuation and Projection Intertwining under AASC"
   }
 }

@@ -563,5 +563,96 @@
       },
       "reason": "Companion reference does not identify an exact edition; May 2026 consumer cannot be silently rebound to September reading PDFs."
     }
+  ],
+  "edition_scope_note": "The six curated reading aids retain their exact source editions. New preferred catalogue editions are listed separately; existing consumer evidence is not rebound.",
+  "current_catalogue_updates": [
+    {
+      "work_doi": "10.5281/zenodo.20338474",
+      "title": "Metricity as Licensed Description: The L-metric Boundary and the Realized Physical Interior",
+      "sha256": "4d14912adef3e276bbbe3d52bbf5b5fd57941ca2ff19735385fd41fdc4d3f781",
+      "pages": 53,
+      "pdf_url": "https://constraintsystemsinstitute.org/manuscripts/zenodo-20338474/sha256-4d14912adef3e276bbbe3d52bbf5b5fd57941ca2ff19735385fd41fdc4d3f781/manuscript.pdf",
+      "exact_release_doi": "10.5281/zenodo.23226427",
+      "publication_status": "published_on_zenodo",
+      "canonical_work_url": "https://constraintsystemsinstitute.org/papers/metricity-as-licensed-description-10-5281-zenodo-20338474/",
+      "reading_aid_url": "https://constraintsystemsinstitute.org/manuscripts/zenodo-20338474/sha256-4d14912adef3e276bbbe3d52bbf5b5fd57941ca2ff19735385fd41fdc4d3f781/summary.md"
+    },
+    {
+      "work_doi": "10.5281/zenodo.19988044",
+      "title": "Boundary-Trace Fixation under Admissibility",
+      "sha256": "0ce6129e25319db8461a27a8d620672160ed1729203407ba80f10c10f7fbcab5",
+      "pages": 26,
+      "pdf_url": "https://constraintsystemsinstitute.org/manuscripts/zenodo-19988044/sha256-0ce6129e25319db8461a27a8d620672160ed1729203407ba80f10c10f7fbcab5/manuscript.pdf",
+      "exact_release_doi": "10.5281/zenodo.23226384",
+      "publication_status": "published_on_zenodo",
+      "canonical_work_url": "https://constraintsystemsinstitute.org/papers/boundary-trace-fixation-under-admissibility-10-5281-zenodo-19988044/",
+      "reading_aid_url": "https://constraintsystemsinstitute.org/manuscripts/zenodo-19988044/sha256-0ce6129e25319db8461a27a8d620672160ed1729203407ba80f10c10f7fbcab5/summary.md"
+    },
+    {
+      "work_doi": "10.5281/zenodo.18514647",
+      "title": "Admissible Record Construction in Physically Non-Selective Quantum Regimes",
+      "sha256": "4bac86a66390c1dbe72a373850cc5815a9b9ef577f07aab5fcae7ff18f5a5725",
+      "pages": 125,
+      "pdf_url": "https://constraintsystemsinstitute.org/manuscripts/zenodo-18514647/sha256-4bac86a66390c1dbe72a373850cc5815a9b9ef577f07aab5fcae7ff18f5a5725/manuscript.pdf",
+      "exact_release_doi": "10.5281/zenodo.23226453",
+      "publication_status": "published_on_zenodo",
+      "canonical_work_url": "https://constraintsystemsinstitute.org/papers/admissible-record-construction-in-physically-non-selective-quantum-regimes-measurement/",
+      "reading_aid_url": "https://constraintsystemsinstitute.org/manuscripts/zenodo-18514647/sha256-4bac86a66390c1dbe72a373850cc5815a9b9ef577f07aab5fcae7ff18f5a5725/summary.md"
+    },
+    {
+      "work_doi": "10.5281/zenodo.19470169",
+      "title": "Admissible Construction and the Non-Instantiability of Gödel Architectures",
+      "sha256": "1a6605a5c0b74551e83046c2a15f733c9082f994b688be1761771445e5ceee0e",
+      "pages": 50,
+      "pdf_url": "https://constraintsystemsinstitute.org/manuscripts/zenodo-19470169/sha256-1a6605a5c0b74551e83046c2a15f733c9082f994b688be1761771445e5ceee0e/manuscript.pdf",
+      "exact_release_doi": "10.5281/zenodo.23238104",
+      "publication_status": "published_on_zenodo",
+      "canonical_work_url": "https://constraintsystemsinstitute.org/papers/admissible-construction-and-the-non-instantiability-of-godel-architectures-19470169/",
+      "reading_aid_url": "https://constraintsystemsinstitute.org/manuscripts/zenodo-19470169/sha256-1a6605a5c0b74551e83046c2a15f733c9082f994b688be1761771445e5ceee0e/summary.md"
+    },
+    {
+      "work_doi": "10.5281/zenodo.19338549",
+      "title": "The Structure of Coherent Construction: A Bivalent Trajectory Theory",
+      "sha256": "b8d9e0ac32cba2ada3e8936c2841fc0da5ede1d5161da307e4cd4cc0432fade8",
+      "pages": 26,
+      "pdf_url": "https://constraintsystemsinstitute.org/manuscripts/zenodo-19338549/sha256-b8d9e0ac32cba2ada3e8936c2841fc0da5ede1d5161da307e4cd4cc0432fade8/manuscript.pdf",
+      "exact_release_doi": "10.5281/zenodo.23238018",
+      "publication_status": "published_on_zenodo",
+      "canonical_work_url": "https://constraintsystemsinstitute.org/papers/structure-of-coherent-construction-bivalent-trajectory-theory-19338549/",
+      "reading_aid_url": "https://constraintsystemsinstitute.org/manuscripts/zenodo-19338549/sha256-b8d9e0ac32cba2ada3e8936c2841fc0da5ede1d5161da307e4cd4cc0432fade8/summary.md"
+    },
+    {
+      "work_doi": "10.5281/zenodo.20074284",
+      "title": "The Structural Inadmissibility of the Null Regime",
+      "sha256": "c49227cafad32e68afd64bd1d8410c150fa841c922b6bb46a54a88a5dcdf692a",
+      "pages": 35,
+      "pdf_url": "https://constraintsystemsinstitute.org/manuscripts/zenodo-20074284/sha256-c49227cafad32e68afd64bd1d8410c150fa841c922b6bb46a54a88a5dcdf692a/manuscript.pdf",
+      "exact_release_doi": "10.5281/zenodo.23238139",
+      "publication_status": "published_on_zenodo",
+      "canonical_work_url": "https://constraintsystemsinstitute.org/papers/structural-inadmissibility-of-the-null-regime-20074284/",
+      "reading_aid_url": "https://constraintsystemsinstitute.org/manuscripts/zenodo-20074284/sha256-c49227cafad32e68afd64bd1d8410c150fa841c922b6bb46a54a88a5dcdf692a/summary.md"
+    },
+    {
+      "work_doi": "10.5281/zenodo.21616213",
+      "title": "Kernel-Native Upstream Continuation and Projection Intertwining under AASC",
+      "sha256": "65480098e7b66c6af4a73d2d63f05592db7e2805a871c7562fa46d905edff0b9",
+      "pages": 54,
+      "pdf_url": "https://constraintsystemsinstitute.org/manuscripts/zenodo-21616213/sha256-65480098e7b66c6af4a73d2d63f05592db7e2805a871c7562fa46d905edff0b9/manuscript.pdf",
+      "exact_release_doi": "10.5281/zenodo.23226519",
+      "publication_status": "published_on_zenodo",
+      "canonical_work_url": "https://constraintsystemsinstitute.org/papers/module-c-upstream-continuation-and-projection-intertwining-10-5281-zenodo-21616213/",
+      "reading_aid_url": "https://constraintsystemsinstitute.org/manuscripts/zenodo-21616213/sha256-65480098e7b66c6af4a73d2d63f05592db7e2805a871c7562fa46d905edff0b9/summary.md"
+    },
+    {
+      "work_doi": "10.5281/zenodo.20089823",
+      "title": "Boundary-Trace Fixation of Continuation Loci under AASC",
+      "sha256": "7ea472133cabfbc11c3a1437f0e4ef84934bd40c7e02b458504cf1af8d5235da",
+      "pages": 23,
+      "pdf_url": "https://constraintsystemsinstitute.org/manuscripts/zenodo-20089823/sha256-7ea472133cabfbc11c3a1437f0e4ef84934bd40c7e02b458504cf1af8d5235da/manuscript.pdf",
+      "exact_release_doi": null,
+      "publication_status": "unpublished_on_zenodo",
+      "canonical_work_url": "https://constraintsystemsinstitute.org/papers/boundary-trace-fixation-of-continuation-loci-under-aasc-20089823/",
+      "reading_aid_url": "https://constraintsystemsinstitute.org/manuscripts/zenodo-20089823/sha256-7ea472133cabfbc11c3a1437f0e4ef84934bd40c7e02b458504cf1af8d5235da/summary.md"
+    }
   ]
 }

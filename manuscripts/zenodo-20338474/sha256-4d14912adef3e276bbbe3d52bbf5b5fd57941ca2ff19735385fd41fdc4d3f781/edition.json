@@ -1,0 +1,53 @@
+{
+  "work_doi": "10.5281/zenodo.20338474",
+  "exact_release_doi": "10.5281/zenodo.23226427",
+  "title": "Metricity as Licensed Description: The L-metric Boundary and the Realized Physical Interior",
+  "edition_label": "Reviewed October 2026 update",
+  "edition_role": "preferred_reading_edition",
+  "publication_status": "published_on_zenodo",
+  "manuscript_date": "May 2026",
+  "revision_date": "4 October 2026",
+  "website_updated_date": "2026-10-08",
+  "publisher_publication_date": "2026-10-08",
+  "publisher_version": null,
+  "sha256": "4d14912adef3e276bbbe3d52bbf5b5fd57941ca2ff19735385fd41fdc4d3f781",
+  "source_id": "sha256-4d14912adef3e276bbbe3d52bbf5b5fd57941ca2ff19735385fd41fdc4d3f781",
+  "bytes": 743166,
+  "pages": 53,
+  "pdf_url": "https://constraintsystemsinstitute.org/manuscripts/zenodo-20338474/sha256-4d14912adef3e276bbbe3d52bbf5b5fd57941ca2ff19735385fd41fdc4d3f781/manuscript.pdf",
+  "canonical_work_url": "https://constraintsystemsinstitute.org/papers/metricity-as-licensed-description-10-5281-zenodo-20338474/",
+  "publisher_url": "https://zenodo.org/records/23226427",
+  "reading_aid_url": "https://constraintsystemsinstitute.org/manuscripts/zenodo-20338474/sha256-4d14912adef3e276bbbe3d52bbf5b5fd57941ca2ff19735385fd41fdc4d3f781/summary.md",
+  "verification": "Exact completed author PDF SHA256 checked; downloaded publisher PDF and publisher checksum matched.",
+  "conversion": "Authoritative searchable PDF; attributed reading aid only, no full manuscript HTML conversion.",
+  "citation": "Amos Jay Maley. Metricity as Licensed Description: The L-metric Boundary and the Realized Physical Interior. 4 October 2026. DOI: 10.5281/zenodo.23226427.",
+  "source_evidence": [
+    {
+      "label": "Title and author overview / abstract",
+      "pdf_page": 1,
+      "url": "https://constraintsystemsinstitute.org/manuscripts/zenodo-20338474/sha256-4d14912adef3e276bbbe3d52bbf5b5fd57941ca2ff19735385fd41fdc4d3f781/manuscript.pdf#page=1"
+    },
+    {
+      "label": "Definitions 2.7–2.13",
+      "pdf_page": 9,
+      "url": "https://constraintsystemsinstitute.org/manuscripts/zenodo-20338474/sha256-4d14912adef3e276bbbe3d52bbf5b5fd57941ca2ff19735385fd41fdc4d3f781/manuscript.pdf#page=9"
+    },
+    {
+      "label": "Theorem 6.2 and Corollary 6.3",
+      "pdf_page": 20,
+      "url": "https://constraintsystemsinstitute.org/manuscripts/zenodo-20338474/sha256-4d14912adef3e276bbbe3d52bbf5b5fd57941ca2ff19735385fd41fdc4d3f781/manuscript.pdf#page=20"
+    }
+  ],
+  "publisher_verification": {
+    "publisher_metadata_url": "https://zenodo.org/api/records/23226427",
+    "publisher_file_url": "https://zenodo.org/api/records/23226427/files/Metricity%20as%20Licensed%20Description%20The%20L-metric%20Boundary%20and%20the%20Realized%20Physical%20Interior.pdf/content",
+    "publisher_file_key": "Metricity as Licensed Description The L-metric Boundary and the Realized Physical Interior.pdf",
+    "publisher_checksum": "md5:5c08fb999418f98655f7e19508937c10",
+    "publisher_checksum_matches": true,
+    "delivery_bytes_match": true,
+    "sha256": "4d14912adef3e276bbbe3d52bbf5b5fd57941ca2ff19735385fd41fdc4d3f781",
+    "pages": 53,
+    "bytes": 743166,
+    "checked_utc": "2026-10-08T12:01:04.996633+00:00"
+  }
+}
