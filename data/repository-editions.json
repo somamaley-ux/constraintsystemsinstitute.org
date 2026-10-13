@@ -3642,6 +3642,40 @@
         "bytes": 388529,
         "checked_utc": "2026-10-08T12:58:52.065927+00:00"
       }
+    },
+    {
+      "work_doi": "10.5281/zenodo.23333485",
+      "exact_release_doi": "10.5281/zenodo.23333486",
+      "title": "From Differentiated Matter to Metric Exhaustion",
+      "edition_label": "Published October 2026 edition",
+      "edition_role": "preferred_reading_edition",
+      "publication_status": "published_on_zenodo",
+      "manuscript_date": null,
+      "website_updated_date": "2026-10-13",
+      "publisher_publication_date": "2026-10-13",
+      "publisher_version": null,
+      "sha256": "ac33132c7d53378e7b3cda8408f27388825455a0392ddf76ddb41d14acb33d5c",
+      "source_id": "sha256-ac33132c7d53378e7b3cda8408f27388825455a0392ddf76ddb41d14acb33d5c",
+      "bytes": 4049495,
+      "pages": 95,
+      "pdf_url": "https://constraintsystemsinstitute.org/manuscripts/zenodo-23333485/sha256-ac33132c7d53378e7b3cda8408f27388825455a0392ddf76ddb41d14acb33d5c/manuscript.pdf",
+      "canonical_work_url": "https://constraintsystemsinstitute.org/papers/from-differentiated-matter-to-metric-exhaustion-23333485/",
+      "publisher_url": "https://zenodo.org/records/23333486",
+      "verification": "Exact author PDF and downloaded publisher PDF match; publisher checksum verified.",
+      "conversion": "Authoritative PDF; the repository page is an attributed overview, not a complete manuscript conversion.",
+      "citation": "Amos Jay Maley. From Differentiated Matter to Metric Exhaustion. 2026-10-13. DOI: 10.5281/zenodo.23333486.",
+      "publisher_verification": {
+        "publisher_metadata_url": "https://zenodo.org/api/records/23333486",
+        "publisher_file_url": "https://zenodo.org/api/records/23333486/files/From_Differentiated_Matter_to_Metric_Exhaustion.pdf/content",
+        "publisher_file_key": "From_Differentiated_Matter_to_Metric_Exhaustion.pdf",
+        "publisher_checksum": "md5:8c7a6b2b3cf8f074c18dfb4c3e3d7a4f",
+        "publisher_checksum_matches": true,
+        "delivery_bytes_match": true,
+        "sha256": "ac33132c7d53378e7b3cda8408f27388825455a0392ddf76ddb41d14acb33d5c",
+        "pages": 95,
+        "bytes": 4049495,
+        "checked_utc": "2026-10-13T06:35:47.502499+00:00"
+      }
     }
   ],
   "cited_editions": [

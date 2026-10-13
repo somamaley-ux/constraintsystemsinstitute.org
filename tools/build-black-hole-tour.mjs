@@ -1,3 +1,4 @@
+import { integrateMetricExhaustion } from './integrate-metric-exhaustion.mjs';
 import fs from 'node:fs';
 import path from 'node:path';
 import { fileURLToPath } from 'node:url';
@@ -51,4 +52,5 @@ fs.writeFileSync(htmlPath, html);
 console.log('Built the black-hole tour catalogue, verified five published PDF versions, and linked the five existing manuscript records.');
 
 // Keep generated records consistent with the archive's shared publication setup.
+integrateMetricExhaustion(root);
 await import('./prepare-site.mjs');
