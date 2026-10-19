@@ -2,7 +2,7 @@
 
 > Source access for Amos Jay Maley's research manuscripts: exact PDF editions, a bounded foundational reading guide, and catalogue metadata.
 
-The catalogue currently contains 214 canonical work records; records are not PDF editions. Individual versioned PDFs are authoritative manuscript text. Markdown summaries and guides are attributed reading aids, not full manuscript conversions or independent proof verification.
+The catalogue currently contains 215 canonical work records; records are not PDF editions. Individual versioned PDFs are authoritative manuscript text. Markdown summaries and guides are attributed reading aids, not full manuscript conversions or independent proof verification.
 
 The foundational direction argued in the manuscripts is non-degenerate determinate construction -> necessary Kernel -> Admissibility, Standing, Reference and Irreversibility ([kernel: Proposition 2.4; Theorem 3.1 / Theorem 3.6, PDF pp. 14-27; exact DOI 10.5281/zenodo.22968658](https://constraintsystemsinstitute.org/manuscripts/kernel/sha256-4e1bafc4844d90ca7ba5268d1b6b5ee21bf92f082a2a61b4eea039faed0c037e/manuscript.pdf#page=14)). These roles concern qualification, role warrant, identity/original incidence and retained constraint history. Do not turn this into a blanket global uniqueness claim over other research.
 

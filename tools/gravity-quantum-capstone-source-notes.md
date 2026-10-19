@@ -62,3 +62,23 @@ metadata use `gravity-quantum/papers.json` and
 `--pages gravity-quantum/index.html` for focused shared preparation, then inspect
 the diff. Preserve the homepage labels **Cross-Corpus Capstone** and
 **Capstone Lean Formalization**, their DOI identities and unrelated site files.
+
+## Normal hosted paper entry
+
+The capstone is registered once in `papers.json` at
+`/papers/premetric-structural-unification-23466295/`, using the established
+repository detail layout and reader stylesheet. The homepage and tour buttons
+open this entry; its Read paper and Download PDF controls open the same hosted
+PDF. The paper DOI is integrated in the same catalogue record and citation
+metadata; its DOI control accompanies the hosted PDF controls. The frozen
+Lean DOI is explicitly associated as the paper's companion formal artifact.
+
+The author's supplied final 33-page reading edition is hosted without changes:
+SHA256 `e01fb416d77bf1ad00ca4a8f4cc20cb3cde380d335445cd2da5436dae1b0903a`,
+267,530 bytes. It differs from the 265,106-byte published PDF at exact DOI
+`10.5281/zenodo.23466296`, whose SHA256 is
+`7d248c3b3727366483fd84e56029ea9511f96d7a0d383a1b744f32b4c3d8518e`.
+The published file's MD5 matches Zenodo's `206e3d0044240461be5500f800ac7534`.
+Both identities are recorded in `data/repository-editions.json` and their own
+hash-addressed `edition.json` files. Do not assign the older exact release DOI
+to the final PDF or replace either file in place.

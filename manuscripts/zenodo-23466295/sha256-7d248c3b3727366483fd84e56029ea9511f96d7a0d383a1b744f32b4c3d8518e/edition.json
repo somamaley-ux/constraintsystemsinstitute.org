@@ -1,0 +1,33 @@
+{
+  "work_doi": "10.5281/zenodo.23466295",
+  "exact_release_doi": "10.5281/zenodo.23466296",
+  "title": "Premetric Structural Unification: From the AASC Kernel to Einstein-Form and Free-Scalar Dynamics",
+  "edition_label": "Published DOI edition · 19 October 2026",
+  "edition_role": "collapsed_published_edition",
+  "publication_status": "published_on_zenodo",
+  "manuscript_date": "2026-10-19",
+  "website_updated_date": "2026-10-19",
+  "publisher_publication_date": "2026-10-19",
+  "publisher_version": null,
+  "sha256": "7d248c3b3727366483fd84e56029ea9511f96d7a0d383a1b744f32b4c3d8518e",
+  "source_id": "sha256-7d248c3b3727366483fd84e56029ea9511f96d7a0d383a1b744f32b4c3d8518e",
+  "bytes": 265106,
+  "pages": 33,
+  "pdf_url": "https://constraintsystemsinstitute.org/manuscripts/zenodo-23466295/sha256-7d248c3b3727366483fd84e56029ea9511f96d7a0d383a1b744f32b4c3d8518e/manuscript.pdf",
+  "canonical_work_url": "https://constraintsystemsinstitute.org/papers/premetric-structural-unification-23466295/",
+  "publisher_url": "https://zenodo.org/records/23466296",
+  "verification": "Downloaded exact Zenodo edition; publisher MD5 checksum verified. Its bytes differ from the author-supplied final reading edition.",
+  "conversion": "Authoritative published PDF retained for exact-edition citation.",
+  "citation": "Amos Jay Maley. Premetric Structural Unification: From the AASC Kernel to Einstein-Form and Free-Scalar Dynamics. 2026-10-19. DOI: 10.5281/zenodo.23466296.",
+  "publisher_verification": {
+    "publisher_metadata_url": "https://zenodo.org/api/records/23466296",
+    "publisher_file_url": "https://zenodo.org/api/records/23466296/files/Premetric%20Structural%20Unification.pdf/content",
+    "publisher_file_key": "Premetric Structural Unification.pdf",
+    "publisher_checksum": "md5:206e3d0044240461be5500f800ac7534",
+    "publisher_checksum_matches": true,
+    "sha256": "7d248c3b3727366483fd84e56029ea9511f96d7a0d383a1b744f32b4c3d8518e",
+    "pages": 33,
+    "bytes": 265106,
+    "checked_utc": "2026-10-19T07:15:05.038Z"
+  }
+}

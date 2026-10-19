@@ -20,7 +20,7 @@ for (const paper of records) {
 const catalogue = [...groups].map(([group, entries]) => `<section class="paper-group" aria-label="${escape(group)}"><h3>${escape(group)}</h3><div class="paper-grid">${entries.join('\n')}</div></section>`).join('\n');
 // Keep the capstone separate from the earlier 21 manuscript records: this is
 // a connected cross-corpus construction, not formalization of every listed paper.
-parts.push({'@type':'ScholarlyArticle', name:'Premetric Structural Unification: From the AASC Kernel to Einstein-Form and Free-Scalar Dynamics', url:'https://doi.org/10.5281/zenodo.23466295', identifier:'10.5281/zenodo.23466295'});
+parts.push({'@type':'ScholarlyArticle', name:'Premetric Structural Unification: From the AASC Kernel to Einstein-Form and Free-Scalar Dynamics', url:'https://constraintsystemsinstitute.org/papers/premetric-structural-unification-23466295/', identifier:'10.5281/zenodo.23466295'});
 parts.push({'@type':'SoftwareSourceCode', name:'Capstone Lean Formalization', url:'https://doi.org/10.5281/zenodo.23466439', identifier:'10.5281/zenodo.23466439', codeRepository:'https://github.com/somamaley-ux/AASC-Premetric-Structural-Unification', version:'v2026.10.19-composed'});
 const metadata = {'@context':'https://schema.org', '@type':'CollectionPage', name:'Premetric Structural Unification', url:`${origin}/gravity-quantum/`, inLanguage:'en', author:{'@type':'Person', name:'Amos Jay Maley'}, description:'A guided path from Kernel governance and canonical metric licensing to Einstein-form and free-scalar Schrödinger dynamics, their connecting maps and the 49-field Lean capstone; with related manuscript branches.', hasPart:parts};
 const target = path.join(root, 'gravity-quantum/index.html');

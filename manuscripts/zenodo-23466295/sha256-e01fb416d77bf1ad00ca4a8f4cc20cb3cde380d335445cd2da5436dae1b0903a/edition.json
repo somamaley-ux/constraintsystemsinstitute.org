@@ -1,0 +1,28 @@
+{
+  "work_doi": "10.5281/zenodo.23466295",
+  "exact_release_doi": null,
+  "title": "Premetric Structural Unification: From the AASC Kernel to Einstein-Form and Free-Scalar Dynamics",
+  "edition_label": "Author-supplied final reading edition · 19 October 2026",
+  "edition_role": "preferred_reading_edition",
+  "publication_status": "unpublished_on_zenodo",
+  "manuscript_date": "2026-10-19",
+  "website_updated_date": "2026-10-19",
+  "publisher_publication_date": null,
+  "publisher_version": null,
+  "sha256": "e01fb416d77bf1ad00ca4a8f4cc20cb3cde380d335445cd2da5436dae1b0903a",
+  "source_id": "sha256-e01fb416d77bf1ad00ca4a8f4cc20cb3cde380d335445cd2da5436dae1b0903a",
+  "bytes": 267530,
+  "pages": 33,
+  "pdf_url": "https://constraintsystemsinstitute.org/manuscripts/zenodo-23466295/sha256-e01fb416d77bf1ad00ca4a8f4cc20cb3cde380d335445cd2da5436dae1b0903a/manuscript.pdf",
+  "canonical_work_url": "https://constraintsystemsinstitute.org/papers/premetric-structural-unification-23466295/",
+  "publisher_url": "https://zenodo.org/records/23466296",
+  "verification": "Final author-supplied PDF verified against the explicitly supplied SHA256; hosted without modification. It differs from the current published DOI PDF, retained separately.",
+  "conversion": "Authoritative author-supplied PDF; the repository page is a source-based overview, not a full manuscript conversion.",
+  "citation": "Amos Jay Maley. Premetric Structural Unification: From the AASC Kernel to Einstein-Form and Free-Scalar Dynamics. Author-supplied final reading edition, 19 October 2026. Work DOI: 10.5281/zenodo.23466295. SHA256: e01fb416d77bf1ad00ca4a8f4cc20cb3cde380d335445cd2da5436dae1b0903a.",
+  "author_source_verification": {
+    "expected_sha256": "e01fb416d77bf1ad00ca4a8f4cc20cb3cde380d335445cd2da5436dae1b0903a",
+    "actual_sha256": "e01fb416d77bf1ad00ca4a8f4cc20cb3cde380d335445cd2da5436dae1b0903a",
+    "bytes_match": true,
+    "checked_utc": "2026-10-19T07:15:05.038Z"
+  }
+}

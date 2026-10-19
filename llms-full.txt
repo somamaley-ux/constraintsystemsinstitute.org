@@ -18,7 +18,7 @@ The six curated foundational summaries below retain their exact source editions.
 
 ## Coverage and source hierarchy
 
-The current canonical catalogue has 214 work records, derived from [papers.json](https://constraintsystemsinstitute.org/papers.json). This guide covers only the 6 verified foundational reading editions in [the public source registry](https://constraintsystemsinstitute.org/manuscripts/registry.json). It does not ingest or summarize all catalogue manuscripts. Existing source holds and author exclusions remain outside this expansion.
+The current canonical catalogue has 215 work records, derived from [papers.json](https://constraintsystemsinstitute.org/papers.json). This guide covers only the 6 verified foundational reading editions in [the public source registry](https://constraintsystemsinstitute.org/manuscripts/registry.json). It does not ingest or summarize all catalogue manuscripts. Existing source holds and author exclusions remain outside this expansion.
 
 For theorem statements, equations, hypotheses, proofs and bibliography, read the exact versioned PDF. Use an exact release DOI plus its SHA256 identity when identifying text. An all-versions work DOI is for discovery. A preferred reading edition is not automatically the frozen edition imported by a consumer. Cover dates and publisher release dates are separately recorded below.
 
