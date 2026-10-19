@@ -61,6 +61,7 @@
 .closure-result { margin-top: 50px; padding-left: 24px; border-left: 2px solid var(--copper); max-width: 900px; }
 .closure-result h3 { font-family: Georgia, serif; font-size: 1.9rem; margin-block: 15px; }
 .closure-result > p:not(.kicker) { color: #d0c8c6; }
+.proof-root { overflow-wrap: anywhere; font-size: .875rem; }
 .gq-tour .paper-group { margin-top: 40px; }
 .gq-tour .paper-grid { display: grid; grid-template-columns: repeat(2,minmax(0,1fr)); gap: 0 36px; }
 .gq-tour .paper-entry { grid-template-columns: 78px minmax(0,1fr); gap: 14px; scroll-margin-top: 92px; }

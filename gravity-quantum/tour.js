@@ -20,9 +20,9 @@
   addEventListener('resize',updateChapter);updateChapter();
 
   const projectionCopy={
-    gravity:'The gravity view represents spacetime and its attached source. It does not establish the underlying physical interior by assuming a metric first.',
-    quantum:'The quantum view represents state identity, transition comparisons, and evolution. Its Hilbert and spatial machinery has to preserve the already-established structure.',
-    together:'Together, the two descriptions have to preserve the same source, physical records, and compatible history. Agreement cannot be added by silently changing the underlying target.'
+    gravity:'The metric receiver retains the admitted metric operand, action-derived response, original answers and continuation, with the source represented at that same receiver metric.',
+    quantum:'The free-scalar receiver preserves the original records and references while carrying the exact generator, complete weak graph/domain and calibrated comparison.',
+    together:'The composed maps preserve shared original preparations, admitted metric operands, records and registered answers, including the stated evolved-preparation squares.'
   };
   document.querySelectorAll('[data-projection]').forEach(button=>button.addEventListener('click',()=>{
     document.querySelectorAll('[data-projection]').forEach(other=>other.setAttribute('aria-pressed',String(other===button)));
