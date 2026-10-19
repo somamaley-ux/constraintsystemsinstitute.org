@@ -73,12 +73,18 @@ PDF. The paper DOI is integrated in the same catalogue record and citation
 metadata; its DOI control accompanies the hosted PDF controls. The frozen
 Lean DOI is explicitly associated as the paper's companion formal artifact.
 
-The author's supplied final 33-page reading edition is hosted without changes:
+The final 33-page reading edition is hosted without changes:
 SHA256 `e01fb416d77bf1ad00ca4a8f4cc20cb3cde380d335445cd2da5436dae1b0903a`,
-267,530 bytes. It differs from the 265,106-byte published PDF at exact DOI
+267,530 bytes. Zenodo's current published version, exact DOI
+`10.5281/zenodo.23467836`, now matches these bytes exactly; publisher MD5 is
+`7ed92fa26eb5b07bb14f904a547d7a1d`. This exact DOI is the citation metadata's
+published edition identity; concept DOI `10.5281/zenodo.23466295` remains the
+work identity. The earlier 265,106-byte published PDF at exact DOI
 `10.5281/zenodo.23466296`, whose SHA256 is
-`7d248c3b3727366483fd84e56029ea9511f96d7a0d383a1b744f32b4c3d8518e`.
-The published file's MD5 matches Zenodo's `206e3d0044240461be5500f800ac7534`.
+`7d248c3b3727366483fd84e56029ea9511f96d7a0d383a1b744f32b4c3d8518e`,
+is retained as history. Its MD5 matches `206e3d0044240461be5500f800ac7534`.
 Both identities are recorded in `data/repository-editions.json` and their own
-hash-addressed `edition.json` files. Do not assign the older exact release DOI
-to the final PDF or replace either file in place.
+hash-addressed `edition.json` files. The earlier author-supplied/unpublished
+status and mismatch disclosure have been superseded by this verified new
+publication. Do not assign the older exact release DOI to the final PDF or
+replace either PDF in place.
