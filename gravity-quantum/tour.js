@@ -20,9 +20,9 @@
   addEventListener('resize',updateChapter);updateChapter();
 
   const projectionCopy={
-    gravity:'The metric receiver retains the admitted metric operand, action-derived response, original answers and continuation, with the source represented at that same receiver metric.',
-    quantum:'The free-scalar receiver preserves the original records and references while carrying the exact generator, complete weak graph/domain and calibrated comparison.',
-    together:'The composed maps preserve shared original preparations, admitted metric operands, records and registered answers, including the stated evolved-preparation squares.'
+    gravity:'The geometry branch connects actual EH response to a controlled nonflat real KG construction and same-action scalar sources. Sourced Einstein receiving retains combined-action stationarity.',
+    quantum:'The isolated complex free scalar retains its exact maximal generator and calibrated comparator. Quantitative recovery compares identified observations on their declared domains.',
+    together:'The integrated construction connects geometric response, controlled scalar evolution, quantitative recovery and occupied measuring protocols through source-preserving maps, retaining their domains and failures.'
   };
   document.querySelectorAll('[data-projection]').forEach(button=>button.addEventListener('click',()=>{
     document.querySelectorAll('[data-projection]').forEach(other=>other.setAttribute('aria-pressed',String(other===button)));

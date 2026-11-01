@@ -1,90 +1,93 @@
-# Gravity-quantum tour: composed capstone update
+# Premetric Structural Unification: website source map
 
-The existing `/gravity-quantum/` route is linked by the homepage unification card.
-The six main chapters now explain the composed theorem. The clock and source
-accounting exhibits remain related manuscript branches with their original IDs
-and controls. The earlier 21-record reading list is retained, without adding
-duplicate records to the site-wide corpus.
+## Current published reference edition, 1 November 2026
 
-## Authoritative sources inspected, 19 October 2026
+Keep the existing work URL `/papers/premetric-structural-unification-23466295/`.
+The preferred 88-page reference edition 1.1 is published as exact paper DOI
+`10.5281/zenodo.23856304`, under concept DOI `10.5281/zenodo.23466295`.
+Publisher PDF and final author reference file match byte for byte:
 
-- Paper all-versions DOI: https://doi.org/10.5281/zenodo.23466295
-  (resolves to initial edition 23466296). The public Zenodo description supplies
-  the dependency, receiver, branch and shared-preparation account.
-- Frozen Lean DOI: https://doi.org/10.5281/zenodo.23466439
-- Lean all-versions DOI: https://doi.org/10.5281/zenodo.23466438
-- Repository/release: https://github.com/somamaley-ux/AASC-Premetric-Structural-Unification/releases/tag/v2026.10.19-composed
-- Exact checked source: `21bf87b79635e451ffb05f6fef764360a32d486d`.
-  Read its `README.md`, `composition/src/KernelFaithfulLicensedEndpoints.lean`,
-  `composition/ROOT_CONCLUSIONS.json` and `composition/README_CLAIM_AUDIT.json`.
-  Root source SHA256:
-  `191f4e2cf9aee99667587feca217e1a0947faece14e4e1bfaeb42883f0146cd4`.
+- SHA256 `ae7b9a40ef6f1933699723f99deef4c796da7d81914f68f50a298251060a0b7f`
+- 491,656 bytes, 88 pages; publisher MD5 `463298035b88c3fa17bf5add3355f71f`.
+- Local final source: `capstone-reference-publication-polish-20261101/output/Maley_Premetric_Structural_Unification_Reference_Edition_1_1_private.pdf`.
+  Its historical private filename does not override the verified matching public
+  record. No new deposit was made by this website update.
 
-## Section-to-evidence map
+Current software: exact DOI `10.5281/zenodo.23856262`, concept DOI
+`10.5281/zenodo.23856261`, `somamaley-ux/aasc-structural-unification-interior`
+v1.0.0 at `aee47c9d31738765eda544e299ec8e48bdc6900e`. Archive MD5:
+`95dea6ad69723f7bffff86f56553b501`; SHA256:
+`8314d8fe099bd86b5145e60918a019663ff6d85e60fd33fda46418a8ea4cc5cb`.
+Archive root names `aee47c9`; README, root source and project metadata match the
+pinned commit. No Lean project was changed or rebuilt by this website work.
 
-1. Kernel/AMetric: `constraint_first_source` and the two
-   `*_use_constructs_kernel_and_canonical_license` fields instantiate governance
-   on actual declared tasks. Necessary roles do not alone select physical data.
-2. Licensing: actual canonical assembly, five conclusions, safe regions and
-   licensed presentations; the constructors supply parameters, dimensions,
-   carriers, action and analytic hypotheses.
-3. Einstein: `geometric_einstein_receiving`, receiver coverage and preservation,
-   `receipt_licensed_eh_source_is_original_directional_action`,
-   `receipt_licensed_eh_same_metric_representation`. The source is geometric
-   action derivative, not independent matter matching. The original bounded
-   metric neighborhood and nonzero coupling remain explicit.
-4. Scalar: exact generator, complete weak graph, free SSQ1, reference dispersion
-   and calibrated-comparator fields. Full operator graph/domain differs from
-   licensed-state and shared-preparation coverage of the invariant core.
-5. Maps: four `receipt_common_original_*` squares,
-   `receipt_licensed_scalar_evolved_original_preparation`,
-   `receipt_common_evolved_original_preparation_square`,
-   `receipt_common_preparation_covers_declared_core`. An independently admitted
-   metric operand accompanies the shared preparation; the common map starts at
-   empty EH histories. EH history append and scalar time flow remain distinct.
-6. Capstone: 49 proved conclusions and the exact root declaration. Audit/replay
-   counts and trust boundaries follow the inspected README, not an assertion
-   that this website work reran Lean or independently rebuilt the baseline.
+## Narrative and proof map
 
-The completed goal is premetric structural unification by proved connecting
-maps. It is neither merely shared imports nor a claim of full-interior identity,
-coupled field solutions, universal physical dynamics or priority. Emergence is
-dependency/derivation within declared constructions, not temporal genesis.
-Related WDW and Modules A–D claims keep their own manuscript targets and scope;
-they are not substituted for the new root or represented as all formalized.
+The main path is Kernel necessity → AMetric restrictions and canonical licensing
+→ controlled physical interior. Governed resources and selection of their
+particular content are different claims. Emergence is structural dependency and
+admissible realization, not temporal genesis. Sources are the exact paper and
+pinned README, CONSTRUCTION.md, REPRODUCING.md, root and endpoint inventory.
 
-## Maintenance
+1. `foundation`: paper §§1–2; original incidence, necessary Kernel roles,
+   attained-image/profile descent and AMetric authority restrictions.
+2. `licensing`: §2; greatest-safe use, actual source/receiver contracts, partial
+   operations, preserved definedness and first failures.
+3. `gravity`: §§4–6; actual EH variation and six-premise response classification;
+   controlled nonflat real all-compact-data Cauchy theory, arbitrary local-smooth
+   competitor uniqueness on the protected diamond; same-action stress,
+   Ward/exchange and independent-momentum Hamiltonian. Sourced Einstein receiving
+   is conditional on combined-action stationarity.
+4. `quantum`: §§7–8; isolated complex free maximal generator/graph/domain and
+   calibrated comparator; cutoff/tail bounds and fixed-vector full-L2 strong
+   nonrelativistic recovery uniformly on bounded time intervals; local metric,
+   field and guarded-duration comparisons keep their own carriers and domains.
+5. `unity`: §§3,9; native geometry, actual positive-mass coasting clocks, occupied
+   finite radar/ruler networks, admitted frames/resources/windows and
+   source-faithful observation/partial-operation/failure transport.
+6. `realization`: §10, Appendix C; final
+   `AASCKleinGordon.OperationalSR.kernel_faithful_operational_sr`, source
+   `src/KernelFaithfulOperationalSR.lean`. Its **229 fields are 227 receipts and
+   two retained whole endpoints**, not independent-theorem counts. Six named
+   roots and their quantified conditions expose the complete accepted chain.
 
-Maintain the walkthrough directly in `gravity-quantum/index.html` and matching
-projection captions in `gravity-quantum/tour.js`. Its catalogue and structured
-metadata use `gravity-quantum/papers.json` and
-`tools/build-gravity-quantum-tour.mjs`. Run the builder with
-`--pages gravity-quantum/index.html` for focused shared preparation, then inspect
-the diff. Preserve the homepage labels **Cross-Corpus Capstone** and
-**Capstone Lean Formalization**, their DOI identities and unrelated site files.
+This completed controlled interior extends the earlier 49-field connection. It
+does not establish global coupled Einstein–KG existence, arbitrary curved QFT,
+arbitrary accelerated/curved apparatus, universal metric selection or Standard
+Model completion. WDW and A–D exhibits remain distinct manuscript branches.
 
-## Normal hosted paper entry
+## Verification claims and boundaries
 
-The capstone is registered once in `papers.json` at
-`/papers/premetric-structural-unification-23466295/`, using the established
-repository detail layout and reader stylesheet. The homepage and tour buttons
-open this entry; its Read paper and Download PDF controls open the same hosted
-PDF. The paper DOI is integrated in the same catalogue record and citation
-metadata; its DOI control accompanies the hosted PDF controls. The frozen
-Lean DOI is explicitly associated as the paper's companion formal artifact.
+Historical retained-binary replay rebuilt all 1,056 project modules with accepted
+object hashes. Later cache-cold source checking compiled 1,056 project and 3,404
+consumed dependency modules with fresh official Lean 4.28.0 binaries on the
+existing Windows host; six endpoint audits reported only propext,
+Classical.choice and Quot.sound. Fresh Lake objects matched 0/1,056 historical
+direct-build primary hashes; one diagnostic direct invocation matched exactly.
+Do not conflate source compilation, historical byte identity or clean-OS and
+compiler-stage0 verification. ProofWidgets needed its standalone asset build.
+The paper binds the accepted `6ac8f9e…` baseline; the later public curated release
+preserves production sources. Historical private/pending/no-Zenodo statements
+do not describe current availability; exact software DOI was verified separately.
 
-The final 33-page reading edition is hosted without changes:
-SHA256 `e01fb416d77bf1ad00ca4a8f4cc20cb3cde380d335445cd2da5436dae1b0903a`,
-267,530 bytes. Zenodo's current published version, exact DOI
-`10.5281/zenodo.23467836`, now matches these bytes exactly; publisher MD5 is
-`7ed92fa26eb5b07bb14f904a547d7a1d`. This exact DOI is the citation metadata's
-published edition identity; concept DOI `10.5281/zenodo.23466295` remains the
-work identity. The earlier 265,106-byte published PDF at exact DOI
-`10.5281/zenodo.23466296`, whose SHA256 is
+## Preserved history and maintenance
+
+Earlier 33-page paper DOI `10.5281/zenodo.23467836`, SHA256
+`e01fb416d77bf1ad00ca4a8f4cc20cb3cde380d335445cd2da5436dae1b0903a`,
+267,530 bytes, and initial exact DOI `10.5281/zenodo.23466296`, SHA256
 `7d248c3b3727366483fd84e56029ea9511f96d7a0d383a1b744f32b4c3d8518e`,
-is retained as history. Its MD5 matches `206e3d0044240461be5500f800ac7534`.
-Both identities are recorded in `data/repository-editions.json` and their own
-hash-addressed `edition.json` files. The earlier author-supplied/unpublished
-status and mismatch disclosure have been superseded by this verified new
-publication. Do not assign the older exact release DOI to the final PDF or
-replace either PDF in place.
+265,106 bytes, stay immutable. Neither exact DOI identifies the new PDF.
+Earlier software exact DOI `10.5281/zenodo.23466439`, concept `23466438`,
+`AASC-Premetric-Structural-Unification` tag `v2026.10.19-composed`, commit
+`21bf87b79635e451ffb05f6fef764360a32d486d`, remains linked as history along with
+its 49-field root and conclusion ledger.
+
+Use the normal detail layout and reader stylesheet. Paper DOI, PDF and associated
+software are integrated in one catalogue record and citation metadata. Keep
+Cross-Corpus Capstone and Capstone Lean Formalization labels, canonical URL,
+existing design, related exhibits and earlier 21-paper reading list.
+Maintain narrative in `gravity-quantum/index.html`, projection copy in `tour.js`,
+and the earlier reading list in `gravity-quantum/papers.json`. The tour builder
+derives current paper/software identity from `papers.json`. Run it with
+`--pages index.html gravity-quantum/index.html papers/index.html papers/premetric-structural-unification-23466295/index.html`,
+then review the focused diff. Never add a duplicate prominent work entry.
