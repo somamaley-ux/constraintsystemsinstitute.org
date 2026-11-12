@@ -1,0 +1,342 @@
+{
+  "reviewed": "2026-11-12",
+  "projects": [
+    {
+      "id": "kernel",
+      "title": "Non-Degenerate Construction and the Kernel of Admissibility",
+      "framework": "aasc",
+      "area": "Foundations",
+      "owner": "somamaley-ux",
+      "scope": "Lean companion for necessity from original incidence, exact representation, conservation, typed composition and support transport.",
+      "boundary": "Theorems retain their declared domains and hypotheses; downstream physical constructions have their own inputs.",
+      "version": "Public repository; consult its pinned releases and audit records.",
+      "verification": "Repository documentation inspected; not rebuilt for this catalogue update.",
+      "links": [
+        {
+          "label": "Repository",
+          "url": "https://github.com/somamaley-ux/non-degenerate-construction-kernel-admissibility"
+        },
+        {
+          "label": "Scope & documentation",
+          "url": "https://github.com/somamaley-ux/non-degenerate-construction-kernel-admissibility#readme"
+        }
+      ]
+    },
+    {
+      "id": "foundational-closure",
+      "title": "Foundational Closure of Admissibility and Standing",
+      "framework": "aasc",
+      "area": "Foundations",
+      "owner": "somamaley-ux",
+      "scope": "Consequence families downstream of a fixed admissibility kernel, including preservation, no-repair, no-generator, interior uniqueness and conservation.",
+      "boundary": "The formal consequence layer uses the stated kernel and semantic domains.",
+      "version": "Public repository; consult its pinned releases and audit records.",
+      "verification": "Repository documentation inspected; not rebuilt for this catalogue update.",
+      "links": [
+        {
+          "label": "Repository",
+          "url": "https://github.com/somamaley-ux/Foundational-Closure-of-Admissibility-and-Standing"
+        },
+        {
+          "label": "Scope & documentation",
+          "url": "https://github.com/somamaley-ux/Foundational-Closure-of-Admissibility-and-Standing/blob/main/foundational_closure_status.md"
+        }
+      ],
+      "author": "Amos Jay Maley"
+    },
+    {
+      "id": "structural-unification",
+      "title": "Premetric Structural Unification",
+      "framework": "aasc",
+      "area": "Geometry & scalar dynamics",
+      "owner": "somamaley-ux",
+      "scope": "An integrated AASC Kernel-governed construction of scoped geometry, scalar dynamics, quantitative recovery and operational relativity.",
+      "boundary": "Continuum carriers, dimension, branch, actions and parameters are declared construction choices. Sourced Einstein receiving requires combined-action stationarity; general interacting quantum theory and global coupled Einstein–Klein–Gordon existence are outside this baseline.",
+      "version": "v1.0.0 public release; completed pre-5A snapshot.",
+      "verification": "The repository records a cache-cold source build and six endpoint audits. Full Lake object-hash identity remains unresolved. Not rebuilt for this catalogue update.",
+      "links": [
+        {
+          "label": "Repository",
+          "url": "https://github.com/somamaley-ux/aasc-structural-unification-interior"
+        },
+        {
+          "label": "Release v1.0.0",
+          "url": "https://github.com/somamaley-ux/aasc-structural-unification-interior/releases/tag/v1.0.0"
+        },
+        {
+          "label": "Evidence & limits",
+          "url": "https://github.com/somamaley-ux/aasc-structural-unification-interior/blob/main/EVIDENCE.md"
+        },
+        {
+          "label": "Companion paper",
+          "url": "/papers/premetric-structural-unification-23466295/"
+        }
+      ]
+    },
+    {
+      "id": "sunflower",
+      "title": "Sunflower Endpoint Audit",
+      "framework": "aasc",
+      "area": "Combinatorics",
+      "owner": "somamaley-ux",
+      "scope": "An integrated finite-combinatorial/AASC endpoint bridge for the three-petal sunflower problem, with an explicit manuscript-to-Lean terminal handoff.",
+      "boundary": "The formal surface retains the manuscript handoff; this listing does not present it as an autonomous conventional proof or a kernel-only cardinality bound.",
+      "version": "Public repository; consult its pinned releases and audit records.",
+      "verification": "Repository documentation inspected; not rebuilt for this catalogue update.",
+      "links": [
+        {
+          "label": "Repository",
+          "url": "https://github.com/somamaley-ux/AASC-Sunflower-Endpoint-Lean-Audit"
+        },
+        {
+          "label": "Scope & documentation",
+          "url": "https://github.com/somamaley-ux/AASC-Sunflower-Endpoint-Lean-Audit#readme"
+        }
+      ]
+    },
+    {
+      "id": "standard-model",
+      "title": "Standard Model Carrier Exhaustion / Generation Cardinality",
+      "framework": "aasc",
+      "area": "Standard Model",
+      "owner": "somamaley-ux",
+      "scope": "An AASC/ARC role-occupancy audit receiving the SM-1–SM-6 framework and representing the generation-cardinality certificate.",
+      "boundary": "The source framework and certificate hypotheses remain explicit; this is not a first-principles reconstruction of all Standard Model physics or numerical mixing parameters.",
+      "version": "Public repository; consult its pinned releases and audit records.",
+      "verification": "Repository documentation inspected; not rebuilt for this catalogue update.",
+      "links": [
+        {
+          "label": "Repository",
+          "url": "https://github.com/somamaley-ux/AASC-Standard-Model-Carrier-Exhaustion-Generation-Cardinality"
+        },
+        {
+          "label": "Scope & documentation",
+          "url": "https://github.com/somamaley-ux/AASC-Standard-Model-Carrier-Exhaustion-Generation-Cardinality#readme"
+        }
+      ]
+    },
+    {
+      "id": "hubble-transport",
+      "title": "Hubble Transport Audit",
+      "framework": "aasc",
+      "area": "Cosmology",
+      "owner": "somamaley-ux",
+      "scope": "A typed redshift-active transport certificate with an AASC governance layer.",
+      "boundary": "Numerical Jacobian/SVD, convergence and posterior evidence are imported. Lean does not rerun cosmological inference.",
+      "version": "Public repository; consult its pinned releases and audit records.",
+      "verification": "Repository documentation inspected; not rebuilt for this catalogue update.",
+      "links": [
+        {
+          "label": "Repository",
+          "url": "https://github.com/somamaley-ux/AASC-Hubble-Transport-Lean-Audit"
+        },
+        {
+          "label": "Scope & documentation",
+          "url": "https://github.com/somamaley-ux/AASC-Hubble-Transport-Lean-Audit#readme"
+        }
+      ]
+    },
+    {
+      "id": "yang-mills",
+      "title": "Yang–Mills Audit",
+      "framework": "aasc",
+      "area": "Mathematics & field theory",
+      "owner": "somamaley-ux",
+      "scope": "A manuscript-facing local-net and Clay-extension route, with seam, endpoint and audit-control formalization.",
+      "boundary": "External PDE, QFT, spectral and reconstruction theory remain declared boundaries.",
+      "version": "Public repository; consult its pinned releases and audit records.",
+      "verification": "Repository documentation inspected; not rebuilt for this catalogue update.",
+      "links": [
+        {
+          "label": "Repository",
+          "url": "https://github.com/somamaley-ux/AASC-YangMills-Lean-Audit"
+        },
+        {
+          "label": "Scope & documentation",
+          "url": "https://github.com/somamaley-ux/AASC-YangMills-Lean-Audit#readme"
+        }
+      ]
+    },
+    {
+      "id": "bsd",
+      "title": "BSD Endpoint Audit",
+      "framework": "aasc",
+      "area": "Mathematics",
+      "owner": "somamaley-ux",
+      "scope": "An AASC rank-endpoint proof spine over represented analytic and arithmetic carriers, with a conditional refined-formula bridge.",
+      "boundary": "The refined-formula bridge is conditional; the archive does not formalize all underlying arithmetic geometry from first principles.",
+      "version": "Public repository; consult its pinned releases and audit records.",
+      "verification": "Repository documentation inspected; not rebuilt for this catalogue update.",
+      "links": [
+        {
+          "label": "Repository",
+          "url": "https://github.com/somamaley-ux/AASC-BSD-Endpoint-Lean-Audit"
+        },
+        {
+          "label": "Scope & documentation",
+          "url": "https://github.com/somamaley-ux/AASC-BSD-Endpoint-Lean-Audit#readme"
+        }
+      ]
+    },
+    {
+      "id": "hodge",
+      "title": "Hodge Endpoint Audit",
+      "framework": "aasc",
+      "area": "Mathematics",
+      "owner": "somamaley-ux",
+      "scope": "An AASC empty cycle-fiber separator route over semantic Hodge and cycle-class carriers.",
+      "boundary": "The underlying algebraic-geometry carriers and their correspondence are declared parts of the formalization boundary.",
+      "version": "Public repository; consult its pinned releases and audit records.",
+      "verification": "Repository documentation inspected; not rebuilt for this catalogue update.",
+      "links": [
+        {
+          "label": "Repository",
+          "url": "https://github.com/somamaley-ux/AASC-Hodge-Endpoint-Lean-Audit"
+        },
+        {
+          "label": "Scope & documentation",
+          "url": "https://github.com/somamaley-ux/AASC-Hodge-Endpoint-Lean-Audit#readme"
+        }
+      ]
+    },
+    {
+      "id": "navier-stokes",
+      "title": "Navier–Stokes Audit",
+      "framework": "aasc",
+      "area": "Mathematics",
+      "owner": "somamaley-ux",
+      "scope": "Manuscript-facing theorem routing and obligation audits for the AASC Navier–Stokes endpoint.",
+      "boundary": "Classical analytic inputs remain external. An inventory row is not an independently proved PDE theorem.",
+      "version": "Public repository; consult its pinned releases and audit records.",
+      "verification": "Repository documentation inspected; not rebuilt for this catalogue update.",
+      "links": [
+        {
+          "label": "Repository",
+          "url": "https://github.com/somamaley-ux/AASC-NavierStokes-Lean-Audit"
+        },
+        {
+          "label": "Scope & documentation",
+          "url": "https://github.com/somamaley-ux/AASC-NavierStokes-Lean-Audit#readme"
+        }
+      ]
+    },
+    {
+      "id": "poincare",
+      "title": "Poincaré Endpoint Audit",
+      "framework": "aasc",
+      "area": "Mathematics",
+      "owner": "somamaley-ux",
+      "scope": "An AASC sphere-readout endpoint proof spine with semantic manifold and homeomorphism carriers.",
+      "boundary": "Ricci flow appears as comparison material; the semantic carrier correspondence remains explicit.",
+      "version": "Public repository; consult its pinned releases and audit records.",
+      "verification": "Repository documentation inspected; not rebuilt for this catalogue update.",
+      "links": [
+        {
+          "label": "Repository",
+          "url": "https://github.com/somamaley-ux/AASC-Poincare-Endpoint-Lean-Audit"
+        },
+        {
+          "label": "Scope & documentation",
+          "url": "https://github.com/somamaley-ux/AASC-Poincare-Endpoint-Lean-Audit#readme"
+        }
+      ]
+    },
+    {
+      "id": "sat-endpoint",
+      "title": "P vs NP / SAT Endpoint Audit",
+      "framework": "aasc",
+      "area": "Mathematics",
+      "owner": "somamaley-ux",
+      "scope": "An AASC SAT endpoint proof-spine audit, with an external complexity correspondence.",
+      "boundary": "The exact internal theorem retains its declared SAT encoding, admissibility conditions and external complexity correspondence. This listing makes no blanket P versus NP resolution claim.",
+      "version": "Public repository; consult its pinned releases and audit records.",
+      "verification": "Repository documentation inspected; not rebuilt for this catalogue update.",
+      "links": [
+        {
+          "label": "Repository",
+          "url": "https://github.com/somamaley-ux/AASC-PvsNP-SAT-Endpoint-Lean-Audit"
+        },
+        {
+          "label": "Scope & documentation",
+          "url": "https://github.com/somamaley-ux/AASC-PvsNP-SAT-Endpoint-Lean-Audit#readme"
+        }
+      ]
+    },
+    {
+      "id": "riemann",
+      "title": "RH Endpoint Audit",
+      "framework": "aasc",
+      "area": "Mathematics",
+      "owner": "somamaley-ux",
+      "scope": "An AASC prime-trace amplitude separator route over represented zeta-zero and explicit-formula carriers.",
+      "boundary": "The underlying analytic number theory is represented through declared carriers rather than reconstructed in full from first principles.",
+      "version": "Public repository; consult its pinned releases and audit records.",
+      "verification": "Repository documentation inspected; not rebuilt for this catalogue update.",
+      "links": [
+        {
+          "label": "Repository",
+          "url": "https://github.com/somamaley-ux/AASC-RH-Endpoint-Lean-Audit"
+        },
+        {
+          "label": "Scope & documentation",
+          "url": "https://github.com/somamaley-ux/AASC-RH-Endpoint-Lean-Audit#readme"
+        }
+      ]
+    },
+    {
+      "id": "godel",
+      "title": "Gödel Non-Instantiability",
+      "framework": "aasc",
+      "area": "Foundations & logic",
+      "owner": "somamaley-ux",
+      "scope": "Same-domain threat-architecture classification and non-instantiability within the admissible-interior framework, importing foundational, uniqueness and equivalence-exhaustion machinery.",
+      "boundary": "A paper-facing classification surface, not full coding and diagonal machinery or a claim to overturn Gödel’s incompleteness theorems.",
+      "version": "Public repository; consult its pinned releases and audit records.",
+      "verification": "Repository documentation inspected; not rebuilt for this catalogue update.",
+      "links": [
+        {
+          "label": "Repository",
+          "url": "https://github.com/somamaley-ux/D-lean-MaleyLean-godel-non-instantiability"
+        },
+        {
+          "label": "Scope & documentation",
+          "url": "https://github.com/somamaley-ux/D-lean-MaleyLean-godel-non-instantiability#readme"
+        }
+      ]
+    },
+    {
+      "id": "lean-dirac-derivation",
+      "title": "Lean LFM-to-Dirac Derivation",
+      "framework": "beyond-aasc",
+      "area": "Lattice-model mathematical physics",
+      "author": "Greg Partin (G. D. Partin)",
+      "owner": "gpartin",
+      "scope": "Conditional algebraic/modal free-Dirac factorization and spatial/time error estimates for a declared two-field C19 lattice model.",
+      "version": "v0.15.0-research · commit 2c7774d41166a3b133a81a7b1ef2f816047f095e.",
+      "verification": "Project CI passed: Lean proof #85 and Independent evidence #16 at the tagged commit, checked 12 November 2026. Not independently rebuilt by CSI.",
+      "boundary": "Conditional on the declared lattice model, preparation and low-momentum hypotheses. No physical-electron or general solution-convergence claim. This is an external project; listing does not imply CSI affiliation, endorsement or independent verification.",
+      "links": [
+        {
+          "label": "Repository",
+          "url": "https://github.com/gpartin/LeanDiracDerivation"
+        },
+        {
+          "label": "Tagged source",
+          "url": "https://github.com/gpartin/LeanDiracDerivation/tree/v0.15.0-research"
+        },
+        {
+          "label": "Claims & non-claims",
+          "url": "https://github.com/gpartin/LeanDiracDerivation/blob/v0.15.0-research/docs/CLAIMS.md"
+        },
+        {
+          "label": "Lean proof CI",
+          "url": "https://github.com/gpartin/LeanDiracDerivation/actions/runs/43136544647"
+        },
+        {
+          "label": "Evidence CI",
+          "url": "https://github.com/gpartin/LeanDiracDerivation/actions/runs/43139493805"
+        }
+      ]
+    }
+  ]
+}
