@@ -3723,6 +3723,21 @@
         "archive_filename": "somamaley-ux/aasc-structural-unification-interior-v1.0.0.zip",
         "archive_checksum": "md5:95dea6ad69723f7bffff86f56553b501"
       }
+    },
+    {
+      "work_doi": "10.5281/zenodo.24269891",
+      "exact_release_doi": "10.5281/zenodo.24269892",
+      "title": "Beyond Purity Loss Source-Accounted Quantum Dynamics and False-Well Retention",
+      "publisher_publication_date": "2026-11-16",
+      "publisher_version": null,
+      "sha256": "b38533776486d4fce0a0f7b8c6242704b5dd73c8278baf9ff7499a087b70aa92",
+      "bytes": 3630304,
+      "pages": 49,
+      "pdf_url": "https://constraintsystemsinstitute.org/manuscripts/zenodo-24269891/sha256-b38533776486d4fce0a0f7b8c6242704b5dd73c8278baf9ff7499a087b70aa92/manuscript.pdf",
+      "canonical_work_url": "https://constraintsystemsinstitute.org/papers/beyond-purity-loss-24269891/",
+      "publisher_url": "https://zenodo.org/records/24269892",
+      "verification": "Downloaded from the exact public Zenodo release; publisher MD5 and local SHA256 checked. This website publication check is not an independent proof audit.",
+      "conversion": "The PDF is authoritative. The web page is an editorial overview, not a complete manuscript conversion."
     }
   ],
   "cited_editions": [

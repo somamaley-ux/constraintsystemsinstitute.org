@@ -144,6 +144,27 @@
       "verification": "PDF downloaded from the exact publisher release and SHA256 matched; no independent theorem proof audit.",
       "conversion": "PDF is authoritative; HTML and Markdown are attributed reading aids, not a complete manuscript conversion.",
       "citation": "Amos Jay Maley. A Fixed-Domain Exhaustion Theorem: Standing, Consequence, and Compositional Closure. Publication reference, 2026-09-21. SHA256 d06d39b381edddaafe899f20769b0ba551802b23d7b83121530ecab346feece0. DOI: 10.5281/zenodo.22875070."
+    },
+    {
+      "id": "zenodo-24269891",
+      "title": "Beyond Purity Loss Source-Accounted Quantum Dynamics and False-Well Retention",
+      "author": "Amos Jay Maley",
+      "edition_label": "Published reading edition",
+      "publisher_publication_date": "2026-11-16",
+      "pages": 49,
+      "bytes": 3630304,
+      "sha256": "b38533776486d4fce0a0f7b8c6242704b5dd73c8278baf9ff7499a087b70aa92",
+      "format": "application/pdf",
+      "doi": {
+        "work_all_versions": "10.5281/zenodo.24269891",
+        "exact_release": "10.5281/zenodo.24269892"
+      },
+      "publisher_url": "https://zenodo.org/records/24269892",
+      "edition_url": "https://constraintsystemsinstitute.org/papers/beyond-purity-loss-24269891/",
+      "pdf_url": "https://constraintsystemsinstitute.org/manuscripts/zenodo-24269891/sha256-b38533776486d4fce0a0f7b8c6242704b5dd73c8278baf9ff7499a087b70aa92/manuscript.pdf",
+      "verification": "Downloaded from the exact public Zenodo release; publisher MD5 and local SHA256 checked. This website publication check is not an independent proof audit.",
+      "conversion": "The PDF is authoritative. The web page is an editorial overview, not a complete manuscript conversion.",
+      "citation": "Amos Jay Maley. Beyond Purity Loss Source-Accounted Quantum Dynamics and False-Well Retention. 2026. DOI: 10.5281/zenodo.24269892."
     }
   ],
   "consumer_grounded_reference_relationships": [

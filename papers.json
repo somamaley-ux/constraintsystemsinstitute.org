@@ -6436,5 +6436,32 @@
         "checked_commit": "21bf87b79635e451ffb05f6fef764360a32d486d"
       }
     ]
+  },
+  {
+    "title": "Beyond Purity Loss Source-Accounted Quantum Dynamics and False-Well Retention",
+    "doi": "10.5281/zenodo.24269891",
+    "doi_url": "https://doi.org/10.5281/zenodo.24269891",
+    "url": "https://constraintsystemsinstitute.org/papers/beyond-purity-loss-24269891/",
+    "slug": "beyond-purity-loss-24269891",
+    "date": "2026-11-16",
+    "scholar_date": "2026/11/16",
+    "context": "Source accounting, quantum dynamics and false-well retention.",
+    "report_number": "CSI-BPL",
+    "description": "Local existence and initial entanglement in a restricted expectation-sourced quantum/classical-reference model, finite-time false-well retention comparisons, and memory-dependent reduced dynamics with a fixed-cutoff fourth-order approximation bound. These results do not establish late-time vacuum protection or a cosmological decay rate.",
+    "keywords": "AASC, quantum–classical dynamics, source accounting, semiclassical gravity, finite quantum system–bath model, false-vacuum retention, false-well dynamics, reduced purity, initial entanglement, non-Markovian memory, time-convolutionless dynamics, master-equation coefficients, operational reference fields, Einstein constraints, finite-cutoff approximation",
+    "zenodo_record": "https://zenodo.org/records/24269892",
+    "preferred_edition": {
+      "pdf_url": "https://constraintsystemsinstitute.org/manuscripts/zenodo-24269891/sha256-b38533776486d4fce0a0f7b8c6242704b5dd73c8278baf9ff7499a087b70aa92/manuscript.pdf",
+      "doi": "10.5281/zenodo.24269892",
+      "publisher_publication_date": "2026-11-16",
+      "sha256": "b38533776486d4fce0a0f7b8c6242704b5dd73c8278baf9ff7499a087b70aa92",
+      "pages": 49
+    },
+    "repository_layout": "current-paper-with-collapsed-history",
+    "subjects": [
+      "Gravity and quantum dynamics",
+      "Measurement and entanglement"
+    ],
+    "research_groups": []
   }
 ]
