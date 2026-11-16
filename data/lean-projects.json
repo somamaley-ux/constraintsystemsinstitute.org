@@ -375,6 +375,40 @@
           "url": "https://doi.org/10.5281/zenodo.24236840"
         }
       ]
+    },
+    {
+      "id": "lean-schrodinger-derivation",
+      "title": "Lean Schrodinger Derivation",
+      "framework": "beyond-aasc",
+      "area": "Mathematical physics",
+      "author": "Greg Partin (G. D. Partin)",
+      "owner": "gpartin",
+      "scope": "Conditional exact relativistic-energy identities and a free correction bound, with a constant-potential single-plane-wave Schrodinger operator bridge in natural units.",
+      "version": "v0.13.0-research — commit 16c1f61538b824f006ed4a7c9496b4e1c48021b5.",
+      "verification": "CSI independently built the pinned first-party release and ran its verifier (2,142 jobs), inspected all 43 theorem axiom reports and checked concrete witnesses on 16 November 2026. Matching previously independently built dependency artifacts were reused; this was not a wholly cold dependency rebuild. Reports used only standard Lean axioms. The successful project CI and release have identical source trees.",
+      "boundary": "The free-Dirac mass shell is an input, not derived from lattice dynamics. The potential-bearing correction remains explicit: low momentum alone does not remove it for an arbitrary fixed potential. The analytic bridge is for a single plane wave with constant potential, not arbitrary wavefunctions, variable-potential PDEs, general dynamical convergence, the Born rule or experimental validation. External work; inclusion does not imply CSI affiliation or endorsement.",
+      "links": [
+        {
+          "label": "Repository",
+          "url": "https://github.com/gpartin/LeanSchrodingerDerivation"
+        },
+        {
+          "label": "Tagged source",
+          "url": "https://github.com/gpartin/LeanSchrodingerDerivation/tree/v0.13.0-research"
+        },
+        {
+          "label": "Release",
+          "url": "https://github.com/gpartin/LeanSchrodingerDerivation/releases/tag/v0.13.0-research"
+        },
+        {
+          "label": "Claim boundary",
+          "url": "https://github.com/gpartin/LeanSchrodingerDerivation/blob/v0.13.0-research/docs/CLAIM_BOUNDARY.md"
+        },
+        {
+          "label": "Lean proof CI",
+          "url": "https://github.com/gpartin/LeanSchrodingerDerivation/actions/runs/43805766573"
+        }
+      ]
     }
   ]
 }
