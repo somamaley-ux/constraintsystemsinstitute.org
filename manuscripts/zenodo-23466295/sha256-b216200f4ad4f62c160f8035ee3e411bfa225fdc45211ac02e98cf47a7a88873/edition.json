@@ -1,0 +1,28 @@
+{
+  "work_doi": "10.5281/zenodo.23466295",
+  "exact_release_doi": "10.5281/zenodo.24367466",
+  "title": "Premetric Structural Unification: The Constraint-Governed Emergence of Geometry, Scalar Dynamics and Operational Relativity",
+  "edition_label": "Published reading edition — 2026-11-19",
+  "publication_status": "published_on_zenodo",
+  "manuscript_cover_date": "2026-11-19",
+  "publisher_publication_date": "2026-11-19",
+  "publisher_version": null,
+  "sha256": "b216200f4ad4f62c160f8035ee3e411bfa225fdc45211ac02e98cf47a7a88873",
+  "bytes": 566244,
+  "pages": 99,
+  "pdf_url": "https://constraintsystemsinstitute.org/manuscripts/zenodo-23466295/sha256-b216200f4ad4f62c160f8035ee3e411bfa225fdc45211ac02e98cf47a7a88873/manuscript.pdf",
+  "canonical_work_url": "https://constraintsystemsinstitute.org/papers/premetric-structural-unification-23466295/",
+  "publisher_url": "https://zenodo.org/records/24367466",
+  "verification": "Exact public publisher PDF downloaded; publisher MD5, byte length and SHA256 verified. Source-based reading overview; no new independent proof audit.",
+  "conversion": "PDF is authoritative; the web page is a source-based overview, not a complete manuscript conversion.",
+  "citation": "Amos Jay Maley. Premetric Structural Unification: The Constraint-Governed Emergence of Geometry, Scalar Dynamics and Operational Relativity. 2026-11-19. DOI: 10.5281/zenodo.24367466.",
+  "publisher_verification": {
+    "publisher_metadata_url": "https://zenodo.org/api/records/24367466",
+    "publisher_file_url": "https://zenodo.org/api/records/24367466/files/Premetric%20Structural%20Unification.pdf/content",
+    "publisher_file_key": "Premetric Structural Unification.pdf",
+    "publisher_checksum": "md5:c64896c94556fdb3cdcc15091cfceeb2",
+    "publisher_checksum_matches": true,
+    "sha256": "b216200f4ad4f62c160f8035ee3e411bfa225fdc45211ac02e98cf47a7a88873",
+    "checked_utc": "2026-11-19T11:53:38.707Z"
+  }
+}

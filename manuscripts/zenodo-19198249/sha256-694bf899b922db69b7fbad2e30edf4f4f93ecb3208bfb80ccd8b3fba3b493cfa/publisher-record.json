@@ -1,0 +1,157 @@
+{
+  "created": "2026-11-18T09:02:17.767114+00:00",
+  "modified": "2026-11-18T09:02:18.225867+00:00",
+  "id": 24336126,
+  "conceptrecid": "19198249",
+  "doi": "10.5281/zenodo.24336126",
+  "conceptdoi": "10.5281/zenodo.19198249",
+  "doi_url": "https://doi.org/10.5281/zenodo.24336126",
+  "metadata": {
+    "title": "The Structure of Admissibility: Bivalent Qualification, Exhaustion, and the Unique Admissible Interior",
+    "doi": "10.5281/zenodo.24336126",
+    "publication_date": "2026-11-18",
+    "description": "<p>&nbsp;</p>\n<h2>&nbsp;</h2>\n<p>This paper develops the next foundational layer of the AASC formalism: the exact structure of admissibility once non-degenerate determinate construction has already incurred the kernel roles of Admissibility, Standing, Reference, and Irreversibility.</p>\n<p>Its central contribution is to distinguish three questions that are often compressed into the single word &ldquo;status&rdquo;:</p>\n<ul>\n<li>\n<p>whether a determinate occurrence qualifies for a specified complete use;</p>\n</li>\n<li>\n<p>what information must be retained to preserve all required observations and continuations;</p>\n</li>\n<li>\n<p>which qualified configurations remain eligible throughout a declared reuse contract.</p>\n</li>\n</ul>\n<p>The answers are respectively:</p>\n<ul>\n<li>\n<p>a bivalent qualification;</p>\n</li>\n<li>\n<p>a canonical complete interface;</p>\n</li>\n<li>\n<p>a unique greatest safe admissible interior.</p>\n</li>\n</ul>\n<h2>Principal Results</h2>\n<p>The paper establishes five connected results.</p>\n<h3>Bivalent Qualification</h3>\n<p>For each complete qualification question, the original semantic status is bivalent. This means that the qualification proposition has a positive or negative value at its determinate locus.</p>\n<p>Bivalence is a semantic classification, not an algorithm, an observation event, or a claim that evidence is always available. Failure to obtain an answer is not automatically the negative result, and a partial reader that returns no value has not thereby established non-qualification.</p>\n<p>The paper also distinguishes a single qualification bit from the complete profile of a determinate object. Multiple configurations may share the same qualification while differing in identity, application-definedness, continuation behavior, or other required observations.</p>\n<h3>Canonical Complete Interfaces</h3>\n<p>A complete observation family determines a canonical minimal lossless interface. The interface preserves exactly the distinctions required by the declared use family, including application-definedness and continuation behavior where relevant.</p>\n<p>The paper proves that:</p>\n<ul>\n<li>\n<p>the complete observation quotient is the coarsest equivalence preserving all required observations;</p>\n</li>\n<li>\n<p>every adequate representation factors uniquely through that quotient;</p>\n</li>\n<li>\n<p>two representations with the same fibres are uniquely isomorphic on their attained images;</p>\n</li>\n<li>\n<p>a binary interface is complete exactly when every required observation is constant on the fibres of the qualification bit;</p>\n</li>\n<li>\n<p>equal qualification does not justify identifying presentations that have different required observations.</p>\n</li>\n</ul>\n<p>Thus a one-bit interface is not assumed. It is obtained only when the complete use profile genuinely descends to that bit.</p>\n<p>Primitive operations and observations are treated through finite continuations. The paper gives exact domain-saturation and output-descent conditions under which a complete family of contextual observations factors through a reduced interface. It also constructs the maximal continuation congruence for a declared operational language.</p>\n<h2>The Unique Greatest Admissible Interior</h2>\n<p>The paper then distinguishes immediate qualification from robust standing under reuse.</p>\n<p>For a fixed configuration space, declared continuation relation, local qualification predicate, and independently specified edge warrants, it defines the safe interior as the set of configurations from which every declared finite continuation remains qualified and warranted.</p>\n<p>The resulting operator is monotone and has a greatest fixed point. The paper proves that this greatest safe interior:</p>\n<ul>\n<li>\n<p>contains every sound inductive or invariant candidate;</p>\n</li>\n<li>\n<p>is itself sound and closed under the declared reuse conditions;</p>\n</li>\n<li>\n<p>is the unique complete admissible interior for the fixed contract;</p>\n</li>\n<li>\n<p>provides a finite failed-node or failed-edge witness for every excluded configuration;</p>\n</li>\n<li>\n<p>is preserved under faithful relation-isomorphism and complete quotient transport.</p>\n</li>\n</ul>\n<p>&ldquo;Unique interior&rdquo; refers to uniqueness of the complete admissible set for the fixed domain and reuse contract. It does not imply that the interior is a singleton, contains only one object, or admits only one reference class.</p>\n<h2>Conservation, History, and Endpoint Qualification</h2>\n<p>Original-incidence conservation is established separately from robust standing. Independently warranted representations of the same bearer, complete question, and result relation must agree wherever they answer the same original question.</p>\n<p>The paper also proves retained-history conservation:</p>\n<ul>\n<li>\n<p>a failed original qualification cannot be erased from the history that contains it;</p>\n</li>\n<li>\n<p>a later repair or successful construction creates a new occurrence rather than retroactively changing the original one;</p>\n</li>\n<li>\n<p>a corrected report may improve knowledge of the original occurrence without replacing its conditions;</p>\n</li>\n<li>\n<p>negative endpoint absorption is an additional property, not a consequence of historical fixation alone.</p>\n</li>\n</ul>\n<p>Endpoint standing certifies the whole retained path only when the transition relation satisfies the corresponding negative-absorption condition.</p>\n<h2>Semantic Exhaustion</h2>\n<p>The paper strengthens the exhaustion argument by starting from independently specified original result relations, intended uses, continuation semantics, and warrant conditions.</p>\n<p>A claimed complete result graph or admissible interior can fail through surplus, omission, or both:</p>\n<ul>\n<li>\n<p>a surplus answer or state is admitted without the original warrant;</p>\n</li>\n<li>\n<p>an original result, observation, or safe configuration is omitted;</p>\n</li>\n<li>\n<p>an apparently valid answer is assigned to the wrong bearer, question, or occurrence;</p>\n</li>\n<li>\n<p>a later occurrence is substituted for the retained original;</p>\n</li>\n<li>\n<p>an answer or certificate is transported across scope without a valid connection;</p>\n</li>\n<li>\n<p>an interface relies on a distinction that it does not retain;</p>\n</li>\n<li>\n<p>an authorization chain lacks an independently grounded entrance.</p>\n</li>\n</ul>\n<p>These mechanisms are organized into five failure classes:</p>\n<ol>\n<li>\n<p>silent redescription;</p>\n</li>\n<li>\n<p>incorrect qualification or unfulfilled admission obligation;</p>\n</li>\n<li>\n<p>retrospective substitution;</p>\n</li>\n<li>\n<p>unwarranted scope transport;</p>\n</li>\n<li>\n<p>unlicensed distinguishing information.</p>\n</li>\n</ol>\n<p>The paper makes clear that these classes may overlap and are not claimed to be irreducible. Their role is to provide an exhaustive witness structure for the original determinate-use problem, rather than a list of labels asserted to cover every possible case.</p>\n<h2>AMetric and Authorization Constraints</h2>\n<p>The local AMetric analysis supplies the associated impossibility results:</p>\n<ul>\n<li>\n<p>discarded distinctions cannot be recovered from a lower interface;</p>\n</li>\n<li>\n<p>an unmarked equality-only carrier cannot select an eligible atom from a non-singleton candidate set;</p>\n</li>\n<li>\n<p>a purported selector must satisfy the relevant stabilizer condition;</p>\n</li>\n<li>\n<p>an unseeded rule closure cannot generate its own authorization;</p>\n</li>\n<li>\n<p>a metric, probability, parameter, or auxiliary label contributes authority only when its warranted connection to the target is independently established.</p>\n</li>\n</ul>\n<p>These results do not prohibit richer structure. They identify the exact conditions under which such structure adds legitimate information rather than merely relabelling or presupposing the result it is intended to establish.</p>\n<h2>Scope</h2>\n<p>The results apply to a fixed determinate-use problem with independently specified:</p>\n<ul>\n<li>\n<p>bearer and complete question;</p>\n</li>\n<li>\n<p>original qualification relation;</p>\n</li>\n<li>\n<p>observation and continuation family;</p>\n</li>\n<li>\n<p>local and edge-warrant conditions;</p>\n</li>\n<li>\n<p>comparison and transport rules.</p>\n</li>\n</ul>\n<p>The paper does not claim that every physical or mathematical system satisfies these hypotheses, that every admissible interior is populated, that every complete interface is computable, or that a unique admissible set is necessarily a singleton. Coverage must be established from the original task, not created by deleting inconvenient observations or declaring a preferred vocabulary exhaustive.</p>\n<p>The work is structural and mathematical. It does not derive a particular physical theory, replace domain-specific existence proofs, or claim that the full revised theorem chain has already been machine-checked by a proof assistant.</p>\n<h2>Significance for AASC</h2>\n<p>This paper converts the kernel necessity result into a complete architecture for admissibility:</p>\n<p>&nbsp;</p>\n<p>It therefore supplies the precise bridge between the necessary conditions of determinate construction and the downstream classification of admissible representations, standing-preserving continuations, and same-scope failure.</p>\n<h2>Keywords</h2>\n<p>AASC; admissibility; bivalent qualification; determinate objecthood; admissible interior; greatest fixed point; fixed-domain exhaustion; semantic exhaustion; complete observation quotient; lossless interface; standing conservation; faithful transport; same-scope closure; AMetric boundary; historical fixation</p>",
+    "access_right": "open",
+    "creators": [
+      {
+        "name": "Maley, Amos Jay",
+        "affiliation": null,
+        "orcid": "0009-0002-5499-0620"
+      }
+    ],
+    "keywords": [
+      "admissibility",
+      "AMetric boundary",
+      "bivalence",
+      "standing",
+      "conservation of standing",
+      "lawful redescription",
+      "reference-stable invariants",
+      "compositional systems",
+      "non-degenerate transformations",
+      "irreversible commitment",
+      "fail-closed necessity"
+    ],
+    "related_identifiers": [
+      {
+        "identifier": "10.5281/zenodo.19324199",
+        "relation": "isSupplementedBy",
+        "resource_type": "publication",
+        "scheme": "doi"
+      },
+      {
+        "identifier": "10.5281/zenodo.19338549",
+        "relation": "isSupplementTo",
+        "resource_type": "publication",
+        "scheme": "doi"
+      },
+      {
+        "identifier": "10.5281/zenodo.19492519",
+        "relation": "isSupplementedBy",
+        "resource_type": "software",
+        "scheme": "doi"
+      }
+    ],
+    "resource_type": {
+      "title": "Publication",
+      "type": "publication"
+    },
+    "license": {
+      "id": "cc-by-4.0"
+    },
+    "communities": [
+      {
+        "id": "primitives"
+      },
+      {
+        "id": "42010142"
+      }
+    ],
+    "relations": {
+      "version": [
+        {
+          "index": 6,
+          "is_last": true,
+          "parent": {
+            "pid_type": "recid",
+            "pid_value": "19198249"
+          }
+        }
+      ]
+    }
+  },
+  "title": "The Structure of Admissibility: Bivalent Qualification, Exhaustion, and the Unique Admissible Interior",
+  "links": {
+    "self": "https://zenodo.org/api/records/24336126",
+    "self_html": "https://zenodo.org/records/24336126",
+    "preview_html": "https://zenodo.org/records/24336126?preview=1",
+    "doi": "https://doi.org/10.5281/zenodo.24336126",
+    "self_doi": "https://doi.org/10.5281/zenodo.24336126",
+    "self_doi_html": "https://zenodo.org/doi/10.5281/zenodo.24336126",
+    "reserve_doi": "https://zenodo.org/api/records/24336126/draft/pids/doi",
+    "parent": "https://zenodo.org/api/records/19198249",
+    "parent_html": "https://zenodo.org/records/19198249",
+    "parent_doi": "https://doi.org/10.5281/zenodo.19198249",
+    "parent_doi_html": "https://zenodo.org/doi/10.5281/zenodo.19198249",
+    "self_iiif_manifest": "https://zenodo.org/api/iiif/record:24336126/manifest",
+    "self_iiif_sequence": "https://zenodo.org/api/iiif/record:24336126/sequence/default",
+    "files": "https://zenodo.org/api/records/24336126/files",
+    "media_files": "https://zenodo.org/api/records/24336126/media-files",
+    "thumbnails": {
+      "10": "https://zenodo.org/api/iiif/record:24336126:The%20Structure%20of%20Admissibility%20Bivalent%20Qualification,%20Exhaustion,%20and%20the%20Unique%20Admissible%20Interior.pdf/full/%5E10,/0/default.jpg",
+      "50": "https://zenodo.org/api/iiif/record:24336126:The%20Structure%20of%20Admissibility%20Bivalent%20Qualification,%20Exhaustion,%20and%20the%20Unique%20Admissible%20Interior.pdf/full/%5E50,/0/default.jpg",
+      "100": "https://zenodo.org/api/iiif/record:24336126:The%20Structure%20of%20Admissibility%20Bivalent%20Qualification,%20Exhaustion,%20and%20the%20Unique%20Admissible%20Interior.pdf/full/%5E100,/0/default.jpg",
+      "250": "https://zenodo.org/api/iiif/record:24336126:The%20Structure%20of%20Admissibility%20Bivalent%20Qualification,%20Exhaustion,%20and%20the%20Unique%20Admissible%20Interior.pdf/full/%5E250,/0/default.jpg",
+      "750": "https://zenodo.org/api/iiif/record:24336126:The%20Structure%20of%20Admissibility%20Bivalent%20Qualification,%20Exhaustion,%20and%20the%20Unique%20Admissible%20Interior.pdf/full/%5E750,/0/default.jpg",
+      "1200": "https://zenodo.org/api/iiif/record:24336126:The%20Structure%20of%20Admissibility%20Bivalent%20Qualification,%20Exhaustion,%20and%20the%20Unique%20Admissible%20Interior.pdf/full/%5E1200,/0/default.jpg"
+    },
+    "latest": "https://zenodo.org/api/records/24336126/versions/latest",
+    "latest_html": "https://zenodo.org/records/24336126/latest",
+    "versions": "https://zenodo.org/api/records/24336126/versions",
+    "draft": "https://zenodo.org/api/records/24336126/draft",
+    "access_links": "https://zenodo.org/api/records/24336126/access/links",
+    "access_grants": "https://zenodo.org/api/records/24336126/access/grants",
+    "access_users": "https://zenodo.org/api/records/24336126/access/users",
+    "access_request": "https://zenodo.org/api/records/24336126/access/request",
+    "access": "https://zenodo.org/api/records/24336126/access",
+    "communities": "https://zenodo.org/api/records/24336126/communities",
+    "communities-suggestions": "https://zenodo.org/api/records/24336126/communities-suggestions",
+    "request_deletion": "https://zenodo.org/api/records/24336126/request-deletion",
+    "file_modification": "https://zenodo.org/api/records/24336126/file-modification",
+    "quota_increase": "https://zenodo.org/api/records/24336126/quota-increase",
+    "requests": "https://zenodo.org/api/records/24336126/requests"
+  },
+  "updated": "2026-11-18T09:02:18.225867+00:00",
+  "recid": "24336126",
+  "revision": 3,
+  "files": [
+    {
+      "id": "320d65fd-2d46-49c6-a450-bd88049ec9a2",
+      "key": "The Structure of Admissibility Bivalent Qualification, Exhaustion, and the Unique Admissible Interior.pdf",
+      "size": 628844,
+      "checksum": "md5:605992f11e0e9708c9b14f365cdf4238",
+      "links": {
+        "self": "https://zenodo.org/api/records/24336126/files/The%20Structure%20of%20Admissibility%20Bivalent%20Qualification,%20Exhaustion,%20and%20the%20Unique%20Admissible%20Interior.pdf/content"
+      }
+    }
+  ],
+  "swh": {},
+  "owners": [
+    {
+      "id": "1535881"
+    }
+  ],
+  "status": "published",
+  "stats": {
+    "downloads": 158,
+    "unique_downloads": 134,
+    "views": 317,
+    "unique_views": 288,
+    "version_downloads": 3,
+    "version_unique_downloads": 3,
+    "version_unique_views": 2,
+    "version_views": 2
+  },
+  "state": "done",
+  "submitted": true
+}

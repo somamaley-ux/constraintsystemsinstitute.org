@@ -91,3 +91,7 @@ and the earlier reading list in `gravity-quantum/papers.json`. The tour builder
 derives current paper/software identity from `papers.json`. Run it with
 `--pages index.html gravity-quantum/index.html papers/index.html papers/premetric-structural-unification-23466295/index.html`,
 then review the focused diff. Never add a duplicate prominent work entry.
+
+## Published update, 19 November 2026
+
+The current paper is exact DOI `10.5281/zenodo.24367466`, 99 pages; Lean v1.1.0 is exact DOI `10.5281/zenodo.24365887`, tag commit `bd5715609767c4635691d353a41c3f0eaaec6dcd`. The new release panel identifies the original-preparation tests and pinned publication proof map. The six-chapter narrative retains its native construction and original source pins, now labeled as the v1.0.0 baseline where relevant. Earlier 88-page reference edition 1.1 and its software snapshot remain distinct; do not confuse that paper reference-edition number with new Lean v1.1.0. See `foundational-release-source-notes-20261119.md` for byte identities and source scope.

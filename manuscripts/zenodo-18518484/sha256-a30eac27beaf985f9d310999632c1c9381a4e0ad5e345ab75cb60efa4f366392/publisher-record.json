@@ -1,0 +1,148 @@
+{
+  "created": "2026-11-19T02:52:15.216075+00:00",
+  "modified": "2026-11-19T02:52:15.568354+00:00",
+  "id": 24357748,
+  "conceptrecid": "18518484",
+  "doi": "10.5281/zenodo.24357748",
+  "conceptdoi": "10.5281/zenodo.18518484",
+  "doi_url": "https://doi.org/10.5281/zenodo.24357748",
+  "metadata": {
+    "title": "Unus Solus Possibilis Est: Uniqueness of the Admissible Interior",
+    "doi": "10.5281/zenodo.24357748",
+    "publication_date": "2026-11-19",
+    "description": "<p>&nbsp;</p>\n<h1>Unus Solus Possibilis Est</h1>\n<h2>Corpus Closure and Uniqueness of the Admissible Interior</h2>\n<h3>Overview</h3>\n<p>This paper establishes the existence and uniqueness of the complete admissible interior associated with an independently specified qualification-and-reuse contract.</p>\n<p>Two designs may both survive an initial loading protocol while differing under a permitted continuation. A partial catalogue may therefore be sound while still omitting an entire safe region. Conversely, a proposed interior may include a state that fails a local warrant or a future continuation.</p>\n<p>The paper fixes the candidate states, immediate qualifications, permitted continuations, outcome relations, and required warrants before evaluating any proposed classification. Within that fixed domain, the greatest admissible interior contains every sound region.</p>\n<p>The theorem is structural rather than merely numerical: once the original contract is fixed, there is exactly one complete answer to the question of which starting states remain qualified under every declared continuation.</p>\n<h2>The greatest admissible interior</h2>\n<p>Let an original contract consist of:</p>\n<ul>\n<li>\n<p>a carrier of candidate states;</p>\n</li>\n<li>\n<p>a family of declared uses;</p>\n</li>\n<li>\n<p>an outcome relation;</p>\n</li>\n<li>\n<p>a local qualification condition;</p>\n</li>\n<li>\n<p>a warrant relation for permitted uses.</p>\n</li>\n</ul>\n<p>From these data, the paper defines the local validity set (B), the successor relation, and the safety operator</p>\n<p>[<br>\\Phi(U)={x\\in B:\\operatorname{Succ}(x)\\subseteq U}.<br>]</p>\n<p>A set (U) is sound when (U\\subseteq\\Phi(U)).</p>\n<p>The complete admissible interior is the greatest set satisfying this safety condition. It contains every sound region and excludes every state from which a declared unsafe continuation can be reached.</p>\n<p>The paper proves:</p>\n<ul>\n<li>\n<p>existence of the greatest admissible interior;</p>\n</li>\n<li>\n<p>uniqueness of the complete interior;</p>\n</li>\n<li>\n<p>greatestness over all sound regions;</p>\n</li>\n<li>\n<p>finite-path witnesses for excluded states;</p>\n</li>\n<li>\n<p>closure under the declared continuation relation;</p>\n</li>\n<li>\n<p>separation between safety and existence of an occupant.</p>\n</li>\n</ul>\n<p>The greatest interior may be empty. If it is inhabited, its existence alone does not identify a unique physical or mathematical occupant.</p>\n<h2>Local qualification and continuation safety</h2>\n<p>Immediate qualification is not sufficient for standing under reuse.</p>\n<p>A state can satisfy the current qualification condition while failing after one permitted continuation. The complete safety condition therefore requires both:</p>\n<ul>\n<li>\n<p>local validity at the current state;</p>\n</li>\n<li>\n<p>preservation of validity under every declared continuation.</p>\n</li>\n</ul>\n<p>The universal continuation reading is substantive. If a controller may choose among alternatives to avoid a bad outcome, that controller choice must be represented explicitly in the original contract. It cannot be removed by replacing the universal contract with an existential one.</p>\n<p>The paper distinguishes:</p>\n<ul>\n<li>\n<p>current qualification;</p>\n</li>\n<li>\n<p>one-step safety;</p>\n</li>\n<li>\n<p>finite-path safety;</p>\n</li>\n<li>\n<p>infinite continuation requirements;</p>\n</li>\n<li>\n<p>eventual completion;</p>\n</li>\n<li>\n<p>operational controller choice.</p>\n</li>\n</ul>\n<p>Safety under every finite continuation does not by itself establish eventual success or termination. Such requirements require additional temporal or progress semantics.</p>\n<h2>Complete profiles and adequate descriptions</h2>\n<p>The paper defines a complete observation profile containing the original questions, comparisons, definedness conditions, identity questions, and declared finite uses.</p>\n<p>An encoding is adequate when the complete original profile factors through it. It is minimal and complete when it retains exactly the distinctions required by the original task.</p>\n<p>The paper proves that:</p>\n<ul>\n<li>\n<p>every complete profile determines a canonical quotient;</p>\n</li>\n<li>\n<p>every adequate interface admits a decoder on its attained codes;</p>\n</li>\n<li>\n<p>a minimal complete presentation is unique up to the appropriate commuting bijection;</p>\n</li>\n<li>\n<p>an interface that merges states with different original answers cannot preserve the complete task;</p>\n</li>\n<li>\n<p>a correct quotient can still be paired with an incorrect reader;</p>\n</li>\n<li>\n<p>a faithful change of description cannot erase an original discrepancy.</p>\n</li>\n</ul>\n<p>The original questions are fixed before evaluating the proposed encoding. A smaller generated language must separately prove that it covers the original task.</p>\n<h2>Exact descent to a retained profile</h2>\n<p>The paper characterizes when the greatest admissible interior and its one-step safety tests descend through a retained description.</p>\n<p>A retained profile must preserve:</p>\n<ul>\n<li>\n<p>local qualification;</p>\n</li>\n<li>\n<p>definedness of the permitted operations;</p>\n</li>\n<li>\n<p>validity of every required warrant;</p>\n</li>\n<li>\n<p>the reports of successor states;</p>\n</li>\n<li>\n<p>the declared continuation structure.</p>\n</li>\n</ul>\n<p>If two states receive the same retained code but differ in local validity or successor behaviour, descent fails. The paper constructs the coarsest refinement of a proposed report that supports all required one-step safety tests.</p>\n<p>This refinement is not selected by convenience. It is forced by the original contract.</p>\n<h2>Faithful transport between carriers</h2>\n<p>The paper also treats comparisons between distinct carriers or representations.</p>\n<p>A transport preserves standing only when it preserves the relevant original interpretation, qualification, continuation, and warrant structure. Forward matching alone is insufficient. The transport must also reflect the relevant distinctions and remain valid under additional state restrictions.</p>\n<p>Three levels of transport are distinguished:</p>\n<ul>\n<li>\n<p>preservation of standing for the original contract;</p>\n</li>\n<li>\n<p>preservation after every additional state restriction;</p>\n</li>\n<li>\n<p>preservation of the complete one-step operator.</p>\n</li>\n</ul>\n<p>A map that preserves current positive cases but fails under a restricted subdomain does not establish full transport of the admissible interior.</p>\n<h2>Several contracts on one carrier</h2>\n<p>When several contracts act on the same carrier, safety under arbitrary switching is not generally the intersection of the interiors obtained from each contract separately.</p>\n<p>A state may be safe under each contract in isolation while becoming unsafe when the contracts alternate. The paper identifies the mixed-path obstruction and gives the exact condition under which joint greatestness is preserved.</p>\n<p>For a finite family of contracts on a carrier with (m&gt;0) states, every failure of arbitrary-switching safety has a witness involving at most (m) contracts. The bound is sharp.</p>\n<p>This gives a finite obstruction principle for multi-contract closure: although the family of contracts may be large, a failure can be exposed by a bounded subfamily.</p>\n<h2>Conservative extension and authorization</h2>\n<p>The paper distinguishes strengthening a contract from changing its meaning.</p>\n<p>An extension is conservative for the original admissibility judgments when it preserves the original candidates, qualifications, continuations, warrants, and interpretations. New rules may add justified consequences, but they must not create new authorization for claims that were previously unsupported.</p>\n<p>The result applies to:</p>\n<ul>\n<li>\n<p>admissibility systems;</p>\n</li>\n<li>\n<p>proof and certificate systems;</p>\n</li>\n<li>\n<p>operational reuse contracts;</p>\n</li>\n<li>\n<p>interface extensions;</p>\n</li>\n<li>\n<p>physical state classifications;</p>\n</li>\n<li>\n<p>grounded authorization networks.</p>\n</li>\n</ul>\n<p>A closed set of mutually supporting claims is not necessarily a grounded authorization structure. Groundedness requires independently warranted entrances and truth-preserving derivations.</p>\n<h2>Unique complete presentation and occupant identification</h2>\n<p>The paper carefully separates several different uniqueness claims:</p>\n<ul>\n<li>\n<p>uniqueness of the greatest admissible interior;</p>\n</li>\n<li>\n<p>uniqueness of a minimal complete presentation;</p>\n</li>\n<li>\n<p>uniqueness of a transported standing judgment;</p>\n</li>\n<li>\n<p>uniqueness of a common readout;</p>\n</li>\n<li>\n<p>uniqueness of an occupant.</p>\n</li>\n</ul>\n<p>The first claim follows from the fixed contract. The last requires additional domain evidence.</p>\n<p>A common readout identifies a unique occupant only when:</p>\n<ul>\n<li>\n<p>the candidate family is nonempty;</p>\n</li>\n<li>\n<p>the readout is defined on the candidate family;</p>\n</li>\n<li>\n<p>the readout is constant on the compatible candidates;</p>\n</li>\n<li>\n<p>the identity fibre over the observed readout is a singleton.</p>\n</li>\n</ul>\n<p>A unique normal form or a unique numerical value does not by itself establish a unique underlying identity.</p>\n<h2>Exhaustion by explicit witnesses</h2>\n<p>The paper supplies explicit witnesses for false or incomplete claims, including:</p>\n<ul>\n<li>\n<p>a state included in a proposed interior despite an unsafe continuation;</p>\n</li>\n<li>\n<p>a safe state omitted from a proposed complete region;</p>\n</li>\n<li>\n<p>two equally encoded states with different required outcomes;</p>\n</li>\n<li>\n<p>a proposed transport that fails under an additional restriction;</p>\n</li>\n<li>\n<p>a joint contract whose individually safe states fail under switching;</p>\n</li>\n<li>\n<p>a report that preserves present qualification but loses one-step behaviour;</p>\n</li>\n<li>\n<p>a sound partial catalogue that is incorrectly advertised as complete;</p>\n</li>\n<li>\n<p>multiple admissible occupants sharing the same readout;</p>\n</li>\n<li>\n<p>a claimed unique decomposition with more than one admissible preimage.</p>\n</li>\n</ul>\n<p>These witnesses show precisely what additional evidence is needed to repair the claim.</p>\n<p>A corrected assertion, an independent observation, a valid certificate, a refined interface, or an explicitly enlarged contract may repair the failure. A faithful change of presentation alone cannot.</p>\n<h2>Worked constructions</h2>\n<p>The paper includes worked examples involving:</p>\n<ul>\n<li>\n<p>two safe bridge designs and an unsafe continuation;</p>\n</li>\n<li>\n<p>archival records and faithful quotienting;</p>\n</li>\n<li>\n<p>unique occupant identification by independent constraints;</p>\n</li>\n<li>\n<p>one-step safety tests;</p>\n</li>\n<li>\n<p>multiple contracts and mixed-path failure;</p>\n</li>\n<li>\n<p>conservative extensions;</p>\n</li>\n<li>\n<p>many-input constructors;</p>\n</li>\n<li>\n<p>partial catalogues;</p>\n</li>\n<li>\n<p>lossy reports;</p>\n</li>\n<li>\n<p>switching between protocols;</p>\n</li>\n<li>\n<p>finite witness bounds.</p>\n</li>\n</ul>\n<p>The examples distinguish soundness from completeness, safety from existence, and unique interior from unique occupant.</p>\n<h2>Relation to AASC</h2>\n<p>The Kernel paper establishes the necessity of Admissibility, Standing, Reference, and Irreversibility for non-degenerate determinate objecthood.</p>\n<p>The AMetric Boundary develops pre-fixational symmetry, content restrictions, and non-transmission. The Structure of Admissibility constructs complete interfaces and the greatest admissible interior. The Fixed-Domain Exhaustion paper develops the general witness and compositional-closure results. Anchor, Tensor, and Skin studies variation effects and representation identity.</p>\n<p>The present paper focuses on the central admissible-interior question:</p>\n<p>Given a fixed set of candidates, qualifications, permitted continuations, and warrants, which states remain standing under every declared use?</p>\n<p>Its answer is the unique greatest admissible interior. The theorem does not derive the original contract from a downstream representation. Each application must independently justify its candidate set, use relation, local qualification, warrants, and interpretation.</p>\n<h2>Formal verification</h2>\n<p>The accompanying project contains machine-checked proofs and finite checks for the principal claims, including:</p>\n<ul>\n<li>\n<p>greatestness and closure of the admissible interior;</p>\n</li>\n<li>\n<p>quotient descent;</p>\n</li>\n<li>\n<p>one-step safety preservation;</p>\n</li>\n<li>\n<p>coarsest profile refinement;</p>\n</li>\n<li>\n<p>faithful transport;</p>\n</li>\n<li>\n<p>mixed-path obstructions;</p>\n</li>\n<li>\n<p>finite contract-family bounds;</p>\n</li>\n<li>\n<p>conservative extension;</p>\n</li>\n<li>\n<p>occupant uniqueness conditions;</p>\n</li>\n<li>\n<p>explicit failure witnesses.</p>\n</li>\n</ul>\n<p>The formal record distinguishes the theorem&rsquo;s abstract assumptions from the semantic work required to establish a physical or mathematical application.</p>\n<h2>Scope and limitations</h2>\n<p>The paper establishes:</p>\n<ul>\n<li>\n<p>a unique greatest admissible interior for a fixed contract;</p>\n</li>\n<li>\n<p>finite-path witnesses for unsafe states;</p>\n</li>\n<li>\n<p>exact descent conditions for retained descriptions;</p>\n</li>\n<li>\n<p>coarsest refinement supporting one-step safety;</p>\n</li>\n<li>\n<p>faithful transport conditions across representations;</p>\n</li>\n<li>\n<p>restrictions needed for transport under subdomains;</p>\n</li>\n<li>\n<p>mixed-path criteria for multiple contracts;</p>\n</li>\n<li>\n<p>finite subfamily bounds for switching failures;</p>\n</li>\n<li>\n<p>conservative-extension conditions;</p>\n</li>\n<li>\n<p>explicit criteria for unique readout and unique occupant;</p>\n</li>\n<li>\n<p>witness-based exhaustion of false completeness and uniqueness claims.</p>\n</li>\n</ul>\n<p>It does not claim:</p>\n<ul>\n<li>\n<p>that every admissible interior is inhabited;</p>\n</li>\n<li>\n<p>that every original question is decidable;</p>\n</li>\n<li>\n<p>that finite observations capture every eventual outcome;</p>\n</li>\n<li>\n<p>that a positive current verdict proves future safety;</p>\n</li>\n<li>\n<p>that separate contract interiors remain safe under arbitrary switching;</p>\n</li>\n<li>\n<p>that a unique admissible interior identifies a unique occupant;</p>\n</li>\n<li>\n<p>that a common readout proves a unique mechanism without a candidate-domain theorem;</p>\n</li>\n<li>\n<p>that a downstream representation can replace the original AASC contract.</p>\n</li>\n</ul>\n<p>The conclusions are relative to the independently specified candidate set, continuation relation, qualification conditions, warrant structure, and interpretation of the original task.</p>\n<h2>Place in the AASC archive</h2>\n<p>This paper is the principal uniqueness and closure theorem for the AASC admissible interior. It establishes the canonical greatest region that remains standing under every declared continuation and identifies the additional evidence required for claims of unique presentation, unique occupant, or unique physical realization.</p>\n<h3>Foundational premetric and admissibility layer</h3>\n<ul>\n<li>\n<p><a href=\"https://doi.org/10.5281/zenodo.22968658\">Non-Degenerate Construction and the Kernel of Admissibility</a></p>\n</li>\n<li>\n<p><a href=\"https://doi.org/10.5281/zenodo.22848051\">The AMetric Boundary as a Unique Regime-Invariant Constraint on Admissibility-Bearing Construction</a></p>\n</li>\n<li>\n<p><a href=\"https://doi.org/10.5281/zenodo.22874934\">The Structure of Admissibility: Bivalent Qualification, Exhaustion, and the Unique Admissible Interior</a></p>\n</li>\n<li>\n<p><a href=\"https://doi.org/10.5281/zenodo.22875070\">A Fixed-Domain Exhaustion Theorem</a></p>\n</li>\n<li>\n<p><a href=\"https://doi.org/10.5281/zenodo.23226427\">Metricity as Licensed Description: The L-metric Boundary and the Realized Physical Interior</a></p>\n</li>\n</ul>\n<h3>Gravitational, quantum, and structural-unification projections</h3>\n<ul>\n<li>\n<p><a href=\"https://doi.org/10.5281/zenodo.23038472\">Gravity as Structural Necessity</a></p>\n</li>\n<li>\n<p><a href=\"https://doi.org/10.5281/zenodo.21616067\">Einstein Dynamics as the Unique Minimal First-Response Metric Projection of AASC Gravity</a></p>\n</li>\n<li>\n<p><a href=\"https://doi.org/10.5281/zenodo.21824200\">Schr&ouml;dinger Dynamics as the Unique Minimal First-Response Hamiltonian Projection of AASC Quantum Standing</a></p>\n</li>\n<li>\n<p><a href=\"https://doi.org/10.5281/zenodo.21616108\">Structural Unification of Gravity and Quantum Dynamics under AASC</a></p>\n</li>\n</ul>\n<h3>Relativistic, clock, source, and operational companions</h3>\n<ul>\n<li>\n<p><a href=\"https://doi.org/10.5281/zenodo.22934089\">Special Relativity from AASC: The Necessary Kernel of Physical Objecthood and Its Lorentzian Realization</a></p>\n</li>\n<li>\n<p><a href=\"https://doi.org/10.5281/zenodo.20833949\">The Physical Clock as a Quotient</a></p>\n</li>\n<li>\n<p><a href=\"https://doi.org/10.5281/zenodo.21616143\">Operational Metric-Source Representation and Composite Ledger Closure under AASC</a></p>\n</li>\n<li>\n<p><a href=\"https://doi.org/10.5281/zenodo.21616180\">Common Mass-Charge Matching and Universal Inertial&ndash;Active Proportionality under AASC</a></p>\n</li>\n</ul>\n<h3>Matter and common-source extensions</h3>\n<ul>\n<li>\n<p><a href=\"https://doi.org/10.5281/zenodo.22892317\">Classical Standard Model and Gravity from a Common Constraint-Governed Source</a></p>\n</li>\n<li>\n<p><a href=\"https://doi.org/10.5281/zenodo.21825106\">Classical Matter Occupancy and Joint-Constraint Closure under AASC</a></p>\n</li>\n</ul>\n<h3>Downstream decomposition companion</h3>\n<ul>\n<li>\n<p><a href=\"https://doi.org/10.5281/zenodo.23466295\">Anchor, Tensor, and Skin: A Fixed-Domain Decomposition Theorem for Admissible Description</a></p>\n</li>\n</ul>\n<h3>Structural-unification records</h3>\n<ul>\n<li>\n<p><a href=\"https://doi.org/10.5281/zenodo.23467836\">Premetric Structural Unification: From the AASC Kernel to Einstein-Form and Free-Scalar Dynamics</a></p>\n</li>\n<li>\n<p><a href=\"https://doi.org/10.5281/zenodo.23466295\">AASC structural-unification work record</a></p>\n</li>\n<li>\n<p><a href=\"https://doi.org/10.5281/zenodo.23466438\">AASC Lean formalization record</a></p>\n</li>\n</ul>\n<p>Within the archive, this paper supplies the unique-admissible-interior and multi-contract-closure layer connecting the foundational AASC Kernel to later description, interface, physical, and operational applications.</p>\n<h2>Keywords</h2>\n<p>AASC; admissible interior; corpus closure; greatest fixed point; standing under continuation; safety invariant; canonical quotient; faithful transport; conservative extension; compositional closure; mixed-path obstruction; occupant uniqueness; admissibility contract; exhaustion theorem; formal verification</p>",
+    "access_right": "open",
+    "creators": [
+      {
+        "name": "Maley, Amos Jay",
+        "affiliation": null,
+        "orcid": "0009-0002-5499-0620"
+      }
+    ],
+    "keywords": [
+      "admissibility",
+      "standing",
+      "uniqueness of the admissible interior",
+      "epistemic constraints",
+      "invariance",
+      "mechanized mathematics",
+      "epistemic foundations",
+      "structural constraints",
+      "standing conservation",
+      "bivalence",
+      "AMetric boundary"
+    ],
+    "related_identifiers": [
+      {
+        "identifier": "10.5281/zenodo.19500297",
+        "relation": "isSupplementedBy",
+        "resource_type": "software",
+        "scheme": "doi"
+      }
+    ],
+    "resource_type": {
+      "title": "Publication",
+      "type": "publication"
+    },
+    "license": {
+      "id": "cc-by-4.0"
+    },
+    "communities": [
+      {
+        "id": "primitives"
+      },
+      {
+        "id": "unificationarc"
+      },
+      {
+        "id": "42010142"
+      }
+    ],
+    "relations": {
+      "version": [
+        {
+          "index": 5,
+          "is_last": true,
+          "parent": {
+            "pid_type": "recid",
+            "pid_value": "18518484"
+          }
+        }
+      ]
+    }
+  },
+  "title": "Unus Solus Possibilis Est: Uniqueness of the Admissible Interior",
+  "links": {
+    "self": "https://zenodo.org/api/records/24357748",
+    "self_html": "https://zenodo.org/records/24357748",
+    "preview_html": "https://zenodo.org/records/24357748?preview=1",
+    "doi": "https://doi.org/10.5281/zenodo.24357748",
+    "self_doi": "https://doi.org/10.5281/zenodo.24357748",
+    "self_doi_html": "https://zenodo.org/doi/10.5281/zenodo.24357748",
+    "reserve_doi": "https://zenodo.org/api/records/24357748/draft/pids/doi",
+    "parent": "https://zenodo.org/api/records/18518484",
+    "parent_html": "https://zenodo.org/records/18518484",
+    "parent_doi": "https://doi.org/10.5281/zenodo.18518484",
+    "parent_doi_html": "https://zenodo.org/doi/10.5281/zenodo.18518484",
+    "self_iiif_manifest": "https://zenodo.org/api/iiif/record:24357748/manifest",
+    "self_iiif_sequence": "https://zenodo.org/api/iiif/record:24357748/sequence/default",
+    "files": "https://zenodo.org/api/records/24357748/files",
+    "media_files": "https://zenodo.org/api/records/24357748/media-files",
+    "thumbnails": {
+      "10": "https://zenodo.org/api/iiif/record:24357748:Unus%20Solus%20Possibilis%20Est%20Corpus%20Closure%20and%20Uniqueness%20of%20the%20Admissible%20Interior.pdf/full/%5E10,/0/default.jpg",
+      "50": "https://zenodo.org/api/iiif/record:24357748:Unus%20Solus%20Possibilis%20Est%20Corpus%20Closure%20and%20Uniqueness%20of%20the%20Admissible%20Interior.pdf/full/%5E50,/0/default.jpg",
+      "100": "https://zenodo.org/api/iiif/record:24357748:Unus%20Solus%20Possibilis%20Est%20Corpus%20Closure%20and%20Uniqueness%20of%20the%20Admissible%20Interior.pdf/full/%5E100,/0/default.jpg",
+      "250": "https://zenodo.org/api/iiif/record:24357748:Unus%20Solus%20Possibilis%20Est%20Corpus%20Closure%20and%20Uniqueness%20of%20the%20Admissible%20Interior.pdf/full/%5E250,/0/default.jpg",
+      "750": "https://zenodo.org/api/iiif/record:24357748:Unus%20Solus%20Possibilis%20Est%20Corpus%20Closure%20and%20Uniqueness%20of%20the%20Admissible%20Interior.pdf/full/%5E750,/0/default.jpg",
+      "1200": "https://zenodo.org/api/iiif/record:24357748:Unus%20Solus%20Possibilis%20Est%20Corpus%20Closure%20and%20Uniqueness%20of%20the%20Admissible%20Interior.pdf/full/%5E1200,/0/default.jpg"
+    },
+    "latest": "https://zenodo.org/api/records/24357748/versions/latest",
+    "latest_html": "https://zenodo.org/records/24357748/latest",
+    "versions": "https://zenodo.org/api/records/24357748/versions",
+    "draft": "https://zenodo.org/api/records/24357748/draft",
+    "access_links": "https://zenodo.org/api/records/24357748/access/links",
+    "access_grants": "https://zenodo.org/api/records/24357748/access/grants",
+    "access_users": "https://zenodo.org/api/records/24357748/access/users",
+    "access_request": "https://zenodo.org/api/records/24357748/access/request",
+    "access": "https://zenodo.org/api/records/24357748/access",
+    "communities": "https://zenodo.org/api/records/24357748/communities",
+    "communities-suggestions": "https://zenodo.org/api/records/24357748/communities-suggestions",
+    "request_deletion": "https://zenodo.org/api/records/24357748/request-deletion",
+    "file_modification": "https://zenodo.org/api/records/24357748/file-modification",
+    "quota_increase": "https://zenodo.org/api/records/24357748/quota-increase",
+    "requests": "https://zenodo.org/api/records/24357748/requests"
+  },
+  "updated": "2026-11-19T02:52:15.568354+00:00",
+  "recid": "24357748",
+  "revision": 3,
+  "files": [
+    {
+      "id": "64f285bd-cf2c-499a-af3e-65a117bd5a2a",
+      "key": "Unus Solus Possibilis Est Corpus Closure and Uniqueness of the Admissible Interior.pdf",
+      "size": 495123,
+      "checksum": "md5:40efa4c859da9e9aad788ba0119773d1",
+      "links": {
+        "self": "https://zenodo.org/api/records/24357748/files/Unus%20Solus%20Possibilis%20Est%20Corpus%20Closure%20and%20Uniqueness%20of%20the%20Admissible%20Interior.pdf/content"
+      }
+    }
+  ],
+  "swh": {},
+  "owners": [
+    {
+      "id": "1535881"
+    }
+  ],
+  "status": "published",
+  "stats": {
+    "downloads": 90,
+    "unique_downloads": 84,
+    "views": 169,
+    "unique_views": 160,
+    "version_downloads": 0,
+    "version_unique_downloads": 0,
+    "version_unique_views": 3,
+    "version_views": 3
+  },
+  "state": "done",
+  "submitted": true
+}

@@ -6,9 +6,19 @@
     "group": "The foundation",
     "plain": "Establishes the necessary roles of admissibility, standing, reference and irreversibility. Independently warranted answers to the same complete question about the same object agree, while later repair leaves the original trial intact.",
     "scope": "Kernel governance is necessary for non-degenerate determinate objects and incidences. Conservation compares independently warranted answers about the same bearer and complete determinate question. Later evidence can correct an account; later repair cannot replace the original occurrence or conditions. A complete record also retains the substantive information required by the task.",
-    "title": "Non-Degenerate Construction and the Kernel of Admissibility",
+    "title": "Non-Degenerate Construction and the Kernel of Admissibility: An Exhaustion Theorem for Standing, Reference, and Irreversibility",
     "url": "https://constraintsystemsinstitute.org/papers/non-degenerate-construction-and-the-kernel-of-admissibility-10-5281-zenodo-19324199/",
-    "slug": "non-degenerate-construction-and-the-kernel-of-admissibility-10-5281-zenodo-19324199"
+    "slug": "non-degenerate-construction-and-the-kernel-of-admissibility-10-5281-zenodo-19324199",
+    "published_edition": {
+      "pdf_url": "https://constraintsystemsinstitute.org/manuscripts/zenodo-19324199/sha256-3765b7e7f066df161cb344a2b551b1c729fe72aac5771977e264853aedbd8412/manuscript.pdf",
+      "doi": "10.5281/zenodo.24330589",
+      "publication_status": "published_on_zenodo",
+      "edition_label": "Published reading edition — 2026-11-18",
+      "publisher_publication_date": "2026-11-18",
+      "manuscript_date": "2026-11-18",
+      "sha256": "3765b7e7f066df161cb344a2b551b1c729fe72aac5771977e264853aedbd8412",
+      "pages": 50
+    }
   },
   {
     "id": "boundary",
@@ -17,9 +27,19 @@
     "group": "The foundation",
     "plain": "Shows why labels cannot recover a lost connection to the original target, and how a grounded record can supply the missing information. Distinguishes what a description tells us from which individual it can identify.",
     "scope": "The AMetric boundary is an order-of-qualification constraint. Equality-only symmetry permits equality information but supplies no privileged individual. A grounded selection needs the required input association and warrant. Complete interfaces preserve all declared uses and operation domains; these authority conditions do not describe a physical transmission mechanism.",
-    "title": "The AMetric Boundary as a Unique Regime-Invariant Constraint on Admissibility-Bearing Construction",
+    "title": "The AMetric Boundary as a Unique Regime-Invariant Constraint on Admissibility-Bearing Construction: Pre-fixational authority, non-transmissivity, and complete interfaces",
     "url": "https://constraintsystemsinstitute.org/papers/the-ametric-boundary-18603144/",
-    "slug": "the-ametric-boundary-18603144"
+    "slug": "the-ametric-boundary-18603144",
+    "published_edition": {
+      "pdf_url": "https://constraintsystemsinstitute.org/manuscripts/zenodo-18603144/sha256-21f51f60d38b36e4169e07ebf86e8a2372be2af7eee5b9f7279eba14342ce54d/manuscript.pdf",
+      "doi": "10.5281/zenodo.24331743",
+      "publication_status": "published_on_zenodo",
+      "edition_label": "Published reading edition — 2026-11-18",
+      "publisher_publication_date": "2026-11-18",
+      "manuscript_date": "2026-11-18",
+      "sha256": "21f51f60d38b36e4169e07ebf86e8a2372be2af7eee5b9f7279eba14342ce54d",
+      "pages": 65
+    }
   },
   {
     "id": "structure",
@@ -28,9 +48,19 @@
     "group": "The foundation",
     "plain": "Two configurations can both pass one test and still behave differently on the next. Constructs the complete information needed for the declared uses and the greatest set that remains qualified throughout them.",
     "scope": "Qualification is binary for one complete question; the full record can preserve many distinctions. The safe interior is constructed from independently fixed qualification, permitted uses and their warrants. It can contain several configurations or be empty. Safety does not by itself establish eventual completion.",
-    "title": "The Structure of Admissibility",
+    "title": "The Structure of Admissibility: Bivalent Qualification, Exhaustion, and the Unique Admissible Interior",
     "url": "https://constraintsystemsinstitute.org/papers/the-structure-of-admissibility-10-5281-zenodo-19198249/",
-    "slug": "the-structure-of-admissibility-10-5281-zenodo-19198249"
+    "slug": "the-structure-of-admissibility-10-5281-zenodo-19198249",
+    "published_edition": {
+      "pdf_url": "https://constraintsystemsinstitute.org/manuscripts/zenodo-19198249/sha256-694bf899b922db69b7fbad2e30edf4f4f93ecb3208bfb80ccd8b3fba3b493cfa/manuscript.pdf",
+      "doi": "10.5281/zenodo.24336126",
+      "publication_status": "published_on_zenodo",
+      "edition_label": "Published reading edition — 2026-11-18",
+      "publisher_publication_date": "2026-11-18",
+      "manuscript_date": "2026-11-18",
+      "sha256": "694bf899b922db69b7fbad2e30edf4f4f93ecb3208bfb80ccd8b3fba3b493cfa",
+      "pages": 46
+    }
   },
   {
     "id": "unus",
@@ -39,31 +69,61 @@
     "group": "The foundation",
     "plain": "Builds the complete safe set from independently specified requirements and permitted continuations. Every sound candidate set lies inside this greatest interior, and faithful descriptions preserve it even when several configurations qualify.",
     "scope": "The greatest sound interior is constructed before its membership supplies robust standing. Exact descriptions preserve local qualification and the required continuation information. One complete interior can contain many occupants; one unique occupant needs additional identity-separating constraints and a positive realization.",
-    "title": "Unus Solus Possibilis Est (Uniqueness)",
+    "title": "Unus Solus Possibilis Est: Corpus Closure and Uniqueness of the Admissible Interior",
     "url": "https://constraintsystemsinstitute.org/papers/unus-solus-possibilis-est-uniqueness-10-5281-zenodo-18518484/",
-    "slug": "unus-solus-possibilis-est-uniqueness-10-5281-zenodo-18518484"
+    "slug": "unus-solus-possibilis-est-uniqueness-10-5281-zenodo-18518484",
+    "published_edition": {
+      "pdf_url": "https://constraintsystemsinstitute.org/manuscripts/zenodo-18518484/sha256-a30eac27beaf985f9d310999632c1c9381a4e0ad5e345ab75cb60efa4f366392/manuscript.pdf",
+      "doi": "10.5281/zenodo.24357748",
+      "publication_status": "published_on_zenodo",
+      "edition_label": "Published reading edition — 2026-11-19",
+      "publisher_publication_date": "2026-11-19",
+      "manuscript_date": "2026-11-19",
+      "sha256": "a30eac27beaf985f9d310999632c1c9381a4e0ad5e345ab75cb60efa4f366392",
+      "pages": 31
+    }
   },
   {
     "id": "ats",
     "code": "Roles",
     "doi": "10.5281/zenodo.18678041",
     "group": "Related machinery",
-    "plain": "Separates the conditions a description depends on, the meaningful content it preserves, and its presentation. These are called Anchor, Tensor and Skin.",
-    "scope": "Unique fixed-domain role decomposition, importing intrinsic detectability, bivalence, fail-closure and structural exhaustion. Tensor does not necessarily mean a numerical array; anchor is not a physical mechanism.",
-    "title": "Anchor, Tensor, and Skin: A Fixed-Domain Decomposition Theorem for Admissible Description (Normal Form Capstone)",
+    "plain": "Fixes context, complete answers and their realizations as Anchor, Tensor and Skin. Every minimal complete encoding recovers the same content space up to a unique commuting bijection, without choosing a representative.",
+    "scope": "Fixed interpreted context and required questions include answer availability. The decomposition classifies individual variations, including mixed-role components. Joint inputs and sequential operators have separate applicability, result and rejection obligations. Tensor names semantic content; it need not be a physical tensor field.",
+    "title": "Anchor, Tensor, and Skin: A Fixed-Domain Decomposition Theorem for Admissible Description",
     "url": "https://constraintsystemsinstitute.org/papers/anchor-tensor-and-skin-a-fixed-domain-decomposition-theorem-for-admissible-description/",
-    "slug": "anchor-tensor-and-skin-a-fixed-domain-decomposition-theorem-for-admissible-description"
+    "slug": "anchor-tensor-and-skin-a-fixed-domain-decomposition-theorem-for-admissible-description",
+    "published_edition": {
+      "pdf_url": "https://constraintsystemsinstitute.org/manuscripts/zenodo-18678041/sha256-832fb5482ed3eaaa8ac8f6aaf8d722c8504c3bfdb1f7c2d51e1d64dd4428e3a2/manuscript.pdf",
+      "doi": "10.5281/zenodo.24357281",
+      "publication_status": "published_on_zenodo",
+      "edition_label": "Published reading edition — 2026-11-19",
+      "publisher_publication_date": "2026-11-19",
+      "manuscript_date": "2026-11-18",
+      "sha256": "832fb5482ed3eaaa8ac8f6aaf8d722c8504c3bfdb1f7c2d51e1d64dd4428e3a2",
+      "pages": 35
+    }
   },
   {
     "id": "exhaustion",
     "code": "Exhaustion",
     "doi": "10.5281/zenodo.18682423",
     "group": "Related machinery",
-    "plain": "Asks where any genuinely different contribution could enter the same construction. Reduces relevant variation to its effect on the boundary, classification, identity or continuation.",
-    "scope": "Theoremic, non-enumerative fixed-domain exhaustion via future-behavior quotient and boundary factorization. Does not exhaust arbitrary richer domains or derive physical dynamics by checking examples.",
-    "title": "A Fixed-Domain Exhaustion Theorem",
+    "plain": "Tests whether a representation preserves every declared use of the original task: results, distinctions, safe continuations and certificate obligations. Each defect has an original-task witness, even when a conclusion is true but required support is missing.",
+    "scope": "Fixed original outcomes and their definedness determine a canonical quotient. Partial updates and grounded authorization retain their exact observation and conservative-extension conditions. Unique output or occupant needs additional evidence; the theorem does not exhaust arbitrary richer domains.",
+    "title": "A Fixed-Domain Exhaustion Theorem: Standing, Consequence, and Compositional Closure",
     "url": "https://constraintsystemsinstitute.org/papers/a-fixed-domain-exhaustion-theorem-10-5281-zenodo-18682423/",
-    "slug": "a-fixed-domain-exhaustion-theorem-10-5281-zenodo-18682423"
+    "slug": "a-fixed-domain-exhaustion-theorem-10-5281-zenodo-18682423",
+    "published_edition": {
+      "pdf_url": "https://constraintsystemsinstitute.org/manuscripts/zenodo-18682423/sha256-422ab7a65167ee298a67cd863205e50ca99722e5809fcd25402c6db6cd2652d5/manuscript.pdf",
+      "doi": "10.5281/zenodo.24357455",
+      "publication_status": "published_on_zenodo",
+      "edition_label": "Published reading edition — 2026-11-19",
+      "publisher_publication_date": "2026-11-19",
+      "manuscript_date": "2026-11-19",
+      "sha256": "422ab7a65167ee298a67cd863205e50ca99722e5809fcd25402c6db6cd2652d5",
+      "pages": 39
+    }
   },
   {
     "id": "bundle",

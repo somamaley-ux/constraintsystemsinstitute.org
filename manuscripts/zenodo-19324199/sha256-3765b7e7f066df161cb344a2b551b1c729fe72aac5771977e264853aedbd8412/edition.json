@@ -1,0 +1,28 @@
+{
+  "work_doi": "10.5281/zenodo.19324199",
+  "exact_release_doi": "10.5281/zenodo.24330589",
+  "title": "Non-Degenerate Construction and the Kernel of Admissibility: An Exhaustion Theorem for Standing, Reference, and Irreversibility",
+  "edition_label": "Published reading edition — 2026-11-18",
+  "publication_status": "published_on_zenodo",
+  "manuscript_cover_date": "2026-11-18",
+  "publisher_publication_date": "2026-11-18",
+  "publisher_version": null,
+  "sha256": "3765b7e7f066df161cb344a2b551b1c729fe72aac5771977e264853aedbd8412",
+  "bytes": 666277,
+  "pages": 50,
+  "pdf_url": "https://constraintsystemsinstitute.org/manuscripts/zenodo-19324199/sha256-3765b7e7f066df161cb344a2b551b1c729fe72aac5771977e264853aedbd8412/manuscript.pdf",
+  "canonical_work_url": "https://constraintsystemsinstitute.org/papers/non-degenerate-construction-and-the-kernel-of-admissibility-10-5281-zenodo-19324199/",
+  "publisher_url": "https://zenodo.org/records/24330589",
+  "verification": "Exact public publisher PDF downloaded; publisher MD5, byte length and SHA256 verified. Source-based reading overview; no new independent proof audit.",
+  "conversion": "PDF is authoritative; the web page is a source-based overview, not a complete manuscript conversion.",
+  "citation": "Amos Jay Maley. Non-Degenerate Construction and the Kernel of Admissibility: An Exhaustion Theorem for Standing, Reference, and Irreversibility. 2026-11-18. DOI: 10.5281/zenodo.24330589.",
+  "publisher_verification": {
+    "publisher_metadata_url": "https://zenodo.org/api/records/24330589",
+    "publisher_file_url": "https://zenodo.org/api/records/24330589/files/Non-Degenerate%20Construction%20and%20the%20Kernel%20of%20Admissibility.pdf/content",
+    "publisher_file_key": "Non-Degenerate Construction and the Kernel of Admissibility.pdf",
+    "publisher_checksum": "md5:0db6c6d2f16bce31a8e53973e4a5f272",
+    "publisher_checksum_matches": true,
+    "sha256": "3765b7e7f066df161cb344a2b551b1c729fe72aac5771977e264853aedbd8412",
+    "checked_utc": "2026-11-19T11:53:38.662Z"
+  }
+}

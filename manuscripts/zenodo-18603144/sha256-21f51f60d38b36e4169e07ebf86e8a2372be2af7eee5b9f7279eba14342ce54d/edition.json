@@ -1,0 +1,28 @@
+{
+  "work_doi": "10.5281/zenodo.18603144",
+  "exact_release_doi": "10.5281/zenodo.24331743",
+  "title": "The AMetric Boundary as a Unique Regime-Invariant Constraint on Admissibility-Bearing Construction: Pre-fixational authority, non-transmissivity, and complete interfaces",
+  "edition_label": "Published reading edition — 2026-11-18",
+  "publication_status": "published_on_zenodo",
+  "manuscript_cover_date": "2026-11-18",
+  "publisher_publication_date": "2026-11-18",
+  "publisher_version": null,
+  "sha256": "21f51f60d38b36e4169e07ebf86e8a2372be2af7eee5b9f7279eba14342ce54d",
+  "bytes": 809380,
+  "pages": 65,
+  "pdf_url": "https://constraintsystemsinstitute.org/manuscripts/zenodo-18603144/sha256-21f51f60d38b36e4169e07ebf86e8a2372be2af7eee5b9f7279eba14342ce54d/manuscript.pdf",
+  "canonical_work_url": "https://constraintsystemsinstitute.org/papers/the-ametric-boundary-18603144/",
+  "publisher_url": "https://zenodo.org/records/24331743",
+  "verification": "Exact public publisher PDF downloaded; publisher MD5, byte length and SHA256 verified. Source-based reading overview; no new independent proof audit.",
+  "conversion": "PDF is authoritative; the web page is a source-based overview, not a complete manuscript conversion.",
+  "citation": "Amos Jay Maley. The AMetric Boundary as a Unique Regime-Invariant Constraint on Admissibility-Bearing Construction: Pre-fixational authority, non-transmissivity, and complete interfaces. 2026-11-18. DOI: 10.5281/zenodo.24331743.",
+  "publisher_verification": {
+    "publisher_metadata_url": "https://zenodo.org/api/records/24331743",
+    "publisher_file_url": "https://zenodo.org/api/records/24331743/files/The%20AMetric%20Boundary%20as%20a%20Unique%20Regime-Invariant%20Constraint%20on%20Admissibility-Bearing%20Construction.pdf/content",
+    "publisher_file_key": "The AMetric Boundary as a Unique Regime-Invariant Constraint on Admissibility-Bearing Construction.pdf",
+    "publisher_checksum": "md5:0422a3d15281ca59414309a66e7ad8af",
+    "publisher_checksum_matches": true,
+    "sha256": "21f51f60d38b36e4169e07ebf86e8a2372be2af7eee5b9f7279eba14342ce54d",
+    "checked_utc": "2026-11-19T11:53:38.678Z"
+  }
+}

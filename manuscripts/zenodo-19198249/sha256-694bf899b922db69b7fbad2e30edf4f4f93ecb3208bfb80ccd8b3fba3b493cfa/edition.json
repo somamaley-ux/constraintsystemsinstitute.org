@@ -1,0 +1,28 @@
+{
+  "work_doi": "10.5281/zenodo.19198249",
+  "exact_release_doi": "10.5281/zenodo.24336126",
+  "title": "The Structure of Admissibility: Bivalent Qualification, Exhaustion, and the Unique Admissible Interior",
+  "edition_label": "Published reading edition — 2026-11-18",
+  "publication_status": "published_on_zenodo",
+  "manuscript_cover_date": "2026-11-18",
+  "publisher_publication_date": "2026-11-18",
+  "publisher_version": null,
+  "sha256": "694bf899b922db69b7fbad2e30edf4f4f93ecb3208bfb80ccd8b3fba3b493cfa",
+  "bytes": 628844,
+  "pages": 46,
+  "pdf_url": "https://constraintsystemsinstitute.org/manuscripts/zenodo-19198249/sha256-694bf899b922db69b7fbad2e30edf4f4f93ecb3208bfb80ccd8b3fba3b493cfa/manuscript.pdf",
+  "canonical_work_url": "https://constraintsystemsinstitute.org/papers/the-structure-of-admissibility-10-5281-zenodo-19198249/",
+  "publisher_url": "https://zenodo.org/records/24336126",
+  "verification": "Exact public publisher PDF downloaded; publisher MD5, byte length and SHA256 verified. Source-based reading overview; no new independent proof audit.",
+  "conversion": "PDF is authoritative; the web page is a source-based overview, not a complete manuscript conversion.",
+  "citation": "Amos Jay Maley. The Structure of Admissibility: Bivalent Qualification, Exhaustion, and the Unique Admissible Interior. 2026-11-18. DOI: 10.5281/zenodo.24336126.",
+  "publisher_verification": {
+    "publisher_metadata_url": "https://zenodo.org/api/records/24336126",
+    "publisher_file_url": "https://zenodo.org/api/records/24336126/files/The%20Structure%20of%20Admissibility%20Bivalent%20Qualification,%20Exhaustion,%20and%20the%20Unique%20Admissible%20Interior.pdf/content",
+    "publisher_file_key": "The Structure of Admissibility Bivalent Qualification, Exhaustion, and the Unique Admissible Interior.pdf",
+    "publisher_checksum": "md5:605992f11e0e9708c9b14f365cdf4238",
+    "publisher_checksum_matches": true,
+    "sha256": "694bf899b922db69b7fbad2e30edf4f4f93ecb3208bfb80ccd8b3fba3b493cfa",
+    "checked_utc": "2026-11-19T11:53:38.683Z"
+  }
+}

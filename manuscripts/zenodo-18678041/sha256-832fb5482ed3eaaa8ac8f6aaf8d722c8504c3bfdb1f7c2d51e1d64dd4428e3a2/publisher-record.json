@@ -1,0 +1,163 @@
+{
+  "created": "2026-11-19T02:10:08.583060+00:00",
+  "modified": "2026-11-19T02:10:08.952332+00:00",
+  "id": 24357281,
+  "conceptrecid": "18678041",
+  "doi": "10.5281/zenodo.24357281",
+  "conceptdoi": "10.5281/zenodo.18678041",
+  "doi_url": "https://doi.org/10.5281/zenodo.24357281",
+  "metadata": {
+    "title": "Anchor, Tensor, and Skin: A Fixed-Domain Decomposition Theorem for Admissible Description (Normal Form Capstone)",
+    "doi": "10.5281/zenodo.24357281",
+    "publication_date": "2026-11-19",
+    "description": "<h1>Anchor, Tensor, and Skin</h1>\n<h2>A Fixed-Domain Decomposition Theorem for Admissible Description</h2>\n<h3>Overview</h3>\n<p>This paper develops a canonical decomposition for comparing descriptions that may differ in context, answer content, or realization.</p>\n<p>Two descriptions may answer the same question differently, or present the same answer in different ways. Before deciding whether a difference is merely representational, one must first establish that the question has the same meaning in both descriptions, that the relevant context is fixed, and that every required answer remains available.</p>\n<p>The paper introduces three structural roles:</p>\n<ul>\n<li>\n<p>the anchor, which fixes the interpreted context;</p>\n</li>\n<li>\n<p>the tensor, which records the complete answer profile within that context;</p>\n</li>\n<li>\n<p>the skin, which distinguishes realizations carrying the same context and content.</p>\n</li>\n</ul>\n<p>The resulting decomposition separates changes of problem, changes of answer content, and changes of realization without selecting a preferred representative.</p>\n<h2>The canonical decomposition</h2>\n<p>Let (D) be a set of determinate interpreted descriptions. Each description has:</p>\n<ul>\n<li>\n<p>an original context;</p>\n</li>\n<li>\n<p>a family of original questions;</p>\n</li>\n<li>\n<p>a defined answer or explicit undefined marker for each question.</p>\n</li>\n</ul>\n<p>The complete profile of a description records the context together with all answers required by the original task.</p>\n<p>The paper constructs a canonical tower</p>\n<p>[<br>D \\longrightarrow T \\longrightarrow K,<br>]</p>\n<p>where:</p>\n<ul>\n<li>\n<p>(K) is the attained space of original contexts;</p>\n</li>\n<li>\n<p>(T) is the complete content space within those contexts;</p>\n</li>\n<li>\n<p>(D) contains the original descriptions and their realizations.</p>\n</li>\n</ul>\n<p>The full description space is reconstructed without choosing a preferred representative:</p>\n<p>[<br>D \\cong \\coprod_{k \\in K}\\ \\coprod_{q \\in Q_k} R_{k,q}.<br>]</p>\n<p>Here (R_{k,q}) is the realization fibre containing all descriptions with context (k) and complete answer profile (q).</p>\n<p>The paper proves that every minimal complete encoding recovers the same content space up to a unique commuting bijection. The reconstruction is therefore canonical at the level of context and content, while preserving the multiplicity of possible realizations.</p>\n<h2>Anchor, tensor, and skin effects</h2>\n<p>Every permitted nontrivial variation is classified into exactly one of three effects:</p>\n<ul>\n<li>\n<p>Anchor effect: the interpreted context or governing task changes.</p>\n</li>\n<li>\n<p>Tensor effect: the context remains fixed but one or more required answers, answer conditions, or availability conditions change.</p>\n</li>\n<li>\n<p>Skin effect: context and complete answer profile remain fixed while the realization changes.</p>\n</li>\n</ul>\n<p>This classification is applied to individual variations rather than merely to whole fields or objects. A single component can perform several roles under different variations. The paper therefore constructs the coarsest homogeneous refinement of arbitrary raw components and identifies the exact conditions under which a component can legitimately be assigned a single role.</p>\n<p>A minimal role classifier is shown to contain one attained state for each realized effect. Conversely, partial observations recover the context and content partitions only when the observed comparisons satisfy explicit block-separation conditions.</p>\n<h2>Minimality, deletion, and reconstruction</h2>\n<p>The paper gives an exact criterion for when information can be deleted from a description.</p>\n<p>A required function survives deletion precisely when it factors through the retained code. If factorization fails, there exist two descriptions with the same retained code but different required values.</p>\n<p>Exact reconstruction requires both:</p>\n<ul>\n<li>\n<p>injectivity of the retained code on the relevant descriptions;</p>\n</li>\n<li>\n<p>equality between the retained image and the declared compatible tuples.</p>\n</li>\n</ul>\n<p>Free recombination of independently stored coordinates is not automatic. It is equivalent to a rectangularity condition together with the required identifications of content spaces and realization fibres.</p>\n<p>The paper distinguishes:</p>\n<ul>\n<li>\n<p>preserving semantic content;</p>\n</li>\n<li>\n<p>reconstructing the original description;</p>\n</li>\n<li>\n<p>supplying at least one realization for every required content;</p>\n</li>\n<li>\n<p>selecting a preferred representative.</p>\n</li>\n</ul>\n<p>These are separate claims and require separate proofs.</p>\n<h2>Neutral transformations and realization fibres</h2>\n<p>The neutral transformations are characterized exactly as the maps acting within the realization fibres of the complete profile.</p>\n<p>An invertible neutral transformation acts bijectively on each fibre. A normalization can therefore preserve all required content while changing, identifying, or selecting representatives.</p>\n<p>A selector is content-preserving only when its choice preserves every original question and every required future use. A claim that a selection is invariant under a symmetry or available as a licensed operation therefore requires an additional authorization argument.</p>\n<h2>Joint constructions and separate input information</h2>\n<p>For finite joint constructions, the paper determines the least information that each input must supply separately in order to preserve both applicability and output.</p>\n<p>Two input tuples with equal retained codes must agree on:</p>\n<ul>\n<li>\n<p>whether the joint construction is authorized;</p>\n</li>\n<li>\n<p>whether it is defined;</p>\n</li>\n<li>\n<p>which output it produces when successful;</p>\n</li>\n<li>\n<p>which required rejection or failure reason it reports when unsuccessful.</p>\n</li>\n</ul>\n<p>The coarsest sufficient refinement of each separate input profile is obtained by adjoining the results of all required compatible partner contexts. This identifies precisely when unary equivalence fails to support substitution in a joint construction.</p>\n<p>The result is particularly important for modular descriptions: two components can be individually indistinguishable under their own tests while remaining non-interchangeable when used together.</p>\n<h2>Sequential operators and finite-use identity</h2>\n<p>For sequential operators, the paper distinguishes:</p>\n<ul>\n<li>\n<p>the state required to authorize the first operation;</p>\n</li>\n<li>\n<p>the state required to authorize the second operation;</p>\n</li>\n<li>\n<p>the successful output of the sequence;</p>\n</li>\n<li>\n<p>the first rejection point;</p>\n</li>\n<li>\n<p>the reason for rejection;</p>\n</li>\n<li>\n<p>the retained execution history, when history is part of the original task.</p>\n</li>\n</ul>\n<p>A finite operator envelope preserves identity exactly when it separates all candidates that differ under the declared finite uses.</p>\n<p>Under primitive state adequacy, the domain and successful output of a two-step sequence descend precisely when joint authorization agrees on equal retained codes wherever both individual steps can run. Rejection tags must also agree on equal codes among rejected inputs.</p>\n<p>The paper therefore distinguishes endpoint equality from sequence-history equality. Two descriptions can reach the same final endpoint while remaining different records because the original task retains their distinct histories.</p>\n<h2>Exhaustion and failure witnesses</h2>\n<p>The paper provides a witnessed exhaustion theorem for proposed Anchor&ndash;Tensor&ndash;Skin realizations.</p>\n<p>A proposed claim fails through one or more explicit witnesses, including:</p>\n<ul>\n<li>\n<p>descriptions with the same retained code but different original contexts;</p>\n</li>\n<li>\n<p>raw components whose variations realize more than one effect;</p>\n</li>\n<li>\n<p>missing or misclassified role distinctions;</p>\n</li>\n<li>\n<p>incomplete realization coverage;</p>\n</li>\n<li>\n<p>non-injective reconstruction;</p>\n</li>\n<li>\n<p>non-rectangular independent coordinates;</p>\n</li>\n<li>\n<p>incompatible joint-input codes;</p>\n</li>\n<li>\n<p>sequential authorization disagreement;</p>\n</li>\n<li>\n<p>different failure reasons hidden by the same retained code;</p>\n</li>\n<li>\n<p>operator candidates separated by an original finite use.</p>\n</li>\n</ul>\n<p>The failure alternatives are exhaustive relative to the stated descriptive problem and its declared original uses. If several obligations fail independently, the set of minimal failures forms an antichain in the declared dependency order. A unique minimal failure exists only when the relevant dependency structure makes it unique.</p>\n<h2>Relation to AASC</h2>\n<p>The Kernel paper establishes the necessity of Admissibility, Standing, Reference, and Irreversibility for a non-degenerate determinate object. The AMetric paper develops pre-fixational authority, symmetry, and non-transmission. The Structure and Fixed-Domain Exhaustion papers develop complete interfaces, admissible interiors, original-task coverage, descent, and compositional closure.</p>\n<p>The present paper applies that discipline to descriptions, records, states, carriers, operators, and endpoints.</p>\n<p>The AASC Kernel is not treated as a downstream encoding choice. Rather, the theorem begins with independently interpreted determinate objects and original questions. It then asks which distinctions every faithful description must preserve and which may vary without changing the original task.</p>\n<p>The paper does not claim that every difference between descriptions is a change of anchor. An ordinary failure under a fixed contract is a tensor-level answer unless the original task itself includes a changed context. Likewise, a successful repair may produce a new passing realization without erasing the original failed occurrence.</p>\n<h2>Mathematical and physical applications</h2>\n<p>The framework applies to:</p>\n<ul>\n<li>\n<p>proof objects and mathematical derivations;</p>\n</li>\n<li>\n<p>experimental records and measurement protocols;</p>\n</li>\n<li>\n<p>typed constructions and interfaces;</p>\n</li>\n<li>\n<p>physical carriers and operational states;</p>\n</li>\n<li>\n<p>admissibility and qualification records;</p>\n</li>\n<li>\n<p>finite compositional systems;</p>\n</li>\n<li>\n<p>sequential operators;</p>\n</li>\n<li>\n<p>repairs, replacements, and repeated trials;</p>\n</li>\n<li>\n<p>symmetry-related realizations;</p>\n</li>\n<li>\n<p>records whose history or occurrence identity is part of the original task.</p>\n</li>\n</ul>\n<p>The bridge-trial example illustrates the distinction between the bridge, the trial context, the measured load, the verdict, the units, the reuse conditions, and the physical realization of the test.</p>\n<p>The same discipline applies to physical theories: a numerical readout may be uniquely determined while several mechanisms, records, or occupants remain compatible with it. A claim of unique mechanism or unique realization requires a domain argument that separates the alternatives.</p>\n<h2>Formal verification and reproducibility</h2>\n<p>The accompanying project checks seventeen theorem declarations across four Lean modules. The formal checks cover:</p>\n<ul>\n<li>\n<p>dependent reconstruction and its inverse;</p>\n</li>\n<li>\n<p>identification from observed effects;</p>\n</li>\n<li>\n<p>minimal separate-input refinements;</p>\n</li>\n<li>\n<p>sequential authorization;</p>\n</li>\n<li>\n<p>observable rejection behavior;</p>\n</li>\n<li>\n<p>a grouping and composition example.</p>\n</li>\n</ul>\n<p>Finite checks accompany the original examples and independently test the criteria for role identification, local assembly, and sequential use on bounded carriers.</p>\n<p>Each application must still justify its own original context, answer meanings, permitted variations, and authorized operations.</p>\n<h2>Scope and limitations</h2>\n<p>The paper establishes:</p>\n<ul>\n<li>\n<p>a canonical context-content-realization decomposition;</p>\n</li>\n<li>\n<p>unique minimal complete content up to commuting bijection;</p>\n</li>\n<li>\n<p>exact Anchor&ndash;Tensor&ndash;Skin role classification;</p>\n</li>\n<li>\n<p>canonical homogeneous refinement of mixed components;</p>\n</li>\n<li>\n<p>factorization criteria for information deletion;</p>\n</li>\n<li>\n<p>exact reconstruction and realization-coverage criteria;</p>\n</li>\n<li>\n<p>conditions for independent recombination;</p>\n</li>\n<li>\n<p>characterization of neutral realization transformations;</p>\n</li>\n<li>\n<p>minimal separate refinements for finite joint constructions;</p>\n</li>\n<li>\n<p>finite-use identity criteria for operators;</p>\n</li>\n<li>\n<p>sequential authorization and rejection criteria;</p>\n</li>\n<li>\n<p>explicit failure witnesses for false realization claims.</p>\n</li>\n</ul>\n<p>It does not claim:</p>\n<ul>\n<li>\n<p>that every physical description has a finite complete encoding;</p>\n</li>\n<li>\n<p>that every original profile is decidable;</p>\n</li>\n<li>\n<p>that a preferred representative exists;</p>\n</li>\n<li>\n<p>that equal cardinalities imply an authorized product decomposition;</p>\n</li>\n<li>\n<p>that endpoint equality erases execution history;</p>\n</li>\n<li>\n<p>that every symmetry admits a physical selector;</p>\n</li>\n<li>\n<p>that all future uses can be reduced to a finite test family;</p>\n</li>\n<li>\n<p>that the AASC Kernel is derived from any particular downstream representation.</p>\n</li>\n</ul>\n<p>The conclusions are relative to the independently interpreted context, original questions, answer meanings, permitted variations, and declared use contract.</p>\n<h2>Place in the AASC archive</h2>\n<p>This paper is a foundational decomposition and interface theorem within the AASC programme. It formalizes how admissible descriptions preserve context, content, realization, applicability, authorization, and history.</p>\n<h3>Foundational premetric and admissibility layer</h3>\n<ul>\n<li>\n<p><a href=\"https://doi.org/10.5281/zenodo.22968658\">Non-Degenerate Construction and the Kernel of Admissibility</a></p>\n</li>\n<li>\n<p><a href=\"https://doi.org/10.5281/zenodo.22848051\">The AMetric Boundary as a Unique Regime-Invariant Constraint on Admissibility-Bearing Construction</a></p>\n</li>\n<li>\n<p><a href=\"https://doi.org/10.5281/zenodo.22874934\">The Structure of Admissibility: Bivalent Qualification, Exhaustion, and the Unique Admissible Interior</a></p>\n</li>\n<li>\n<p><a href=\"https://doi.org/10.5281/zenodo.22875070\">A Fixed-Domain Exhaustion Theorem</a></p>\n</li>\n<li>\n<p><a href=\"https://doi.org/10.5281/zenodo.23226427\">Metricity as Licensed Description: The L-metric Boundary and the Realized Physical Interior</a></p>\n</li>\n</ul>\n<h3>Gravitational, quantum, and structural-unification projections</h3>\n<ul>\n<li>\n<p><a href=\"https://doi.org/10.5281/zenodo.23038472\">Gravity as Structural Necessity</a></p>\n</li>\n<li>\n<p><a href=\"https://doi.org/10.5281/zenodo.21616067\">Einstein Dynamics as the Unique Minimal First-Response Metric Projection of AASC Gravity</a></p>\n</li>\n<li>\n<p><a href=\"https://doi.org/10.5281/zenodo.21824200\">Schr&ouml;dinger Dynamics as the Unique Minimal First-Response Hamiltonian Projection of AASC Quantum Standing</a></p>\n</li>\n<li>\n<p><a href=\"https://doi.org/10.5281/zenodo.21616108\">Structural Unification of Gravity and Quantum Dynamics under AASC</a></p>\n</li>\n</ul>\n<h3>Relativistic, clock, source, and operational companions</h3>\n<ul>\n<li>\n<p><a href=\"https://doi.org/10.5281/zenodo.22934089\">Special Relativity from AASC: The Necessary Kernel of Physical Objecthood and Its Lorentzian Realization</a></p>\n</li>\n<li>\n<p><a href=\"https://doi.org/10.5281/zenodo.20833949\">The Physical Clock as a Quotient</a></p>\n</li>\n<li>\n<p><a href=\"https://doi.org/10.5281/zenodo.21616143\">Operational Metric-Source Representation and Composite Ledger Closure under AASC</a></p>\n</li>\n<li>\n<p><a href=\"https://doi.org/10.5281/zenodo.21616180\">Common Mass-Charge Matching and Universal Inertial&ndash;Active Proportionality under AASC</a></p>\n</li>\n</ul>\n<h3>Matter and common-source extensions</h3>\n<ul>\n<li>\n<p><a href=\"https://doi.org/10.5281/zenodo.22892317\">Classical Standard Model and Gravity from a Common Constraint-Governed Source</a></p>\n</li>\n<li>\n<p><a href=\"https://doi.org/10.5281/zenodo.21825106\">Classical Matter Occupancy and Joint-Constraint Closure under AASC</a></p>\n</li>\n</ul>\n<h3>Structural-unification record</h3>\n<ul>\n<li>\n<p><a href=\"https://doi.org/10.5281/zenodo.23467836\">Premetric Structural Unification: From the AASC Kernel to Einstein-Form and Free-Scalar Dynamics</a></p>\n</li>\n<li>\n<p><a href=\"https://doi.org/10.5281/zenodo.23466295\">AASC structural-unification work record</a></p>\n</li>\n<li>\n<p><a href=\"https://doi.org/10.5281/zenodo.23466438\">AASC Lean formalization record</a></p>\n</li>\n</ul>\n<p>Within the archive, this paper supplies the general decomposition and interface-preservation layer needed to distinguish a change of governing context from a change of answer content or a change of realization.</p>\n<h2>Keywords</h2>\n<p>AASC; Anchor Tensor Skin decomposition; admissible description; fixed-domain theorem; canonical decomposition; context preservation; content equivalence; realization fibres; semantic invariance; information deletion; factorization; joint construction; sequential operators; failure witnesses; Lean formalization</p>\n<p>&nbsp;</p>",
+    "access_right": "open",
+    "creators": [
+      {
+        "name": "Maley, Amos Jay",
+        "affiliation": null,
+        "orcid": "0009-0002-5499-0620"
+      }
+    ],
+    "keywords": [
+      "formal epistemology",
+      "meta-logic",
+      "admissibility",
+      "standing",
+      "AMetric boundary",
+      "structural invariance",
+      "irreversibility",
+      "constraint-based reasoning",
+      "foundations of logic",
+      "fixed-domain theorem",
+      "identity-preserving transformation",
+      "decomposition theorem",
+      "formal systems",
+      "non-degenerate systems",
+      "representation theory (foundational)",
+      "formal epistemic structure",
+      "logical structure"
+    ],
+    "related_identifiers": [
+      {
+        "identifier": "10.5281/zenodo.18664019",
+        "relation": "isSupplementTo",
+        "resource_type": "publication",
+        "scheme": "doi"
+      },
+      {
+        "identifier": "10.5281/zenodo.18670613",
+        "relation": "isSupplementTo",
+        "resource_type": "publication",
+        "scheme": "doi"
+      },
+      {
+        "identifier": "10.5281/zenodo.18682423",
+        "relation": "isSupplementTo",
+        "resource_type": "publication",
+        "scheme": "doi"
+      }
+    ],
+    "resource_type": {
+      "title": "Publication",
+      "type": "publication"
+    },
+    "license": {
+      "id": "cc-by-4.0"
+    },
+    "communities": [
+      {
+        "id": "primitives"
+      },
+      {
+        "id": "42010142"
+      }
+    ],
+    "relations": {
+      "version": [
+        {
+          "index": 5,
+          "is_last": true,
+          "parent": {
+            "pid_type": "recid",
+            "pid_value": "18678041"
+          }
+        }
+      ]
+    }
+  },
+  "title": "Anchor, Tensor, and Skin: A Fixed-Domain Decomposition Theorem for Admissible Description (Normal Form Capstone)",
+  "links": {
+    "self": "https://zenodo.org/api/records/24357281",
+    "self_html": "https://zenodo.org/records/24357281",
+    "preview_html": "https://zenodo.org/records/24357281?preview=1",
+    "doi": "https://doi.org/10.5281/zenodo.24357281",
+    "self_doi": "https://doi.org/10.5281/zenodo.24357281",
+    "self_doi_html": "https://zenodo.org/doi/10.5281/zenodo.24357281",
+    "reserve_doi": "https://zenodo.org/api/records/24357281/draft/pids/doi",
+    "parent": "https://zenodo.org/api/records/18678041",
+    "parent_html": "https://zenodo.org/records/18678041",
+    "parent_doi": "https://doi.org/10.5281/zenodo.18678041",
+    "parent_doi_html": "https://zenodo.org/doi/10.5281/zenodo.18678041",
+    "self_iiif_manifest": "https://zenodo.org/api/iiif/record:24357281/manifest",
+    "self_iiif_sequence": "https://zenodo.org/api/iiif/record:24357281/sequence/default",
+    "files": "https://zenodo.org/api/records/24357281/files",
+    "media_files": "https://zenodo.org/api/records/24357281/media-files",
+    "thumbnails": {
+      "10": "https://zenodo.org/api/iiif/record:24357281:Anchor,%20Tensor,%20and%20Skin%20A%20Fixed-Domain%20Decomposition%20Theorem%20for%20Admissible%20Description.pdf/full/%5E10,/0/default.jpg",
+      "50": "https://zenodo.org/api/iiif/record:24357281:Anchor,%20Tensor,%20and%20Skin%20A%20Fixed-Domain%20Decomposition%20Theorem%20for%20Admissible%20Description.pdf/full/%5E50,/0/default.jpg",
+      "100": "https://zenodo.org/api/iiif/record:24357281:Anchor,%20Tensor,%20and%20Skin%20A%20Fixed-Domain%20Decomposition%20Theorem%20for%20Admissible%20Description.pdf/full/%5E100,/0/default.jpg",
+      "250": "https://zenodo.org/api/iiif/record:24357281:Anchor,%20Tensor,%20and%20Skin%20A%20Fixed-Domain%20Decomposition%20Theorem%20for%20Admissible%20Description.pdf/full/%5E250,/0/default.jpg",
+      "750": "https://zenodo.org/api/iiif/record:24357281:Anchor,%20Tensor,%20and%20Skin%20A%20Fixed-Domain%20Decomposition%20Theorem%20for%20Admissible%20Description.pdf/full/%5E750,/0/default.jpg",
+      "1200": "https://zenodo.org/api/iiif/record:24357281:Anchor,%20Tensor,%20and%20Skin%20A%20Fixed-Domain%20Decomposition%20Theorem%20for%20Admissible%20Description.pdf/full/%5E1200,/0/default.jpg"
+    },
+    "latest": "https://zenodo.org/api/records/24357281/versions/latest",
+    "latest_html": "https://zenodo.org/records/24357281/latest",
+    "versions": "https://zenodo.org/api/records/24357281/versions",
+    "draft": "https://zenodo.org/api/records/24357281/draft",
+    "access_links": "https://zenodo.org/api/records/24357281/access/links",
+    "access_grants": "https://zenodo.org/api/records/24357281/access/grants",
+    "access_users": "https://zenodo.org/api/records/24357281/access/users",
+    "access_request": "https://zenodo.org/api/records/24357281/access/request",
+    "access": "https://zenodo.org/api/records/24357281/access",
+    "communities": "https://zenodo.org/api/records/24357281/communities",
+    "communities-suggestions": "https://zenodo.org/api/records/24357281/communities-suggestions",
+    "request_deletion": "https://zenodo.org/api/records/24357281/request-deletion",
+    "file_modification": "https://zenodo.org/api/records/24357281/file-modification",
+    "quota_increase": "https://zenodo.org/api/records/24357281/quota-increase",
+    "requests": "https://zenodo.org/api/records/24357281/requests"
+  },
+  "updated": "2026-11-19T02:10:08.952332+00:00",
+  "recid": "24357281",
+  "revision": 4,
+  "files": [
+    {
+      "id": "8aa60564-7a0e-445c-a2d6-54d67b5bc413",
+      "key": "Anchor, Tensor, and Skin A Fixed-Domain Decomposition Theorem for Admissible Description.pdf",
+      "size": 523340,
+      "checksum": "md5:52d6e9a3458635f82ebf8cc7be346a39",
+      "links": {
+        "self": "https://zenodo.org/api/records/24357281/files/Anchor,%20Tensor,%20and%20Skin%20A%20Fixed-Domain%20Decomposition%20Theorem%20for%20Admissible%20Description.pdf/content"
+      }
+    }
+  ],
+  "swh": {},
+  "owners": [
+    {
+      "id": "1535881"
+    }
+  ],
+  "status": "published",
+  "stats": {
+    "downloads": 105,
+    "unique_downloads": 96,
+    "views": 159,
+    "unique_views": 150,
+    "version_downloads": 0,
+    "version_unique_downloads": 0,
+    "version_unique_views": 0,
+    "version_views": 0
+  },
+  "state": "done",
+  "submitted": true
+}

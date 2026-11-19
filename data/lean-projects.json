@@ -50,26 +50,38 @@
       "framework": "aasc",
       "area": "Geometry & scalar dynamics",
       "owner": "somamaley-ux",
-      "scope": "An integrated AASC Kernel-governed construction of scoped geometry, scalar dynamics, quantitative recovery and operational relativity.",
-      "boundary": "Continuum carriers, dimension, branch, actions and parameters are declared construction choices. Sourced Einstein receiving requires combined-action stationarity; general interacting quantum theory and global coupled Einstein–Klein–Gordon existence are outside this baseline.",
-      "version": "v1.0.0 public release; completed pre-5A snapshot.",
-      "verification": "The repository records a cache-cold source build and six endpoint audits. Full Lake object-hash identity remains unresolved. Not rebuilt for this catalogue update.",
+      "scope": "On the paper’s licensed preparations, premetric constraints lead to Einstein-form response, the isolated free Schrödinger evolution with its full generator domain, and the calibrated Lorentz interval. The joined construction retains controlled curved scalar evolution, same-action sources and occupied operational networks.",
+      "boundary": "The continuum carriers, four-dimensional gravity branch, actions and parameters remain declared physical inputs. The smooth minimum-order Einstein classification uses the cited Lovelock input. Sourced Einstein balance requires combined-action stationarity; general interacting quantum theory, global coupled Einstein–Klein–Gordon existence and Standard Model completion are outside the construction.",
+      "version": "v1.1.0 GitHub release, 19 November 2026; commit bd5715609767c4635691d353a41c3f0eaaec6dcd. Exact Zenodo software archive: 10.5281/zenodo.24365887.",
+      "verification": "The release records 11 new proof modules, 19 independent kernel replays and 90 axiom checks with standard Lean axioms, using pinned compiled dependencies. Website checks verified the exact release/archive identity; Lean was not rebuilt for this update. Earlier native-graph replay and cache-cold source evidence retain their separate boundaries.",
       "links": [
         {
-          "label": "Repository",
-          "url": "https://github.com/somamaley-ux/aasc-structural-unification-interior"
+          "label": "GitHub v1.1.0 — PDF, Lean & editable project",
+          "url": "https://github.com/somamaley-ux/aasc-structural-unification-interior/releases/tag/v1.1.0"
         },
         {
-          "label": "Release v1.0.0",
+          "label": "Frozen Lean v1.1.0 DOI",
+          "url": "https://doi.org/10.5281/zenodo.24365887"
+        },
+        {
+          "label": "Publication proof map",
+          "url": "https://github.com/somamaley-ux/aasc-structural-unification-interior/blob/bd5715609767c4635691d353a41c3f0eaaec6dcd/publication/README.md"
+        },
+        {
+          "label": "Companion paper — current & earlier editions",
+          "url": "/papers/premetric-structural-unification-23466295/"
+        },
+        {
+          "label": "Earlier frozen Lean v1.0.0 DOI",
+          "url": "https://doi.org/10.5281/zenodo.23856262"
+        },
+        {
+          "label": "Earlier GitHub v1.0.0",
           "url": "https://github.com/somamaley-ux/aasc-structural-unification-interior/releases/tag/v1.0.0"
         },
         {
-          "label": "Evidence & limits",
-          "url": "https://github.com/somamaley-ux/aasc-structural-unification-interior/blob/main/EVIDENCE.md"
-        },
-        {
-          "label": "Companion paper",
-          "url": "/papers/premetric-structural-unification-23466295/"
+          "label": "Lean — all versions",
+          "url": "https://doi.org/10.5281/zenodo.23856261"
         }
       ]
     },
@@ -407,6 +419,44 @@
         {
           "label": "Lean proof CI",
           "url": "https://github.com/gpartin/LeanSchrodingerDerivation/actions/runs/43805766573"
+        }
+      ]
+    },
+    {
+      "id": "lean-klein-gordon-derivation",
+      "title": "Lean Klein–Gordon Derivation",
+      "framework": "beyond-aasc",
+      "area": "Lattice-model mathematical physics",
+      "author": "Greg Partin (G. D. Partin)",
+      "owner": "gpartin",
+      "scope": "A selected linearized C19 lattice branch, its normalized long-wave spectral limit, and the Klein–Gordon differential equation for finite continuum mode sums.",
+      "version": "v0.7.0-research · commit fed494f8e9b9ad6b0c1f1b6afd2fda08072339df.",
+      "verification": "CSI independently rebuilt the pinned project (2,226 jobs, using the pinned Mathlib cache), ran the unmodified release verifier, and audited 176 public theorem constants covering all 53 explicitly named public source theorems on 17 November 2026. Only standard Lean axioms occurred; a deliberately introduced custom axiom was correctly rejected. Project CI also passed at the exact release commit. This was not a wholly cold dependency rebuild.",
+      "boundary": "The action, background, polarization and rest-subtract/rescale/restore readout are declared model choices. The result is a normalized selected-branch limit, not convergence of arbitrary native lattice trajectories or a general native multimode solution with a common timestep. The continuum operator theorem covers finite mode sums, not completeness for general initial data. The massless continuum corollary is separate from the nonpropagating native zero-background case. No physical-particle identification or experimental validation is established. External work; inclusion does not imply CSI affiliation or endorsement.",
+      "links": [
+        {
+          "label": "Repository",
+          "url": "https://github.com/gpartin/LeanKleinGordonDerivation"
+        },
+        {
+          "label": "Tagged source",
+          "url": "https://github.com/gpartin/LeanKleinGordonDerivation/tree/v0.7.0-research"
+        },
+        {
+          "label": "Release",
+          "url": "https://github.com/gpartin/LeanKleinGordonDerivation/releases/tag/v0.7.0-research"
+        },
+        {
+          "label": "Claim boundary",
+          "url": "https://github.com/gpartin/LeanKleinGordonDerivation/blob/v0.7.0-research/docs/CLAIM_BOUNDARY.md"
+        },
+        {
+          "label": "Lean proof CI",
+          "url": "https://github.com/gpartin/LeanKleinGordonDerivation/actions/runs/43921514143"
+        },
+        {
+          "label": "Zenodo archive",
+          "url": "https://doi.org/10.5281/zenodo.24287570"
         }
       ]
     }

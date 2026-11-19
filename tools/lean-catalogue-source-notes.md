@@ -29,3 +29,9 @@ Zenodo API verified DOI 10.5281/zenodo.24236840 as a distinct archive labelled v
 ## Schrodinger catalogue review, 16 November 2026
 
 Pinned gpartin/LeanSchrodingerDerivation v0.13.0-research at 16c1f61538b824f006ed4a7c9496b4e1c48021b5. Independent first-party build and release verifier passed (2,142 jobs), with matching previously independently built dependency artifacts reused. All 43 theorem axiom reports contained only standard Lean axioms; concrete nonvacuity witnesses passed. CI 43805766573 is at a distinct commit but the complete Git tree is identical (18e8e73d3a9f98258fe9ebdce09b7cd81c4bfa32). Scope is conditional exact free-energy identities/remainder and a constant-potential single-plane-wave bridge. Preserve the assumed mass shell, explicit potential-bearing correction, and no-general-PDE/Born-rule/physical-dynamics claims. No verified Zenodo archive is linked by this entry.
+
+## Structural-unification release review, 19 November 2026
+
+Public v1.1.0 at `bd5715609767c4635691d353a41c3f0eaaec6dcd` is separately labeled with its 99-page PDF, Lean and editable project. Exact Zenodo software DOI `24365887` was verified against all 5,642 Git tree blobs. Paper DOI `24367466` identifies the exact hosted 99-page publisher PDF; GitHub’s PDF container differs. Earlier 88-page paper DOI `23856304` and Lean v1.0.0 DOI `23856262` remain linked. Current publication checks are reported from the release, not a new website-side Lean build. See `foundational-release-source-notes-20261119.md` for exact identities, mathematical scope and retained historical evidence.
+
+The already published Klein–Gordon card from commit `5f27a1e` was missing from the generator data. Its complete existing wording and links are now included in `data/lean-projects.json`, preserving the 18-card public catalogue (14 AASC, four Beyond AASC) on regeneration. This is source synchronization, not a new project admission or proof review.

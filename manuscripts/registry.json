@@ -165,6 +165,174 @@
       "verification": "Downloaded from the exact public Zenodo release; publisher MD5 and local SHA256 checked. This website publication check is not an independent proof audit.",
       "conversion": "The PDF is authoritative. The web page is an editorial overview, not a complete manuscript conversion.",
       "citation": "Amos Jay Maley. Beyond Purity Loss Source-Accounted Quantum Dynamics and False-Well Retention. 2026. DOI: 10.5281/zenodo.24269892."
+    },
+    {
+      "id": "kernel-20261118",
+      "title": "Non-Degenerate Construction and the Kernel of Admissibility",
+      "subtitle": "An Exhaustion Theorem for Standing, Reference, and Irreversibility",
+      "author": "Amos Jay Maley",
+      "edition_label": "Published reading edition — 2026-11-18",
+      "manuscript_cover_date": "2026-11-18",
+      "publisher_publication_date": "2026-11-18",
+      "pages": 50,
+      "bytes": 666277,
+      "sha256": "3765b7e7f066df161cb344a2b551b1c729fe72aac5771977e264853aedbd8412",
+      "format": "application/pdf",
+      "doi": {
+        "work_all_versions": "10.5281/zenodo.19324199",
+        "exact_release": "10.5281/zenodo.24330589"
+      },
+      "publisher_url": "https://zenodo.org/records/24330589",
+      "edition_url": "https://constraintsystemsinstitute.org/papers/non-degenerate-construction-and-the-kernel-of-admissibility-10-5281-zenodo-19324199/",
+      "pdf_url": "https://constraintsystemsinstitute.org/manuscripts/zenodo-19324199/sha256-3765b7e7f066df161cb344a2b551b1c729fe72aac5771977e264853aedbd8412/manuscript.pdf",
+      "reading_aid_url": "https://constraintsystemsinstitute.org/papers/non-degenerate-construction-and-the-kernel-of-admissibility-10-5281-zenodo-19324199/",
+      "verification": "Exact public publisher PDF downloaded; publisher MD5, byte length and SHA256 verified. Source-based reading overview; no new independent proof audit.",
+      "conversion": "PDF is authoritative; the web page is a source-based overview, not a complete manuscript conversion.",
+      "citation": "Amos Jay Maley. Non-Degenerate Construction and the Kernel of Admissibility: An Exhaustion Theorem for Standing, Reference, and Irreversibility. 2026-11-18. DOI: 10.5281/zenodo.24330589."
+    },
+    {
+      "id": "ametric-20261118",
+      "title": "The AMetric Boundary as a Unique Regime-Invariant Constraint on Admissibility-Bearing Construction",
+      "subtitle": "Pre-fixational authority, non-transmissivity, and complete interfaces",
+      "author": "Amos Jay Maley",
+      "edition_label": "Published reading edition — 2026-11-18",
+      "manuscript_cover_date": "2026-11-18",
+      "publisher_publication_date": "2026-11-18",
+      "pages": 65,
+      "bytes": 809380,
+      "sha256": "21f51f60d38b36e4169e07ebf86e8a2372be2af7eee5b9f7279eba14342ce54d",
+      "format": "application/pdf",
+      "doi": {
+        "work_all_versions": "10.5281/zenodo.18603144",
+        "exact_release": "10.5281/zenodo.24331743"
+      },
+      "publisher_url": "https://zenodo.org/records/24331743",
+      "edition_url": "https://constraintsystemsinstitute.org/papers/the-ametric-boundary-18603144/",
+      "pdf_url": "https://constraintsystemsinstitute.org/manuscripts/zenodo-18603144/sha256-21f51f60d38b36e4169e07ebf86e8a2372be2af7eee5b9f7279eba14342ce54d/manuscript.pdf",
+      "reading_aid_url": "https://constraintsystemsinstitute.org/papers/the-ametric-boundary-18603144/",
+      "verification": "Exact public publisher PDF downloaded; publisher MD5, byte length and SHA256 verified. Source-based reading overview; no new independent proof audit.",
+      "conversion": "PDF is authoritative; the web page is a source-based overview, not a complete manuscript conversion.",
+      "citation": "Amos Jay Maley. The AMetric Boundary as a Unique Regime-Invariant Constraint on Admissibility-Bearing Construction: Pre-fixational authority, non-transmissivity, and complete interfaces. 2026-11-18. DOI: 10.5281/zenodo.24331743."
+    },
+    {
+      "id": "structure-20261118",
+      "title": "The Structure of Admissibility",
+      "subtitle": "Bivalent Qualification, Exhaustion, and the Unique Admissible Interior",
+      "author": "Amos Jay Maley",
+      "edition_label": "Published reading edition — 2026-11-18",
+      "manuscript_cover_date": "2026-11-18",
+      "publisher_publication_date": "2026-11-18",
+      "pages": 46,
+      "bytes": 628844,
+      "sha256": "694bf899b922db69b7fbad2e30edf4f4f93ecb3208bfb80ccd8b3fba3b493cfa",
+      "format": "application/pdf",
+      "doi": {
+        "work_all_versions": "10.5281/zenodo.19198249",
+        "exact_release": "10.5281/zenodo.24336126"
+      },
+      "publisher_url": "https://zenodo.org/records/24336126",
+      "edition_url": "https://constraintsystemsinstitute.org/papers/the-structure-of-admissibility-10-5281-zenodo-19198249/",
+      "pdf_url": "https://constraintsystemsinstitute.org/manuscripts/zenodo-19198249/sha256-694bf899b922db69b7fbad2e30edf4f4f93ecb3208bfb80ccd8b3fba3b493cfa/manuscript.pdf",
+      "reading_aid_url": "https://constraintsystemsinstitute.org/papers/the-structure-of-admissibility-10-5281-zenodo-19198249/",
+      "verification": "Exact public publisher PDF downloaded; publisher MD5, byte length and SHA256 verified. Source-based reading overview; no new independent proof audit.",
+      "conversion": "PDF is authoritative; the web page is a source-based overview, not a complete manuscript conversion.",
+      "citation": "Amos Jay Maley. The Structure of Admissibility: Bivalent Qualification, Exhaustion, and the Unique Admissible Interior. 2026-11-18. DOI: 10.5281/zenodo.24336126."
+    },
+    {
+      "id": "ats-20261119",
+      "title": "Anchor, Tensor, and Skin",
+      "subtitle": "A Fixed-Domain Decomposition Theorem for Admissible Description",
+      "author": "Amos Jay Maley",
+      "edition_label": "Published reading edition — 2026-11-19",
+      "manuscript_cover_date": "2026-11-18",
+      "publisher_publication_date": "2026-11-19",
+      "pages": 35,
+      "bytes": 523340,
+      "sha256": "832fb5482ed3eaaa8ac8f6aaf8d722c8504c3bfdb1f7c2d51e1d64dd4428e3a2",
+      "format": "application/pdf",
+      "doi": {
+        "work_all_versions": "10.5281/zenodo.18678041",
+        "exact_release": "10.5281/zenodo.24357281"
+      },
+      "publisher_url": "https://zenodo.org/records/24357281",
+      "edition_url": "https://constraintsystemsinstitute.org/papers/anchor-tensor-and-skin-a-fixed-domain-decomposition-theorem-for-admissible-description/",
+      "pdf_url": "https://constraintsystemsinstitute.org/manuscripts/zenodo-18678041/sha256-832fb5482ed3eaaa8ac8f6aaf8d722c8504c3bfdb1f7c2d51e1d64dd4428e3a2/manuscript.pdf",
+      "reading_aid_url": "https://constraintsystemsinstitute.org/papers/anchor-tensor-and-skin-a-fixed-domain-decomposition-theorem-for-admissible-description/",
+      "verification": "Exact public publisher PDF downloaded; publisher MD5, byte length and SHA256 verified. Source-based reading overview; no new independent proof audit.",
+      "conversion": "PDF is authoritative; the web page is a source-based overview, not a complete manuscript conversion.",
+      "citation": "Amos Jay Maley. Anchor, Tensor, and Skin: A Fixed-Domain Decomposition Theorem for Admissible Description. 2026-11-19. DOI: 10.5281/zenodo.24357281."
+    },
+    {
+      "id": "exhaustion-20261119",
+      "title": "A Fixed-Domain Exhaustion Theorem",
+      "subtitle": "Standing, Consequence, and Compositional Closure",
+      "author": "Amos Jay Maley",
+      "edition_label": "Published reading edition — 2026-11-19",
+      "manuscript_cover_date": "2026-11-19",
+      "publisher_publication_date": "2026-11-19",
+      "pages": 39,
+      "bytes": 588090,
+      "sha256": "422ab7a65167ee298a67cd863205e50ca99722e5809fcd25402c6db6cd2652d5",
+      "format": "application/pdf",
+      "doi": {
+        "work_all_versions": "10.5281/zenodo.18682423",
+        "exact_release": "10.5281/zenodo.24357455"
+      },
+      "publisher_url": "https://zenodo.org/records/24357455",
+      "edition_url": "https://constraintsystemsinstitute.org/papers/a-fixed-domain-exhaustion-theorem-10-5281-zenodo-18682423/",
+      "pdf_url": "https://constraintsystemsinstitute.org/manuscripts/zenodo-18682423/sha256-422ab7a65167ee298a67cd863205e50ca99722e5809fcd25402c6db6cd2652d5/manuscript.pdf",
+      "reading_aid_url": "https://constraintsystemsinstitute.org/papers/a-fixed-domain-exhaustion-theorem-10-5281-zenodo-18682423/",
+      "verification": "Exact public publisher PDF downloaded; publisher MD5, byte length and SHA256 verified. Source-based reading overview; no new independent proof audit.",
+      "conversion": "PDF is authoritative; the web page is a source-based overview, not a complete manuscript conversion.",
+      "citation": "Amos Jay Maley. A Fixed-Domain Exhaustion Theorem: Standing, Consequence, and Compositional Closure. 2026-11-19. DOI: 10.5281/zenodo.24357455."
+    },
+    {
+      "id": "unus-20261119",
+      "title": "Unus Solus Possibilis Est",
+      "subtitle": "Corpus Closure and Uniqueness of the Admissible Interior",
+      "author": "Amos Jay Maley",
+      "edition_label": "Published reading edition — 2026-11-19",
+      "manuscript_cover_date": "2026-11-19",
+      "publisher_publication_date": "2026-11-19",
+      "pages": 31,
+      "bytes": 495123,
+      "sha256": "a30eac27beaf985f9d310999632c1c9381a4e0ad5e345ab75cb60efa4f366392",
+      "format": "application/pdf",
+      "doi": {
+        "work_all_versions": "10.5281/zenodo.18518484",
+        "exact_release": "10.5281/zenodo.24357748"
+      },
+      "publisher_url": "https://zenodo.org/records/24357748",
+      "edition_url": "https://constraintsystemsinstitute.org/papers/unus-solus-possibilis-est-uniqueness-10-5281-zenodo-18518484/",
+      "pdf_url": "https://constraintsystemsinstitute.org/manuscripts/zenodo-18518484/sha256-a30eac27beaf985f9d310999632c1c9381a4e0ad5e345ab75cb60efa4f366392/manuscript.pdf",
+      "reading_aid_url": "https://constraintsystemsinstitute.org/papers/unus-solus-possibilis-est-uniqueness-10-5281-zenodo-18518484/",
+      "verification": "Exact public publisher PDF downloaded; publisher MD5, byte length and SHA256 verified. Source-based reading overview; no new independent proof audit.",
+      "conversion": "PDF is authoritative; the web page is a source-based overview, not a complete manuscript conversion.",
+      "citation": "Amos Jay Maley. Unus Solus Possibilis Est: Corpus Closure and Uniqueness of the Admissible Interior. 2026-11-19. DOI: 10.5281/zenodo.24357748."
+    },
+    {
+      "id": "premetric-20261119",
+      "title": "Premetric Structural Unification",
+      "subtitle": "The Constraint-Governed Emergence of Geometry, Scalar Dynamics and Operational Relativity",
+      "author": "Amos Jay Maley",
+      "edition_label": "Published reading edition — 2026-11-19",
+      "manuscript_cover_date": "2026-11-19",
+      "publisher_publication_date": "2026-11-19",
+      "pages": 99,
+      "bytes": 566244,
+      "sha256": "b216200f4ad4f62c160f8035ee3e411bfa225fdc45211ac02e98cf47a7a88873",
+      "format": "application/pdf",
+      "doi": {
+        "work_all_versions": "10.5281/zenodo.23466295",
+        "exact_release": "10.5281/zenodo.24367466"
+      },
+      "publisher_url": "https://zenodo.org/records/24367466",
+      "edition_url": "https://constraintsystemsinstitute.org/papers/premetric-structural-unification-23466295/",
+      "pdf_url": "https://constraintsystemsinstitute.org/manuscripts/zenodo-23466295/sha256-b216200f4ad4f62c160f8035ee3e411bfa225fdc45211ac02e98cf47a7a88873/manuscript.pdf",
+      "reading_aid_url": "https://constraintsystemsinstitute.org/papers/premetric-structural-unification-23466295/",
+      "verification": "Exact public publisher PDF downloaded; publisher MD5, byte length and SHA256 verified. Source-based reading overview; no new independent proof audit.",
+      "conversion": "PDF is authoritative; the web page is a source-based overview, not a complete manuscript conversion.",
+      "citation": "Amos Jay Maley. Premetric Structural Unification: The Constraint-Governed Emergence of Geometry, Scalar Dynamics and Operational Relativity. 2026-11-19. DOI: 10.5281/zenodo.24367466."
     }
   ],
   "consumer_grounded_reference_relationships": [
@@ -684,6 +852,76 @@
       "exact_release_doi": "10.5281/zenodo.23333486",
       "publication_status": "published_on_zenodo",
       "canonical_work_url": "https://constraintsystemsinstitute.org/papers/from-differentiated-matter-to-metric-exhaustion-23333485/"
+    },
+    {
+      "title": "Non-Degenerate Construction and the Kernel of Admissibility: An Exhaustion Theorem for Standing, Reference, and Irreversibility",
+      "canonical_work_url": "https://constraintsystemsinstitute.org/papers/non-degenerate-construction-and-the-kernel-of-admissibility-10-5281-zenodo-19324199/",
+      "pages": 50,
+      "publication_status": "published_on_zenodo",
+      "exact_release_doi": "10.5281/zenodo.24330589",
+      "sha256": "3765b7e7f066df161cb344a2b551b1c729fe72aac5771977e264853aedbd8412",
+      "pdf_url": "https://constraintsystemsinstitute.org/manuscripts/zenodo-19324199/sha256-3765b7e7f066df161cb344a2b551b1c729fe72aac5771977e264853aedbd8412/manuscript.pdf",
+      "reading_aid_url": "https://constraintsystemsinstitute.org/papers/non-degenerate-construction-and-the-kernel-of-admissibility-10-5281-zenodo-19324199/"
+    },
+    {
+      "title": "The AMetric Boundary as a Unique Regime-Invariant Constraint on Admissibility-Bearing Construction: Pre-fixational authority, non-transmissivity, and complete interfaces",
+      "canonical_work_url": "https://constraintsystemsinstitute.org/papers/the-ametric-boundary-18603144/",
+      "pages": 65,
+      "publication_status": "published_on_zenodo",
+      "exact_release_doi": "10.5281/zenodo.24331743",
+      "sha256": "21f51f60d38b36e4169e07ebf86e8a2372be2af7eee5b9f7279eba14342ce54d",
+      "pdf_url": "https://constraintsystemsinstitute.org/manuscripts/zenodo-18603144/sha256-21f51f60d38b36e4169e07ebf86e8a2372be2af7eee5b9f7279eba14342ce54d/manuscript.pdf",
+      "reading_aid_url": "https://constraintsystemsinstitute.org/papers/the-ametric-boundary-18603144/"
+    },
+    {
+      "title": "The Structure of Admissibility: Bivalent Qualification, Exhaustion, and the Unique Admissible Interior",
+      "canonical_work_url": "https://constraintsystemsinstitute.org/papers/the-structure-of-admissibility-10-5281-zenodo-19198249/",
+      "pages": 46,
+      "publication_status": "published_on_zenodo",
+      "exact_release_doi": "10.5281/zenodo.24336126",
+      "sha256": "694bf899b922db69b7fbad2e30edf4f4f93ecb3208bfb80ccd8b3fba3b493cfa",
+      "pdf_url": "https://constraintsystemsinstitute.org/manuscripts/zenodo-19198249/sha256-694bf899b922db69b7fbad2e30edf4f4f93ecb3208bfb80ccd8b3fba3b493cfa/manuscript.pdf",
+      "reading_aid_url": "https://constraintsystemsinstitute.org/papers/the-structure-of-admissibility-10-5281-zenodo-19198249/"
+    },
+    {
+      "title": "Anchor, Tensor, and Skin: A Fixed-Domain Decomposition Theorem for Admissible Description",
+      "canonical_work_url": "https://constraintsystemsinstitute.org/papers/anchor-tensor-and-skin-a-fixed-domain-decomposition-theorem-for-admissible-description/",
+      "pages": 35,
+      "publication_status": "published_on_zenodo",
+      "exact_release_doi": "10.5281/zenodo.24357281",
+      "sha256": "832fb5482ed3eaaa8ac8f6aaf8d722c8504c3bfdb1f7c2d51e1d64dd4428e3a2",
+      "pdf_url": "https://constraintsystemsinstitute.org/manuscripts/zenodo-18678041/sha256-832fb5482ed3eaaa8ac8f6aaf8d722c8504c3bfdb1f7c2d51e1d64dd4428e3a2/manuscript.pdf",
+      "reading_aid_url": "https://constraintsystemsinstitute.org/papers/anchor-tensor-and-skin-a-fixed-domain-decomposition-theorem-for-admissible-description/"
+    },
+    {
+      "title": "A Fixed-Domain Exhaustion Theorem: Standing, Consequence, and Compositional Closure",
+      "canonical_work_url": "https://constraintsystemsinstitute.org/papers/a-fixed-domain-exhaustion-theorem-10-5281-zenodo-18682423/",
+      "pages": 39,
+      "publication_status": "published_on_zenodo",
+      "exact_release_doi": "10.5281/zenodo.24357455",
+      "sha256": "422ab7a65167ee298a67cd863205e50ca99722e5809fcd25402c6db6cd2652d5",
+      "pdf_url": "https://constraintsystemsinstitute.org/manuscripts/zenodo-18682423/sha256-422ab7a65167ee298a67cd863205e50ca99722e5809fcd25402c6db6cd2652d5/manuscript.pdf",
+      "reading_aid_url": "https://constraintsystemsinstitute.org/papers/a-fixed-domain-exhaustion-theorem-10-5281-zenodo-18682423/"
+    },
+    {
+      "title": "Unus Solus Possibilis Est: Corpus Closure and Uniqueness of the Admissible Interior",
+      "canonical_work_url": "https://constraintsystemsinstitute.org/papers/unus-solus-possibilis-est-uniqueness-10-5281-zenodo-18518484/",
+      "pages": 31,
+      "publication_status": "published_on_zenodo",
+      "exact_release_doi": "10.5281/zenodo.24357748",
+      "sha256": "a30eac27beaf985f9d310999632c1c9381a4e0ad5e345ab75cb60efa4f366392",
+      "pdf_url": "https://constraintsystemsinstitute.org/manuscripts/zenodo-18518484/sha256-a30eac27beaf985f9d310999632c1c9381a4e0ad5e345ab75cb60efa4f366392/manuscript.pdf",
+      "reading_aid_url": "https://constraintsystemsinstitute.org/papers/unus-solus-possibilis-est-uniqueness-10-5281-zenodo-18518484/"
+    },
+    {
+      "title": "Premetric Structural Unification: The Constraint-Governed Emergence of Geometry, Scalar Dynamics and Operational Relativity",
+      "canonical_work_url": "https://constraintsystemsinstitute.org/papers/premetric-structural-unification-23466295/",
+      "pages": 99,
+      "publication_status": "published_on_zenodo",
+      "exact_release_doi": "10.5281/zenodo.24367466",
+      "sha256": "b216200f4ad4f62c160f8035ee3e411bfa225fdc45211ac02e98cf47a7a88873",
+      "pdf_url": "https://constraintsystemsinstitute.org/manuscripts/zenodo-23466295/sha256-b216200f4ad4f62c160f8035ee3e411bfa225fdc45211ac02e98cf47a7a88873/manuscript.pdf",
+      "reading_aid_url": "https://constraintsystemsinstitute.org/papers/premetric-structural-unification-23466295/"
     }
   ]
 }

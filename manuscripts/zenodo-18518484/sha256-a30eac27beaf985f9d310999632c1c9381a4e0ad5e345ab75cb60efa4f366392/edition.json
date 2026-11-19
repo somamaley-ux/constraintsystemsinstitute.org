@@ -1,0 +1,28 @@
+{
+  "work_doi": "10.5281/zenodo.18518484",
+  "exact_release_doi": "10.5281/zenodo.24357748",
+  "title": "Unus Solus Possibilis Est: Corpus Closure and Uniqueness of the Admissible Interior",
+  "edition_label": "Published reading edition — 2026-11-19",
+  "publication_status": "published_on_zenodo",
+  "manuscript_cover_date": "2026-11-19",
+  "publisher_publication_date": "2026-11-19",
+  "publisher_version": null,
+  "sha256": "a30eac27beaf985f9d310999632c1c9381a4e0ad5e345ab75cb60efa4f366392",
+  "bytes": 495123,
+  "pages": 31,
+  "pdf_url": "https://constraintsystemsinstitute.org/manuscripts/zenodo-18518484/sha256-a30eac27beaf985f9d310999632c1c9381a4e0ad5e345ab75cb60efa4f366392/manuscript.pdf",
+  "canonical_work_url": "https://constraintsystemsinstitute.org/papers/unus-solus-possibilis-est-uniqueness-10-5281-zenodo-18518484/",
+  "publisher_url": "https://zenodo.org/records/24357748",
+  "verification": "Exact public publisher PDF downloaded; publisher MD5, byte length and SHA256 verified. Source-based reading overview; no new independent proof audit.",
+  "conversion": "PDF is authoritative; the web page is a source-based overview, not a complete manuscript conversion.",
+  "citation": "Amos Jay Maley. Unus Solus Possibilis Est: Corpus Closure and Uniqueness of the Admissible Interior. 2026-11-19. DOI: 10.5281/zenodo.24357748.",
+  "publisher_verification": {
+    "publisher_metadata_url": "https://zenodo.org/api/records/24357748",
+    "publisher_file_url": "https://zenodo.org/api/records/24357748/files/Unus%20Solus%20Possibilis%20Est%20Corpus%20Closure%20and%20Uniqueness%20of%20the%20Admissible%20Interior.pdf/content",
+    "publisher_file_key": "Unus Solus Possibilis Est Corpus Closure and Uniqueness of the Admissible Interior.pdf",
+    "publisher_checksum": "md5:40efa4c859da9e9aad788ba0119773d1",
+    "publisher_checksum_matches": true,
+    "sha256": "a30eac27beaf985f9d310999632c1c9381a4e0ad5e345ab75cb60efa4f366392",
+    "checked_utc": "2026-11-19T11:53:38.702Z"
+  }
+}

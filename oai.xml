@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
-  <responseDate>2026-11-16T00:00:00Z</responseDate>
+  <responseDate>2026-11-19T11:53:38Z</responseDate>
   <request verb="ListRecords" metadataPrefix="oai_dc">https://constraintsystemsinstitute.org/oai.xml</request>
   <ListRecords>
       <record>
@@ -228,51 +228,51 @@
         </metadata>
       </record>
       <record>
-        <header><identifier>oai:constraintsystemsinstitute.org:a-fixed-domain-exhaustion-theorem-10-5281-zenodo-18682423</identifier><datestamp>2026-04-21</datestamp></header>
+        <header><identifier>oai:constraintsystemsinstitute.org:a-fixed-domain-exhaustion-theorem-10-5281-zenodo-18682423</identifier><datestamp>2026-11-19</datestamp></header>
         <metadata>
           <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
-            <dc:title>A Fixed-Domain Exhaustion Theorem</dc:title>
+            <dc:title>A Fixed-Domain Exhaustion Theorem: Standing, Consequence, and Compositional Closure</dc:title>
             <dc:creator>Amos Jay Maley</dc:creator>
             <dc:subject>AASC, Constraint Systems Institute, theoretical physics, mathematical foundations, AASC Foundations, admissibility; standing equivalence; structural exhaustion; formal systems; invariance; auditability; exhaustion theorem; irreversibility; fixed-domain analysis; logical structure; identity-preserving; non-derivability</dc:subject>
-            <dc:description>A Fixed-Domain Exhaustion Theorem for Admissibility-Governed Construction 🔷 Overview This paper establishes a closure result by exhaustion for admissibility-bearing structure within a precisely defined comparison class. Rather than enumerating possibilities, the result is derived by showing that: all admissibility-bearing variation must enter through a finite set of structural loci , and each such locus is individually closed under admissibility constraints. The conclusion is a theoremic exhaustion : no additio...</dc:description>
-            <dc:date>2026-04-21</dc:date>
+            <dc:description>Classifies failures of complete realization for an independently specified task: incorrect or missing results, lost distinctions, misrepresented safe continuations and failed certificate obligations. Every defect has an original-task witness. Exact current edition DOI: 10.5281/zenodo.24357455.</dc:description>
+            <dc:date>2026-11-19</dc:date>
             <dc:type>Text</dc:type>
             <dc:identifier>https://doi.org/10.5281/zenodo.18682423</dc:identifier>
             <dc:identifier>https://constraintsystemsinstitute.org/papers/a-fixed-domain-exhaustion-theorem-10-5281-zenodo-18682423/</dc:identifier>
             <dc:language>en</dc:language>
-          </oai_dc:dc>
+          <dc:identifier>https://doi.org/10.5281/zenodo.24357455</dc:identifier></oai_dc:dc>
         </metadata>
       </record>
       <record>
-        <header><identifier>oai:constraintsystemsinstitute.org:non-degenerate-construction-and-the-kernel-of-admissibility-10-5281-zenodo-19324199</identifier><datestamp>2026-06-17</datestamp></header>
+        <header><identifier>oai:constraintsystemsinstitute.org:non-degenerate-construction-and-the-kernel-of-admissibility-10-5281-zenodo-19324199</identifier><datestamp>2026-11-19</datestamp></header>
         <metadata>
           <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
-            <dc:title>Non-Degenerate Construction and the Kernel of Admissibility</dc:title>
+            <dc:title>Non-Degenerate Construction and the Kernel of Admissibility: An Exhaustion Theorem for Standing, Reference, and Irreversibility</dc:title>
             <dc:creator>Amos Jay Maley</dc:creator>
             <dc:subject>AASC, Constraint Systems Institute, theoretical physics, mathematical foundations, AASC Foundations, admissibility; standing; foundational closure; non-derivability; kernel of non-degenerate reasoning; mutual closure; minimality; transport closure; quotient identity; scope-preserving invariance; Lean 4; formal proof systems; irreducible kernel</dc:subject>
-            <dc:description>Overview This paper establishes the minimal structural conditions under which a sequence of steps qualifies as the construction of a determinate object on a fixed domain. It is not a theory of psychological reasoning, informal inference, or a new proof calculus. It is a fixed-domain constraint theorem about admissible construction under identity-preserving conditions. The central object is the fixed-domain kernel structure [ \mathcal K_D=(K,\simeq_{\mathrm{gov}},\mathcal I_D), \qquad K={\mathrm{Adm},\mathrm{St},...</dc:description>
-            <dc:date>2026-06-17</dc:date>
+            <dc:description>From actual determinate objects and incidences, the paper argues for the necessary functions of Reference, Standing, Admissibility and Irreversibility. It characterizes exact representations by preservation of every required original observation. Exact current edition DOI: 10.5281/zenodo.24330589.</dc:description>
+            <dc:date>2026-11-18</dc:date>
             <dc:type>Text</dc:type>
             <dc:identifier>https://doi.org/10.5281/zenodo.19324199</dc:identifier>
             <dc:identifier>https://constraintsystemsinstitute.org/papers/non-degenerate-construction-and-the-kernel-of-admissibility-10-5281-zenodo-19324199/</dc:identifier>
             <dc:language>en</dc:language>
-          </oai_dc:dc>
+          <dc:identifier>https://doi.org/10.5281/zenodo.24330589</dc:identifier></oai_dc:dc>
         </metadata>
       </record>
       <record>
-        <header><identifier>oai:constraintsystemsinstitute.org:the-structure-of-admissibility-10-5281-zenodo-19198249</identifier><datestamp>2026-06-19</datestamp></header>
+        <header><identifier>oai:constraintsystemsinstitute.org:the-structure-of-admissibility-10-5281-zenodo-19198249</identifier><datestamp>2026-11-19</datestamp></header>
         <metadata>
           <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
-            <dc:title>The Structure of Admissibility</dc:title>
+            <dc:title>The Structure of Admissibility: Bivalent Qualification, Exhaustion, and the Unique Admissible Interior</dc:title>
             <dc:creator>Amos Jay Maley</dc:creator>
             <dc:subject>AASC, Constraint Systems Institute, theoretical physics, mathematical foundations, AASC Foundations, admissibility; AMetric boundary; bivalence; standing; conservation of standing; lawful redescription; reference-stable invariants; compositional systems; non-degenerate transformations; irreversible commitment; fail-closed necessity</dc:subject>
-            <dc:description>Primitive Paper 2 of 2 Overview This paper is the second paper in the primitive AASC series. The preceding kernel paper establishes the fixed-domain governance roles required for non-degenerate construction: admissibility, standing, reference, and irreversibility. The present paper assumes that kernel result and studies the next question: once the AASC interface is operative, what structure must admissibility itself have? The paper does not attempt to rederive admissibility, standing, reference, or irreversibili...</dc:description>
-            <dc:date>2026-06-19</dc:date>
+            <dc:description>Constructs the canonical minimal observation interface and the unique greatest safe interior for an independently specified reuse contract. Qualification, information, coverage and warrant remain distinct requirements. Exact current edition DOI: 10.5281/zenodo.24336126.</dc:description>
+            <dc:date>2026-11-18</dc:date>
             <dc:type>Text</dc:type>
             <dc:identifier>https://doi.org/10.5281/zenodo.19198249</dc:identifier>
             <dc:identifier>https://constraintsystemsinstitute.org/papers/the-structure-of-admissibility-10-5281-zenodo-19198249/</dc:identifier>
             <dc:language>en</dc:language>
-          </oai_dc:dc>
+          <dc:identifier>https://doi.org/10.5281/zenodo.24336126</dc:identifier></oai_dc:dc>
         </metadata>
       </record>
       <record>
@@ -566,19 +566,19 @@
         </metadata>
       </record>
       <record>
-        <header><identifier>oai:constraintsystemsinstitute.org:unus-solus-possibilis-est-uniqueness-10-5281-zenodo-18518484</identifier><datestamp>2026-04-20</datestamp></header>
+        <header><identifier>oai:constraintsystemsinstitute.org:unus-solus-possibilis-est-uniqueness-10-5281-zenodo-18518484</identifier><datestamp>2026-11-19</datestamp></header>
         <metadata>
           <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
-            <dc:title>Unus Solus Possibilis Est (Uniqueness)</dc:title>
+            <dc:title>Unus Solus Possibilis Est: Corpus Closure and Uniqueness of the Admissible Interior</dc:title>
             <dc:creator>Amos Jay Maley</dc:creator>
             <dc:subject>AASC, Constraint Systems Institute, theoretical physics, mathematical foundations, Foundational entry, admissibility; standing; uniqueness of the admissible interior; epistemic constraints; invariance; mechanized mathematics; epistemic foundations; structural constraints; standing conservation; bivalence; AMetric boundary</dc:subject>
-            <dc:description>This work establishes closure and uniqueness results for admissible construction on fixed domains within a standing-admissibility framework. It is part of a layered necessity derivation in which the admissibility boundary is not assumed but derived as a structural consequence of pre-fixational non-reference, relabeling invariance, and the prohibition of admissibility-relevant asymmetry without witness (see companion work on the AMetric boundary). Working within a standing-instantiated regime, the paper proves th...</dc:description>
-            <dc:date>2026-04-20</dc:date>
+            <dc:description>For fixed candidates, qualification, permitted continuations and their warrants, constructs the unique greatest admissible interior containing every sound region. That interior may be empty or contain several occupants. Exact current edition DOI: 10.5281/zenodo.24357748.</dc:description>
+            <dc:date>2026-11-19</dc:date>
             <dc:type>Text</dc:type>
             <dc:identifier>https://doi.org/10.5281/zenodo.18518484</dc:identifier>
             <dc:identifier>https://constraintsystemsinstitute.org/papers/unus-solus-possibilis-est-uniqueness-10-5281-zenodo-18518484/</dc:identifier>
             <dc:language>en</dc:language>
-          </oai_dc:dc>
+          <dc:identifier>https://doi.org/10.5281/zenodo.24357748</dc:identifier></oai_dc:dc>
         </metadata>
       </record>
       <record>
@@ -839,19 +839,19 @@
         </metadata>
       </record>
       <record>
-        <header><identifier>oai:constraintsystemsinstitute.org:anchor-tensor-and-skin-a-fixed-domain-decomposition-theorem-for-admissible-description</identifier><datestamp>2026-04-22</datestamp></header>
+        <header><identifier>oai:constraintsystemsinstitute.org:anchor-tensor-and-skin-a-fixed-domain-decomposition-theorem-for-admissible-description</identifier><datestamp>2026-11-19</datestamp></header>
         <metadata>
           <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
-            <dc:title>Anchor, Tensor, and Skin: A Fixed-Domain Decomposition Theorem for Admissible Description (Normal Form Capstone)</dc:title>
+            <dc:title>Anchor, Tensor, and Skin: A Fixed-Domain Decomposition Theorem for Admissible Description</dc:title>
             <dc:creator>Amos Jay Maley</dc:creator>
             <dc:subject>AASC, Constraint Systems Institute, theoretical physics, mathematical foundations, Non-Degenerate Construction and the Kernel of Admissibility, formal epistemology; meta-logic; admissibility; standing; AMetric boundary; structural invariance; irreversibility; constraint-based reasoning; foundations of logic; fixed-domain theorem; identity-preserving transformation; decomposition theorem; formal systems; non-degenerate systems; representation theory (foundational); formal epistemic structure; logical structure</dc:subject>
-            <dc:description>Anchor-Tensor-Skin: A Fixed-Domain Decomposition Theorem for Admissible Structure This manuscript proves a fixed-domain structural closure theorem : on any domain governed by admissibility and identity-preserving constraints, all admissibility-bearing descriptive structure admits a unique, minimal, and irreducible decomposition into three roles. 🔷 Core Result Within a fixed admissibility regime: Every descriptive element induces a governance-relevant effect on: admissibility-definedness , or invariant (tensor-l...</dc:description>
-            <dc:date>2026-04-22</dc:date>
+            <dc:description>Fixes interpreted context and complete required questions to derive the anchor, tensor and skin decomposition: context, answer profile and its realizations. Minimal complete encodings recover the same content space up to a unique commuting bijection. Exact current edition DOI: 10.5281/zenodo.24357281.</dc:description>
+            <dc:date>2026-11-19</dc:date>
             <dc:type>Text</dc:type>
             <dc:identifier>https://doi.org/10.5281/zenodo.18678041</dc:identifier>
             <dc:identifier>https://constraintsystemsinstitute.org/papers/anchor-tensor-and-skin-a-fixed-domain-decomposition-theorem-for-admissible-description/</dc:identifier>
             <dc:language>en</dc:language>
-          </oai_dc:dc>
+          <dc:identifier>https://doi.org/10.5281/zenodo.24357281</dc:identifier></oai_dc:dc>
         </metadata>
       </record>
       <record><header><identifier>oai:constraintsystemsinstitute.org:boundary-trace-fixation-under-admissibility-10-5281-zenodo-19988044</identifier><datestamp>2026-10-08</datestamp></header><metadata><oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/"><dc:title>Boundary-Trace Fixation under Admissibility</dc:title><dc:creator>Amos Jay Maley</dc:creator><dc:description>Distinguishes complete original-role qualification from sound licensed trace selection, and token fixation from role-class fixation. The revised environmental fixation theorem retains the original channel, joint-input and lawful-transport conditions.</dc:description><dc:date>2026-10-08</dc:date><dc:type>Text</dc:type><dc:format>application/pdf</dc:format><dc:identifier>https://constraintsystemsinstitute.org/papers/boundary-trace-fixation-under-admissibility-10-5281-zenodo-19988044/</dc:identifier><dc:identifier>https://constraintsystemsinstitute.org/manuscripts/zenodo-19988044/sha256-0ce6129e25319db8461a27a8d620672160ed1729203407ba80f10c10f7fbcab5/manuscript.pdf</dc:identifier><dc:identifier>https://doi.org/10.5281/zenodo.23226384</dc:identifier><dc:relation>https://doi.org/10.5281/zenodo.19988044</dc:relation><dc:relation>SHA256 0ce6129e25319db8461a27a8d620672160ed1729203407ba80f10c10f7fbcab5</dc:relation><dc:language>en</dc:language></oai_dc:dc></metadata></record>
@@ -1480,19 +1480,19 @@
         </metadata>
       </record>
       <record>
-        <header><identifier>oai:constraintsystemsinstitute.org:the-ametric-boundary-18603144</identifier><datestamp>2026-09-09</datestamp></header>
+        <header><identifier>oai:constraintsystemsinstitute.org:the-ametric-boundary-18603144</identifier><datestamp>2026-11-19</datestamp></header>
         <metadata>
           <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
-            <dc:title>The AMetric Boundary as a Unique Regime-Invariant Constraint on Admissibility-Bearing Construction</dc:title>
+            <dc:title>The AMetric Boundary as a Unique Regime-Invariant Constraint on Admissibility-Bearing Construction: Pre-fixational authority, non-transmissivity, and complete interfaces</dc:title>
             <dc:creator>Amos Jay Maley</dc:creator>
-            <dc:subject>AASC; AMetric boundary; identity-preserving construction; no-selector theorem; fixed-domain exhaustion</dc:subject>
-            <dc:description>A fixed-domain structural theorem establishing the unique, non-parameterized, non-eventful and non-transmissive AMetric boundary for admissibility-bearing construction. Metric descriptions are licensed interior structure, not a source of boundary authority.</dc:description>
-            <dc:date>2026-04-23</dc:date>
+            <dc:subject>AASC, AMetric boundary, Kernel of Admissibility, premetric foundations, identity-preserving construction, no-selector theorem, relabelling invariance, standing, fixed-domain exhaustion</dc:subject>
+            <dc:description>Derives limits on what retained data can warrant from the four Kernel requirements. The report-fibre, grounded-authorization and stabilizer tests distinguish a lost fact from interchangeable eligible choices. Exact current edition DOI: 10.5281/zenodo.24331743.</dc:description>
+            <dc:date>2026-11-18</dc:date>
             <dc:type>Text</dc:type>
             <dc:identifier>https://doi.org/10.5281/zenodo.18603144</dc:identifier>
             <dc:identifier>https://constraintsystemsinstitute.org/papers/the-ametric-boundary-18603144/</dc:identifier>
             <dc:language>en</dc:language>
-          </oai_dc:dc>
+          <dc:identifier>https://doi.org/10.5281/zenodo.24331743</dc:identifier></oai_dc:dc>
         </metadata>
       </record>
   <record><header><identifier>oai:constraintsystemsinstitute.org:quantum-measurement-under-aasc</identifier><datestamp>2026-09-11</datestamp></header><metadata><oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/"><dc:title>Quantum Measurement under AASC: Physical Sources, Finite Detectors, Persistent Records and Actual Events</dc:title><dc:creator>Maley, Amos Jay</dc:creator><dc:identifier>https://doi.org/10.5281/zenodo.22693784</dc:identifier><dc:identifier>https://constraintsystemsinstitute.org/papers/quantum-measurement-under-aasc/</dc:identifier><dc:identifier>https://constraintsystemsinstitute.org/papers/quantum-measurement-under-aasc/quantum-measurement-under-aasc.pdf</dc:identifier><dc:description>A connected construction of physical quantum sources and receivers, complete detector instruments, finite amplification, persistent records, calibrated probability laws and compatible actual histories. The physical and probability results retain their source comparisons, apparatus errors and explicit actual-history commitments.</dc:description><dc:type>Text</dc:type><dc:language>en</dc:language></oai_dc:dc></metadata></record>
@@ -1545,7 +1545,7 @@
 <record><header><identifier>oai:constraintsystemsinstitute.org:structural-inadmissibility-of-the-null-regime-20074284</identifier><datestamp>2026-10-08</datestamp></header><metadata><oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/"><dc:title>The Structural Inadmissibility of the Null Regime</dc:title><dc:creator>Amos Jay Maley</dc:creator><dc:description>Establishes a fixed-domain closure theorem excluding total vacuity as an admissibility-bearing evaluability regime under the manuscript’s same-type preservation conditions. The result is closure-theoretic rather than an existential or cosmological construction.</dc:description><dc:date>2026-10-08</dc:date><dc:type>Text</dc:type><dc:format>application/pdf</dc:format><dc:identifier>https://constraintsystemsinstitute.org/papers/structural-inadmissibility-of-the-null-regime-20074284/</dc:identifier><dc:identifier>https://constraintsystemsinstitute.org/manuscripts/zenodo-20074284/sha256-c49227cafad32e68afd64bd1d8410c150fa841c922b6bb46a54a88a5dcdf692a/manuscript.pdf</dc:identifier><dc:identifier>https://doi.org/10.5281/zenodo.23238139</dc:identifier><dc:relation>https://doi.org/10.5281/zenodo.20074284</dc:relation><dc:relation>SHA256 c49227cafad32e68afd64bd1d8410c150fa841c922b6bb46a54a88a5dcdf692a</dc:relation><dc:language>en</dc:language></oai_dc:dc></metadata></record>
 <record><header><identifier>oai:constraintsystemsinstitute.org:boundary-trace-fixation-of-continuation-loci-under-aasc-20089823</identifier><datestamp>2026-10-08</datestamp></header><metadata><oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/"><dc:title>Boundary-Trace Fixation of Continuation Loci under AASC</dc:title><dc:creator>Amos Jay Maley</dc:creator><dc:description>Fixes a role-anchor equivalence class under internal non-selection when a declared, stable, singleton-positive boundary trace is available modulo role equivalence. This reviewed update repairs the two-class witness while retaining class-valued fixation and the stated continuation scope.</dc:description><dc:date>2026-10-08</dc:date><dc:type>Text</dc:type><dc:format>application/pdf</dc:format><dc:identifier>https://constraintsystemsinstitute.org/papers/boundary-trace-fixation-of-continuation-loci-under-aasc-20089823/</dc:identifier><dc:identifier>https://constraintsystemsinstitute.org/manuscripts/zenodo-20089823/sha256-7ea472133cabfbc11c3a1437f0e4ef84934bd40c7e02b458504cf1af8d5235da/manuscript.pdf</dc:identifier><dc:identifier>https://doi.org/10.5281/zenodo.23239294</dc:identifier><dc:relation>https://doi.org/10.5281/zenodo.20089823</dc:relation><dc:relation>SHA256 7ea472133cabfbc11c3a1437f0e4ef84934bd40c7e02b458504cf1af8d5235da</dc:relation><dc:language>en</dc:language></oai_dc:dc></metadata></record>
 <record><header><identifier>oai:constraintsystemsinstitute.org:from-differentiated-matter-to-metric-exhaustion-23333485</identifier><datestamp>2026-10-13</datestamp></header><metadata><oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/"><dc:title>From Differentiated Matter to Metric Exhaustion</dc:title><dc:creator>Amos Jay Maley</dc:creator><dc:subject>AASC; black holes; scalar field; metric continuation</dc:subject><dc:description>A conserved scalar model tests whether decreasing selected matter responses can brake black-hole contraction. Specified trapped interiors attain finite braking, later invariant continuation obstructions, and exact exterior-reconstruction limits. Complete residual-support exhaustion requires the further original-burden and successor conditions identified in the paper.</dc:description><dc:date>2026-10-13</dc:date><dc:type>Text</dc:type><dc:identifier>https://doi.org/10.5281/zenodo.23333485</dc:identifier><dc:identifier>https://constraintsystemsinstitute.org/papers/from-differentiated-matter-to-metric-exhaustion-23333485/</dc:identifier><dc:language>en</dc:language></oai_dc:dc></metadata></record>
-<record><header><identifier>oai:constraintsystemsinstitute.org:premetric-structural-unification-23466295</identifier><datestamp>2026-11-01</datestamp></header><metadata><oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/"><dc:title>Premetric Structural Unification: The Constraint-Governed Emergence of Geometry, Scalar Dynamics and Operational Relativity</dc:title><dc:creator>Amos Jay Maley</dc:creator><dc:subject>AASC, premetric structural unification, reference edition 1.1, Kernel, AMetric, canonical Lmetric licensing, controlled physical interior, Einstein response, nonflat Klein-Gordon Cauchy evolution, same-action stress, conditional sourced Einstein, free scalar Schrodinger dynamics, quantitative nonrelativistic recovery, operational special relativity, clocks, radar, rulers, Lean 4</dc:subject><dc:description>An integrated cross-corpus Lean formalization constructs a controlled physical interior from AASC Kernel governance, AMetric restrictions and canonical licensing: geometric Einstein response, controlled Klein–Gordon evolution and same-action sources, isolated free quantum dynamics, quantitative recovery, and occupied operational clocks and finite networks.</dc:description><dc:date>2026-11-01</dc:date><dc:type>Text</dc:type><dc:identifier>https://constraintsystemsinstitute.org/papers/premetric-structural-unification-23466295/</dc:identifier><dc:identifier>https://constraintsystemsinstitute.org/manuscripts/zenodo-23466295/sha256-ae7b9a40ef6f1933699723f99deef4c796da7d81914f68f50a298251060a0b7f/manuscript.pdf</dc:identifier><dc:identifier>https://doi.org/10.5281/zenodo.23466295</dc:identifier><dc:identifier>https://doi.org/10.5281/zenodo.23856304</dc:identifier><dc:language>en</dc:language></oai_dc:dc></metadata></record>
+<record><header><identifier>oai:constraintsystemsinstitute.org:premetric-structural-unification-23466295</identifier><datestamp>2026-11-19</datestamp></header><metadata><oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/"><dc:title>Premetric Structural Unification: The Constraint-Governed Emergence of Geometry, Scalar Dynamics and Operational Relativity</dc:title><dc:creator>Amos Jay Maley</dc:creator><dc:subject>AASC, premetric structural unification, published edition 19 November 2026, Lean v1.1.0, least differential order, packet amplitudes, Kernel, AMetric, canonical Lmetric licensing, controlled physical interior, Einstein response, nonflat Klein-Gordon Cauchy evolution, same-action stress, conditional sourced Einstein, free scalar Schrodinger dynamics, quantitative nonrelativistic recovery, operational special relativity, clocks, radar, rulers, Lean 4</dc:subject><dc:description>Derives Einstein-form gravity, free Schrödinger dynamics and the calibrated Lorentz interval on physical preparations governed by common premetric constraints. The joined construction tests gravity and real scalar stress on the same compact variation of the same metric. Exact current edition DOI: 10.5281/zenodo.24367466.</dc:description><dc:date>2026-11-19</dc:date><dc:type>Text</dc:type><dc:identifier>https://constraintsystemsinstitute.org/papers/premetric-structural-unification-23466295/</dc:identifier><dc:identifier>https://constraintsystemsinstitute.org/manuscripts/zenodo-23466295/sha256-b216200f4ad4f62c160f8035ee3e411bfa225fdc45211ac02e98cf47a7a88873/manuscript.pdf</dc:identifier><dc:identifier>https://doi.org/10.5281/zenodo.23466295</dc:identifier><dc:relation>Earlier edition: https://doi.org/10.5281/zenodo.23856304</dc:relation><dc:language>en</dc:language><dc:identifier>https://doi.org/10.5281/zenodo.24367466</dc:identifier></oai_dc:dc></metadata></record>
 <record><header><identifier>oai:constraintsystemsinstitute.org:10.5281/zenodo.24269891</identifier><datestamp>2026-11-16</datestamp></header><metadata><oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd"><dc:title>Beyond Purity Loss Source-Accounted Quantum Dynamics and False-Well Retention</dc:title><dc:creator>Maley, Amos Jay</dc:creator><dc:description>Local existence and initial entanglement in a restricted expectation-sourced quantum/classical-reference model, finite-time false-well retention comparisons, and memory-dependent reduced dynamics with a fixed-cutoff fourth-order approximation bound. These results do not establish late-time vacuum protection or a cosmological decay rate.</dc:description><dc:date>2026-11-16</dc:date><dc:type>Text</dc:type><dc:identifier>https://constraintsystemsinstitute.org/papers/beyond-purity-loss-24269891/</dc:identifier><dc:identifier>https://doi.org/10.5281/zenodo.24269892</dc:identifier><dc:language>en</dc:language><dc:rights>CC BY 4.0</dc:rights></oai_dc:dc></metadata></record>
 </ListRecords>
 </OAI-PMH>

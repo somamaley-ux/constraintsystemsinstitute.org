@@ -142,7 +142,7 @@
   "10.5281/zenodo.18682423": {
     "url": "/papers/a-fixed-domain-exhaustion-theorem-10-5281-zenodo-18682423/",
     "work_doi": "10.5281/zenodo.18682423",
-    "title": "A Fixed-Domain Exhaustion Theorem"
+    "title": "A Fixed-Domain Exhaustion Theorem: Standing, Consequence, and Compositional Closure"
   },
   "10.5281/zenodo.22875070": {
     "url": "/papers/a-fixed-domain-exhaustion-theorem-10-5281-zenodo-18682423/",
@@ -157,7 +157,7 @@
   "10.5281/zenodo.19324199": {
     "url": "/papers/non-degenerate-construction-and-the-kernel-of-admissibility-10-5281-zenodo-19324199/",
     "work_doi": "10.5281/zenodo.19324199",
-    "title": "Non-Degenerate Construction and the Kernel of Admissibility"
+    "title": "Non-Degenerate Construction and the Kernel of Admissibility: An Exhaustion Theorem for Standing, Reference, and Irreversibility"
   },
   "10.5281/zenodo.22968658": {
     "url": "/papers/non-degenerate-construction-and-the-kernel-of-admissibility-10-5281-zenodo-19324199/",
@@ -172,7 +172,7 @@
   "10.5281/zenodo.19198249": {
     "url": "/papers/the-structure-of-admissibility-10-5281-zenodo-19198249/",
     "work_doi": "10.5281/zenodo.19198249",
-    "title": "The Structure of Admissibility"
+    "title": "The Structure of Admissibility: Bivalent Qualification, Exhaustion, and the Unique Admissible Interior"
   },
   "10.5281/zenodo.22874934": {
     "url": "/papers/the-structure-of-admissibility-10-5281-zenodo-19198249/",
@@ -412,7 +412,7 @@
   "10.5281/zenodo.18518484": {
     "url": "/papers/unus-solus-possibilis-est-uniqueness-10-5281-zenodo-18518484/",
     "work_doi": "10.5281/zenodo.18518484",
-    "title": "Unus Solus Possibilis Est (Uniqueness)"
+    "title": "Unus Solus Possibilis Est: Corpus Closure and Uniqueness of the Admissible Interior"
   },
   "10.5281/zenodo.22875044": {
     "url": "/papers/unus-solus-possibilis-est-uniqueness-10-5281-zenodo-18518484/",
@@ -632,7 +632,7 @@
   "10.5281/zenodo.18678041": {
     "url": "/papers/anchor-tensor-and-skin-a-fixed-domain-decomposition-theorem-for-admissible-description/",
     "work_doi": "10.5281/zenodo.18678041",
-    "title": "Anchor, Tensor, and Skin: A Fixed-Domain Decomposition Theorem for Admissible Description (Normal Form Capstone)"
+    "title": "Anchor, Tensor, and Skin: A Fixed-Domain Decomposition Theorem for Admissible Description"
   },
   "10.5281/zenodo.22875011": {
     "url": "/papers/anchor-tensor-and-skin-a-fixed-domain-decomposition-theorem-for-admissible-description/",
@@ -1122,7 +1122,7 @@
   "10.5281/zenodo.18603144": {
     "url": "/papers/the-ametric-boundary-18603144/",
     "work_doi": "10.5281/zenodo.18603144",
-    "title": "The AMetric Boundary as a Unique Regime-Invariant Constraint on Admissibility-Bearing Construction"
+    "title": "The AMetric Boundary as a Unique Regime-Invariant Constraint on Admissibility-Bearing Construction: Pre-fixational authority, non-transmissivity, and complete interfaces"
   },
   "10.5281/zenodo.22848051": {
     "url": "/papers/the-ametric-boundary-18603144/",
@@ -2466,5 +2466,40 @@
     "url": "/papers/beyond-purity-loss-24269891/",
     "work_doi": "10.5281/zenodo.24269891",
     "title": "Beyond Purity Loss Source-Accounted Quantum Dynamics and False-Well Retention"
+  },
+  "10.5281/zenodo.24330589": {
+    "url": "/papers/non-degenerate-construction-and-the-kernel-of-admissibility-10-5281-zenodo-19324199/",
+    "work_doi": "10.5281/zenodo.19324199",
+    "title": "Non-Degenerate Construction and the Kernel of Admissibility: An Exhaustion Theorem for Standing, Reference, and Irreversibility"
+  },
+  "10.5281/zenodo.24331743": {
+    "url": "/papers/the-ametric-boundary-18603144/",
+    "work_doi": "10.5281/zenodo.18603144",
+    "title": "The AMetric Boundary as a Unique Regime-Invariant Constraint on Admissibility-Bearing Construction: Pre-fixational authority, non-transmissivity, and complete interfaces"
+  },
+  "10.5281/zenodo.24336126": {
+    "url": "/papers/the-structure-of-admissibility-10-5281-zenodo-19198249/",
+    "work_doi": "10.5281/zenodo.19198249",
+    "title": "The Structure of Admissibility: Bivalent Qualification, Exhaustion, and the Unique Admissible Interior"
+  },
+  "10.5281/zenodo.24357281": {
+    "url": "/papers/anchor-tensor-and-skin-a-fixed-domain-decomposition-theorem-for-admissible-description/",
+    "work_doi": "10.5281/zenodo.18678041",
+    "title": "Anchor, Tensor, and Skin: A Fixed-Domain Decomposition Theorem for Admissible Description"
+  },
+  "10.5281/zenodo.24357455": {
+    "url": "/papers/a-fixed-domain-exhaustion-theorem-10-5281-zenodo-18682423/",
+    "work_doi": "10.5281/zenodo.18682423",
+    "title": "A Fixed-Domain Exhaustion Theorem: Standing, Consequence, and Compositional Closure"
+  },
+  "10.5281/zenodo.24357748": {
+    "url": "/papers/unus-solus-possibilis-est-uniqueness-10-5281-zenodo-18518484/",
+    "work_doi": "10.5281/zenodo.18518484",
+    "title": "Unus Solus Possibilis Est: Corpus Closure and Uniqueness of the Admissible Interior"
+  },
+  "10.5281/zenodo.24367466": {
+    "url": "/papers/premetric-structural-unification-23466295/",
+    "work_doi": "10.5281/zenodo.23466295",
+    "title": "Premetric Structural Unification: The Constraint-Governed Emergence of Geometry, Scalar Dynamics and Operational Relativity"
   }
 }

@@ -369,25 +369,27 @@
     "research_groups": []
   },
   {
-    "title": "A Fixed-Domain Exhaustion Theorem",
+    "title": "A Fixed-Domain Exhaustion Theorem: Standing, Consequence, and Compositional Closure",
     "doi": "10.5281/zenodo.18682423",
     "doi_url": "https://doi.org/10.5281/zenodo.18682423",
     "url": "https://constraintsystemsinstitute.org/papers/a-fixed-domain-exhaustion-theorem-10-5281-zenodo-18682423/",
     "slug": "a-fixed-domain-exhaustion-theorem-10-5281-zenodo-18682423",
-    "date": "2026-04-21",
-    "scholar_date": "2026/04/21",
+    "date": "2026-11-19",
+    "scholar_date": "2026/11/19",
     "context": "AASC Foundations",
     "report_number": "CSI-ZENODO-18682423",
-    "description": "A Fixed-Domain Exhaustion Theorem for Admissibility-Governed Construction 🔷 Overview This paper establishes a closure result by exhaustion for admissibility-bearing structure within a precisely defined comparison class. Rather than enumerating possibilities, the result is derived by showing that: all admissibility-bearing variation must enter through a finite set of structural loci , and each such locus is individually closed under admissibility constraints. The conclusion is a theoremic exhaustion : no additio...",
+    "description": "Classifies failures of complete realization for an independently specified task: incorrect or missing results, lost distinctions, misrepresented safe continuations and failed certificate obligations. Every defect has an original-task witness.",
     "keywords": "AASC, Constraint Systems Institute, theoretical physics, mathematical foundations, AASC Foundations, admissibility; standing equivalence; structural exhaustion; formal systems; invariance; auditability; exhaustion theorem; irreversibility; fixed-domain analysis; logical structure; identity-preserving; non-derivability",
-    "zenodo_record": "https://zenodo.org/records/19697219",
+    "zenodo_record": "https://zenodo.org/records/24357455",
     "preferred_edition": {
-      "pdf_url": "https://constraintsystemsinstitute.org/manuscripts/exhaustion/sha256-d06d39b381edddaafe899f20769b0ba551802b23d7b83121530ecab346feece0/manuscript.pdf",
-      "doi": "10.5281/zenodo.22875070",
-      "publisher_publication_date": "2026-09-21",
-      "sha256": "d06d39b381edddaafe899f20769b0ba551802b23d7b83121530ecab346feece0",
-      "pages": 39,
-      "manuscript_date": "2026-09-21"
+      "pdf_url": "https://constraintsystemsinstitute.org/manuscripts/zenodo-18682423/sha256-422ab7a65167ee298a67cd863205e50ca99722e5809fcd25402c6db6cd2652d5/manuscript.pdf",
+      "doi": "10.5281/zenodo.24357455",
+      "publication_status": "published_on_zenodo",
+      "edition_label": "Published reading edition — 2026-11-19",
+      "publisher_publication_date": "2026-11-19",
+      "manuscript_date": "2026-11-19",
+      "sha256": "422ab7a65167ee298a67cd863205e50ca99722e5809fcd25402c6db6cd2652d5",
+      "pages": 39
     },
     "repository_layout": "current-paper-with-collapsed-history",
     "subjects": [
@@ -395,28 +397,42 @@
     ],
     "research_groups": [
       "AASC Foundations"
-    ]
+    ],
+    "earlier_editions": [
+      {
+        "pdf_url": "https://constraintsystemsinstitute.org/manuscripts/exhaustion/sha256-d06d39b381edddaafe899f20769b0ba551802b23d7b83121530ecab346feece0/manuscript.pdf",
+        "doi": "10.5281/zenodo.22875070",
+        "publisher_publication_date": "2026-09-21",
+        "sha256": "d06d39b381edddaafe899f20769b0ba551802b23d7b83121530ecab346feece0",
+        "pages": 39,
+        "manuscript_date": "2026-09-21",
+        "title": "A Fixed-Domain Exhaustion Theorem"
+      }
+    ],
+    "updated_date": "2026-11-19"
   },
   {
-    "title": "Non-Degenerate Construction and the Kernel of Admissibility",
+    "title": "Non-Degenerate Construction and the Kernel of Admissibility: An Exhaustion Theorem for Standing, Reference, and Irreversibility",
     "doi": "10.5281/zenodo.19324199",
     "doi_url": "https://doi.org/10.5281/zenodo.19324199",
     "url": "https://constraintsystemsinstitute.org/papers/non-degenerate-construction-and-the-kernel-of-admissibility-10-5281-zenodo-19324199/",
     "slug": "non-degenerate-construction-and-the-kernel-of-admissibility-10-5281-zenodo-19324199",
-    "date": "2026-06-17",
-    "scholar_date": "2026/06/17",
+    "date": "2026-11-18",
+    "scholar_date": "2026/11/18",
     "context": "AASC Foundations",
     "report_number": "CSI-ZENODO-19324199",
-    "description": "Overview This paper establishes the minimal structural conditions under which a sequence of steps qualifies as the construction of a determinate object on a fixed domain. It is not a theory of psychological reasoning, informal inference, or a new proof calculus. It is a fixed-domain constraint theorem about admissible construction under identity-preserving conditions. The central object is the fixed-domain kernel structure [ \\mathcal K_D=(K,\\simeq_{\\mathrm{gov}},\\mathcal I_D), \\qquad K={\\mathrm{Adm},\\mathrm{St},...",
+    "description": "From actual determinate objects and incidences, the paper argues for the necessary functions of Reference, Standing, Admissibility and Irreversibility. It characterizes exact representations by preservation of every required original observation.",
     "keywords": "AASC, Constraint Systems Institute, theoretical physics, mathematical foundations, AASC Foundations, admissibility; standing; foundational closure; non-derivability; kernel of non-degenerate reasoning; mutual closure; minimality; transport closure; quotient identity; scope-preserving invariance; Lean 4; formal proof systems; irreducible kernel",
-    "zenodo_record": "https://zenodo.org/records/20727360",
+    "zenodo_record": "https://zenodo.org/records/24330589",
     "preferred_edition": {
-      "pdf_url": "https://constraintsystemsinstitute.org/manuscripts/kernel/sha256-4e1bafc4844d90ca7ba5268d1b6b5ee21bf92f082a2a61b4eea039faed0c037e/manuscript.pdf",
-      "doi": "10.5281/zenodo.22968658",
-      "publisher_publication_date": "2026-09-25",
-      "sha256": "4e1bafc4844d90ca7ba5268d1b6b5ee21bf92f082a2a61b4eea039faed0c037e",
-      "pages": 73,
-      "manuscript_date": "2026-09-26"
+      "pdf_url": "https://constraintsystemsinstitute.org/manuscripts/zenodo-19324199/sha256-3765b7e7f066df161cb344a2b551b1c729fe72aac5771977e264853aedbd8412/manuscript.pdf",
+      "doi": "10.5281/zenodo.24330589",
+      "publication_status": "published_on_zenodo",
+      "edition_label": "Published reading edition — 2026-11-18",
+      "publisher_publication_date": "2026-11-18",
+      "manuscript_date": "2026-11-18",
+      "sha256": "3765b7e7f066df161cb344a2b551b1c729fe72aac5771977e264853aedbd8412",
+      "pages": 50
     },
     "repository_layout": "current-paper-with-collapsed-history",
     "subjects": [
@@ -424,28 +440,42 @@
     ],
     "research_groups": [
       "AASC Foundations"
-    ]
+    ],
+    "earlier_editions": [
+      {
+        "pdf_url": "https://constraintsystemsinstitute.org/manuscripts/kernel/sha256-4e1bafc4844d90ca7ba5268d1b6b5ee21bf92f082a2a61b4eea039faed0c037e/manuscript.pdf",
+        "doi": "10.5281/zenodo.22968658",
+        "publisher_publication_date": "2026-09-25",
+        "sha256": "4e1bafc4844d90ca7ba5268d1b6b5ee21bf92f082a2a61b4eea039faed0c037e",
+        "pages": 73,
+        "manuscript_date": "2026-09-26",
+        "title": "Non-Degenerate Construction and the Kernel of Admissibility"
+      }
+    ],
+    "updated_date": "2026-11-18"
   },
   {
-    "title": "The Structure of Admissibility",
+    "title": "The Structure of Admissibility: Bivalent Qualification, Exhaustion, and the Unique Admissible Interior",
     "doi": "10.5281/zenodo.19198249",
     "doi_url": "https://doi.org/10.5281/zenodo.19198249",
     "url": "https://constraintsystemsinstitute.org/papers/the-structure-of-admissibility-10-5281-zenodo-19198249/",
     "slug": "the-structure-of-admissibility-10-5281-zenodo-19198249",
-    "date": "2026-06-19",
-    "scholar_date": "2026/06/19",
+    "date": "2026-11-18",
+    "scholar_date": "2026/11/18",
     "context": "AASC Foundations",
     "report_number": "CSI-ZENODO-19198249",
-    "description": "Primitive Paper 2 of 2 Overview This paper is the second paper in the primitive AASC series. The preceding kernel paper establishes the fixed-domain governance roles required for non-degenerate construction: admissibility, standing, reference, and irreversibility. The present paper assumes that kernel result and studies the next question: once the AASC interface is operative, what structure must admissibility itself have? The paper does not attempt to rederive admissibility, standing, reference, or irreversibili...",
+    "description": "Constructs the canonical minimal observation interface and the unique greatest safe interior for an independently specified reuse contract. Qualification, information, coverage and warrant remain distinct requirements.",
     "keywords": "AASC, Constraint Systems Institute, theoretical physics, mathematical foundations, AASC Foundations, admissibility; AMetric boundary; bivalence; standing; conservation of standing; lawful redescription; reference-stable invariants; compositional systems; non-degenerate transformations; irreversible commitment; fail-closed necessity",
-    "zenodo_record": "https://zenodo.org/records/20762258",
+    "zenodo_record": "https://zenodo.org/records/24336126",
     "preferred_edition": {
-      "pdf_url": "https://constraintsystemsinstitute.org/manuscripts/structure/sha256-065979305b2fc1593abb343e72a86d0ed9c967c089d1a9cbf91be650de25eff2/manuscript.pdf",
-      "doi": "10.5281/zenodo.22874934",
-      "publisher_publication_date": "2026-09-21",
-      "sha256": "065979305b2fc1593abb343e72a86d0ed9c967c089d1a9cbf91be650de25eff2",
-      "pages": 46,
-      "manuscript_date": "2026-09-21"
+      "pdf_url": "https://constraintsystemsinstitute.org/manuscripts/zenodo-19198249/sha256-694bf899b922db69b7fbad2e30edf4f4f93ecb3208bfb80ccd8b3fba3b493cfa/manuscript.pdf",
+      "doi": "10.5281/zenodo.24336126",
+      "publication_status": "published_on_zenodo",
+      "edition_label": "Published reading edition — 2026-11-18",
+      "publisher_publication_date": "2026-11-18",
+      "manuscript_date": "2026-11-18",
+      "sha256": "694bf899b922db69b7fbad2e30edf4f4f93ecb3208bfb80ccd8b3fba3b493cfa",
+      "pages": 46
     },
     "repository_layout": "current-paper-with-collapsed-history",
     "subjects": [
@@ -453,7 +483,19 @@
     ],
     "research_groups": [
       "AASC Foundations"
-    ]
+    ],
+    "earlier_editions": [
+      {
+        "pdf_url": "https://constraintsystemsinstitute.org/manuscripts/structure/sha256-065979305b2fc1593abb343e72a86d0ed9c967c089d1a9cbf91be650de25eff2/manuscript.pdf",
+        "doi": "10.5281/zenodo.22874934",
+        "publisher_publication_date": "2026-09-21",
+        "sha256": "065979305b2fc1593abb343e72a86d0ed9c967c089d1a9cbf91be650de25eff2",
+        "pages": 46,
+        "manuscript_date": "2026-09-21",
+        "title": "The Structure of Admissibility"
+      }
+    ],
+    "updated_date": "2026-11-18"
   },
   {
     "title": "AMetric Normal-Form Homology (Black Hole ARC 3)",
@@ -1036,30 +1078,44 @@
     "research_groups": []
   },
   {
-    "title": "Unus Solus Possibilis Est (Uniqueness)",
+    "title": "Unus Solus Possibilis Est: Corpus Closure and Uniqueness of the Admissible Interior",
     "doi": "10.5281/zenodo.18518484",
     "doi_url": "https://doi.org/10.5281/zenodo.18518484",
     "url": "https://constraintsystemsinstitute.org/papers/unus-solus-possibilis-est-uniqueness-10-5281-zenodo-18518484/",
     "slug": "unus-solus-possibilis-est-uniqueness-10-5281-zenodo-18518484",
-    "date": "2026-04-20",
-    "scholar_date": "2026/04/20",
+    "date": "2026-11-19",
+    "scholar_date": "2026/11/19",
     "context": "Foundational entry",
     "report_number": "CSI-ZENODO-18518484",
-    "description": "This work establishes closure and uniqueness results for admissible construction on fixed domains within a standing-admissibility framework. It is part of a layered necessity derivation in which the admissibility boundary is not assumed but derived as a structural consequence of pre-fixational non-reference, relabeling invariance, and the prohibition of admissibility-relevant asymmetry without witness (see companion work on the AMetric boundary). Working within a standing-instantiated regime, the paper proves th...",
+    "description": "For fixed candidates, qualification, permitted continuations and their warrants, constructs the unique greatest admissible interior containing every sound region. That interior may be empty or contain several occupants.",
     "keywords": "AASC, Constraint Systems Institute, theoretical physics, mathematical foundations, Foundational entry, admissibility; standing; uniqueness of the admissible interior; epistemic constraints; invariance; mechanized mathematics; epistemic foundations; structural constraints; standing conservation; bivalence; AMetric boundary",
-    "zenodo_record": "https://zenodo.org/records/19662633",
+    "zenodo_record": "https://zenodo.org/records/24357748",
     "preferred_edition": {
-      "pdf_url": "https://constraintsystemsinstitute.org/manuscripts/zenodo-18518484/sha256-c66b90dc63718f50ea4b50b7a21ff128dbc195bef42dbeb1d78f73417d7c654d/manuscript.pdf",
-      "doi": "10.5281/zenodo.22875044",
-      "publisher_publication_date": "2026-09-21",
-      "sha256": "c66b90dc63718f50ea4b50b7a21ff128dbc195bef42dbeb1d78f73417d7c654d",
-      "pages": 30
+      "pdf_url": "https://constraintsystemsinstitute.org/manuscripts/zenodo-18518484/sha256-a30eac27beaf985f9d310999632c1c9381a4e0ad5e345ab75cb60efa4f366392/manuscript.pdf",
+      "doi": "10.5281/zenodo.24357748",
+      "publication_status": "published_on_zenodo",
+      "edition_label": "Published reading edition — 2026-11-19",
+      "publisher_publication_date": "2026-11-19",
+      "manuscript_date": "2026-11-19",
+      "sha256": "a30eac27beaf985f9d310999632c1c9381a4e0ad5e345ab75cb60efa4f366392",
+      "pages": 31
     },
     "repository_layout": "current-paper-with-collapsed-history",
     "subjects": [
       "Other research"
     ],
-    "research_groups": []
+    "research_groups": [],
+    "earlier_editions": [
+      {
+        "pdf_url": "https://constraintsystemsinstitute.org/manuscripts/zenodo-18518484/sha256-c66b90dc63718f50ea4b50b7a21ff128dbc195bef42dbeb1d78f73417d7c654d/manuscript.pdf",
+        "doi": "10.5281/zenodo.22875044",
+        "publisher_publication_date": "2026-09-21",
+        "sha256": "c66b90dc63718f50ea4b50b7a21ff128dbc195bef42dbeb1d78f73417d7c654d",
+        "pages": 30,
+        "title": "Unus Solus Possibilis Est (Uniqueness)"
+      }
+    ],
+    "updated_date": "2026-11-19"
   },
   {
     "title": "Claim Standing and Legitimacy",
@@ -1561,31 +1617,45 @@
     "research_groups": []
   },
   {
-    "title": "Anchor, Tensor, and Skin: A Fixed-Domain Decomposition Theorem for Admissible Description (Normal Form Capstone)",
+    "title": "Anchor, Tensor, and Skin: A Fixed-Domain Decomposition Theorem for Admissible Description",
     "doi": "10.5281/zenodo.18678041",
     "doi_url": "https://doi.org/10.5281/zenodo.18678041",
     "url": "https://constraintsystemsinstitute.org/papers/anchor-tensor-and-skin-a-fixed-domain-decomposition-theorem-for-admissible-description/",
     "slug": "anchor-tensor-and-skin-a-fixed-domain-decomposition-theorem-for-admissible-description",
-    "date": "2026-04-22",
-    "scholar_date": "2026/04/22",
+    "date": "2026-11-19",
+    "scholar_date": "2026/11/19",
     "context": "Non-Degenerate Construction and the Kernel of Admissibility",
     "report_number": "CSI-ZENODO-18678041",
-    "description": "Anchor-Tensor-Skin: A Fixed-Domain Decomposition Theorem for Admissible Structure This manuscript proves a fixed-domain structural closure theorem : on any domain governed by admissibility and identity-preserving constraints, all admissibility-bearing descriptive structure admits a unique, minimal, and irreducible decomposition into three roles. 🔷 Core Result Within a fixed admissibility regime: Every descriptive element induces a governance-relevant effect on: admissibility-definedness , or invariant (tensor-l...",
+    "description": "Fixes interpreted context and complete required questions to derive the anchor, tensor and skin decomposition: context, answer profile and its realizations. Minimal complete encodings recover the same content space up to a unique commuting bijection.",
     "keywords": "AASC, Constraint Systems Institute, theoretical physics, mathematical foundations, Non-Degenerate Construction and the Kernel of Admissibility, formal epistemology; meta-logic; admissibility; standing; AMetric boundary; structural invariance; irreversibility; constraint-based reasoning; foundations of logic; fixed-domain theorem; identity-preserving transformation; decomposition theorem; formal systems; non-degenerate systems; representation theory (foundational); formal epistemic structure; logical structure",
-    "zenodo_record": "https://zenodo.org/records/19700725",
+    "zenodo_record": "https://zenodo.org/records/24357281",
     "preferred_edition": {
-      "pdf_url": "https://constraintsystemsinstitute.org/manuscripts/ats/sha256-1624eacd530dcdaaedec184414c8a7eab8d5096805aee9ffa5452b6f51638c7b/manuscript.pdf",
-      "doi": "10.5281/zenodo.22875011",
-      "publisher_publication_date": "2026-09-21",
-      "sha256": "1624eacd530dcdaaedec184414c8a7eab8d5096805aee9ffa5452b6f51638c7b",
-      "pages": 36,
-      "manuscript_date": "2026-09-21"
+      "pdf_url": "https://constraintsystemsinstitute.org/manuscripts/zenodo-18678041/sha256-832fb5482ed3eaaa8ac8f6aaf8d722c8504c3bfdb1f7c2d51e1d64dd4428e3a2/manuscript.pdf",
+      "doi": "10.5281/zenodo.24357281",
+      "publication_status": "published_on_zenodo",
+      "edition_label": "Published reading edition — 2026-11-19",
+      "publisher_publication_date": "2026-11-19",
+      "manuscript_date": "2026-11-18",
+      "sha256": "832fb5482ed3eaaa8ac8f6aaf8d722c8504c3bfdb1f7c2d51e1d64dd4428e3a2",
+      "pages": 35
     },
     "repository_layout": "current-paper-with-collapsed-history",
     "subjects": [
       "Foundations"
     ],
-    "research_groups": []
+    "research_groups": [],
+    "earlier_editions": [
+      {
+        "pdf_url": "https://constraintsystemsinstitute.org/manuscripts/ats/sha256-1624eacd530dcdaaedec184414c8a7eab8d5096805aee9ffa5452b6f51638c7b/manuscript.pdf",
+        "doi": "10.5281/zenodo.22875011",
+        "publisher_publication_date": "2026-09-21",
+        "sha256": "1624eacd530dcdaaedec184414c8a7eab8d5096805aee9ffa5452b6f51638c7b",
+        "pages": 36,
+        "manuscript_date": "2026-09-21",
+        "title": "Anchor, Tensor, and Skin: A Fixed-Domain Decomposition Theorem for Admissible Description (Normal Form Capstone)"
+      }
+    ],
+    "updated_date": "2026-11-19"
   },
   {
     "title": "Boundary-Trace Fixation under Admissibility",
@@ -2656,31 +2726,45 @@
     "research_groups": []
   },
   {
-    "title": "The AMetric Boundary as a Unique Regime-Invariant Constraint on Admissibility-Bearing Construction",
+    "title": "The AMetric Boundary as a Unique Regime-Invariant Constraint on Admissibility-Bearing Construction: Pre-fixational authority, non-transmissivity, and complete interfaces",
     "doi": "10.5281/zenodo.18603144",
     "doi_url": "https://doi.org/10.5281/zenodo.18603144",
     "url": "https://constraintsystemsinstitute.org/papers/the-ametric-boundary-18603144/",
     "slug": "the-ametric-boundary-18603144",
-    "date": "2026-04-23",
-    "scholar_date": "2026/04/23",
+    "date": "2026-11-18",
+    "scholar_date": "2026/11/18",
     "context": "AASC Foundations",
     "report_number": "CSI-ZENODO-18603144",
-    "description": "Establishes the unique, non-parameterized AMetric boundary for admissibility-bearing, identity-preserving construction. Relabelling cannot supply a privileged target, ranking or graded geometry before fixation. The boundary is non-eventful and non-transmissive; metric descriptions belong to licensed interiors. The result is a fixed-domain structural theorem, not a causal creation process or an empirical model of all physical systems.",
+    "description": "Derives limits on what retained data can warrant from the four Kernel requirements. The report-fibre, grounded-authorization and stabilizer tests distinguish a lost fact from interchangeable eligible choices.",
     "keywords": "AASC, AMetric boundary, Kernel of Admissibility, premetric foundations, identity-preserving construction, no-selector theorem, relabelling invariance, standing, fixed-domain exhaustion",
-    "zenodo_record": "https://zenodo.org/records/19722291",
+    "zenodo_record": "https://zenodo.org/records/24331743",
     "preferred_edition": {
-      "pdf_url": "https://constraintsystemsinstitute.org/manuscripts/ametric/sha256-fd0da8feb70e61de9474cc459ca8de6af2619206d439e62425e88334161a535e/manuscript.pdf",
-      "doi": "10.5281/zenodo.22848051",
-      "publisher_publication_date": "2026-09-19",
-      "sha256": "fd0da8feb70e61de9474cc459ca8de6af2619206d439e62425e88334161a535e",
-      "pages": 67,
-      "manuscript_date": "2026-09-20"
+      "pdf_url": "https://constraintsystemsinstitute.org/manuscripts/zenodo-18603144/sha256-21f51f60d38b36e4169e07ebf86e8a2372be2af7eee5b9f7279eba14342ce54d/manuscript.pdf",
+      "doi": "10.5281/zenodo.24331743",
+      "publication_status": "published_on_zenodo",
+      "edition_label": "Published reading edition — 2026-11-18",
+      "publisher_publication_date": "2026-11-18",
+      "manuscript_date": "2026-11-18",
+      "sha256": "21f51f60d38b36e4169e07ebf86e8a2372be2af7eee5b9f7279eba14342ce54d",
+      "pages": 65
     },
     "repository_layout": "current-paper-with-collapsed-history",
     "subjects": [
       "Foundations"
     ],
-    "research_groups": []
+    "research_groups": [],
+    "earlier_editions": [
+      {
+        "pdf_url": "https://constraintsystemsinstitute.org/manuscripts/ametric/sha256-fd0da8feb70e61de9474cc459ca8de6af2619206d439e62425e88334161a535e/manuscript.pdf",
+        "doi": "10.5281/zenodo.22848051",
+        "publisher_publication_date": "2026-09-19",
+        "sha256": "fd0da8feb70e61de9474cc459ca8de6af2619206d439e62425e88334161a535e",
+        "pages": 67,
+        "manuscript_date": "2026-09-20",
+        "title": "The AMetric Boundary as a Unique Regime-Invariant Constraint on Admissibility-Bearing Construction"
+      }
+    ],
+    "updated_date": "2026-11-18"
   },
   {
     "title": "Quantum Measurement under AASC: Physical Sources, Finite Detectors, Persistent Records and Actual Events",
@@ -6362,28 +6446,39 @@
     "doi_url": "https://doi.org/10.5281/zenodo.23466295",
     "url": "https://constraintsystemsinstitute.org/papers/premetric-structural-unification-23466295/",
     "slug": "premetric-structural-unification-23466295",
-    "date": "2026-11-01",
-    "scholar_date": "2026/11/01",
-    "updated_date": "2026-11-01",
+    "date": "2026-11-19",
+    "scholar_date": "2026/11/19",
+    "updated_date": "2026-11-19",
     "context": "Premetric structural unification",
     "report_number": "CSI-ZENODO-23466295",
-    "description": "An integrated cross-corpus Lean formalization constructs a controlled physical interior from AASC Kernel governance, AMetric restrictions and canonical licensing: geometric Einstein response, controlled Klein–Gordon evolution and same-action sources, isolated free quantum dynamics, quantitative recovery, and occupied operational clocks and finite networks.",
-    "keywords": "AASC, premetric structural unification, reference edition 1.1, Kernel, AMetric, canonical Lmetric licensing, controlled physical interior, Einstein response, nonflat Klein-Gordon Cauchy evolution, same-action stress, conditional sourced Einstein, free scalar Schrodinger dynamics, quantitative nonrelativistic recovery, operational special relativity, clocks, radar, rulers, Lean 4",
-    "zenodo_record": "https://zenodo.org/records/23856304",
-    "pdf_url": "https://constraintsystemsinstitute.org/manuscripts/zenodo-23466295/sha256-ae7b9a40ef6f1933699723f99deef4c796da7d81914f68f50a298251060a0b7f/manuscript.pdf",
+    "description": "Derives Einstein-form gravity, free Schrödinger dynamics and the calibrated Lorentz interval on physical preparations governed by common premetric constraints. The joined construction tests gravity and real scalar stress on the same compact variation of the same metric.",
+    "keywords": "AASC, premetric structural unification, published edition 19 November 2026, Lean v1.1.0, least differential order, packet amplitudes, Kernel, AMetric, canonical Lmetric licensing, controlled physical interior, Einstein response, nonflat Klein-Gordon Cauchy evolution, same-action stress, conditional sourced Einstein, free scalar Schrodinger dynamics, quantitative nonrelativistic recovery, operational special relativity, clocks, radar, rulers, Lean 4",
+    "zenodo_record": "https://zenodo.org/records/24367466",
+    "pdf_url": "https://constraintsystemsinstitute.org/manuscripts/zenodo-23466295/sha256-b216200f4ad4f62c160f8035ee3e411bfa225fdc45211ac02e98cf47a7a88873/manuscript.pdf",
     "guided_tour_url": "https://constraintsystemsinstitute.org/gravity-quantum/",
     "preferred_edition": {
-      "pdf_url": "https://constraintsystemsinstitute.org/manuscripts/zenodo-23466295/sha256-ae7b9a40ef6f1933699723f99deef4c796da7d81914f68f50a298251060a0b7f/manuscript.pdf",
-      "doi": "10.5281/zenodo.23856304",
+      "pdf_url": "https://constraintsystemsinstitute.org/manuscripts/zenodo-23466295/sha256-b216200f4ad4f62c160f8035ee3e411bfa225fdc45211ac02e98cf47a7a88873/manuscript.pdf",
+      "doi": "10.5281/zenodo.24367466",
       "publication_status": "published_on_zenodo",
-      "edition_label": "Published reference edition 1.1 · 1 November 2026",
-      "manuscript_reference_version": "1.1",
-      "publisher_publication_date": "2026-11-01",
-      "manuscript_date": "2026-11-01",
-      "sha256": "ae7b9a40ef6f1933699723f99deef4c796da7d81914f68f50a298251060a0b7f",
-      "pages": 88
+      "edition_label": "Published reading edition — 2026-11-19",
+      "publisher_publication_date": "2026-11-19",
+      "manuscript_date": "2026-11-19",
+      "sha256": "b216200f4ad4f62c160f8035ee3e411bfa225fdc45211ac02e98cf47a7a88873",
+      "pages": 99
     },
     "earlier_editions": [
+      {
+        "pdf_url": "https://constraintsystemsinstitute.org/manuscripts/zenodo-23466295/sha256-ae7b9a40ef6f1933699723f99deef4c796da7d81914f68f50a298251060a0b7f/manuscript.pdf",
+        "doi": "10.5281/zenodo.23856304",
+        "publication_status": "published_on_zenodo",
+        "edition_label": "Published reference edition 1.1 · 1 November 2026",
+        "manuscript_reference_version": "1.1",
+        "publisher_publication_date": "2026-11-01",
+        "manuscript_date": "2026-11-01",
+        "sha256": "ae7b9a40ef6f1933699723f99deef4c796da7d81914f68f50a298251060a0b7f",
+        "pages": 88,
+        "title": "Premetric Structural Unification: The Constraint-Governed Emergence of Geometry, Scalar Dynamics and Operational Relativity"
+      },
       {
         "pdf_url": "https://constraintsystemsinstitute.org/manuscripts/zenodo-23466295/sha256-e01fb416d77bf1ad00ca4a8f4cc20cb3cde380d335445cd2da5436dae1b0903a/manuscript.pdf",
         "doi": "10.5281/zenodo.23467836",
@@ -6415,17 +6510,30 @@
     ],
     "lean_artifact": {
       "title": "Capstone Lean Formalization",
-      "doi": "10.5281/zenodo.23856262",
-      "doi_url": "https://doi.org/10.5281/zenodo.23856262",
+      "doi": "10.5281/zenodo.24365887",
+      "doi_url": "https://doi.org/10.5281/zenodo.24365887",
       "concept_doi": "10.5281/zenodo.23856261",
       "repository_url": "https://github.com/somamaley-ux/aasc-structural-unification-interior",
-      "release_url": "https://github.com/somamaley-ux/aasc-structural-unification-interior/releases/tag/v1.0.0",
-      "checked_commit": "aee47c9d31738765eda544e299ec8e48bdc6900e",
-      "version": "v1.0.0",
-      "archive_filename": "somamaley-ux/aasc-structural-unification-interior-v1.0.0.zip",
-      "archive_checksum": "md5:95dea6ad69723f7bffff86f56553b501"
+      "release_url": "https://github.com/somamaley-ux/aasc-structural-unification-interior/releases/tag/v1.1.0",
+      "checked_commit": "bd5715609767c4635691d353a41c3f0eaaec6dcd",
+      "version": "v1.1.0",
+      "archive_filename": "somamaley-ux/aasc-structural-unification-interior-v1.1.0.zip",
+      "archive_checksum": "md5:7d49976cd5b0861baa48b4ce7c68c31c",
+      "archive_sha256": "b03f2a423fb89e230114285421a05570eb1f6f48bed946cab442cc3a82b46b8c"
     },
     "earlier_lean_artifacts": [
+      {
+        "title": "Capstone Lean Formalization",
+        "doi": "10.5281/zenodo.23856262",
+        "doi_url": "https://doi.org/10.5281/zenodo.23856262",
+        "concept_doi": "10.5281/zenodo.23856261",
+        "repository_url": "https://github.com/somamaley-ux/aasc-structural-unification-interior",
+        "release_url": "https://github.com/somamaley-ux/aasc-structural-unification-interior/releases/tag/v1.0.0",
+        "checked_commit": "aee47c9d31738765eda544e299ec8e48bdc6900e",
+        "version": "v1.0.0",
+        "archive_filename": "somamaley-ux/aasc-structural-unification-interior-v1.0.0.zip",
+        "archive_checksum": "md5:95dea6ad69723f7bffff86f56553b501"
+      },
       {
         "title": "Capstone Lean Formalization",
         "doi": "10.5281/zenodo.23466439",
@@ -6435,7 +6543,17 @@
         "release_url": "https://github.com/somamaley-ux/AASC-Premetric-Structural-Unification/releases/tag/v2026.10.19-composed",
         "checked_commit": "21bf87b79635e451ffb05f6fef764360a32d486d"
       }
-    ]
+    ],
+    "github_publication_package": {
+      "version": "v1.1.0",
+      "release_url": "https://github.com/somamaley-ux/aasc-structural-unification-interior/releases/tag/v1.1.0",
+      "commit": "bd5715609767c4635691d353a41c3f0eaaec6dcd",
+      "pdf_url": "https://github.com/somamaley-ux/aasc-structural-unification-interior/releases/download/v1.1.0/Premetric-Structural-Unification-Minimum-Order.pdf",
+      "pdf_sha256": "245a05a850e2fe866c442e9f8537e82035cc50137f52db5004ba9700cdcb70ec",
+      "pdf_bytes": 541234,
+      "pdf_pages": 99,
+      "relationship": "Separately identified GitHub publication package; PDF container differs from the exact Zenodo paper PDF."
+    }
   },
   {
     "title": "Beyond Purity Loss Source-Accounted Quantum Dynamics and False-Well Retention",

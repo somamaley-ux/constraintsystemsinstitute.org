@@ -1,0 +1,148 @@
+{
+  "created": "2026-11-19T11:27:26.281514+00:00",
+  "modified": "2026-11-19T11:27:26.941048+00:00",
+  "id": 24367466,
+  "conceptrecid": "23466295",
+  "doi": "10.5281/zenodo.24367466",
+  "conceptdoi": "10.5281/zenodo.23466295",
+  "doi_url": "https://doi.org/10.5281/zenodo.24367466",
+  "metadata": {
+    "title": "Premetric Structural Unification The Constraint-Governed Emergence of Geometry, Scalar Dynamics and Operational Relativity",
+    "doi": "10.5281/zenodo.24367466",
+    "publication_date": "2026-11-19",
+    "description": "<h1>Premetric Structural Unification</h1>\n<h2>The Constraint-Governed Emergence of Geometry, Scalar Dynamics, and Operational Relativity</h2>\n<h3>An Integrated Cross-Corpus Lean Formalization</h3>\n<h2>Overview</h2>\n<p>This paper presents an integrated formal account of how gravitational response, quantum evolution, inertial geometry, and operational relativity emerge from a common premetric constraint architecture.</p>\n<p>The construction begins with the AASC Kernel of Admissibility And Standing Constraint. Its four roles - Admissibility, Standing, Reference, and Irreversibility - govern which descriptions remain answerable to an original occurrence and its warranted comparisons before metricity, duration, Hamiltonian evolution, or clock readings are selected.</p>\n<p>Canonical L-metric licensing then determines which metric uses remain warranted through the declared continuations. Occupied physical preparations supply the inputs for three downstream derivations:</p>\n<ul>\n<li>\n<p>Einstein-form gravitational response;</p>\n</li>\n<li>\n<p>free Schr&ouml;dinger dynamics for an isolated scalar;</p>\n</li>\n<li>\n<p>calibrated Lorentzian interval and operational clock geometry.</p>\n</li>\n</ul>\n<p>The result is a structural unification of three formalisms with a common premetric origin, while preserving the distinctions between their respective preparations, domains, calibrations, and uniqueness claims.</p>\n<h2>Central integrated result</h2>\n<p>The combined construction establishes that a common premetric constraint can support:</p>\n<ul>\n<li>\n<p>a canonically licensed metric description;</p>\n</li>\n<li>\n<p>an Einstein-form first-response law;</p>\n</li>\n<li>\n<p>a controlled nonflat Klein-Gordon evolution;</p>\n</li>\n<li>\n<p>a stress tensor derived from the same scalar action;</p>\n</li>\n<li>\n<p>a conditional sourced Einstein equation;</p>\n</li>\n<li>\n<p>an isolated free quantum scalar evolution;</p>\n</li>\n<li>\n<p>a maximal-domain generator for that evolution;</p>\n</li>\n<li>\n<p>a calibrated Lorentzian interval;</p>\n</li>\n<li>\n<p>native inertial geometry;</p>\n</li>\n<li>\n<p>positive-rest clocks;</p>\n</li>\n<li>\n<p>finite radar, ruler, and synchronization networks;</p>\n</li>\n<li>\n<p>quantitative recovery estimates on their declared domains.</p>\n</li>\n</ul>\n<p>The three branches are not obtained by simply assuming the familiar formalisms. Each is derived from a different class of original observations and admissible preparations governed by the same premetric constraint discipline.</p>\n<h2>Premetric constraint and canonical metric licensing</h2>\n<p>The AASC Kernel begins with an identifiable occurrence and a use for which it can be held answerable.</p>\n<p>Its four structural roles are:</p>\n<ul>\n<li>\n<p>Admissibility: what counts for the declared use;</p>\n</li>\n<li>\n<p>Standing: whether the occurrence qualifies;</p>\n</li>\n<li>\n<p>Reference: which occurrence is under discussion;</p>\n</li>\n<li>\n<p>Irreversibility: what remains fixed when a completed use is taken up again.</p>\n</li>\n</ul>\n<p>At the AMetric boundary, a retained description must preserve the original distinctions required by the declared questions and continuations. Canonical L-metric licensing then determines the greatest safe region of metric uses that remains warranted under the original contract.</p>\n<p>The paper distinguishes:</p>\n<ul>\n<li>\n<p>the Kernel from downstream physical realizations;</p>\n</li>\n<li>\n<p>metric licensing from metric generation;</p>\n</li>\n<li>\n<p>existence of a realization from uniqueness of a realization;</p>\n</li>\n<li>\n<p>interface minimality from physical selection;</p>\n</li>\n<li>\n<p>common governance from identification of separate branches.</p>\n</li>\n</ul>\n<p>The Kernel determines the structural requirements of determinate description, but does not by itself select the Einstein-Hilbert action, a particular scalar state, a numerical calibration, or a unique spacetime.</p>\n<h2>Einstein-form gravitational response</h2>\n<p>For gravity, the paper considers bounded metric operands and compact metric variations.</p>\n<p>Agreement with the original readings on compact Lie variations forces a smooth natural local response to be divergence-free on every smooth metric. If a response has nonzero divergence at an occupied operand, a compactly supported Lie test witnesses the failure.</p>\n<p>In four dimensions, the paper establishes that the least differential order of an active, closed, natural, metric-only symmetric response is two. Lovelock&rsquo;s theorem then classifies every response attaining that minimum as an Einstein tensor term together with a constant metric term.</p>\n<p>The Einstein-Hilbert action fixes the coefficients of these terms. The resulting response therefore has Einstein form within the declared comparison class and hypotheses.</p>\n<p>The argument does not claim that AASC alone selects the Einstein-Hilbert action. Rather, once the admitted action and response class are supplied, the structural response tests force the Einstein-form normal form at the minimal active order.</p>\n<h2>Klein-Gordon evolution on a controlled nonflat metric</h2>\n<p>Holding the metric fixed in the same real scalar action yields the Klein-Gordon field equation at stationarity.</p>\n<p>The paper constructs a controlled nonflat metric branch supporting real Klein-Gordon evolution for compact smooth central data. The analytic results include:</p>\n<ul>\n<li>\n<p>existence on a controlled interval;</p>\n</li>\n<li>\n<p>uniqueness among arbitrary locally smooth competitors;</p>\n</li>\n<li>\n<p>strong recovery on the protected causal domain;</p>\n</li>\n<li>\n<p>quantitative field and metric estimates;</p>\n</li>\n<li>\n<p>explicit domain restrictions;</p>\n</li>\n<li>\n<p>continuity under the stated data topology.</p>\n</li>\n</ul>\n<p>The scalar construction is not merely a formal variation. The field, metric, source, domain, and causal support are tracked together under the declared premetric licensing conditions.</p>\n<h2>Same-action scalar stress and gravitational balance</h2>\n<p>The same scalar action is varied independently in two directions.</p>\n<p>Holding the metric fixed gives the scalar field equation. Holding the field fixed gives the represented scalar stress.</p>\n<p>Both variations act on the same perturbation of the same metric. When the total action is stationary under the complete class of metric variations, the scalar stress and Einstein-Hilbert response combine into the sourced Einstein equation.</p>\n<p>This establishes a same-action gravitational balance for the constructed scalar field on the admitted geometry.</p>\n<p>The argument preserves the distinction between:</p>\n<ul>\n<li>\n<p>the scalar field equation;</p>\n</li>\n<li>\n<p>the metric response;</p>\n</li>\n<li>\n<p>the represented stress;</p>\n</li>\n<li>\n<p>Ward and exchange identities;</p>\n</li>\n<li>\n<p>complete total metric stationarity;</p>\n</li>\n<li>\n<p>the resulting sourced Einstein equation.</p>\n</li>\n</ul>\n<p>A jointly coupled Einstein-Klein-Gordon existence theorem beyond the stated construction remains outside the claim.</p>\n<h2>Free quantum scalar and Schr&ouml;dinger dynamics</h2>\n<p>For the isolated complex scalar, mass-shell translations determine limiting complex packet amplitudes.</p>\n<p>These amplitudes distinguish different separately continuous evolutions on the same carrier. Any evolution satisfying the declared continuity, translation, and packet-amplitude conditions must therefore coincide with the constructed free evolution.</p>\n<p>The paper establishes:</p>\n<ul>\n<li>\n<p>the free evolution on the isolated scalar carrier;</p>\n</li>\n<li>\n<p>the full generator;</p>\n</li>\n<li>\n<p>its maximal domain;</p>\n</li>\n<li>\n<p>phase-fixed transport;</p>\n</li>\n<li>\n<p>uniqueness relative to the stated comparison class;</p>\n</li>\n<li>\n<p>quantitative recovery from low-momentum data and controlled momentum tails.</p>\n</li>\n</ul>\n<p>The free Schr&ouml;dinger law is thus obtained as the unique admissible first-response Hamiltonian form within the declared isolated scalar comparison class.</p>\n<p>The result does not claim that the Kernel alone selects every quantum Hamiltonian or that all interacting quantum theories are thereby determined.</p>\n<h2>Emergence of inertial geometry and the Lorentz interval</h2>\n<p>For the inertial preparation, completed reach and rest comparisons transitive on the one-tick frontier determine a spatial quadratic form.</p>\n<p>The original positive rest tick fixes the scale. Four travel-time readings per displacement pair then test the shape of the front independently of which individual operations the apparatus supplies.</p>\n<p>The construction recovers:</p>\n<ul>\n<li>\n<p>a native inertial geometry;</p>\n</li>\n<li>\n<p>a spatial quadratic form;</p>\n</li>\n<li>\n<p>a calibrated Lorentz interval;</p>\n</li>\n<li>\n<p>positive-rest clock behaviour;</p>\n</li>\n<li>\n<p>coasting-clock comparisons;</p>\n</li>\n<li>\n<p>synchronization procedures;</p>\n</li>\n<li>\n<p>finite radar and ruler measurements.</p>\n</li>\n</ul>\n<p>The interval is recovered from the original operational comparisons rather than installed as a prior coordinate convention.</p>\n<h2>Quantitative recovery and operational apparatus</h2>\n<p>The paper includes explicit low-momentum and tail estimates for the quantum branch, together with local field and metric estimates for the classical branch.</p>\n<p>The operational construction uses finite clock-and-ruler networks with:</p>\n<ul>\n<li>\n<p>positive-mass clocks;</p>\n</li>\n<li>\n<p>recorded radar exchanges;</p>\n</li>\n<li>\n<p>successful request domains;</p>\n</li>\n<li>\n<p>waiting-time subtraction;</p>\n</li>\n<li>\n<p>simultaneous endpoint selection;</p>\n</li>\n<li>\n<p>ruler-length recovery;</p>\n</li>\n<li>\n<p>synchronization procedures;</p>\n</li>\n<li>\n<p>explicit first failures.</p>\n</li>\n</ul>\n<p>A failed operational request remains part of the declared use contract. A later successful request or repaired apparatus does not retroactively erase the original failure.</p>\n<p>The measurement results are therefore tied to actual occupied preparations and declared apparatus domains rather than to an abstract coordinate system alone.</p>\n<h2>Joined structural realization</h2>\n<p>Theorem 10.1 traces the gravitational response, scalar evolution, quantum transport, inertial geometry, and clock measurements back to their licensed preparations.</p>\n<p>The joined construction contains:</p>\n<ul>\n<li>\n<p>common premetric governance;</p>\n</li>\n<li>\n<p>canonical L-metric licensing;</p>\n</li>\n<li>\n<p>an admitted metric operand;</p>\n</li>\n<li>\n<p>Einstein-form gravitational response;</p>\n</li>\n<li>\n<p>controlled scalar evolution;</p>\n</li>\n<li>\n<p>scalar stress from the same action;</p>\n</li>\n<li>\n<p>free quantum evolution on an isolated branch;</p>\n</li>\n<li>\n<p>calibrated inertial geometry;</p>\n</li>\n<li>\n<p>operational clock and ruler readings;</p>\n</li>\n<li>\n<p>quantitative recovery statements.</p>\n</li>\n</ul>\n<p>The result is a structural unification, not an identification of all branches as one physical object. The gravitational, classical scalar, quantum, and operational sectors retain their own comparison classes and hypotheses while sharing a common premetric source.</p>\n<h2>Formal verification and Lean record</h2>\n<p>The paper includes an integrated Lean formalization and a source-to-theorem map covering the principal structural, geometric, scalar, quantum, and operational declarations.</p>\n<p>The formal record supports:</p>\n<ul>\n<li>\n<p>AASC Kernel and AMetric licensing interfaces;</p>\n</li>\n<li>\n<p>metric-use and canonical-licensing constructions;</p>\n</li>\n<li>\n<p>common-preparation maps;</p>\n</li>\n<li>\n<p>Einstein-response classification;</p>\n</li>\n<li>\n<p>scalar field and stress constructions;</p>\n</li>\n<li>\n<p>free quantum-carrier and generator results;</p>\n</li>\n<li>\n<p>inertial geometry and Lorentz comparison;</p>\n</li>\n<li>\n<p>clock and finite-network operations;</p>\n</li>\n<li>\n<p>quantitative recovery statements;</p>\n</li>\n<li>\n<p>explicit scope and non-claim boundaries.</p>\n</li>\n</ul>\n<p>The paper distinguishes machine-checked formal declarations from analytic hypotheses, physical interpretation, and external mathematical inputs. Each application remains relative to its stated domains, calibration data, comparison class, and admissibility conditions.</p>\n<h2>Scope and realization boundary</h2>\n<p>The paper establishes:</p>\n<ul>\n<li>\n<p>a common premetric origin for three downstream formalisms;</p>\n</li>\n<li>\n<p>canonical licensing of metric use;</p>\n</li>\n<li>\n<p>Einstein-form minimal first-response classification;</p>\n</li>\n<li>\n<p>controlled nonflat Klein-Gordon evolution;</p>\n</li>\n<li>\n<p>same-action scalar stress and conditional gravitational balance;</p>\n</li>\n<li>\n<p>isolated free Schr&ouml;dinger dynamics;</p>\n</li>\n<li>\n<p>generator and maximal-domain uniqueness;</p>\n</li>\n<li>\n<p>calibrated Lorentz interval recovery;</p>\n</li>\n<li>\n<p>native inertial geometry;</p>\n</li>\n<li>\n<p>operational clock, radar, ruler, and synchronization constructions;</p>\n</li>\n<li>\n<p>quantitative recovery on the stated domains;</p>\n</li>\n<li>\n<p>an integrated cross-corpus Lean formalization.</p>\n</li>\n</ul>\n<p>It does not claim:</p>\n<ul>\n<li>\n<p>that AASC alone selects the Einstein-Hilbert action;</p>\n</li>\n<li>\n<p>that AASC alone selects a particular scalar state or calibration;</p>\n</li>\n<li>\n<p>a complete coupled Einstein-Klein-Gordon existence theorem;</p>\n</li>\n<li>\n<p>a full quantum theory of gravity;</p>\n</li>\n<li>\n<p>a full Standard Model or gauge-theoretic realization;</p>\n</li>\n<li>\n<p>a unique physical projection among all faithful downstream realizations;</p>\n</li>\n<li>\n<p>a unique spacetime;</p>\n</li>\n<li>\n<p>a global interacting quantum-field limit;</p>\n</li>\n<li>\n<p>universal physical validity beyond the declared comparison classes;</p>\n</li>\n<li>\n<p>that the formalization eliminates the need for physical domain evidence.</p>\n</li>\n</ul>\n<p>The uniqueness results are always relative to the stated admissible class, original questions, comparison domain, calibration data, and continuity or regularity hypotheses.</p>\n<h2>Place in the AASC archive</h2>\n<p>This paper is the integrated structural-unification capstone connecting the AASC Kernel, AMetric boundary, canonical metric licensing, Einstein response, scalar dynamics, quantum evolution, and operational relativity.</p>\n<h3>Foundational premetric and admissibility layer</h3>\n<ul>\n<li>\n<p><a href=\"https://doi.org/10.5281/zenodo.22968658\">Non-Degenerate Construction and the Kernel of Admissibility</a></p>\n</li>\n<li>\n<p><a href=\"https://doi.org/10.5281/zenodo.22848051\">The AMetric Boundary as a Unique Regime-Invariant Constraint on Admissibility-Bearing Construction</a></p>\n</li>\n<li>\n<p><a href=\"https://doi.org/10.5281/zenodo.22874934\">The Structure of Admissibility: Bivalent Qualification, Exhaustion, and the Unique Admissible Interior</a></p>\n</li>\n<li>\n<p><a href=\"https://doi.org/10.5281/zenodo.22875070\">A Fixed-Domain Exhaustion Theorem</a></p>\n</li>\n<li>\n<p><a href=\"https://doi.org/10.5281/zenodo.23226427\">Metricity as Licensed Description: The L-metric Boundary and the Realized Physical Interior</a></p>\n</li>\n</ul>\n<h3>Gravitational, quantum, and structural-unification projections</h3>\n<ul>\n<li>\n<p><a href=\"https://doi.org/10.5281/zenodo.23038472\">Gravity as Structural Necessity</a></p>\n</li>\n<li>\n<p><a href=\"https://doi.org/10.5281/zenodo.21616067\">Einstein Dynamics as the Unique Minimal First-Response Metric Projection of AASC Gravity</a></p>\n</li>\n<li>\n<p><a href=\"https://doi.org/10.5281/zenodo.21824200\">Schr&ouml;dinger Dynamics as the Unique Minimal First-Response Hamiltonian Projection of AASC Quantum Standing</a></p>\n</li>\n<li>\n<p><a href=\"https://doi.org/10.5281/zenodo.21616108\">Structural Unification of Gravity and Quantum Dynamics under AASC</a></p>\n</li>\n</ul>\n<h3>Relativistic, clock, source, and operational companions</h3>\n<ul>\n<li>\n<p><a href=\"https://doi.org/10.5281/zenodo.22934089\">Special Relativity from AASC: The Necessary Kernel of Physical Objecthood and Its Lorentzian Realization</a></p>\n</li>\n<li>\n<p><a href=\"https://doi.org/10.5281/zenodo.20833949\">The Physical Clock as a Quotient</a></p>\n</li>\n<li>\n<p><a href=\"https://doi.org/10.5281/zenodo.21616143\">Operational Metric-Source Representation and Composite Ledger Closure under AASC</a></p>\n</li>\n<li>\n<p><a href=\"https://doi.org/10.5281/zenodo.21616180\">Common Mass-Charge Matching and Universal Inertial&ndash;Active Proportionality under AASC</a></p>\n</li>\n</ul>\n<h3>Matter and common-source extensions</h3>\n<ul>\n<li>\n<p><a href=\"https://doi.org/10.5281/zenodo.22892317\">Classical Standard Model and Gravity from a Common Constraint-Governed Source</a></p>\n</li>\n<li>\n<p><a href=\"https://doi.org/10.5281/zenodo.21825106\">Classical Matter Occupancy and Joint-Constraint Closure under AASC</a></p>\n</li>\n</ul>\n<h3>Supporting closure and interior papers</h3>\n<ul>\n<li>\n<p><a href=\"https://doi.org/10.5281/zenodo.22875044\">Unus Solus Possibilis Est: Uniqueness of the Admissible Interior</a></p>\n</li>\n<li>\n<p><a href=\"https://doi.org/10.5281/zenodo.20088861\">Continuation-Locus Induction under Admissibility-Bearing Governance</a></p>\n</li>\n<li>\n<p><a href=\"https://doi.org/10.5281/zenodo.20090607\">Persistence-Regime Realization under AASC</a></p>\n</li>\n<li>\n<p><a href=\"https://doi.org/10.5281/zenodo.20092476\">Concrete-Domain Closure under AASC</a></p>\n</li>\n</ul>\n<h3>Earlier structural-unification edition</h3>\n<ul>\n<li>\n<p><a href=\"https://doi.org/10.5281/zenodo.23467836\">Premetric Structural Unification: From the AASC Kernel to Einstein-Form and Free-Scalar Dynamics</a></p>\n</li>\n<li>\n<p><a href=\"https://doi.org/10.5281/zenodo.23466295\">AASC structural-unification work record</a></p>\n</li>\n<li>\n<p><a href=\"https://doi.org/10.5281/zenodo.23466438\">AASC Lean formalization record</a></p>\n</li>\n</ul>\n<h3>Formal companion</h3>\n<p>The associated public Lean companion is available through the <a href=\"https://github.com/somamaley-ux/aasc-structural-unification-interior\">AASC structural-unification repository</a>.</p>\n<p>Within the archive, this paper provides the integrated bridge from premetric governance and canonical licensing to Einstein-form gravity, scalar dynamics, free quantum evolution, and operational relativistic measurement.</p>\n<h2>Keywords</h2>\n<p>AASC; premetric constraint; Einstein-form gravity; Schr&ouml;dinger dynamics; Lorentz interval; canonical metric licensing; Einstein-Hilbert response; Lovelock classification; Klein-Gordon evolution; scalar stress-energy; operational relativity; radar and ruler measurements; source-preserving maps; Lean 4 formalization; structural unification</p>",
+    "access_right": "open",
+    "creators": [
+      {
+        "name": "Maley, Amos Jay",
+        "affiliation": null,
+        "orcid": "0009-0002-5499-0620"
+      }
+    ],
+    "keywords": [
+      "premetric structural unification",
+      "AASC Kernel",
+      "Lean 4 formalization",
+      "ametric boundary",
+      "Lmetric licensing",
+      "Einstein-Hilbert variation",
+      "Einstein-form response",
+      "free scalar dynamics",
+      "Schrodinger dynamics",
+      "Klein-Gordon standing source",
+      "canonical licensing",
+      "source-preserving maps",
+      "cross-corpus theorem",
+      "quantum gravity foundations"
+    ],
+    "related_identifiers": [
+      {
+        "identifier": "10.5281/zenodo.23856261",
+        "relation": "isSupplementedBy",
+        "resource_type": "software",
+        "scheme": "doi"
+      }
+    ],
+    "resource_type": {
+      "title": "Publication",
+      "type": "publication"
+    },
+    "license": {
+      "id": "cc-by-4.0"
+    },
+    "communities": [
+      {
+        "id": "unificationarc"
+      },
+      {
+        "id": "42010142"
+      }
+    ],
+    "relations": {
+      "version": [
+        {
+          "index": 3,
+          "is_last": true,
+          "parent": {
+            "pid_type": "recid",
+            "pid_value": "23466295"
+          }
+        }
+      ]
+    }
+  },
+  "title": "Premetric Structural Unification The Constraint-Governed Emergence of Geometry, Scalar Dynamics and Operational Relativity",
+  "links": {
+    "self": "https://zenodo.org/api/records/24367466",
+    "self_html": "https://zenodo.org/records/24367466",
+    "preview_html": "https://zenodo.org/records/24367466?preview=1",
+    "doi": "https://doi.org/10.5281/zenodo.24367466",
+    "self_doi": "https://doi.org/10.5281/zenodo.24367466",
+    "self_doi_html": "https://zenodo.org/doi/10.5281/zenodo.24367466",
+    "reserve_doi": "https://zenodo.org/api/records/24367466/draft/pids/doi",
+    "parent": "https://zenodo.org/api/records/23466295",
+    "parent_html": "https://zenodo.org/records/23466295",
+    "parent_doi": "https://doi.org/10.5281/zenodo.23466295",
+    "parent_doi_html": "https://zenodo.org/doi/10.5281/zenodo.23466295",
+    "self_iiif_manifest": "https://zenodo.org/api/iiif/record:24367466/manifest",
+    "self_iiif_sequence": "https://zenodo.org/api/iiif/record:24367466/sequence/default",
+    "files": "https://zenodo.org/api/records/24367466/files",
+    "media_files": "https://zenodo.org/api/records/24367466/media-files",
+    "thumbnails": {
+      "10": "https://zenodo.org/api/iiif/record:24367466:Premetric%20Structural%20Unification.pdf/full/%5E10,/0/default.jpg",
+      "50": "https://zenodo.org/api/iiif/record:24367466:Premetric%20Structural%20Unification.pdf/full/%5E50,/0/default.jpg",
+      "100": "https://zenodo.org/api/iiif/record:24367466:Premetric%20Structural%20Unification.pdf/full/%5E100,/0/default.jpg",
+      "250": "https://zenodo.org/api/iiif/record:24367466:Premetric%20Structural%20Unification.pdf/full/%5E250,/0/default.jpg",
+      "750": "https://zenodo.org/api/iiif/record:24367466:Premetric%20Structural%20Unification.pdf/full/%5E750,/0/default.jpg",
+      "1200": "https://zenodo.org/api/iiif/record:24367466:Premetric%20Structural%20Unification.pdf/full/%5E1200,/0/default.jpg"
+    },
+    "latest": "https://zenodo.org/api/records/24367466/versions/latest",
+    "latest_html": "https://zenodo.org/records/24367466/latest",
+    "versions": "https://zenodo.org/api/records/24367466/versions",
+    "draft": "https://zenodo.org/api/records/24367466/draft",
+    "access_links": "https://zenodo.org/api/records/24367466/access/links",
+    "access_grants": "https://zenodo.org/api/records/24367466/access/grants",
+    "access_users": "https://zenodo.org/api/records/24367466/access/users",
+    "access_request": "https://zenodo.org/api/records/24367466/access/request",
+    "access": "https://zenodo.org/api/records/24367466/access",
+    "communities": "https://zenodo.org/api/records/24367466/communities",
+    "communities-suggestions": "https://zenodo.org/api/records/24367466/communities-suggestions",
+    "request_deletion": "https://zenodo.org/api/records/24367466/request-deletion",
+    "file_modification": "https://zenodo.org/api/records/24367466/file-modification",
+    "quota_increase": "https://zenodo.org/api/records/24367466/quota-increase",
+    "requests": "https://zenodo.org/api/records/24367466/requests"
+  },
+  "updated": "2026-11-19T11:27:26.941048+00:00",
+  "recid": "24367466",
+  "revision": 3,
+  "files": [
+    {
+      "id": "6bffc1b8-18a0-425a-bdb8-15a6dbe25bad",
+      "key": "Premetric Structural Unification.pdf",
+      "size": 566244,
+      "checksum": "md5:c64896c94556fdb3cdcc15091cfceeb2",
+      "links": {
+        "self": "https://zenodo.org/api/records/24367466/files/Premetric%20Structural%20Unification.pdf/content"
+      }
+    }
+  ],
+  "swh": {},
+  "owners": [
+    {
+      "id": "1535881"
+    }
+  ],
+  "status": "published",
+  "stats": {
+    "downloads": 19,
+    "unique_downloads": 19,
+    "views": 77,
+    "unique_views": 66,
+    "version_downloads": 0,
+    "version_unique_downloads": 0,
+    "version_unique_views": 0,
+    "version_views": 0
+  },
+  "state": "done",
+  "submitted": true
+}

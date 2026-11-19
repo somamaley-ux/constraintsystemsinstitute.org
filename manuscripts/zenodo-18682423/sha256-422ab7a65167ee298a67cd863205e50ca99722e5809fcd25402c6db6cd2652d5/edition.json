@@ -1,0 +1,28 @@
+{
+  "work_doi": "10.5281/zenodo.18682423",
+  "exact_release_doi": "10.5281/zenodo.24357455",
+  "title": "A Fixed-Domain Exhaustion Theorem: Standing, Consequence, and Compositional Closure",
+  "edition_label": "Published reading edition — 2026-11-19",
+  "publication_status": "published_on_zenodo",
+  "manuscript_cover_date": "2026-11-19",
+  "publisher_publication_date": "2026-11-19",
+  "publisher_version": null,
+  "sha256": "422ab7a65167ee298a67cd863205e50ca99722e5809fcd25402c6db6cd2652d5",
+  "bytes": 588090,
+  "pages": 39,
+  "pdf_url": "https://constraintsystemsinstitute.org/manuscripts/zenodo-18682423/sha256-422ab7a65167ee298a67cd863205e50ca99722e5809fcd25402c6db6cd2652d5/manuscript.pdf",
+  "canonical_work_url": "https://constraintsystemsinstitute.org/papers/a-fixed-domain-exhaustion-theorem-10-5281-zenodo-18682423/",
+  "publisher_url": "https://zenodo.org/records/24357455",
+  "verification": "Exact public publisher PDF downloaded; publisher MD5, byte length and SHA256 verified. Source-based reading overview; no new independent proof audit.",
+  "conversion": "PDF is authoritative; the web page is a source-based overview, not a complete manuscript conversion.",
+  "citation": "Amos Jay Maley. A Fixed-Domain Exhaustion Theorem: Standing, Consequence, and Compositional Closure. 2026-11-19. DOI: 10.5281/zenodo.24357455.",
+  "publisher_verification": {
+    "publisher_metadata_url": "https://zenodo.org/api/records/24357455",
+    "publisher_file_url": "https://zenodo.org/api/records/24357455/files/A%20Fixed-Domain%20Exhaustion%20Theorem%20Standing,%20Consequence,%20and%20Compositional%20Closure.pdf/content",
+    "publisher_file_key": "A Fixed-Domain Exhaustion Theorem Standing, Consequence, and Compositional Closure.pdf",
+    "publisher_checksum": "md5:408c7113c19d6131efb3940c269f3e7f",
+    "publisher_checksum_matches": true,
+    "sha256": "422ab7a65167ee298a67cd863205e50ca99722e5809fcd25402c6db6cd2652d5",
+    "checked_utc": "2026-11-19T11:53:38.696Z"
+  }
+}

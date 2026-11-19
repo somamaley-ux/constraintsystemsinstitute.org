@@ -1,0 +1,162 @@
+{
+  "created": "2026-11-18T04:44:00.036412+00:00",
+  "modified": "2026-11-18T04:44:00.409762+00:00",
+  "id": 24330589,
+  "conceptrecid": "19324199",
+  "doi": "10.5281/zenodo.24330589",
+  "conceptdoi": "10.5281/zenodo.19324199",
+  "doi_url": "https://doi.org/10.5281/zenodo.24330589",
+  "metadata": {
+    "title": "Non-Degenerate Construction and the Kernel of Admissibility",
+    "doi": "10.5281/zenodo.24330589",
+    "publication_date": "2026-11-18",
+    "description": "<p>&nbsp;</p>\n<h2>An Exhaustion Theorem for Standing, Reference, and Irreversibility</h2>\n<p>This paper establishes the foundational kernel of the Admissibility And Standing Constraint (AASC) formalism. It asks what must already be in place for a construction to count as a determinate object, state, carrier, record, or endpoint rather than as a merely verbal or representational attribution.</p>\n<p>The central result is that non-degenerate determinate objecthood necessarily instantiates four functional roles:</p>\n<p>&nbsp;</p>\n<p>These roles are not optional interpretive additions. They express the constructional work required for an object or incidence to remain identifiable, assessable, and historically accountable across changes of presentation.</p>\n<ul>\n<li>\n<p><strong>Reference</strong> fixes the bearer and the relevant conditions of sameness.</p>\n</li>\n<li>\n<p><strong>Standing</strong> determines whether the bearer qualifies for a specified constructional use.</p>\n</li>\n<li>\n<p><strong>Irreversibility</strong> preserves the original occurrence and its conditions against substitution by a later repair or replacement.</p>\n</li>\n<li>\n<p><strong>Admissibility</strong> governs entry, transformation, and combination under which the relevant commitments remain jointly satisfied.</p>\n</li>\n</ul>\n<p>The roles are functional rather than architectural. They need not correspond to four separate mechanisms, axioms, physical fields, or computational modules. They may be combined, distributed, implicit, mathematical, physical, or computational. What cannot be removed is the work they perform: deleting one role functionally removes an indispensable condition of determinate construction.</p>\n<h2>Principal Results</h2>\n<p>The paper first formulates target-adequate realization through four requirements:</p>\n<ol>\n<li>\n<p><strong>Target determinacy:</strong> the assessed performance concerns a repeatable target whose identity is preserved across faithful presentation.</p>\n</li>\n<li>\n<p><strong>Assessment and use:</strong> the complete stated conditions determine whether the construction is warranted for its specified use.</p>\n</li>\n<li>\n<p><strong>Historical fixation:</strong> the original occurrence, original conditions, and target remain identifiable, so that later correction cannot be substituted for original success.</p>\n</li>\n<li>\n<p><strong>Answer accountability:</strong> every answer claiming standing under the same bearer and complete constructional question must be warranted for that original object and use.</p>\n</li>\n</ol>\n<p>From these requirements, the paper proves a kernel-necessity theorem: every target-adequate realization supplies Reference, Standing, Irreversibility, and Admissibility. Consequently, every non-degenerate determinate constructional object or incidence necessarily instantiates all four roles.</p>\n<p>A functional-minimality theorem then shows that no package obtained by genuinely deleting one of these roles remains sufficient for non-degenerate determinate construction. The associated same-object exhaustion result establishes that any proposed regime denying one of the roles must do one of three things: change the bearer or constructional question, lack standing as an answer to the unchanged question, or retain the supposedly removed work under another description.</p>\n<p>The paper also analyzes finite authorization boundaries. A proposed lower-level generator, certificate, encoding, or checking procedure cannot be governance-free if it successfully generates authority for faithful use of an original fixed-domain object. At the point where the construction becomes authoritative, the relevant kernel work is instantiated. This result concerns the authorization interface of a construction, not a claim that every lower-level causal or mathematical description is impossible.</p>\n<h2>Representation Conservation</h2>\n<p>A second major result establishes representation conservation. When two representations concern the same independently identified bearer, preserve the same complete query, and each possess an independently warranted result incidence, their results must agree:</p>\n<p>&nbsp;</p>\n<p>This is not an assumption that representations agree. It follows from the determinacy of the relevant result incidence together with the separate warrant of each answer.</p>\n<p>The result extends to arbitrary families of governed queries, including infinite query profiles. A discordant proposed answer therefore cannot retain all of the following simultaneously:</p>\n<ul>\n<li>\n<p>the original bearer,</p>\n</li>\n<li>\n<p>the unchanged complete query,</p>\n</li>\n<li>\n<p>standing as an answer to that query, and</p>\n</li>\n<li>\n<p>an independently warranted result incidence.</p>\n</li>\n</ul>\n<p>The theorem does not forbid different encodings, new uses, later repairs, revised knowledge, or richer descriptions. It identifies the precise conditions under which such differences cease to be answers about the same unchanged constructional object.</p>\n<h2>Further Structural Consequences</h2>\n<p>The paper distinguishes binary admission from the richer semantic profile of a complete object. A construction may carry many substantive properties even when admission for one fully specified use is binary. Exact contextual quotients, canonical profiles, partial-operation domains, and faithful binary representations are developed without collapsing the underlying content into a single bit.</p>\n<p>Additional results address:</p>\n<ul>\n<li>\n<p>the universal property of exact contextual quotients;</p>\n</li>\n<li>\n<p>preservation of partial-operation domains under faithful extension;</p>\n</li>\n<li>\n<p>canonical standing interiors and their generated closures;</p>\n</li>\n<li>\n<p>finite composition and primitive descent;</p>\n</li>\n<li>\n<p>symmetry restrictions at an equality-only, pre-fixational interface;</p>\n</li>\n<li>\n<p>support and accountability in finite dependency structures.</p>\n</li>\n</ul>\n<p>The pre-fixational symmetry analysis shows that an equality-only interface cannot supply an invariant unary grade or privileged proposal-independent selection before individuation and target fixation. This boundary is explicitly limited to that interface: it does not prohibit equality tests, constant quantities, equivariant constructions, or substantive symmetries broken by a fixed target.</p>\n<h2>Formal and Mathematical Support</h2>\n<p>Selected mathematical consequences are mechanically checked in Lean 4.28.0. The formal development includes the relevant assumptions, proof dependencies, and the distinction between conditional lemmas and verified constructions.</p>\n<p>The Lean formalization supplements rather than replaces the conceptual necessity argument. The claim that determinate objecthood incurs the four kernel roles is established through the constructional analysis of the paper; formal encoding alone does not make that philosophical argument automatic.</p>\n<h2>Scope</h2>\n<p>This work provides foundational machinery for the AASC research programme. It applies to any non-degenerate determinate constructional object or incidence, including mathematical and physical objects, states, carriers, records, and endpoints, whether or not they are observed.</p>\n<p>The paper is not a new physical theory, a claim that all questions have unique answers, or a demand that every object be implemented through four separate mechanisms. Its representation-conservation results require a fixed bearer, a complete unchanged query, a determinate result relation, and independently warranted answers. Within that fixed domain, the AASC kernel is not an optional interpretive overlay: it is the minimal structure required for the construction to remain the same construction.</p>\n<h2>Keywords</h2>\n<p>AASC; Admissibility and Standing Constraint; kernel necessity; non-degenerate determinate objecthood; admissibility; standing; reference; irreversibility; fixed-domain construction; representation conservation; faithful representation; contextual equivalence; functional minimality; authorization boundary; Lean 4 formalization</p>",
+    "access_right": "open",
+    "creators": [
+      {
+        "name": "Maley, Amos Jay",
+        "affiliation": null,
+        "orcid": "0009-0002-5499-0620"
+      }
+    ],
+    "keywords": [
+      "admissibility",
+      "standing",
+      "foundational closure",
+      "non-derivability",
+      "kernel of non-degenerate reasoning",
+      "mutual closure",
+      "minimality",
+      "transport closure",
+      "quotient identity",
+      "scope-preserving invariance",
+      "Lean 4",
+      "formal proof systems",
+      "irreducible kernel"
+    ],
+    "related_identifiers": [
+      {
+        "identifier": "10.5281/zenodo.19198249",
+        "relation": "isSupplementTo",
+        "resource_type": "publication",
+        "scheme": "doi"
+      },
+      {
+        "identifier": "10.5281/zenodo.19338549",
+        "relation": "isSupplementTo",
+        "resource_type": "publication",
+        "scheme": "doi"
+      },
+      {
+        "identifier": "10.5281/zenodo.19491858",
+        "relation": "isSupplementTo",
+        "resource_type": "software",
+        "scheme": "doi"
+      }
+    ],
+    "resource_type": {
+      "title": "Publication",
+      "type": "publication"
+    },
+    "license": {
+      "id": "cc-by-4.0"
+    },
+    "communities": [
+      {
+        "id": "primitives"
+      },
+      {
+        "id": "unificationarc"
+      },
+      {
+        "id": "42010142"
+      }
+    ],
+    "relations": {
+      "version": [
+        {
+          "index": 12,
+          "is_last": true,
+          "parent": {
+            "pid_type": "recid",
+            "pid_value": "19324199"
+          }
+        }
+      ]
+    }
+  },
+  "title": "Non-Degenerate Construction and the Kernel of Admissibility",
+  "links": {
+    "self": "https://zenodo.org/api/records/24330589",
+    "self_html": "https://zenodo.org/records/24330589",
+    "preview_html": "https://zenodo.org/records/24330589?preview=1",
+    "doi": "https://doi.org/10.5281/zenodo.24330589",
+    "self_doi": "https://doi.org/10.5281/zenodo.24330589",
+    "self_doi_html": "https://zenodo.org/doi/10.5281/zenodo.24330589",
+    "reserve_doi": "https://zenodo.org/api/records/24330589/draft/pids/doi",
+    "parent": "https://zenodo.org/api/records/19324199",
+    "parent_html": "https://zenodo.org/records/19324199",
+    "parent_doi": "https://doi.org/10.5281/zenodo.19324199",
+    "parent_doi_html": "https://zenodo.org/doi/10.5281/zenodo.19324199",
+    "self_iiif_manifest": "https://zenodo.org/api/iiif/record:24330589/manifest",
+    "self_iiif_sequence": "https://zenodo.org/api/iiif/record:24330589/sequence/default",
+    "files": "https://zenodo.org/api/records/24330589/files",
+    "media_files": "https://zenodo.org/api/records/24330589/media-files",
+    "thumbnails": {
+      "10": "https://zenodo.org/api/iiif/record:24330589:Non-Degenerate%20Construction%20and%20the%20Kernel%20of%20Admissibility.pdf/full/%5E10,/0/default.jpg",
+      "50": "https://zenodo.org/api/iiif/record:24330589:Non-Degenerate%20Construction%20and%20the%20Kernel%20of%20Admissibility.pdf/full/%5E50,/0/default.jpg",
+      "100": "https://zenodo.org/api/iiif/record:24330589:Non-Degenerate%20Construction%20and%20the%20Kernel%20of%20Admissibility.pdf/full/%5E100,/0/default.jpg",
+      "250": "https://zenodo.org/api/iiif/record:24330589:Non-Degenerate%20Construction%20and%20the%20Kernel%20of%20Admissibility.pdf/full/%5E250,/0/default.jpg",
+      "750": "https://zenodo.org/api/iiif/record:24330589:Non-Degenerate%20Construction%20and%20the%20Kernel%20of%20Admissibility.pdf/full/%5E750,/0/default.jpg",
+      "1200": "https://zenodo.org/api/iiif/record:24330589:Non-Degenerate%20Construction%20and%20the%20Kernel%20of%20Admissibility.pdf/full/%5E1200,/0/default.jpg"
+    },
+    "latest": "https://zenodo.org/api/records/24330589/versions/latest",
+    "latest_html": "https://zenodo.org/records/24330589/latest",
+    "versions": "https://zenodo.org/api/records/24330589/versions",
+    "draft": "https://zenodo.org/api/records/24330589/draft",
+    "access_links": "https://zenodo.org/api/records/24330589/access/links",
+    "access_grants": "https://zenodo.org/api/records/24330589/access/grants",
+    "access_users": "https://zenodo.org/api/records/24330589/access/users",
+    "access_request": "https://zenodo.org/api/records/24330589/access/request",
+    "access": "https://zenodo.org/api/records/24330589/access",
+    "communities": "https://zenodo.org/api/records/24330589/communities",
+    "communities-suggestions": "https://zenodo.org/api/records/24330589/communities-suggestions",
+    "request_deletion": "https://zenodo.org/api/records/24330589/request-deletion",
+    "file_modification": "https://zenodo.org/api/records/24330589/file-modification",
+    "quota_increase": "https://zenodo.org/api/records/24330589/quota-increase",
+    "requests": "https://zenodo.org/api/records/24330589/requests"
+  },
+  "updated": "2026-11-18T04:44:00.409762+00:00",
+  "recid": "24330589",
+  "revision": 3,
+  "files": [
+    {
+      "id": "4ea892c1-6d83-47df-b000-bdd7086b7997",
+      "key": "Non-Degenerate Construction and the Kernel of Admissibility.pdf",
+      "size": 666277,
+      "checksum": "md5:0db6c6d2f16bce31a8e53973e4a5f272",
+      "links": {
+        "self": "https://zenodo.org/api/records/24330589/files/Non-Degenerate%20Construction%20and%20the%20Kernel%20of%20Admissibility.pdf/content"
+      }
+    }
+  ],
+  "swh": {},
+  "owners": [
+    {
+      "id": "1535881"
+    }
+  ],
+  "status": "published",
+  "stats": {
+    "downloads": 273,
+    "unique_downloads": 249,
+    "views": 635,
+    "unique_views": 602,
+    "version_downloads": 3,
+    "version_unique_downloads": 3,
+    "version_unique_views": 2,
+    "version_views": 2
+  },
+  "state": "done",
+  "submitted": true
+}
