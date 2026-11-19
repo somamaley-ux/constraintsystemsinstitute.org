@@ -324,7 +324,7 @@
       "author": "Greg Partin (G. D. Partin)",
       "owner": "gpartin",
       "scope": "Conditional algebraic/modal free-Dirac factorization and spatial/time error estimates for a declared two-field C19 lattice model.",
-      "version": "v0.15.0-research · commit 2c7774d41166a3b133a81a7b1ef2f816047f095e.",
+      "version": "Earlier DIRAC-015 record: v0.15.0-research · commit 2c7774d41166a3b133a81a7b1ef2f816047f095e. Zenodo DOI 10.5281/zenodo.24150001.",
       "verification": "Project CI passed: Lean proof #85 and Independent evidence #16 at the tagged commit, checked 12 November 2026. Not independently rebuilt by CSI.",
       "boundary": "Conditional on the declared lattice model, preparation and low-momentum hypotheses. No physical-electron or general solution-convergence claim. This is an external project; listing does not imply CSI affiliation, endorsement or independent verification.",
       "links": [
@@ -347,6 +347,10 @@
         {
           "label": "Evidence CI",
           "url": "https://github.com/gpartin/LeanDiracDerivation/actions/runs/43139493805"
+        },
+        {
+          "label": "LeanPool import · DIRAC-001–030",
+          "url": "https://github.com/LeanPool/lean-pool/pull/889"
         }
       ]
     },
