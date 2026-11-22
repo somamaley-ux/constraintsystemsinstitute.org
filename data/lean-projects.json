@@ -323,33 +323,41 @@
       "area": "Lattice-model mathematical physics",
       "author": "Greg Partin (G. D. Partin)",
       "owner": "gpartin",
-      "scope": "Conditional algebraic/modal free-Dirac factorization and spatial/time error estimates for a declared two-field C19 lattice model.",
-      "version": "Earlier DIRAC-015 record: v0.15.0-research · commit 2c7774d41166a3b133a81a7b1ef2f816047f095e. Zenodo DOI 10.5281/zenodo.24150001.",
-      "verification": "Project CI passed: Lean proof #85 and Independent evidence #16 at the tagged commit, checked 12 November 2026. Not independently rebuilt by CSI.",
-      "boundary": "Conditional on the declared lattice model, preparation and low-momentum hypotheses. No physical-electron or general solution-convergence claim. This is an external project; listing does not imply CSI affiliation, endorsement or independent verification.",
+      "scope": "Lean 4 derivation of the free linearized Dirac equation about an exact zero-energy vacuum of the declared two-field C19 lattice. The release derives two exhaustive rank-four sectors and explicit spatial and time-step remainders.",
+      "version": "Current standalone V2: v2.0.0-research · commit 9522a8d32f51e79f57fcf16e85f214a7d88b1ff2. Earlier DIRAC-015 record: v0.15.0-research · commit 2c7774d41166a3b133a81a7b1ef2f816047f095e · Zenodo DOI 10.5281/zenodo.24150001.",
+      "verification": "V2 tagged release checked; the release documents a verifier, but CSI has not rebuilt V2. Historical V1 project CI: Lean proof #85 and Independent evidence #16 passed at the V1 tag, checked 12 November 2026; not independently rebuilt by CSI.",
+      "boundary": "Free linearized result within the declared lattice model. No nonlinear localized-electron or experimental-validation claim. This is an external project; listing does not imply CSI affiliation, endorsement or independent verification.",
       "links": [
+        {
+          "label": "Standalone V2 release",
+          "url": "https://github.com/gpartin/LeanDiracDerivation/releases/tag/v2.0.0-research"
+        },
         {
           "label": "Repository",
           "url": "https://github.com/gpartin/LeanDiracDerivation"
         },
         {
-          "label": "Tagged source",
+          "label": "Earlier V1 tagged source",
           "url": "https://github.com/gpartin/LeanDiracDerivation/tree/v0.15.0-research"
         },
         {
-          "label": "Claims & non-claims",
+          "label": "Earlier V1 Zenodo DOI",
+          "url": "https://doi.org/10.5281/zenodo.24150001"
+        },
+        {
+          "label": "Earlier V1 claims & non-claims",
           "url": "https://github.com/gpartin/LeanDiracDerivation/blob/v0.15.0-research/docs/CLAIMS.md"
         },
         {
-          "label": "Lean proof CI",
+          "label": "Earlier V1 Lean proof CI",
           "url": "https://github.com/gpartin/LeanDiracDerivation/actions/runs/43136544647"
         },
         {
-          "label": "Evidence CI",
+          "label": "Earlier V1 evidence CI",
           "url": "https://github.com/gpartin/LeanDiracDerivation/actions/runs/43139493805"
         },
         {
-          "label": "LeanPool import · DIRAC-001–030",
+          "label": "Earlier LeanPool import · DIRAC-001–030",
           "url": "https://github.com/LeanPool/lean-pool/pull/889"
         }
       ]
