@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
-  <responseDate>2026-11-19T11:53:38Z</responseDate>
+  <responseDate>2026-11-23T05:49:44Z</responseDate>
   <request verb="ListRecords" metadataPrefix="oai_dc">https://constraintsystemsinstitute.org/oai.xml</request>
   <ListRecords>
       <record>
@@ -1547,5 +1547,50 @@
 <record><header><identifier>oai:constraintsystemsinstitute.org:from-differentiated-matter-to-metric-exhaustion-23333485</identifier><datestamp>2026-10-13</datestamp></header><metadata><oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/"><dc:title>From Differentiated Matter to Metric Exhaustion</dc:title><dc:creator>Amos Jay Maley</dc:creator><dc:subject>AASC; black holes; scalar field; metric continuation</dc:subject><dc:description>A conserved scalar model tests whether decreasing selected matter responses can brake black-hole contraction. Specified trapped interiors attain finite braking, later invariant continuation obstructions, and exact exterior-reconstruction limits. Complete residual-support exhaustion requires the further original-burden and successor conditions identified in the paper.</dc:description><dc:date>2026-10-13</dc:date><dc:type>Text</dc:type><dc:identifier>https://doi.org/10.5281/zenodo.23333485</dc:identifier><dc:identifier>https://constraintsystemsinstitute.org/papers/from-differentiated-matter-to-metric-exhaustion-23333485/</dc:identifier><dc:language>en</dc:language></oai_dc:dc></metadata></record>
 <record><header><identifier>oai:constraintsystemsinstitute.org:premetric-structural-unification-23466295</identifier><datestamp>2026-11-19</datestamp></header><metadata><oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/"><dc:title>Premetric Structural Unification: The Constraint-Governed Emergence of Geometry, Scalar Dynamics and Operational Relativity</dc:title><dc:creator>Amos Jay Maley</dc:creator><dc:subject>AASC, premetric structural unification, published edition 19 November 2026, Lean v1.1.0, least differential order, packet amplitudes, Kernel, AMetric, canonical Lmetric licensing, controlled physical interior, Einstein response, nonflat Klein-Gordon Cauchy evolution, same-action stress, conditional sourced Einstein, free scalar Schrodinger dynamics, quantitative nonrelativistic recovery, operational special relativity, clocks, radar, rulers, Lean 4</dc:subject><dc:description>Derives Einstein-form gravity, free Schrödinger dynamics and the calibrated Lorentz interval on physical preparations governed by common premetric constraints. The joined construction tests gravity and real scalar stress on the same compact variation of the same metric. Exact current edition DOI: 10.5281/zenodo.24367466.</dc:description><dc:date>2026-11-19</dc:date><dc:type>Text</dc:type><dc:identifier>https://constraintsystemsinstitute.org/papers/premetric-structural-unification-23466295/</dc:identifier><dc:identifier>https://constraintsystemsinstitute.org/manuscripts/zenodo-23466295/sha256-b216200f4ad4f62c160f8035ee3e411bfa225fdc45211ac02e98cf47a7a88873/manuscript.pdf</dc:identifier><dc:identifier>https://doi.org/10.5281/zenodo.23466295</dc:identifier><dc:relation>Earlier edition: https://doi.org/10.5281/zenodo.23856304</dc:relation><dc:language>en</dc:language><dc:identifier>https://doi.org/10.5281/zenodo.24367466</dc:identifier></oai_dc:dc></metadata></record>
 <record><header><identifier>oai:constraintsystemsinstitute.org:10.5281/zenodo.24269891</identifier><datestamp>2026-11-16</datestamp></header><metadata><oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd"><dc:title>Beyond Purity Loss Source-Accounted Quantum Dynamics and False-Well Retention</dc:title><dc:creator>Maley, Amos Jay</dc:creator><dc:description>Local existence and initial entanglement in a restricted expectation-sourced quantum/classical-reference model, finite-time false-well retention comparisons, and memory-dependent reduced dynamics with a fixed-cutoff fourth-order approximation bound. These results do not establish late-time vacuum protection or a cosmological decay rate.</dc:description><dc:date>2026-11-16</dc:date><dc:type>Text</dc:type><dc:identifier>https://constraintsystemsinstitute.org/papers/beyond-purity-loss-24269891/</dc:identifier><dc:identifier>https://doi.org/10.5281/zenodo.24269892</dc:identifier><dc:language>en</dc:language><dc:rights>CC BY 4.0</dc:rights></oai_dc:dc></metadata></record>
+      <record>
+        <header><identifier>oai:constraintsystemsinstitute.org:aasc-constraint-field-theory</identifier><datestamp>2026-11-23</datestamp></header>
+        <metadata>
+          <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+            <dc:title>AASC Constraint Field Theory</dc:title>
+            <dc:creator>Amos Jay Maley</dc:creator>
+            <dc:subject>AASC, constraint field theory, exact replay, structural unification, Einstein–Schrödinger dynamics, Klein–Gordon, pressure, admissible interior</dc:subject>
+            <dc:description>What must a physical domain retain for its tests and continuations to remain faithful? The paper constructs a minimal carrier for exact replay and tests it in fixed-spatial-cutoff Einstein–Schrödinger models.</dc:description>
+            <dc:date>2026-11-20</dc:date>
+            <dc:type>Text</dc:type>
+            <dc:identifier>https://constraintsystemsinstitute.org/papers/aasc-constraint-field-theory/</dc:identifier>
+            <dc:language>en</dc:language>
+          </oai_dc:dc>
+        </metadata>
+      </record>
+      <record>
+        <header><identifier>oai:constraintsystemsinstitute.org:one-rotation-several-readings</identifier><datestamp>2026-11-23</datestamp></header>
+        <metadata>
+          <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+            <dc:title>One Rotation, Several Readings</dc:title>
+            <dc:creator>Amos Jay Maley</dc:creator>
+            <dc:subject>AASC, proton spin, orbital angular momentum, Wilson lines, sector torque, angular momentum decomposition, gauge invariance</dc:subject>
+            <dc:description>One conserved rotation charge need not determine internal orbital readings. An exact Wilson-path comparison on one Gauss-constrained preparation shows which distinctions survive and which require another probe.</dc:description>
+            <dc:date>2026-11</dc:date>
+            <dc:type>Text</dc:type>
+            <dc:identifier>https://constraintsystemsinstitute.org/papers/one-rotation-several-readings/</dc:identifier>
+            <dc:language>en</dc:language>
+          </oai_dc:dc>
+        </metadata>
+      </record>
+      <record>
+        <header><identifier>oai:constraintsystemsinstitute.org:charge-rotation-and-weak-response-on-one-electroweak-source</identifier><datestamp>2026-11-23</datestamp></header>
+        <metadata>
+          <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+            <dc:title>Charge, Rotation, and Weak Response on One Electroweak Source</dc:title>
+            <dc:creator>Amos Jay Maley</dc:creator>
+            <dc:subject>AASC, electroweak theory, charge, angular momentum, Wilson line, weak response, Gauss constraint, quantum measurement</dc:subject>
+            <dc:description>A single Gauss-constrained electroweak preparation supports electric charge, a marked orbital contrast and a finite weak-energy test. The paper follows the calibration under local evolution and constructs a finite quantum receiver.</dc:description>
+            <dc:date>2026-11</dc:date>
+            <dc:type>Text</dc:type>
+            <dc:identifier>https://constraintsystemsinstitute.org/papers/charge-rotation-and-weak-response-on-one-electroweak-source/</dc:identifier>
+            <dc:language>en</dc:language>
+          </oai_dc:dc>
+        </metadata>
+      </record>
 </ListRecords>
 </OAI-PMH>

@@ -6581,5 +6581,101 @@
       "Measurement and entanglement"
     ],
     "research_groups": []
+  },
+  {
+    "work_id": "csi:work:aasc-constraint-field-theory",
+    "title": "AASC Constraint Field Theory",
+    "subtitle": "Structural Unification in an Admissible Interior",
+    "doi": null,
+    "url": "https://constraintsystemsinstitute.org/papers/aasc-constraint-field-theory/",
+    "slug": "aasc-constraint-field-theory",
+    "date": "2026-11-20",
+    "date_precision": "manuscript_cover",
+    "updated_date": "2026-11-23",
+    "scholar_date": "2026/11/23",
+    "context": "Recent Institute manuscripts",
+    "description": "What must a physical domain retain for its tests and continuations to remain faithful? The paper constructs a minimal carrier for exact replay and tests it in fixed-spatial-cutoff Einstein–Schrödinger models.",
+    "keywords": "AASC, constraint field theory, exact replay, structural unification, Einstein–Schrödinger dynamics, Klein–Gordon, pressure, admissible interior",
+    "preferred_edition": {
+      "pdf_url": "https://constraintsystemsinstitute.org/manuscripts/sha256-a7cc0b923e7a0671bdfd1bdcb454a9e05b4ea1c0434870bd0c56585caed65950/manuscript.pdf",
+      "doi": null,
+      "manuscript_date": "2026-11-20",
+      "publisher_publication_date": null,
+      "publication_status": "institute_manuscript",
+      "sha256": "a7cc0b923e7a0671bdfd1bdcb454a9e05b4ea1c0434870bd0c56585caed65950",
+      "pages": 84
+    },
+    "reading_edition_label": "Institute manuscript",
+    "repository_layout": "current-paper-with-collapsed-history",
+    "subjects": [
+      "Gravity and quantum dynamics",
+      "Foundations"
+    ],
+    "research_groups": [],
+    "external_index_url": "https://philpapers.org/rec/MALACF-2"
+  },
+  {
+    "work_id": "csi:work:one-rotation-several-readings",
+    "title": "One Rotation, Several Readings",
+    "subtitle": "Persistence, sector exchange, and the identifiability of orbital angular momentum",
+    "doi": null,
+    "url": "https://constraintsystemsinstitute.org/papers/one-rotation-several-readings/",
+    "slug": "one-rotation-several-readings",
+    "date": "2026-11",
+    "date_precision": "manuscript_cover",
+    "updated_date": "2026-11-23",
+    "scholar_date": "2026/11/23",
+    "context": "Recent Institute manuscripts",
+    "description": "One conserved rotation charge need not determine internal orbital readings. An exact Wilson-path comparison on one Gauss-constrained preparation shows which distinctions survive and which require another probe.",
+    "keywords": "AASC, proton spin, orbital angular momentum, Wilson lines, sector torque, angular momentum decomposition, gauge invariance",
+    "preferred_edition": {
+      "pdf_url": "https://constraintsystemsinstitute.org/manuscripts/sha256-28f50969aee873bba3d39158a231f172eee78269ba5cc5e1438edfef2011c13d/manuscript.pdf",
+      "doi": null,
+      "manuscript_date": "2026-11",
+      "publisher_publication_date": null,
+      "publication_status": "institute_manuscript",
+      "sha256": "28f50969aee873bba3d39158a231f172eee78269ba5cc5e1438edfef2011c13d",
+      "pages": 25
+    },
+    "reading_edition_label": "Institute manuscript",
+    "repository_layout": "current-paper-with-collapsed-history",
+    "subjects": [
+      "Standard Model",
+      "Symmetry"
+    ],
+    "research_groups": []
+  },
+  {
+    "work_id": "csi:work:charge-rotation-and-weak-response-on-one-electroweak-source",
+    "title": "Charge, Rotation, and Weak Response on One Electroweak Source",
+    "subtitle": "Admissible redescription, dynamical calibration, and a finite quantum record",
+    "doi": null,
+    "url": "https://constraintsystemsinstitute.org/papers/charge-rotation-and-weak-response-on-one-electroweak-source/",
+    "slug": "charge-rotation-and-weak-response-on-one-electroweak-source",
+    "date": "2026-11",
+    "date_precision": "manuscript_cover",
+    "updated_date": "2026-11-23",
+    "scholar_date": "2026/11/23",
+    "context": "Recent Institute manuscripts",
+    "description": "A single Gauss-constrained electroweak preparation supports electric charge, a marked orbital contrast and a finite weak-energy test. The paper follows the calibration under local evolution and constructs a finite quantum receiver.",
+    "keywords": "AASC, electroweak theory, charge, angular momentum, Wilson line, weak response, Gauss constraint, quantum measurement",
+    "preferred_edition": {
+      "pdf_url": "https://constraintsystemsinstitute.org/manuscripts/sha256-858de42f667d863fd0e1d5bc2d375377eb262f5a83a4646294a5ec7256d415f0/manuscript.pdf",
+      "doi": null,
+      "manuscript_date": "2026-11",
+      "publisher_publication_date": null,
+      "publication_status": "institute_manuscript",
+      "sha256": "858de42f667d863fd0e1d5bc2d375377eb262f5a83a4646294a5ec7256d415f0",
+      "pages": 31
+    },
+    "reading_edition_label": "Institute manuscript",
+    "repository_layout": "current-paper-with-collapsed-history",
+    "subjects": [
+      "Standard Model",
+      "Symmetry",
+      "Measurement and entanglement"
+    ],
+    "research_groups": [],
+    "external_index_url": "https://philpapers.org/rec/MALCRA-5"
   }
 ]
