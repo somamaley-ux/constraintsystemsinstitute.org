@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
-  <responseDate>2026-11-23T05:49:44Z</responseDate>
+  <responseDate>2026-11-24T08:58:37Z</responseDate>
   <request verb="ListRecords" metadataPrefix="oai_dc">https://constraintsystemsinstitute.org/oai.xml</request>
   <ListRecords>
       <record>
@@ -1588,6 +1588,21 @@
             <dc:date>2026-11</dc:date>
             <dc:type>Text</dc:type>
             <dc:identifier>https://constraintsystemsinstitute.org/papers/charge-rotation-and-weak-response-on-one-electroweak-source/</dc:identifier>
+            <dc:language>en</dc:language>
+          </oai_dc:dc>
+        </metadata>
+      </record>
+      <record>
+        <header><identifier>oai:constraintsystemsinstitute.org:causal-scale-and-the-meaning-of-cosmic-expansion</identifier><datestamp>2026-11-24</datestamp></header>
+        <metadata>
+          <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+            <dc:title>Causal Scale and the Meaning of Cosmic Expansion</dc:title>
+            <dc:creator>Amos Jay Maley</dc:creator>
+            <dc:subject>AASC, AMetric boundary, metric licensing, causal scale, cosmic expansion, conformal frames, material clocks, light-element abundances</dc:subject>
+            <dc:description>Cosmic expansion is measurable in ruler units. A contracting metric can describe the same history when material standards, source dynamics and observations are transported together. The AMetric boundary supplies no external scale that would privilege either description.</dc:description>
+            <dc:date>2026-11-23</dc:date>
+            <dc:type>Text</dc:type>
+            <dc:identifier>https://constraintsystemsinstitute.org/papers/causal-scale-and-the-meaning-of-cosmic-expansion/</dc:identifier>
             <dc:language>en</dc:language>
           </oai_dc:dc>
         </metadata>

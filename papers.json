@@ -6677,5 +6677,36 @@
     ],
     "research_groups": [],
     "external_index_url": "https://philpapers.org/rec/MALCRA-5"
+  },
+  {
+    "work_id": "csi:work:causal-scale-and-the-meaning-of-cosmic-expansion",
+    "title": "Causal Scale and the Meaning of Cosmic Expansion",
+    "subtitle": "Material clocks, causal reach and the origin of light-element records",
+    "doi": null,
+    "url": "https://constraintsystemsinstitute.org/papers/causal-scale-and-the-meaning-of-cosmic-expansion/",
+    "slug": "causal-scale-and-the-meaning-of-cosmic-expansion",
+    "date": "2026-11-23",
+    "date_precision": "manuscript_cover",
+    "updated_date": "2026-11-24",
+    "scholar_date": "2026/11/24",
+    "context": "Recent Institute manuscripts",
+    "description": "Cosmic expansion is measurable in ruler units. A contracting metric can describe the same history when material standards, source dynamics and observations are transported together. The AMetric boundary supplies no external scale that would privilege either description.",
+    "keywords": "AASC, AMetric boundary, metric licensing, causal scale, cosmic expansion, conformal frames, material clocks, light-element abundances",
+    "preferred_edition": {
+      "pdf_url": "https://constraintsystemsinstitute.org/manuscripts/sha256-9383aff0b3780171042be0785114add5a18827331155ddd7ff15b3526965c035/manuscript.pdf",
+      "doi": null,
+      "manuscript_date": "2026-11-23",
+      "publisher_publication_date": null,
+      "publication_status": "institute_manuscript",
+      "sha256": "9383aff0b3780171042be0785114add5a18827331155ddd7ff15b3526965c035",
+      "pages": 100
+    },
+    "reading_edition_label": "Metric Licensing Edition",
+    "repository_layout": "current-paper-with-collapsed-history",
+    "subjects": [
+      "Gravity and quantum dynamics",
+      "Time and cosmology"
+    ],
+    "research_groups": []
   }
 ]
