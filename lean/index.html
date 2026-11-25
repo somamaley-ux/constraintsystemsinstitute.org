@@ -3,7 +3,7 @@
 <title>Lean 4 Formalisations | Constraint Systems Institute</title>
 <meta name="description" content="Browse AASC and Beyond AASC Lean 4 projects with clear scope, source links, authorship, verification status and claim boundaries.">
 <meta name="robots" content="index, follow"><link rel="canonical" href="https://constraintsystemsinstitute.org/lean/">
-<link rel="stylesheet" href="/styles.css"><link rel="stylesheet" href="/assets/lean-catalogue.css"><script defer src="/assets/lean-catalogue.js"></script>
+<link rel="stylesheet" href="/styles.css"><link rel="stylesheet" href="/assets/lean-catalogue.css?v=archive"><script defer src="/assets/lean-catalogue.js?v=archive"></script>
 <link rel="icon" href="/favicon.ico" sizes="any">
 <link rel="apple-touch-icon" href="/apple-touch-icon.png">
 <meta property="og:type" content="website">
@@ -29,7 +29,7 @@
 <header class="lean-intro"><p class="eyebrow">Formal projects / One catalogue</p><h1>Lean 4 Formalisations</h1><p class="lean-lead">Inspect the formal work, its assumptions and the evidence behind it. Browse the AASC projects together with selected work from other frameworks.</p></header>
 <div class="lean-framing"><section><h2>AASC and Beyond AASC</h2><p>AASC identifies projects using the AASC framework or its foundational machinery. Beyond AASC identifies work using other frameworks. These categories describe the work, not its author or institutional affiliation.</p></section><section><h2>Read each verification status</h2><p>Authorship, repository ownership and framework are recorded separately. A passing project build checks its declared formal result; it does not validate every physical interpretation. Catalogue inclusion is not independent proof verification.</p></section></div>
 <div class="lean-controls"><nav class="lean-filters" aria-label="Filter projects by framework"><a class="lean-filter" data-lean-filter="all" href="/lean/" aria-current="true">All</a><a class="lean-filter" data-lean-filter="aasc" href="/lean/?framework=aasc">AASC</a><a class="lean-filter" data-lean-filter="beyond-aasc" href="/lean/?framework=beyond-aasc">Beyond AASC</a></nav><div class="lean-search"><label for="lean-search">Search projects, authors or topics</label><div class="lean-search-field"><input id="lean-search" type="search" placeholder="Kernel, Dirac, geometry…" autocomplete="off" aria-describedby="lean-results"><button id="lean-clear" type="button" hidden>Clear</button></div></div><p class="lean-results" id="lean-results" role="status" aria-live="polite">18 projects</p></div>
-<noscript><p class="lean-results">All 18 projects are shown below. Filtering requires JavaScript; every project and source link remains available.</p></noscript>
+<noscript><p class="lean-results">All 18 projects remain available below, including the collapsed archive. Search and filtering require JavaScript.</p></noscript>
 <div class="lean-project-grid"><article class="lean-project" id="kernel" data-lean-project data-framework="aasc" aria-labelledby="kernel-title">
   <p class="repo-type">AASC · Foundations</p>
   <h2 id="kernel-title">Non-Degenerate Construction and the Kernel of Admissibility</h2>
@@ -89,6 +89,68 @@
   <nav class="lean-project-links" aria-label="Hubble Transport Audit sources"><a href="https://github.com/somamaley-ux/AASC-Hubble-Transport-Lean-Audit">Repository</a>
 <a href="https://github.com/somamaley-ux/AASC-Hubble-Transport-Lean-Audit#readme">Scope &amp; documentation</a></nav>
 </article>
+<article class="lean-project" id="godel" data-lean-project data-framework="aasc" aria-labelledby="godel-title">
+  <p class="repo-type">AASC · Foundations &amp; logic</p>
+  <h2 id="godel-title">Gödel Non-Instantiability</h2>
+  <p class="project-author">Repository owner: somamaley-ux</p>
+  <p class="project-scope">Same-domain threat-architecture classification and non-instantiability within the admissible-interior framework, importing foundational, uniqueness and equivalence-exhaustion machinery.</p>
+  <dl><dt>Source / version</dt><dd>Public repository; consult its pinned releases and audit records.</dd><dt>Verification status</dt><dd>Repository documentation inspected; not rebuilt for this catalogue update.</dd><dt>Claim boundary</dt><dd>A paper-facing classification surface, not full coding and diagonal machinery or a claim to overturn Gödel’s incompleteness theorems.</dd></dl>
+  <nav class="lean-project-links" aria-label="Gödel Non-Instantiability sources"><a href="https://github.com/somamaley-ux/D-lean-MaleyLean-godel-non-instantiability">Repository</a>
+<a href="https://github.com/somamaley-ux/D-lean-MaleyLean-godel-non-instantiability#readme">Scope &amp; documentation</a></nav>
+</article>
+<article class="lean-project" id="lean-dirac-derivation" data-lean-project data-framework="beyond-aasc" aria-labelledby="lean-dirac-derivation-title">
+  <p class="repo-type">Beyond AASC · Lattice-model mathematical physics</p>
+  <h2 id="lean-dirac-derivation-title">Lean LFM-to-Dirac Derivation</h2>
+  <p class="project-author">Author: Greg Partin (G. D. Partin)<br>Repository owner: gpartin</p>
+  <p class="project-scope">Lean 4 derivation of the free linearized Dirac equation about an exact zero-energy vacuum of the declared two-field C19 lattice. The release derives two exhaustive rank-four sectors and explicit spatial and time-step remainders.</p>
+  <dl><dt>Source / version</dt><dd>Current standalone V2: v2.0.0-research · commit 9522a8d32f51e79f57fcf16e85f214a7d88b1ff2. Earlier DIRAC-015 record: v0.15.0-research · commit 2c7774d41166a3b133a81a7b1ef2f816047f095e · Zenodo DOI 10.5281/zenodo.24150001.</dd><dt>Verification status</dt><dd>V2 tagged release checked; the release documents a verifier, but CSI has not rebuilt V2. Historical V1 project CI: Lean proof #85 and Independent evidence #16 passed at the V1 tag, checked 12 November 2026; not independently rebuilt by CSI.</dd><dt>Claim boundary</dt><dd>Free linearized result within the declared lattice model. No nonlinear localized-electron or experimental-validation claim. This is an external project; listing does not imply CSI affiliation, endorsement or independent verification.</dd></dl>
+  <nav class="lean-project-links" aria-label="Lean LFM-to-Dirac Derivation sources"><a href="https://github.com/gpartin/LeanDiracDerivation/releases/tag/v2.0.0-research">Standalone V2 release</a>
+<a href="https://github.com/gpartin/LeanDiracDerivation">Repository</a>
+<a href="https://github.com/gpartin/LeanDiracDerivation/tree/v0.15.0-research">Earlier V1 tagged source</a>
+<a href="https://doi.org/10.5281/zenodo.24150001">Earlier V1 Zenodo DOI</a>
+<a href="https://github.com/gpartin/LeanDiracDerivation/blob/v0.15.0-research/docs/CLAIMS.md">Earlier V1 claims &amp; non-claims</a>
+<a href="https://github.com/gpartin/LeanDiracDerivation/actions/runs/43136544647">Earlier V1 Lean proof CI</a>
+<a href="https://github.com/gpartin/LeanDiracDerivation/actions/runs/43139493805">Earlier V1 evidence CI</a>
+<a href="https://github.com/LeanPool/lean-pool/pull/889">Earlier LeanPool import · DIRAC-001–030</a></nav>
+</article>
+<article class="lean-project" id="lean-redshift-derivation" data-lean-project data-framework="beyond-aasc" aria-labelledby="lean-redshift-derivation-title">
+  <p class="repo-type">Beyond AASC · Lattice-model mathematical physics</p>
+  <h2 id="lean-redshift-derivation-title">Lean Redshift Derivation</h2>
+  <p class="project-author">Author: Greg Partin (G. D. Partin)<br>Repository owner: gpartin</p>
+  <p class="project-scope">Conditional algebraic spectral results and clock/readout interfaces for a declared two-complex-field C19 lattice model and its selected propagating branch.</p>
+  <dl><dt>Source / version</dt><dd>v0.12.0-research · commit e2f41976c32b3ef60470aa27f9eea6dcb10cbc26. Separate Zenodo archive: version 1.0.0 (14 November 2026).</dd><dt>Verification status</dt><dd>CSI independently rebuilt the pinned source from a cold project build (1,967 jobs), ran the release verifier, inspected 52 public theorem axiom reports and checked a positive witness on 16 November 2026. The audited reports used only standard Lean axioms. Project Lean proof CI #2 also passed.</dd><dt>Claim boundary</dt><dd>Conditional on the declared lattice model, branch and stated hypotheses. Several late-stage identities are definitions or supplied matching contracts, not independent dynamical predictions. This is not a proof of physical gravitational redshift, dynamical source formation, long-time nonlinear stability, physical-photon identification, Einstein gravity, absolute SI calibration or observational agreement. External work; inclusion does not imply CSI affiliation or endorsement.</dd></dl>
+  <nav class="lean-project-links" aria-label="Lean Redshift Derivation sources"><a href="https://github.com/gpartin/LeanRedShiftDerivation">Repository</a>
+<a href="https://github.com/gpartin/LeanRedShiftDerivation/tree/v0.12.0-research">Tagged source</a>
+<a href="https://github.com/gpartin/LeanRedShiftDerivation/blob/v0.12.0-research/docs/CLAIMS.md">Claims &amp; non-claims</a>
+<a href="https://github.com/gpartin/LeanRedShiftDerivation/blob/v0.12.0-research/docs/REGISTRY_SCOPE.md">Registry scope</a>
+<a href="https://github.com/gpartin/LeanRedShiftDerivation/actions/runs/43740304915">Lean proof CI</a>
+<a href="https://doi.org/10.5281/zenodo.24236840">Zenodo archive v1.0.0</a></nav>
+</article>
+<article class="lean-project" id="lean-schrodinger-derivation" data-lean-project data-framework="beyond-aasc" aria-labelledby="lean-schrodinger-derivation-title">
+  <p class="repo-type">Beyond AASC · Mathematical physics</p>
+  <h2 id="lean-schrodinger-derivation-title">Lean Schrodinger Derivation</h2>
+  <p class="project-author">Author: Greg Partin (G. D. Partin)<br>Repository owner: gpartin</p>
+  <p class="project-scope">Conditional exact relativistic-energy identities and a free correction bound, with a constant-potential single-plane-wave Schrodinger operator bridge in natural units.</p>
+  <dl><dt>Source / version</dt><dd>v0.13.0-research — commit 16c1f61538b824f006ed4a7c9496b4e1c48021b5.</dd><dt>Verification status</dt><dd>CSI independently built the pinned first-party release and ran its verifier (2,142 jobs), inspected all 43 theorem axiom reports and checked concrete witnesses on 16 November 2026. Matching previously independently built dependency artifacts were reused; this was not a wholly cold dependency rebuild. Reports used only standard Lean axioms. The successful project CI and release have identical source trees.</dd><dt>Claim boundary</dt><dd>The free-Dirac mass shell is an input, not derived from lattice dynamics. The potential-bearing correction remains explicit: low momentum alone does not remove it for an arbitrary fixed potential. The analytic bridge is for a single plane wave with constant potential, not arbitrary wavefunctions, variable-potential PDEs, general dynamical convergence, the Born rule or experimental validation. External work; inclusion does not imply CSI affiliation or endorsement.</dd></dl>
+  <nav class="lean-project-links" aria-label="Lean Schrodinger Derivation sources"><a href="https://github.com/gpartin/LeanSchrodingerDerivation">Repository</a>
+<a href="https://github.com/gpartin/LeanSchrodingerDerivation/tree/v0.13.0-research">Tagged source</a>
+<a href="https://github.com/gpartin/LeanSchrodingerDerivation/releases/tag/v0.13.0-research">Release</a>
+<a href="https://github.com/gpartin/LeanSchrodingerDerivation/blob/v0.13.0-research/docs/CLAIM_BOUNDARY.md">Claim boundary</a>
+<a href="https://github.com/gpartin/LeanSchrodingerDerivation/actions/runs/43805766573">Lean proof CI</a></nav>
+</article>
+<article class="lean-project" id="lean-klein-gordon-derivation" data-lean-project data-framework="beyond-aasc" aria-labelledby="lean-klein-gordon-derivation-title">
+  <p class="repo-type">Beyond AASC · Lattice-model mathematical physics</p>
+  <h2 id="lean-klein-gordon-derivation-title">Lean Klein–Gordon Derivation</h2>
+  <p class="project-author">Author: Greg Partin (G. D. Partin)<br>Repository owner: gpartin</p>
+  <p class="project-scope">A selected linearized C19 lattice branch, its normalized long-wave spectral limit, and the Klein–Gordon differential equation for finite continuum mode sums.</p>
+  <dl><dt>Source / version</dt><dd>v0.7.0-research · commit fed494f8e9b9ad6b0c1f1b6afd2fda08072339df.</dd><dt>Verification status</dt><dd>CSI independently rebuilt the pinned project (2,226 jobs, using the pinned Mathlib cache), ran the unmodified release verifier, and audited 176 public theorem constants covering all 53 explicitly named public source theorems on 17 November 2026. Only standard Lean axioms occurred; a deliberately introduced custom axiom was correctly rejected. Project CI also passed at the exact release commit. This was not a wholly cold dependency rebuild.</dd><dt>Claim boundary</dt><dd>The action, background, polarization and rest-subtract/rescale/restore readout are declared model choices. The result is a normalized selected-branch limit, not convergence of arbitrary native lattice trajectories or a general native multimode solution with a common timestep. The continuum operator theorem covers finite mode sums, not completeness for general initial data. The massless continuum corollary is separate from the nonpropagating native zero-background case. No physical-particle identification or experimental validation is established. External work; inclusion does not imply CSI affiliation or endorsement.</dd></dl>
+  <nav class="lean-project-links" aria-label="Lean Klein–Gordon Derivation sources"><a href="https://github.com/gpartin/LeanKleinGordonDerivation">Repository</a>
+<a href="https://github.com/gpartin/LeanKleinGordonDerivation/tree/v0.7.0-research">Tagged source</a>
+<a href="https://github.com/gpartin/LeanKleinGordonDerivation/releases/tag/v0.7.0-research">Release</a>
+<a href="https://github.com/gpartin/LeanKleinGordonDerivation/blob/v0.7.0-research/docs/CLAIM_BOUNDARY.md">Claim boundary</a>
+<a href="https://github.com/gpartin/LeanKleinGordonDerivation/actions/runs/43921514143">Lean proof CI</a>
+<a href="https://doi.org/10.5281/zenodo.24287570">Zenodo archive</a></nav>
+</article></div><details class="lean-archive" id="lean-archive"><summary>Archived endpoint audits</summary><div class="lean-project-grid">
 <article class="lean-project" id="yang-mills" data-lean-project data-framework="aasc" aria-labelledby="yang-mills-title">
   <p class="repo-type">AASC · Mathematics &amp; field theory</p>
   <h2 id="yang-mills-title">Yang–Mills Audit</h2>
@@ -152,68 +214,7 @@
   <nav class="lean-project-links" aria-label="RH Endpoint Audit sources"><a href="https://github.com/somamaley-ux/AASC-RH-Endpoint-Lean-Audit">Repository</a>
 <a href="https://github.com/somamaley-ux/AASC-RH-Endpoint-Lean-Audit#readme">Scope &amp; documentation</a></nav>
 </article>
-<article class="lean-project" id="godel" data-lean-project data-framework="aasc" aria-labelledby="godel-title">
-  <p class="repo-type">AASC · Foundations &amp; logic</p>
-  <h2 id="godel-title">Gödel Non-Instantiability</h2>
-  <p class="project-author">Repository owner: somamaley-ux</p>
-  <p class="project-scope">Same-domain threat-architecture classification and non-instantiability within the admissible-interior framework, importing foundational, uniqueness and equivalence-exhaustion machinery.</p>
-  <dl><dt>Source / version</dt><dd>Public repository; consult its pinned releases and audit records.</dd><dt>Verification status</dt><dd>Repository documentation inspected; not rebuilt for this catalogue update.</dd><dt>Claim boundary</dt><dd>A paper-facing classification surface, not full coding and diagonal machinery or a claim to overturn Gödel’s incompleteness theorems.</dd></dl>
-  <nav class="lean-project-links" aria-label="Gödel Non-Instantiability sources"><a href="https://github.com/somamaley-ux/D-lean-MaleyLean-godel-non-instantiability">Repository</a>
-<a href="https://github.com/somamaley-ux/D-lean-MaleyLean-godel-non-instantiability#readme">Scope &amp; documentation</a></nav>
-</article>
-<article class="lean-project" id="lean-dirac-derivation" data-lean-project data-framework="beyond-aasc" aria-labelledby="lean-dirac-derivation-title">
-  <p class="repo-type">Beyond AASC · Lattice-model mathematical physics</p>
-  <h2 id="lean-dirac-derivation-title">Lean LFM-to-Dirac Derivation</h2>
-  <p class="project-author">Author: Greg Partin (G. D. Partin)<br>Repository owner: gpartin</p>
-  <p class="project-scope">Lean 4 derivation of the free linearized Dirac equation about an exact zero-energy vacuum of the declared two-field C19 lattice. The release derives two exhaustive rank-four sectors and explicit spatial and time-step remainders.</p>
-  <dl><dt>Source / version</dt><dd>Current standalone V2: v2.0.0-research · commit 9522a8d32f51e79f57fcf16e85f214a7d88b1ff2. Earlier DIRAC-015 record: v0.15.0-research · commit 2c7774d41166a3b133a81a7b1ef2f816047f095e · Zenodo DOI 10.5281/zenodo.24150001.</dd><dt>Verification status</dt><dd>V2 tagged release checked; the release documents a verifier, but CSI has not rebuilt V2. Historical V1 project CI: Lean proof #85 and Independent evidence #16 passed at the V1 tag, checked 12 November 2026; not independently rebuilt by CSI.</dd><dt>Claim boundary</dt><dd>Free linearized result within the declared lattice model. No nonlinear localized-electron or experimental-validation claim. This is an external project; listing does not imply CSI affiliation, endorsement or independent verification.</dd></dl>
-  <nav class="lean-project-links" aria-label="Lean LFM-to-Dirac Derivation sources"><a href="https://github.com/gpartin/LeanDiracDerivation/releases/tag/v2.0.0-research">Standalone V2 release</a>
-<a href="https://github.com/gpartin/LeanDiracDerivation">Repository</a>
-<a href="https://github.com/gpartin/LeanDiracDerivation/tree/v0.15.0-research">Earlier V1 tagged source</a>
-<a href="https://doi.org/10.5281/zenodo.24150001">Earlier V1 Zenodo DOI</a>
-<a href="https://github.com/gpartin/LeanDiracDerivation/blob/v0.15.0-research/docs/CLAIMS.md">Earlier V1 claims &amp; non-claims</a>
-<a href="https://github.com/gpartin/LeanDiracDerivation/actions/runs/43136544647">Earlier V1 Lean proof CI</a>
-<a href="https://github.com/gpartin/LeanDiracDerivation/actions/runs/43139493805">Earlier V1 evidence CI</a>
-<a href="https://github.com/LeanPool/lean-pool/pull/889">Earlier LeanPool import · DIRAC-001–030</a></nav>
-</article>
-<article class="lean-project" id="lean-redshift-derivation" data-lean-project data-framework="beyond-aasc" aria-labelledby="lean-redshift-derivation-title">
-  <p class="repo-type">Beyond AASC · Lattice-model mathematical physics</p>
-  <h2 id="lean-redshift-derivation-title">Lean Redshift Derivation</h2>
-  <p class="project-author">Author: Greg Partin (G. D. Partin)<br>Repository owner: gpartin</p>
-  <p class="project-scope">Conditional algebraic spectral results and clock/readout interfaces for a declared two-complex-field C19 lattice model and its selected propagating branch.</p>
-  <dl><dt>Source / version</dt><dd>v0.12.0-research · commit e2f41976c32b3ef60470aa27f9eea6dcb10cbc26. Separate Zenodo archive: version 1.0.0 (14 November 2026).</dd><dt>Verification status</dt><dd>CSI independently rebuilt the pinned source from a cold project build (1,967 jobs), ran the release verifier, inspected 52 public theorem axiom reports and checked a positive witness on 16 November 2026. The audited reports used only standard Lean axioms. Project Lean proof CI #2 also passed.</dd><dt>Claim boundary</dt><dd>Conditional on the declared lattice model, branch and stated hypotheses. Several late-stage identities are definitions or supplied matching contracts, not independent dynamical predictions. This is not a proof of physical gravitational redshift, dynamical source formation, long-time nonlinear stability, physical-photon identification, Einstein gravity, absolute SI calibration or observational agreement. External work; inclusion does not imply CSI affiliation or endorsement.</dd></dl>
-  <nav class="lean-project-links" aria-label="Lean Redshift Derivation sources"><a href="https://github.com/gpartin/LeanRedShiftDerivation">Repository</a>
-<a href="https://github.com/gpartin/LeanRedShiftDerivation/tree/v0.12.0-research">Tagged source</a>
-<a href="https://github.com/gpartin/LeanRedShiftDerivation/blob/v0.12.0-research/docs/CLAIMS.md">Claims &amp; non-claims</a>
-<a href="https://github.com/gpartin/LeanRedShiftDerivation/blob/v0.12.0-research/docs/REGISTRY_SCOPE.md">Registry scope</a>
-<a href="https://github.com/gpartin/LeanRedShiftDerivation/actions/runs/43740304915">Lean proof CI</a>
-<a href="https://doi.org/10.5281/zenodo.24236840">Zenodo archive v1.0.0</a></nav>
-</article>
-<article class="lean-project" id="lean-schrodinger-derivation" data-lean-project data-framework="beyond-aasc" aria-labelledby="lean-schrodinger-derivation-title">
-  <p class="repo-type">Beyond AASC · Mathematical physics</p>
-  <h2 id="lean-schrodinger-derivation-title">Lean Schrodinger Derivation</h2>
-  <p class="project-author">Author: Greg Partin (G. D. Partin)<br>Repository owner: gpartin</p>
-  <p class="project-scope">Conditional exact relativistic-energy identities and a free correction bound, with a constant-potential single-plane-wave Schrodinger operator bridge in natural units.</p>
-  <dl><dt>Source / version</dt><dd>v0.13.0-research — commit 16c1f61538b824f006ed4a7c9496b4e1c48021b5.</dd><dt>Verification status</dt><dd>CSI independently built the pinned first-party release and ran its verifier (2,142 jobs), inspected all 43 theorem axiom reports and checked concrete witnesses on 16 November 2026. Matching previously independently built dependency artifacts were reused; this was not a wholly cold dependency rebuild. Reports used only standard Lean axioms. The successful project CI and release have identical source trees.</dd><dt>Claim boundary</dt><dd>The free-Dirac mass shell is an input, not derived from lattice dynamics. The potential-bearing correction remains explicit: low momentum alone does not remove it for an arbitrary fixed potential. The analytic bridge is for a single plane wave with constant potential, not arbitrary wavefunctions, variable-potential PDEs, general dynamical convergence, the Born rule or experimental validation. External work; inclusion does not imply CSI affiliation or endorsement.</dd></dl>
-  <nav class="lean-project-links" aria-label="Lean Schrodinger Derivation sources"><a href="https://github.com/gpartin/LeanSchrodingerDerivation">Repository</a>
-<a href="https://github.com/gpartin/LeanSchrodingerDerivation/tree/v0.13.0-research">Tagged source</a>
-<a href="https://github.com/gpartin/LeanSchrodingerDerivation/releases/tag/v0.13.0-research">Release</a>
-<a href="https://github.com/gpartin/LeanSchrodingerDerivation/blob/v0.13.0-research/docs/CLAIM_BOUNDARY.md">Claim boundary</a>
-<a href="https://github.com/gpartin/LeanSchrodingerDerivation/actions/runs/43805766573">Lean proof CI</a></nav>
-</article>
-<article class="lean-project" id="lean-klein-gordon-derivation" data-lean-project data-framework="beyond-aasc" aria-labelledby="lean-klein-gordon-derivation-title">
-  <p class="repo-type">Beyond AASC · Lattice-model mathematical physics</p>
-  <h2 id="lean-klein-gordon-derivation-title">Lean Klein–Gordon Derivation</h2>
-  <p class="project-author">Author: Greg Partin (G. D. Partin)<br>Repository owner: gpartin</p>
-  <p class="project-scope">A selected linearized C19 lattice branch, its normalized long-wave spectral limit, and the Klein–Gordon differential equation for finite continuum mode sums.</p>
-  <dl><dt>Source / version</dt><dd>v0.7.0-research · commit fed494f8e9b9ad6b0c1f1b6afd2fda08072339df.</dd><dt>Verification status</dt><dd>CSI independently rebuilt the pinned project (2,226 jobs, using the pinned Mathlib cache), ran the unmodified release verifier, and audited 176 public theorem constants covering all 53 explicitly named public source theorems on 17 November 2026. Only standard Lean axioms occurred; a deliberately introduced custom axiom was correctly rejected. Project CI also passed at the exact release commit. This was not a wholly cold dependency rebuild.</dd><dt>Claim boundary</dt><dd>The action, background, polarization and rest-subtract/rescale/restore readout are declared model choices. The result is a normalized selected-branch limit, not convergence of arbitrary native lattice trajectories or a general native multimode solution with a common timestep. The continuum operator theorem covers finite mode sums, not completeness for general initial data. The massless continuum corollary is separate from the nonpropagating native zero-background case. No physical-particle identification or experimental validation is established. External work; inclusion does not imply CSI affiliation or endorsement.</dd></dl>
-  <nav class="lean-project-links" aria-label="Lean Klein–Gordon Derivation sources"><a href="https://github.com/gpartin/LeanKleinGordonDerivation">Repository</a>
-<a href="https://github.com/gpartin/LeanKleinGordonDerivation/tree/v0.7.0-research">Tagged source</a>
-<a href="https://github.com/gpartin/LeanKleinGordonDerivation/releases/tag/v0.7.0-research">Release</a>
-<a href="https://github.com/gpartin/LeanKleinGordonDerivation/blob/v0.7.0-research/docs/CLAIM_BOUNDARY.md">Claim boundary</a>
-<a href="https://github.com/gpartin/LeanKleinGordonDerivation/actions/runs/43921514143">Lean proof CI</a>
-<a href="https://doi.org/10.5281/zenodo.24287570">Zenodo archive</a></nav>
-</article></div><p class="lean-empty" id="lean-empty" hidden>No projects match this search. Try fewer words or choose All.</p>
+</div></details><p class="lean-empty" id="lean-empty" hidden>No projects match this search. Try fewer words or choose All.</p>
 <footer class="lean-policy"><p>External projects remain the work of their credited authors. Listing does not imply CSI affiliation or endorsement. Where a personal author has not been checked for this catalogue, the repository owner is identified without treating ownership as authorship.</p><p>These entries describe the linked formal surfaces and retain their assumptions, imported results and non-claims. Consult an exact release, theorem and audit record for a technical claim. <a href="/using-the-research/">Citation and reuse guidance</a> · <a href="/#contact">Suggest a project or report a correction</a>.</p></footer>
 </main>
 <!-- SITE_INFORMATION -->

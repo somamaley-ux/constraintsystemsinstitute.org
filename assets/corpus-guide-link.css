@@ -1,0 +1,14 @@
+
+.archive-home .site-header .nav .corpus-guide-link {
+  display: inline-flex; align-items: center; gap: .45rem; min-height: 44px;
+  padding: .17rem .68rem .17rem .22rem; border-radius: 6px;
+  color: #fff3df; background: #3e2e30; border: 1px solid #8d6c57;
+  letter-spacing: .047em; font-weight: 750; white-space: nowrap;
+}
+.archive-home .site-header .nav .corpus-guide-link:hover {
+  color: #fff8ef; background: #533b3d; border-color: #d1ac86;
+}
+.archive-home .site-header .nav .corpus-guide-link img {
+  flex: none; display: block; object-fit: cover; width: 34px; height: 34px;
+  border-radius: 50%; background: #231c25;
+}

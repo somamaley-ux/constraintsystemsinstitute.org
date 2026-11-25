@@ -5,21 +5,36 @@
   const input = document.getElementById('lean-search');
   const clear = document.getElementById('lean-clear');
   const result = document.getElementById('lean-results');
+  const archive = document.getElementById('lean-archive');
+  let openedForSearch = false;
   const empty = document.getElementById('lean-empty');
   if (!cards.length || !input || !clear || !result || !empty) return;
   const names = { all: 'All', aasc: 'AASC', 'beyond-aasc': 'Beyond AASC' };
   let framework = 'all';
   function render() {
     const terms = input.value.toLocaleLowerCase().trim().split(/\s+/).filter(Boolean);
-    let visible = 0;
+    let visible = 0, archivedMatches = 0;
     cards.forEach(card => {
       card.hidden = (framework !== 'all' && card.dataset.framework !== framework) || !terms.every(term => card.textContent.toLocaleLowerCase().includes(term));
-      if (!card.hidden) visible++;
+      if (!card.hidden) {
+        visible++;
+        if (archive && archive.contains(card)) archivedMatches++;
+      }
     });
     filters.forEach(link => {
       if (link.dataset.leanFilter === framework) link.setAttribute('aria-current', 'true');
       else link.removeAttribute('aria-current');
     });
+    if (archive) {
+      archive.hidden = archivedMatches === 0;
+      if (terms.length) {
+        archive.open = archivedMatches > 0;
+        openedForSearch = archive.open;
+      } else if (openedForSearch) {
+        archive.open = false;
+        openedForSearch = false;
+      }
+    }
     clear.hidden = !input.value;
     empty.hidden = visible > 0;
     result.textContent = `${visible} of ${cards.length} projects · ${names[framework]}${terms.length ? ' · Search applied' : ''}`;
@@ -33,6 +48,10 @@
     const target = cards.find(card => card.id === targetId);
     if (target) { framework = 'all'; input.value = ''; }
     render();
+    if (target && archive && archive.contains(target)) {
+      archive.open = true;
+      requestAnimationFrame(() => target.scrollIntoView({block:'start'}));
+    }
   }
   function updateLocation(push) {
     const url = new URL(location.href);

@@ -44,3 +44,8 @@
 .lean-policy a { color: var(--silver); text-decoration: underline; text-underline-offset: 4px; }
 @media(max-width:760px) { .lean-entry-card,.lean-project-grid,.lean-framing { grid-template-columns: minmax(0,1fr); } .lean-main { padding-top: 38px; } .lean-entry-section { padding-top: 8px; } }
 @media(prefers-reduced-motion:reduce) { html { scroll-behavior: auto; } }
+
+.lean-archive { margin-top: 28px; border-top: 1px solid var(--line); padding-top: 14px; }
+.lean-archive[hidden] { display: none; }
+.lean-archive summary { cursor: pointer; color: var(--muted); padding: 10px 0; }
+.lean-project[hidden] { display: none; }
